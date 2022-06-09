@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Principles of Accounts.md
       - Physical Education.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md

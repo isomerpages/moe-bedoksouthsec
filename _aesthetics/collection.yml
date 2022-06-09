@@ -2,9 +2,9 @@ collections:
   aesthetics:
     output: true
     order:
-      - Art/Programmes.md
-      - Art/Arts.md
       - Art/.keep
+      - Art/Arts.md
+      - Art/Programmes.md
       - Music/.keep
       - Music/Music.md
       - Music/Programmes.md

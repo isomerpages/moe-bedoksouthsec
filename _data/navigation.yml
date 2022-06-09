@@ -22,7 +22,9 @@ links:
   - title: Curriculum
     url: /curriculum
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Applied Learning Programme
+        url: /curriculum/applied-learning-programme-alp-project-s-h-i-n-e
+      - title: Aesthetics
+        url: /curriculum/aesthetics
   - title: Contact Us
     url: /contact-us/

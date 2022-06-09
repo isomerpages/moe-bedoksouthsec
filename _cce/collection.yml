@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Contact Information.md
       - Physical & Health/.keep
       - Physical & Health/Physical & Health.md
       - Physical & Health/Level Camps for Grow Week.md

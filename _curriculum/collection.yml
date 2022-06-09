@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Aesthetics/.keep
       - Applied Learning Programme (ALP) PROJECT S H I N E.md
       - Curriculum.md

@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Aesthetics/Design & Technology.md
       - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
       - Applied Learning Programme (ALP) PROJECT S H I N E.md

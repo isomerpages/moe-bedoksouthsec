@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Admissions/Direct School Admission (DSA).md
-      - Admissions/Admissions.md
       - Admissions/.keep
       - Our School Facilities/Oasis@BDS.md
       - Our School Facilities/School Facilities.md

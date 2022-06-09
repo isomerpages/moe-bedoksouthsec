@@ -2,10 +2,10 @@ collections:
   cce:
     output: true
     order:
-      - Values in Action/Coastal Clean Up by peer leaders.md
-      - Values in Action/BIND.md
-      - Values in Action/Values in Action.md
       - Values in Action/.keep
+      - Values in Action/Values in Action.md
+      - Values in Action/BIND.md
+      - Values in Action/Coastal Clean Up by peer leaders.md
       - Sexuality Education.md
       - National Education/.keep
       - National Education/National Education.md

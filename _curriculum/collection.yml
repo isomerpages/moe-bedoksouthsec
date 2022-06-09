@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - English and English Literature/.keep
       - Computer Applications.md
       - Aesthetics/Design & Technology.md
       - Aesthetics/Aesthetics.md

@@ -2,8 +2,8 @@ collections:
   cce:
     output: true
     order:
-      - National Education/Racial Harmony Day Commemoration.md
-      - National Education/National Education.md
       - National Education/.keep
+      - National Education/National Education.md
+      - National Education/Racial Harmony Day Commemoration.md
       - Education and Career Guidance.md
       - Character and Citizenship Education.md

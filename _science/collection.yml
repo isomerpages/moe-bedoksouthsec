@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Science.md
+      - Programmes/Stretch Programme.md
       - Programmes/.keep
       - Programmes/Programmes.md

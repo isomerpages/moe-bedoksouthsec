@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Direct School Admission (DSA)/Leave of absence.md
       - Direct School Admission (DSA)/Direct School Admission (DSA).md
       - Direct School Admission (DSA)/.keep
       - Admissions.md

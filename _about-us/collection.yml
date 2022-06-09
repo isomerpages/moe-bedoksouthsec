@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Admissions/Admissions.md
       - Admissions/.keep
       - Our School Facilities/Oasis@BDS.md
       - Our School Facilities/School Facilities.md

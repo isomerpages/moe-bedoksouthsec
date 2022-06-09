@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Admissions/.keep
       - School Leader's Message.md
       - Our History.md
       - Our Mission, Vision, Values and Motto.md
@@ -15,3 +14,4 @@ collections:
       - Our School Facilities/.keep
       - Our School Facilities/School Facilities.md
       - Our School Facilities/Oasis@BDS.md
+      - Admissions/.keep

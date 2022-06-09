@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Humanities.md
       - Elements of Business Skills.md
       - English and English Literature/.keep
       - English and English Literature/English and English Literature.md

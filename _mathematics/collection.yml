@@ -1,4 +1,5 @@
 collections:
   mathematics:
     output: true
-    order: []
+    order:
+      - Mathematics.md

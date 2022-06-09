@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/School Management Committee.md
       - Our People/.keep
       - Our School Crest and School Song.md
       - Our Mission, Vision, Values and Motto.md

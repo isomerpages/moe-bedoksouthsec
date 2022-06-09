@@ -19,7 +19,10 @@ links:
         url: /about-us/our-school-facilities
       - title: Admissions
         url: /about-us/admissions
-  - title: Resources
-    resource_room: true
+  - title: Curriculum
+    url: /curriculum
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
   - title: Contact Us
     url: /contact-us/

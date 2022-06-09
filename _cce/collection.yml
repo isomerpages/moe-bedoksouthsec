@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Physical & Health/BDS Annual Cross Country 2018.md
       - Physical & Health/CCA Fair and Aesthetics Showcase.md
       - Physical & Health/Level Camps for Grow Week.md
       - Physical & Health/Physical & Health.md

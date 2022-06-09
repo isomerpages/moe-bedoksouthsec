@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Admissions/Direct School Admission (DSA).md
       - Admissions/.keep
       - Our School Facilities/Oasis@BDS.md
       - Our School Facilities/School Facilities.md

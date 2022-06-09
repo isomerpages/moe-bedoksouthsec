@@ -2,8 +2,8 @@ collections:
   aesthetics:
     output: true
     order:
-      - Design & Technology.md
       - Aesthetics.md
+      - Design & Technology.md
       - Music/.keep
       - Music/Music.md
       - Music/Programmes.md

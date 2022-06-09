@@ -2,7 +2,7 @@ collections:
   mathematics:
     output: true
     order:
-      - Programmes/Stretch Programme.md
-      - Programmes/Programmes.md
       - Programmes/.keep
+      - Programmes/Programmes.md
+      - Programmes/Stretch Programme.md
       - Mathematics.md

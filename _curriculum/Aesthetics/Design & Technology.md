@@ -82,4 +82,5 @@ At upper secondary programme, designing and making are dealt with at a greater d
 * prototype making skills using appropriate materials and tools
 * do meaningful evaluation from evidence or data collected.
 
-
+![Upper Secondary Coursework](/images/DnT4.jpg)
+Upper Secondary Coursework

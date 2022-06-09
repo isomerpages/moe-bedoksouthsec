@@ -2,6 +2,6 @@ collections:
   science:
     output: true
     order:
-      - Programmes/Programmes.md
-      - Programmes/.keep
       - Science.md
+      - Programmes/.keep
+      - Programmes/Programmes.md

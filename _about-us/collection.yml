@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School Facilities/School Facilities.md
       - Our School Facilities/.keep
       - Our Calendar of Events.md
       - Our People/Non Teaching Staff.md

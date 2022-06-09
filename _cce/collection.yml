@@ -2,6 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - Education and Career Guidance/.keep
+      - National Education/.keep
       - Education and Career Guidance.md
       - Character and Citizenship Education.md

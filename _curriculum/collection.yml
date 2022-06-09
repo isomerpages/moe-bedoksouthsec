@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Science/Programmes.md
-      - Science/Science.md
       - Science/.keep
       - Principles of Accounts.md
       - Physical Education.md

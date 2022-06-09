@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Aesthetics/Music.md
       - Aesthetics/Design & Technology.md
       - Aesthetics/Aesthetics.md
       - Aesthetics/.keep

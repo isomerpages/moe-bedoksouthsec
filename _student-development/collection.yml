@@ -2,10 +2,10 @@ collections:
   student-development:
     output: true
     order:
-      - Student Welfare/Contact Information.md
-      - Student Welfare/Peer Studio.md
-      - Student Welfare/Student Welfare.md
       - Student Welfare/.keep
+      - Student Welfare/Student Welfare.md
+      - Student Welfare/Peer Studio.md
+      - Student Welfare/Contact Information.md
       - Student Management/.keep
       - Student Management/Student Management.md
       - Student Management/Contact Information.md

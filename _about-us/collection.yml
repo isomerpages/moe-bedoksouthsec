@@ -2,16 +2,16 @@ collections:
   about-us:
     output: true
     order:
-      - Admissions/.keep
-      - Our School Facilities/Oasis@BDS.md
-      - Our School Facilities/School Facilities.md
-      - Our School Facilities/.keep
-      - Our Calendar of Events.md
+      - School Leader's Message.md
+      - Our History.md
+      - Our Mission, Vision, Values and Motto.md
+      - Our School Crest and School Song.md
+      - Our People/.keep
       - Our People/Non Teaching Staff.md
       - Our People/Form Teachers.md
       - Our People/School Management Committee.md
-      - Our People/.keep
-      - Our School Crest and School Song.md
-      - Our Mission, Vision, Values and Motto.md
-      - Our History.md
-      - School Leader's Message.md
+      - Our Calendar of Events.md
+      - Our School Facilities/.keep
+      - Our School Facilities/Oasis@BDS.md
+      - Our School Facilities/School Facilities.md
+      - Admissions/.keep

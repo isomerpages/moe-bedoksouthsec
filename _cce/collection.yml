@@ -2,7 +2,16 @@ collections:
   cce:
     output: true
     order:
-      - Contact Information.md
+      - Character and Citizenship Education.md
+      - Education and Career Guidance.md
+      - National Education/.keep
+      - National Education/National Education.md
+      - National Education/Racial Harmony Day Commemoration.md
+      - Sexuality Education.md
+      - Values in Action/.keep
+      - Values in Action/Values in Action.md
+      - Values in Action/BIND.md
+      - Values in Action/Coastal Clean Up by peer leaders.md
       - Physical & Health/.keep
       - Physical & Health/Physical & Health.md
       - Physical & Health/Level Camps for Grow Week.md
@@ -12,13 +21,4 @@ collections:
       - Physical & Health/Bedok Challenge.md
       - Physical & Health/E2 Staff Challenge.md
       - Physical & Health/Sports Fridays.md
-      - Values in Action/.keep
-      - Values in Action/Values in Action.md
-      - Values in Action/BIND.md
-      - Values in Action/Coastal Clean Up by peer leaders.md
-      - Sexuality Education.md
-      - National Education/.keep
-      - National Education/National Education.md
-      - National Education/Racial Harmony Day Commemoration.md
-      - Education and Career Guidance.md
-      - Character and Citizenship Education.md
+      - Contact Information.md

@@ -2,9 +2,9 @@ collections:
   student-development:
     output: true
     order:
-      - Student Management/Contact Information.md
-      - Student Management/Student Management.md
       - Student Management/.keep
+      - Student Management/Student Management.md
+      - Student Management/Contact Information.md
       - Social, Emotional & Moral.md
       - Student Leadership.md
       - CCE/.keep

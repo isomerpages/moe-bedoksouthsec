@@ -4,3 +4,6 @@ permalink: /student-development/character-and-citizenship-education/values-in-ac
 description: ""
 third_nav_title: Values in Action
 ---
+![Coastal Clean Up by peer leaders](/images/coastal.png)
+
+![Coastal Clean Up by peer leaders](/images/coastal2.png)

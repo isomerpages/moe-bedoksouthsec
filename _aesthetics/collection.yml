@@ -2,12 +2,12 @@ collections:
   aesthetics:
     output: true
     order:
-      - F&N/.keep
-      - F&N/F & N.md
-      - F&N/Programmes.md
-      - Art/.keep
-      - Art/Arts.md
-      - Art/Programmes.md
       - Music/.keep
       - Music/Music.md
       - Music/Programmes.md
+      - Art/.keep
+      - Art/Arts.md
+      - Art/Programmes.md
+      - F&N/.keep
+      - F&N/F & N.md
+      - F&N/Programmes.md

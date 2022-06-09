@@ -1,7 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    collection: about-us
+    url: /about-us/school-leaders-message
+    sublinks:
+      - title: School Leader's Message
+        url: /about-us/school-leaders-message
   - title: Resources
     resource_room: true
   - title: Contact Us

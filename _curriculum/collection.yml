@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Mathematics/Mathematics.md
       - Mathematics/.keep
       - Humanities.md
       - Elements of Business Skills.md

@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Physical & Health/E2 Staff Challenge.md
       - Physical & Health/Bedok Challenge.md
       - Physical & Health/6th East Zone Sports Country.md
       - Physical & Health/BDS Annual Cross Country 2018.md

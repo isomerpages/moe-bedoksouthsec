@@ -2,6 +2,6 @@ collections:
   aesthetics:
     output: true
     order:
-      - Music/Programmes.md
-      - Music/Music.md
       - Music/.keep
+      - Music/Music.md
+      - Music/Programmes.md

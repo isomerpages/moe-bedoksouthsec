@@ -293,13 +293,13 @@ b. Character and Citizenship Education (CCE)
 </table>
 
 ### INFORMATION FOR PARENTS
+
 10. Parents may opt their children out of the **Sexuality Education lessons**, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 28/02/2022.
+11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Signature%202022_Sexuality%20Education_Annex%20A_Parent%20Opt-out%20Form.pdf). The completed form is to be submitted by 28/02/2022.
 
-12. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here.  The completed form is to be submitted by 28/02/2022.
+12. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2022_Sexuality%20Education_Annex%20B_eTeens%20Opt-out%20Form.pdf).  The completed form is to be submitted by 28/02/2022.
 
-13. Parents can contact the school at bsss.moe.edu.sg or 64414479 for discussion or to seek clarification about the school’s sexuality education programme.
+13. Parents can contact the school at <a href="mailto:bsss.moe.edu.sg">bsss.moe.edu.sg</a> or 64414479 for discussion or to seek clarification about the school’s sexuality education programme.
 
-14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements. 
-
+14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.

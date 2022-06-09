@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Science/Science.md
       - Science/.keep
       - Principles of Accounts.md
       - Physical Education.md

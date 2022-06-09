@@ -5,6 +5,10 @@ links:
     sublinks:
       - title: School Leader's Message
         url: /about-us/school-leaders-message
+      - title: Our History
+        url: /about-us/our-history
+      - title: Mission, Vision, Values &Motto
+        url: /about-us/our-mission-vision-values-and-motto
   - title: Resources
     resource_room: true
   - title: Contact Us

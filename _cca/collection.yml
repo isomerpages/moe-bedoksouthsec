@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Clubs and Societies/Science & Environment Club.md
-      - Clubs and Societies/Public Announcement Club.md
-      - Clubs and Societies/Infocomm Media Club.md
-      - Clubs and Societies/Clubs and Societies.md
       - Clubs and Societies/.keep
+      - Clubs and Societies/Clubs and Societies.md
+      - Clubs and Societies/Infocomm Media Club.md
+      - Clubs and Societies/Public Announcement Club.md
+      - Clubs and Societies/Science & Environment Club.md
       - Performing Arts/.keep
       - Performing Arts/Performing Arts.md
       - Performing Arts/Chinese Orchestra.md

@@ -1,4 +1,5 @@
 collections:
   information-and-links:
     output: true
-    order: []
+    order:
+      - For Students/.keep

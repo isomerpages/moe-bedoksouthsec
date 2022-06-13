@@ -15,6 +15,6 @@ contacts:
   - content:
       - phone: +65 6441 4479
       - email: bsss@moe.edu.sg
-      - other: ""
+      - other: "Fax: 6449 1314 "
     title: General Enquiries & Feedback
 ---

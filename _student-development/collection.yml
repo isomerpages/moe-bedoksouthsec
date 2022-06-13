@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Home Based Learning (HBL)/Home Based Learning (HBL).md
       - Home Based Learning (HBL)/.keep
       - NDLP/.keep
       - NDLP/National Digital Literacy Programme.md

@@ -8,21 +8,13 @@ locations:
       - 1 Jalan Langgar Bedok
       - Singapore 468585
       - ""
-    operating_hours:
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+    operating_hours: []
     maps_link: ""
     title: Bedok South Secondary School
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6441 4479
+      - email: bsss@moe.edu.sg
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 ---

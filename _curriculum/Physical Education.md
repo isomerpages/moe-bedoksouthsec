@@ -5,17 +5,12 @@ description: ""
 ---
 ### Introduction
 
-<div>
-<div style="float: left">
-<img src="/images/SHAPE%20AT%20BDS.png" />
-</div>
-<div>
+<img style="width:65%" src="/images/SHAPE%20AT%20BDS.png">
+
 To develop BDSians with the knowledge, skills and attitude to maintain a lifelong active and healthy lifestyle through effective Physical Education Programmes. <br>
+
 The Physical Education Programme is an integral component of BDSians' balanced and holistic education.
 
-
-</div>
-</div>
 
 ### Student Outcomes
 
@@ -28,7 +23,7 @@ To inculcate in our students - life-long values, skills and competencies to lead
  (iii)  Skills and knowledge of sports and the outdoors to lead themselves and others towards living a               healthy and balanced life.
 
 
-**Approach & Pedagogy**
+**Approach &amp; Pedagogy**
 
 Our PE/LLP key strategy is to use the **experiential learning approach** to develop students' psychomotor, cognitive and affective domains. Students go through a cycle of experiences, observation, reflection, and application in real-world situations through PE, sports and outdoors to help them internalise the skills and values. The use of authentic and learning experiences is accompanied with a strong emphasis on the 3 components of reflection (i.e analysis, critical thinking and decision making) to build on experiences that will help students to inculcate these lifelong habits.   
 
@@ -56,7 +51,7 @@ At Sec 4 and 5 levels; the guiding philosophy of SPEARS plays a key role as it e
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ky7k" colspan="5"><span style="color:#666">Secondary 1 - 3</span></th>
+    <th colspan="5" class="tg-ky7k"><span style="color:#666">Secondary 1 - 3</span></th>
   </tr>
 </thead>
 <tbody>
@@ -98,7 +93,7 @@ At Sec 4 and 5 levels; the guiding philosophy of SPEARS plays a key role as it e
 </tbody>
 </table>
 
-**Scoring & Grading System:** 
+**Scoring &amp; Grading System:** 
 
 * Physical Fitness = 30 points (actual score in NAPFA)
 
@@ -107,7 +102,7 @@ At Sec 4 and 5 levels; the guiding philosophy of SPEARS plays a key role as it e
 * Behaviour Domain = 20 points (total score x 2)
  
 * The Grading Table: total score is 100 and the score is converted into grades; <br>
-With effect from 2005; Grades A & B will entitle students LEAPS CCA points under CCA-Others /             Other Special Events / Participation – Intra-School Activities / Intra School – Inter Group Games.
+With effect from 2005; Grades A &amp; B will entitle students LEAPS CCA points under CCA-Others /             Other Special Events / Participation – Intra-School Activities / Intra School – Inter Group Games.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -164,7 +159,7 @@ With effect from 2005; Grades A & B will entitle students LEAPS CCA points under
 
 * To develop in students - skills and competencies to lead themselves and others towards living an active and healthy lifestyle. 
     
-* To develop self and social awareness for students to build and maintain positive relationships to achieve personal well-being and effectiveness. **(OE & PA)**
+* To develop self and social awareness for students to build and maintain positive relationships to achieve personal well-being and effectiveness. **(OE &amp; PA)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -233,7 +228,7 @@ With effect from 2005; Grades A & B will entitle students LEAPS CCA points under
 
 ### Scheme of Work
 
-Our BDS Physical Education: The emphasis in PE teaching is not only based on the mere acquisition of skills, but also to one where pupils are able to develop character and to transfer their learning from one situation to another. PE teachers’ teaching methodology should be progressive to skill & knowledge development, focuses particularly on the development of games concepts;
+Our BDS Physical Education: The emphasis in PE teaching is not only based on the mere acquisition of skills, but also to one where pupils are able to develop character and to transfer their learning from one situation to another. PE teachers’ teaching methodology should be progressive to skill &amp; knowledge development, focuses particularly on the development of games concepts;
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -267,7 +262,7 @@ Our BDS Physical Education: The emphasis in PE teaching is not only based on the
 
 * Lower Secondary: Acquisition of basic skills (Hand – Eye Coordination)
 
-* Upper Secondary; Acquisition & applications of concepts, tactics, strategies.
+* Upper Secondary; Acquisition &amp; applications of concepts, tactics, strategies.
 
 * Both levels: Basic knowledge of FITT of exercise concepts
 
@@ -284,5 +279,3 @@ We also have our PE process in student-leadership development. We appoint a stud
 4.    **A**ppoint students for the collection and returning of PE equipment
 
 5.    **D**isseminate information and performing administrative tasks (e.g. collect and return student valuables)
-
-

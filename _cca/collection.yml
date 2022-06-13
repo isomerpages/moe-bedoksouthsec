@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Group/National Police Cadet Corp (NPCC).md
       - Uniformed Group/National Civil Defence Cadet Corps (NCDCC).md
       - Uniformed Group/National Cadet Corp (Land).md
       - Uniformed Group/Girl Guides.md

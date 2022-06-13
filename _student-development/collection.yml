@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - NDLP/Resources for Parents.md
       - NDLP/Cyber Security and Cyber Wellness.md
       - NDLP/Device Support.md
       - NDLP/On Boarding Process.md

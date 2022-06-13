@@ -17,5 +17,5 @@ sections:
           url: ""
         - title: Useful Links
           description: Click here for useful links.
-          url: ""
+          url: /information-and-links/for-students
 ---

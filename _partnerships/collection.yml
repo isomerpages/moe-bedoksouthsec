@@ -2,4 +2,5 @@ collections:
   partnerships:
     output: true
     order:
+      - Parent Support Group (PSG).md
       - School Advisory Committee (SAC).md

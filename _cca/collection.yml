@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Group/.keep
-      - Uniformed Group/Uniformed Groups.md
-      - Uniformed Group/Girl Guides.md
-      - Uniformed Group/National Cadet Corp (Land).md
-      - Uniformed Group/National Civil Defence Cadet Corps (NCDCC).md
-      - Uniformed Group/National Police Cadet Corp (NPCC).md
-      - Uniformed Group/Scouts.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Cadet Corp (Land).md
+      - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
+      - Uniformed Groups/National Police Cadet Corp (NPCC).md
+      - Uniformed Groups/Scouts.md
       - Sports/.keep
       - Sports/Sports.md
       - Sports/Badminton.md

@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports/.keep
       - CCA Recognition and Awards.md
       - CCA LEAPS and grading system.md
       - CCA.md

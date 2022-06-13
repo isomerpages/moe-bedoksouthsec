@@ -2,11 +2,11 @@ collections:
   information-and-links:
     output: true
     order:
-      - For Students/Chinese New Year Celebration.md
-      - For Students/2021 GCE O Level Results.md
-      - For Students/Booklists for 2022.md
-      - For Students/School Uniform and Tie.md
-      - For Students/Rules and Regulations.md
-      - For Students/Student Learning Space (SLS).md
-      - For Students/For Students.md
       - For Students/.keep
+      - For Students/For Students.md
+      - For Students/Student Learning Space (SLS).md
+      - For Students/Rules and Regulations.md
+      - For Students/School Uniform and Tie.md
+      - For Students/Booklists for 2022.md
+      - For Students/2021 GCE O Level Results.md
+      - For Students/Chinese New Year Celebration.md

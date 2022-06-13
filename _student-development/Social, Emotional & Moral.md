@@ -12,7 +12,7 @@ Our programmes support the holistic development of students  by instilling in th
 **Social and Emotional Competencies** are skills necessary for students to recognise and manage their emotions, develop care and concern for others, make responsible decisions, establish positive relations, and handle challenges effectively.
 
 
-The *CCE programme and the respective guidance areas* form the baseline approach to achieve these outcomes. In addition, the following are some of the programmes that complement CCE at various levels:
+The [CCE programme and the respective guidance areas](/student-development/character-and-citizenship-education) form the baseline approach to achieve these outcomes. In addition, the following are some of the programmes that complement CCE at various levels:
 
 * Financial Literacy Workshops (Sec 1)
 * Study Skills Workshops (Sec 2)

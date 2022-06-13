@@ -68,4 +68,4 @@ description: ""
 </tbody>
 </table>
 
-To view our full calendar of events for 2022, please click here.
+To view our full calendar of events for 2022, please click [here](/about-us/our-calendar-of-events). 

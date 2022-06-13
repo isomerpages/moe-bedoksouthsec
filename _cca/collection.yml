@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Group/Girl Guides.md
       - Uniformed Group/Uniformed Groups.md
       - Uniformed Group/.keep
       - Sports/.keep

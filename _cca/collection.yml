@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Sports/Swimming.md
-      - Sports/Netball.md
-      - Sports/Football.md
-      - Sports/Floorball.md
-      - Sports/Badminton.md
-      - Sports/Sports.md
       - Sports/.keep
+      - Sports/Sports.md
+      - Sports/Badminton.md
+      - Sports/Floorball.md
+      - Sports/Football.md
+      - Sports/Netball.md
+      - Sports/Swimming.md
       - CCA Recognition and Awards.md
       - CCA LEAPS and grading system.md
       - CCA.md

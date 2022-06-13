@@ -2,26 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Student Initiated Activities.md
-      - Clubs and Societies/.keep
-      - Clubs and Societies/Clubs and Societies.md
-      - Clubs and Societies/Infocomm Media Club.md
-      - Clubs and Societies/Public Announcement Club.md
-      - Clubs and Societies/Science & Environment Club.md
-      - Performing Arts/.keep
-      - Performing Arts/Performing Arts.md
-      - Performing Arts/Chinese Orchestra.md
-      - Performing Arts/Choir.md
-      - Performing Arts/Malay Dance.md
-      - Performing Arts/Symphonic Band.md
-      - Performing Arts/Dance Society.md
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Uniformed Groups.md
-      - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/National Cadet Corp (Land).md
-      - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
-      - Uniformed Groups/National Police Cadet Corp (NPCC).md
-      - Uniformed Groups/Scouts.md
+      - CCA.md
+      - CCA LEAPS and grading system.md
+      - CCA Recognition and Awards.md
       - Sports/.keep
       - Sports/Sports.md
       - Sports/Badminton.md
@@ -29,6 +12,23 @@ collections:
       - Sports/Football.md
       - Sports/Netball.md
       - Sports/Swimming.md
-      - CCA Recognition and Awards.md
-      - CCA LEAPS and grading system.md
-      - CCA.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Cadet Corp (Land).md
+      - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
+      - Uniformed Groups/National Police Cadet Corp (NPCC).md
+      - Uniformed Groups/Scouts.md
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Symphonic Band.md
+      - Performing Arts/Dance Society.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Clubs and Societies.md
+      - Clubs and Societies/Infocomm Media Club.md
+      - Clubs and Societies/Public Announcement Club.md
+      - Clubs and Societies/Science & Environment Club.md
+      - Student Initiated Activities.md

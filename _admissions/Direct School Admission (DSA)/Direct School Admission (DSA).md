@@ -4,8 +4,6 @@ permalink: /about-us/admissions/direct-school-admission-dsa
 description: ""
 third_nav_title: Direct School Admission (DSA)
 ---
-
-
 ### 1. Direct School Admission (DSA)
 
 
@@ -39,7 +37,7 @@ For 2022, Bedok South Secondary School will offer Secondary One places to aspiri
       
 Students who enter our school through DSA-Sec will take on active roles in our distinctive programmes. Our distinctive programmes and their intended outcomes are as follows:
 
-A)  Applied Learning and Innovation –  **Applied Learning Programme (ALP)**
+A)  [Applied Learning and Innovation](/curriculum/applied-learning-programme-alp-project-s-h-i-n-e) –  **Applied Learning Programme (ALP)**
 Project S.H.I.N.E (**S**tudent-centred and **H**olistic programme that develops **I**nnovation and 
 **N**urtures **E**mpathy)
 

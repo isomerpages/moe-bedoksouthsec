@@ -2,6 +2,6 @@ collections:
   partnerships:
     output: true
     order:
-      - BDS Alumni.md
-      - Parent Support Group (PSG).md
       - School Advisory Committee (SAC).md
+      - Parent Support Group (PSG).md
+      - BDS Alumni.md

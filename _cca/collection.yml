@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - CCA Recognition and Awards.md
       - CCA LEAPS and grading system.md
       - CCA.md

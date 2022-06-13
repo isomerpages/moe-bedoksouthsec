@@ -2,6 +2,7 @@ collections:
   information-and-links:
     output: true
     order:
+      - For Students/Chinese New Year Celebration.md
       - For Students/2021 GCE O Level Results.md
       - For Students/Booklists for 2022.md
       - For Students/School Uniform and Tie.md

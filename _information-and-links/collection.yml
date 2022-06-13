@@ -2,5 +2,6 @@ collections:
   information-and-links:
     output: true
     order:
+      - For Students/Student Learning Space (SLS).md
       - For Students/For Students.md
       - For Students/.keep

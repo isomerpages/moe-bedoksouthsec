@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Societies/Infocomm Media Club.md
       - Clubs and Societies/Clubs and Societies.md
       - Clubs and Societies/.keep
       - Performing Arts/.keep

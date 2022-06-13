@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Latest Happenings
           description: Check out the latest happenings!
-          url: ""
+          url: /latest-happenings
         - title: Upcoming Events
           description: Check out the upcoming events!
           url: ""

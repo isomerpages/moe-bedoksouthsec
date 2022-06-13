@@ -14,7 +14,7 @@ sections:
           url: /latest-happenings
         - title: Upcoming Events
           description: Check out the upcoming events!
-          url: ""
+          url: /upcoming-events
         - title: Useful Links
           description: Click here for useful links.
           url: /information-and-links/for-students

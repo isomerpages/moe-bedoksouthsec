@@ -34,4 +34,4 @@ We would like to encourage all parents to sign up for the Parents Gateway app. A
 Please click the following link to access
 
 * [how to navigate the new SLS homepage and within an assignment.](/files/Student%20E-Poster%20for%20Navigation%20on%20SLS.pdf)
-* information about SLS password reset. **INSERT LINK HERE!**
+* [information about SLS password reset](/information-and-links/for-students/student-learning-space-sls).

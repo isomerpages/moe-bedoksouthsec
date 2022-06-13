@@ -2,18 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Home Based Learning (HBL)/.keep
-      - Home Based Learning (HBL)/Home Based Learning (HBL).md
-      - Home Based Learning (HBL)/Student Learning Space.md
-      - Home Based Learning (HBL)/SLS Support For Home Based Learning.md
-      - NDLP/.keep
-      - NDLP/National Digital Literacy Programme.md
-      - NDLP/On Boarding Process.md
-      - NDLP/Device Support.md
-      - NDLP/Cyber Security and Cyber Wellness.md
-      - NDLP/Resources for Parents.md
-      - NDLP/Frequently Asked Questions.md
-      - NDLP/Use of PLD In School.md
       - Learning for Life Programme (LLP) SHAPE @BDS.md
       - CCE/.keep
       - Student Leadership.md
@@ -25,3 +13,15 @@ collections:
       - Student Welfare/Student Welfare.md
       - Student Welfare/Peer Studio.md
       - Student Welfare/Contact Information.md
+      - NDLP/.keep
+      - NDLP/National Digital Literacy Programme.md
+      - NDLP/On Boarding Process.md
+      - NDLP/Device Support.md
+      - NDLP/Cyber Security and Cyber Wellness.md
+      - NDLP/Resources for Parents.md
+      - NDLP/Frequently Asked Questions.md
+      - NDLP/Use of PLD In School.md
+      - Home Based Learning (HBL)/.keep
+      - Home Based Learning (HBL)/Home Based Learning (HBL).md
+      - Home Based Learning (HBL)/Student Learning Space.md
+      - Home Based Learning (HBL)/SLS Support For Home Based Learning.md

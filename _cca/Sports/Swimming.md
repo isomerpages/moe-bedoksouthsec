@@ -139,3 +139,18 @@ Besides training together once a week, the CCA also provides ample opportunities
   </tr>
 </tbody>
 </table>
+
+### Teacher-in-charge
+-----------------
+
+Ms Cindee Koh   
+and **External Coach**
+
+### Leadership Positions
+--------------------
+
+1.  Team Captain
+2.  Team Vice-Captain (Boys)
+3.  Team Vice-Captain (Girls)
+4.  Logistics IC
+5.  Welfare IC

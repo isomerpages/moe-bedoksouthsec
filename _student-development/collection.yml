@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - NDLP/Device Support.md
       - NDLP/On Boarding Process.md
       - NDLP/National Digital Literacy Programme.md
       - NDLP/.keep

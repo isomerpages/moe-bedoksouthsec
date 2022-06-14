@@ -30,7 +30,8 @@ Our PE/LLP key strategy is to use the **experiential learning approach** to deve
 
 The department also takes direction from MOE's new PE syllabus and adopts a differentiated instruction to meet our students learning needs via the **Games Concept Approach** and **Sports Education Model** where students take up active roles while learning and playing the games. **Cooperative Learning** and Working in Teams is the emphasis in facilitating the Outdoor modules. 
 
-![BDS LLP (PHYSICAL AND HEALTH) FRAMEWORK](/images/BDS%20LLP%20(PHYSICAL%20AND%20HEALTH)%20FRAMEWORK.png)
+<img src="/images/BDS%20LLP%20(PHYSICAL%20AND%20HEALTH)%20FRAMEWORK.png"  
+style="width:67%">
 
 ### Assessment Criteria
 

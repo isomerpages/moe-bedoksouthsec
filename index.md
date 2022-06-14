@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/build.png
       key_highlights:
         - title: Latest Happenings
           description: Check out the latest happenings!
@@ -19,4 +19,3 @@ sections:
           description: Click here for useful links.
           url: /information-and-links/for-students
 ---
-

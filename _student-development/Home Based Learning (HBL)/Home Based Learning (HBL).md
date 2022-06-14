@@ -19,6 +19,8 @@ HBL@BDS will be scheduled on every EVEN Thursday. Please click on the following 
 
 Please click on the [HBL@BDS + Student Initiated Learning Briefing Slides](/files/HBL%20and%20SIL_ForStudents2022.pdf)
 
+<br>
+
 
 
 | Term 1 | Term 2 | Term 3 | Term 4 |

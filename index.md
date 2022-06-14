@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Bedok South Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -19,3 +19,4 @@ sections:
           description: Click here for useful links.
           url: /information-and-links/for-students
 ---
+

@@ -19,17 +19,47 @@ HBL@BDS will be scheduled on every EVEN Thursday. Please click on the following 
 
 Please click on the [HBL@BDS + Student Initiated Learning Briefing Slides](/files/HBL%20and%20SIL_ForStudents2022.pdf)
 
-<br>
 
+#### Term 1
 
+![13 Jan](/images/HBL%202022_13Jan.jpg)
 
-| Term 1 | Term 2 | Term 3 | Term 4 |
-| -------- | -------- | -------- | -------- |
-| ![13 Jan](/images/HBL%202022_13Jan.jpg)     | ![31 Mar](/images/31%20Mar.jpg)     | **7 Jul**     | **22 Sep**     |
-| ![27 Jan](/images/HBL%202022_27Jan.jpg)     | ![14 Apr](/images/14%20Apr.jpg)     | **21 Jul**     |      |
-| ![10 Feb](/images/HBL%202022_10Feb.jpg)     | ![28 Apr](/images/28%20Apr.jpg)     | **4 Aug**     |     |
-| ![24 Feb](/images/HBL%202022_24Feb.jpg)     | ![12 May](/images/12%20May.jpg)     | **18 Aug**     |      |
-| ![10 Mar](/images/HBL%202022_10Mar.jpg)     | ![26 May](/images/26%20May.jpg)     | **1 Sep**     |     |
+![27 Jan](/images/HBL%202022_27Jan.jpg)
+
+![10 Feb](/images/HBL%202022_10Feb.jpg)
+
+![24 Feb](/images/HBL%202022_24Feb.jpg)
+
+![10 Mar](/images/HBL%202022_10Mar.jpg)
+
+#### Term 2
+
+![31 Mar](/images/31%20Mar.jpg)
+
+ ![14 Apr](/images/14%20Apr.jpg)
+ 
+ ![28 Apr](/images/28%20Apr.jpg)
+ 
+ ![12 May](/images/12%20May.jpg)
+ 
+ ![26 May](/images/26%20May.jpg)
+ 
+ #### Term 3
+ 
+ **7 Jul**
+ 
+**21 Jul**
+
+**4 Aug**
+
+**18 Aug**
+
+**1 Sep**
+
+#### Term 4
+
+**22 Sep** 
+
 
 
 

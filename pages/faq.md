@@ -19,7 +19,7 @@ permalink: /faq/
 
 **When are the school terms/ school holidays?**
 
-[/about-us/our-calendar-of-events](/about-us/our-calendar-of-events)  
+[/upcoming-events](/upcoming-events)  
 #### Finance Matters :  
 
 ****School fees matters****

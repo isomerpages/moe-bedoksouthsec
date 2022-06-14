@@ -12,7 +12,7 @@ Technical support will be provided to students through a form request using the 
 *   BSSS ipad helpline:&nbsp;[https://go.gov.sg/bsss-pld-helpline](https://go.gov.sg/bsss-pld-helpline)&nbsp;or scan the QR Code:
 
 
-<img style="width:40%" src="/images/qr.jpeg">
+<img style="width:30%" src="/images/qr.jpeg">
 
 
 ### Apple Authorised Service Centre

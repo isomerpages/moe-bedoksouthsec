@@ -14,7 +14,7 @@ This domain recognises students’ participation in one school-based1 Co-Curricu
 
   
 
-****Achievement****
+**Achievement**
 
 This domain recognises students’ representation and accomplishment in co-curricular involvements beyond the classroom. Opportunities for representation and accomplishment present valuable learning experiences for students to learn discipline, resilience and develop their character. Students may represent the school or organisations endorsed by the school. Recognising external opportunities better caters to students’ diverse interests and talents. It also recognises the community’s role in developing the child. Representation refers to being selected and endorsed by the school or an organisation endorsed by the school (e.g. the community club or national association) to contribute, perform or compete. It need not be tied to his/her CCA in school. Accomplishment refers to attaining accolades and awards at competitions, festivals, performances, exhibitions, conferences and symposiums where the student represents the school or other organisations endorsed by the school. The details on the levels of attainment for each of the domains are on pages 12 to 15.
 

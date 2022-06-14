@@ -5,7 +5,8 @@ description: ""
 ---
 Our programmes support the holistic development of students  by instilling in them positive values and building their Social and Emotional Competencies. These are represented by the centre and middle rings of MOE's Framework for 21st Century Competencies.
 
-![Social, Emotional & Moral](/images/21CC%20Framework.png)
+<img src="/images/21CC%20Framework.png"  
+style="width:70%">
 
 **Values** define a person's character. They shape the beliefs, attitudes and actions of our students. In addition to the CCE Core Values of *Respect, Responsibility, Resilience,Integrity, Care and Harmony*, our programmes focus on the BDS ICARE values.
 

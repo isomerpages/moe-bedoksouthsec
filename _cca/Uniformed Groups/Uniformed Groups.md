@@ -4,7 +4,6 @@ permalink: /cca/uniformed-groups
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ![Uniformed Groups](/images/Uniformed-Group.jpg)
 
 <style type="text/css">
@@ -149,4 +148,6 @@ third_nav_title: Uniformed Groups
 
 <br>
 
-![Uniformed Group](/images/UG.png)
+
+<img src="/images/UG.png"  
+style="width:80%">

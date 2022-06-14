@@ -3,10 +3,8 @@ title: Our School Crest and School Song
 permalink: /about-us/our-school-crest-and-school-song
 description: ""
 ---
-
-
 <img src="/images/school%20logo.jpg" 
-     style="width:50%">
+     style="width:40%">
 
 The open book signifies our endless pursuit of knowledge. The three arrows signify our endeavours to excel in the academic, physical and moral and cultural pursuits.
 
@@ -29,4 +27,4 @@ Success through Endeavour
 With joy in work and joy in play 
 With honesty and justice to guide the way 
 With hearts that are loyal and minds that are true 
-O Bedok South, O Bedok South, we come to you 
+O Bedok South, O Bedok South, we come to you

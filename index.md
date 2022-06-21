@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/build.png
+      background: /images/build character.png
       key_highlights:
         - title: Latest Happenings
           description: Check out the latest happenings!

@@ -22,7 +22,7 @@ permalink: /faq/
 [/upcoming-events](/upcoming-events)  
 #### Finance Matters :  
 
-****School fees matters****
+**School fees matters**
 
 [https://www.moe.gov.sg/education/secondary](https://www.moe.gov.sg/education/secondary)  
 

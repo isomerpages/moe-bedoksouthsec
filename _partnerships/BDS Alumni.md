@@ -1,6 +1,6 @@
 ---
 title: BDS Alumni
-permalink: /partnerships/bds-alumni
+permalink: /partnerships/bds-alumni/
 description: ""
 ---
 ### Alumni Annual Meeting
@@ -29,4 +29,4 @@ On the morning of our Alumni got together to have a kickabout soccer session in 
 Our BDS Alumni Reunion in commemoration of BDS 35th Anniversary was held on the 31 Oct 2015 at the old BDS site (current Haig Girls’ School holding site). We are very fortunate to have two of ex- school leaders to be with us for the event, Ms Koh Sauk Keow (ex-Principal) and Mr Lee Kok Hong (ex-VP). The event kicked of with the flag raising ceremony in which the National anthem and the school song was played. This evoked fond memories for the Alumni as they recalled the daily routine in BDS years ago. Our Principal, Ms Fun then shared with the audience how BDS has progressed over the years and future plans. This is followed by a short BDS forum where the panel shared fond memories of their stay in BDS and how they have gained so much form their experiences in BDS. The whole audience then had a group wefie before they proceed to take pictures at various places in the school in the ‘Walk down Memory Lane’ activity. From the happy faces and the joyful interactions among the Alumni, the ex teachers and our staff, the event was really meaningful and triggered a lot of nostalgic moments. Many are already looking forward to future Alumni events.
 
 <img src="/images/Alumni.jpg"  
-style="width:70%">
+style="width:50%">

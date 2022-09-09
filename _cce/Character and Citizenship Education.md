@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education
-permalink: /student-development/character-and-citizenship-education
+permalink: /student-development/character-and-citizenship-education/
 description: ""
 ---
 ### Introduction
@@ -60,7 +60,7 @@ Form Teachers conduct Teacher-Pupil Interview (TPI) sessions with students to bu
 
 **Student Recognition**
 
-The EdusaveCharacter Award (ECHA) aims to recognise Singaporean students in the school who are exemplary in character and possess outstanding personal qualities through their behaviour and actions which inspire others. This award is given to a maximum of 2% of Singaporean students in the school at the end of the year. 
+The [EdusaveCharacter Award (ECHA)](https://www.moe.gov.sg/education/edusave/edusave-awards/edusave-character-awards-(echa)) **(broken link)** aims to recognise Singaporean students in the school who are exemplary in character and possess outstanding personal qualities through their behaviour and actions which inspire others. This award is given to a maximum of 2% of Singaporean students in the school at the end of the year. 
 
 ECHA recipients are selected based on school-based criteria that are based on guidelines provided by MOE. Students are identified for consistently demonstrating civic responsibility, resilience and values that BDS wishes to recognise and encourage.
 
@@ -84,5 +84,3 @@ ECG Parent Guide (https://www.moe.gov.sg/microsites/ecg-parent-guide). This micr
 
 
 [Medialiteracycouncil.sg](https://www.betterinternet.sg/) – The Media Literacy Council website hosts useful resources for both parents and students on safe, smart and kind internet usage.
-
-

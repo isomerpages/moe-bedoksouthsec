@@ -51,7 +51,7 @@ For cash payment, you can make payment at our BDS General Office.
 [/cca](/cca)  
   
 
-****What is the CCA Grading System?****
+**What is the CCA Grading System?**
 
 [/cca/cca-leaps-and-grading-system](/cca/cca-leaps-and-grading-system)  
 

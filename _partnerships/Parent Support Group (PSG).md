@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /partnerships/parent-support-group-psg
+permalink: /partnerships/parent-support-group-psg/
 description: ""
 ---
 ### Introduction
@@ -50,4 +50,4 @@ Follow us on Instagram @&nbsp;[https://go.gov.sg/bds-psg](https://go.gov.sg/bds-
 We welcome all parents to join us in the PSG. If you are interested in serving and supporting the school and students, please register via this&nbsp;[link](https://go.gov.sg/bds-2022-psg), or scan the QR Code:
 
 
-<img style="width:60%" src="/images/PSG5.jpg">
+<img style="width:35%" src="/images/PSG5.jpg">

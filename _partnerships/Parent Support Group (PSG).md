@@ -42,7 +42,16 @@ The activities that the PSG are generally involved in:
 
 Follow us on Instagram @&nbsp;[https://go.gov.sg/bds-psg](https://go.gov.sg/bds-psg)
 
-![Parent Support Group (PSG)](/images/PSG4.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/PSG4.jpg" alt="Parent Support Group (PSG)" style="width:70%;">  
+  
+</body>
 
 ### Registration
 ------------

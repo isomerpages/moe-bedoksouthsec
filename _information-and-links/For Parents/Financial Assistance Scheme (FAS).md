@@ -1,10 +1,10 @@
 ---
 title: Financial Assistance Scheme (FAS)
-permalink: /information-and-links/for-parents/financial-assistance-scheme-fas
+permalink: /information-and-links/for-parents/financial-assistance-scheme-fas/
 description: ""
 third_nav_title: For Parents
 ---
-Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses. This applies to government, government-aided, specialised and some independent schools. *Learn* if your child is eligible. 
+Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses. This applies to government, government-aided, specialised and some independent schools. *Learn* **(PDF file too big)** if your child is eligible. 
 
   
 

@@ -19,12 +19,13 @@ permalink: /faq/
 
 **When are the school terms/ school holidays?**
 
-[/upcoming-events](/upcoming-events)  
+https://www.moe.gov.sg/education/school-terms-and-holidays  **(broken link)**
+
 #### Finance Matters :  
 
 **School fees matters**
 
-[https://www.moe.gov.sg/education/secondary](https://www.moe.gov.sg/education/secondary)  
+[https://www.moe.gov.sg/education/secondary](https://www.moe.gov.sg/education/secondary)  **(broken link)**
 
 **How do I make payments?**
 
@@ -34,7 +35,7 @@ For cash payment, you can make payment at our BDS General Office.
 
 **Financial Assistance Scheme and Bursaries**
 
-\-   [https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas)](https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas))  
+\-   [https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas)] (https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas))  **(broken link)** <br>
 \-   Approach General Office
 
 #### DSA: 
@@ -111,7 +112,7 @@ Students who opted to study a third language do not automatically qualify for en
 
 **Music Elective**  
 
-[https://www.moe.gov.sg/education/secondary/other/music-elective-programme](https://www.moe.gov.sg/education/secondary/other/music-elective-programme)
+[https://www.moe.gov.sg/education/secondary/other/music-elective-programme](https://www.moe.gov.sg/education/secondary/other/music-elective-programme) **(broken link)**
 
 #### Miscellaneous:
 

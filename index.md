@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/build character.png
+      background: /images/bedoksouthhomepage.gif
       key_highlights:
         - title: Latest Happenings
           description: Check out the latest happenings!

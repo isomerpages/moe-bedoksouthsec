@@ -1,6 +1,6 @@
 ---
 title: Home Based Learning (HBL)
-permalink: /home-based-learning-hbl
+permalink: /home-based-learning-hbl/
 description: ""
 third_nav_title: Home Based Learning (HBL)
 ---
@@ -44,21 +44,24 @@ Please click on the [HBL@BDS + Student Initiated Learning Briefing Slides](/fil
  
  ![26 May](/images/26%20May.jpg)
  
+ 
  #### Term 3
  
- **7 Jul**
+![7 Jul](/images/July7latest.jpeg)
  
-**21 Jul**
+![21 Jul](/images/Ju21.jpeg)
 
-**4 Aug**
+![4 Aug](/images/Au4.jpeg)
 
-**18 Aug**
+![18 Aug](/images/Au18.jpeg)
 
-**1 Sep**
+![1 Sep](/images/Se1.jpeg)
+
 
 #### Term 4
 
-**22 Sep** 
+
+![22 Sep](/images/Se22.jpeg)
 
 
 

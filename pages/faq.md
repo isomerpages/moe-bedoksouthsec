@@ -32,7 +32,7 @@ For cheque payment, either post the cheques or call into our General Office. Ple
 
 For cash payment, you can make payment at our BDS General Office.
 
-****Financial Assistance Scheme and Bursaries****
+**Financial Assistance Scheme and Bursaries**
 
 \-   [https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas)](https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas))  
 \-   Approach General Office

@@ -4,7 +4,7 @@ permalink: /faq/
 ---
 #### General:
 
-******How do I get to BDS?******
+**How do I get to BDS?**
 
 [/contact-us/](/contact-us/)
 

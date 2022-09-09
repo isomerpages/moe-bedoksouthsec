@@ -1,6 +1,6 @@
 ---
 title: School Facilities
-permalink: /about-us/our-school-facilities
+permalink: /about-us/our-school-facilities/
 description: ""
 third_nav_title: Our School Facilities
 ---
@@ -34,10 +34,10 @@ Please click [here](/about-us/our-school-facilities/oasis-at-bds) for more infor
 ![Study Room](/images/Study%20room%201.jpeg)
 
 **New Fitness Corner** <br>
-*picture t0o big*
+![New Fitness Corner](/images/New%20Fitness%20Corner.jpg)
 
 **Low Element** <br>
-*picture toO big*
+![Low Element](/images/Low%20Element.jpg)
 
 **Science Laboratories**
 ![Science Laboratories](/images/science%20lab.png)

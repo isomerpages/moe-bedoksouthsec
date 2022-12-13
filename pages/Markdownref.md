@@ -18,3 +18,9 @@ description: ""
 | 24 Oct     | Deepavali                 |
 
 
+|                                         |                        |
+|-----------------------------------------|------------------------|
+| https://go.gov.sg/bsss-myskillsfuture   | My Skills Future       |
+| https://go.gov.sg/bsss-oasis            | Oasis@BDS              |
+| https://go.gov.sg/bsss-oasis2           | Student Learning Space |
+| https://go.gov.sg/bsss-google-dashboard | Student iCON           |

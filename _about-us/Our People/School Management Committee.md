@@ -4,6 +4,8 @@ permalink: /about-us/our-people/school-management-committee/
 description: ""
 third_nav_title: Our People
 ---
+**School Hotline: 6441 4479**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

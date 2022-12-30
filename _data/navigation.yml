@@ -1,24 +1,7 @@
 logo: /images/bedok south logo.png
 links:
   - title: About Us
-    url: /about-us/school-leaders-message
-    sublinks:
-      - title: School Leader's Message
-        url: /about-us/school-leaders-message
-      - title: Our History
-        url: /about-us/our-history
-      - title: Mission, Vision, Values &Motto
-        url: /about-us/our-mission-vision-values-and-motto
-      - title: Our School Crest & School Song
-        url: /about-us/our-school-crest-and-school-song
-      - title: Our People
-        url: /about-us/our-people/school-management-committee
-      - title: Our Calendar of Events
-        url: /about-us/our-calendar-of-events
-      - title: School Facilities
-        url: /about-us/our-school-facilities
-      - title: Admissions
-        url: /about-us/admissions
+    collection: about-us
   - title: Curriculum
     url: /curriculum
     sublinks:

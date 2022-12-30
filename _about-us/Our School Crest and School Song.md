@@ -7,7 +7,7 @@ Our Mission, Vision, Values and Motto
 =====================================
 
 
-<img src="/images/schlogo.png" style="width:200px;height:240px;margin-right:80px;" align = "left"> 
+<img src="/images/schlogo.png" style="width:180px;height:190px;margin-right:80px;" align = "left"> 
 
 
 
@@ -16,9 +16,8 @@ The open book signifies our endless pursuit of knowledge. The three arrows signi
 
 
 			
-```
 
-```
+
 
 
 

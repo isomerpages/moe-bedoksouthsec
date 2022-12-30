@@ -1,9 +1,8 @@
 ---
 title: Design & Technology
-permalink: /curriculum/aesthetics/design-n-technology
+permalink: /curriculum/aesthetics/design-n-technology/
 description: ""
 ---
-
 ### Introduction
 
 Design & Technology (D&T) is for lower and upper secondary levels (Express, Normal Academic and Normal Technical). In upper secondary, it is offered as an elective subject.

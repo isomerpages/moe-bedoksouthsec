@@ -31,3 +31,5 @@ We thank all parents/guardians who have been understanding and we continue to se
 	
 	
 <b>To Upper East Coast Road</b>
+
+![](/images/ToUpper%20East%20Coast%20Road.jpg)

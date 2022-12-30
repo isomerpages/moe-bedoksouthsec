@@ -8,8 +8,10 @@ links:
       - title: Our History
         url: /about-us/our-history/
       - title: Mission Vision Values & Motto
-        url: /permalink
+        url: /about-us/our-mission-vision-values-and-motto/
       - title: Our School Crest & School Song
+        url: /permalink
+      - title: Our People
         url: /permalink
   - title: Curriculum
     url: /curriculum

@@ -4,6 +4,11 @@ permalink: /about-us/our-school-facilities/
 description: ""
 third_nav_title: Our School Facilities
 ---
+![](/images/AboutUs.png)
+
+Our School Facilities
+=====================
+
 **School Field**
 ![School Field](/images/School%20Field.jpg)
 <br>

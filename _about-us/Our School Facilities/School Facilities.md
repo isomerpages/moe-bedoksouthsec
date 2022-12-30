@@ -9,27 +9,27 @@ third_nav_title: Our School Facilities
 Our School Facilities
 =====================
 
-**School Field**
+##### **School Field**
 ![School Field](/images/School%20Field.jpg)
 <br>
 
-**Indoor Sports Hall**
+##### **Indoor Sports Hall**
 ![Indoor Sports Hall](/images/Indoor%20Sports%20Hall%201.jpg)
 <br>
 
-**Eco Garden**
+##### **Eco Garden**
 ![Eco Garden](/images/Eco%20Garden.jpeg)
 <br>
 
-**Art Room**
+##### **Art Room**
 ![Art Room](/images/Art%20Room.png)
 <br>
 
-**Computer Laboratory / IT Facilities**
+##### **Computer Laboratory / IT Facilities**
 ![Computer Laboratory / IT Facilities](/images/Computer%20Laboratory%201.jpg)
 <br>
 
-**School Library (Oasis@BDS)**
+##### **School Library (Oasis@BDS)**
 ![School Library (Oasis@BDS)](/images/Library%201.jpg)
 Please click [here](/about-us/our-school-facilities/oasis-at-bds) for more information about Oasis@BDS.
 

@@ -1,9 +1,14 @@
 ---
 title: Oasis@BDS
-permalink: /about-us/our-school-facilities/oasis-at-bds
+permalink: /about-us/our-school-facilities/oasis-at-bds/
 description: ""
 third_nav_title: Our School Facilities
 ---
+![](/images/AboutUs.png)
+
+Oasis@BDS
+=========
+
 ![Oasis@BDS Library Writeup](/images/Library%20Oasis%20Writeup.jpg)
 
 ![Oasis@BDS](/images/Library1b.jpg)

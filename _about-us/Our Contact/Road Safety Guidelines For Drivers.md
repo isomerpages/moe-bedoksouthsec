@@ -25,5 +25,7 @@ We thank all parents/guardians who have been understanding and we continue to se
 
 
 
-<b>To Bedok Road<b>
-
+<b>To Bedok Road</b>
+	
+	
+<b>To Upper East Coast Road</b>

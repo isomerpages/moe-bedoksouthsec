@@ -166,7 +166,7 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 
 Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer.
 
-Only short-listed applicants are required to attend an interview by the Selection Panel from **11 July to 26 Aug 2022.**
+Only short-listed applicants are required to attend an interview by the Selection Panel from <u><b>11 July to 26 Aug 2022.</b></u>
 
 
 All applicants will be informed of the outcome of their application by 12 September 2022 via email or post. Successful applicants’ primary schools will follow-up on other actions of the DSA exercise. Results of posting will be released on the day of the release of the PSLE results.

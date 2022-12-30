@@ -1,7 +1,12 @@
 logo: /images/bedok south logo.png
 links:
   - title: About Us
-    collection: about-us
+    url: /permalink
+    sublinks:
+      - title: School Leaders' Message
+        url: /permalink
+      - title: Our History
+        url: /permalink
   - title: Curriculum
     url: /curriculum
     sublinks:

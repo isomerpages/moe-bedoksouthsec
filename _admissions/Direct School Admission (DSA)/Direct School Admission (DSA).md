@@ -171,7 +171,7 @@ Only short-listed applicants are required to attend an interview by the Selectio
 
 All applicants will be informed of the outcome of their application by 12 September 2022 via email or post. Successful applicants’ primary schools will follow-up on other actions of the DSA exercise. Results of posting will be released on the day of the release of the PSLE results.
 
-**Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.**
+<i><b>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</i></b>
 
 The application timeline for 2022 is summarised as follows:
 

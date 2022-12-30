@@ -162,7 +162,7 @@ Bedok South Secondary School invites Primary 6 students with any of the followin
 (iii) Held leadership position/s in their CCA in primary school e.g. CCA captain/ chairman
 
 <u><b>Important</b></u> <br>
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from **5 May 2022 at 11.00 am** to **1 June 2022 at 3.00 pm**. For more details, please click here to access the MOE website.
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from <u><b>5 May 2022 at 11.00 am</b></u> to <u><b>1 June 2022 at 3.00 pm</b></u>. For more details, please click here to access the MOE website.
 
 Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer.
 

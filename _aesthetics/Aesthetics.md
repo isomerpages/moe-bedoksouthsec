@@ -1,9 +1,8 @@
 ---
 title: Aesthetics
-permalink: /curriculum/aesthetics
+permalink: /curriculum/aesthetics/
 description: ""
 ---
-
 ### WELCOME TO THE EXCITING WORLD OF THE BDS AESTHETICS DEPARTMENT
 
 #### Introduction 

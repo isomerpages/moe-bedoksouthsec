@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Admissions.md
       - School Leader's Message.md
       - Our History.md
       - Our Mission, Vision, Values and Motto.md
@@ -18,3 +17,4 @@ collections:
       - Our Contact/Our Contact.md
       - Our Contact/Road Safety Guidelines For Drivers.md
       - Our Calendar of Events.md
+      - Admissions.md

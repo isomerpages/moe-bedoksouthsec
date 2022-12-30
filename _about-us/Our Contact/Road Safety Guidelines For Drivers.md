@@ -22,3 +22,8 @@ Road Safety Guidelines For Drivers
 Please refer to the attached maps on how to get to Bedok Road and Upper East Coast Road after turning left at the school gate.
 
 We thank all parents/guardians who have been understanding and we continue to seek everyone’s co-operation when driving into the school during the peak hours.
+
+
+
+<b>To Bedok Road<b>
+

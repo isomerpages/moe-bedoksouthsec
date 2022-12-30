@@ -7,12 +7,18 @@ Our Mission, Vision, Values and Motto
 =====================================
 
 
-<img src="/images/schlogo.png" style="width:200px;height:240px;margin-right:30px;" align = "left"> The open book signifies our endless pursuit of knowledge. The three arrows signify our endeavours to excel in the academic, physical and moral and cultural pursuits.
+<img src="/images/schlogo.png" style="width:200px;height:240px;margin-right:80px;" align = "left"> 
+
+
+
+The open book signifies our endless pursuit of knowledge. The three arrows signify our endeavours to excel in the academic, physical and moral and cultural pursuits.
+
 
 
 			
-			
+```
 
+```
 
 
 
@@ -36,5 +42,3 @@ With joy in work and joy in play 
 With honesty and justice to guide the way   
 With hearts that are loyal and minds that are true   
 O Bedok South, O Bedok South, we come to you
-
-

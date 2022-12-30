@@ -6,8 +6,6 @@ third_nav_title: Admissions
 ---
 ![](/images/AboutUs.png)
 
-Direct School Admission (DSA)
-=============================
 
 
 
@@ -27,17 +25,17 @@ For 2022, Bedok South Secondary School will offer Secondary One places to aspiri
 
 (ii)     Sports and Games:
 
-o   Badminton (Boys & Girls)
+		o   Badminton (Boys & Girls)
 
-o   Floorball (Boys & Girls)
+		o   Floorball (Boys & Girls)
 
-o   Football (Boys)
+		o   Football (Boys)
 
-o   Netball (Girls)
+		o   Netball (Girls)
 
-o   Outdoor Adventure (Boys & Girls)
+		o   Outdoor Adventure (Boys & Girls)
 
-o   Swimming (Boys & Girls)
+		o   Swimming (Boys & Girls)
 
   
 

@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Contact.md
       - School Leader's Message.md
       - Our History.md
       - Our Mission, Vision, Values and Motto.md

@@ -30,9 +30,7 @@ The General Music Programme aims to:
 
 #### Curriculum
 
-The curriculum refers tocontent and learning experiences that support the acquisition of the above
-student outcomes. The key features of the curriculum comprise learning goals
-and content, pedagogy and assessment.
+The curriculum refers tocontent and learning experiences that support the acquisition of the above student outcomes. The key features of the curriculum comprise learning goals and content, pedagogy and assessment.
 
 #### Learning Goals and Content
 

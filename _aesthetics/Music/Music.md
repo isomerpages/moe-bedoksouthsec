@@ -18,13 +18,14 @@ In the music programme at BDS, students listen to, compose and perform music fro
  
 #### Student Outcomes
 
-The General Music Programme aims to: 
 
-   - Develop awareness andappreciation of music in local and global cultures
+The General Music Programme aims to:
 
-   - Develop ability for creative expression and communication through music-making
+\- Develop awareness andappreciation of music in local and global cultures
 
-   - Provide the basis to develop an informed and life-long involvement in music
+\- Develop ability for creative expression and communication through music-making
+
+\- Provide the basis to develop an informed and life-long involvement in music
 
 
 #### Curriculum

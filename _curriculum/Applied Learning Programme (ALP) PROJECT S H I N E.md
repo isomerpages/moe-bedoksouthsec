@@ -64,6 +64,7 @@ Selected students who have shown a deeper ability to apply their understanding o
 
 
 <b>Biweekly classroom sessions</b>
+![](/images/ALP.png)
 
 
 

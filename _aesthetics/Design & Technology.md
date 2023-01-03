@@ -73,11 +73,26 @@ The lower Secondary D&T programme provides tactile learning experiences for stud
 
 The knowledge, skills and values gained at this level lay the foundation for D&T learning at the upper secondary level.
 
-![Lower Secondary Race Car Project](/images/DnT2.jpg)
-Lower Secondary Race Car Project
-
-![Lower Secondary Sketching Lesson](/images/DnT3.jpg)
-Lower Secondary Sketching Lesson
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7yig">Lower Secondary Race Car Project<br><img src="/images/DnT2.jpg" style="width:100%"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">Lower Secondary Sketching Lesson<br><img src="/images/DnT3.jpg" style="width:100%"></td>
+  </tr>
+</tbody>
+</table>
 
 #### Upper Secondary Programme
 
@@ -97,23 +112,3 @@ At upper secondary programme, designing and making are dealt with at a greater d
 Upper Secondary Coursework
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7yig">Lower Secondary Race Car Project<br><img src="https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Curriculum/Aesthetics/Design%20&%20Technology/DnT2.jpg" alt="DnT2.jpg"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7yig">Lower Secondary Sketching Lesson<br><img src="https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Curriculum/Aesthetics/Design%20&%20Technology/DnT3.jpg" alt="DnT3.jpg" width="268" height="203"></td>
-  </tr>
-</tbody>
-</table>

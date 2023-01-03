@@ -61,14 +61,15 @@ In D&T, students learn through design-and-make projects guided by a design proce
 
 #### Lower Secondary Programme
 
+The lower Secondary D&T programme provides tactile learning experiences for students to construct prototypes of developed idea and generate their interest in the D&T subject. It aims to:  
 
-The lower Secondary D&T programme provides tactile learning experiences for students to construct prototypes of developed idea and generate their interest in the D&T subject. It aims to:
+  
 
-* generate interest in learning through visual-spatial thinking, sketching, experimenting and prototyping
-* develop and understanding of function, aesthetics and technology in design through everyday products and their implication on sustainability  
-* design appropriateness with respect to users, functionality and environment
-* develop confidence and pride through turning ideas into physical objects.
-
+*   generate interest in learning through visual-spatial thinking, sketching, experimenting and prototyping  
+    
+*   develop and understanding of function, aesthetics and technology in design through everyday products and their implication on sustainability  
+*   design appropriateness with respect to users, functionality and environment
+*   develop confidence and pride through turning ideas into physical objects.
 
 The knowledge, skills and values gained at this level lay the foundation for D&T learning at the upper secondary level.
 

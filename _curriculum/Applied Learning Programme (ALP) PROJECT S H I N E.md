@@ -60,10 +60,10 @@ The Design Challenge gives students the opportunity to extend the principles and
 
 Selected students who have shown a deeper ability to apply their understanding of the Design Thinking framework in the Secondary 2 Design Challenge are selected to further explore their interest by partaking in carefully chosen national competitions. These opportunities allow students to explore and develop areas of strengths and interests as well as to better understand the post-secondary pathways, evolving job landscape and determine future career choices such as those in Science, Engineering and Technology.
 
-### Programme Highlights
+#### Programme Highlights
 
 
-**Biweekly classroom sessions**
+<b>Biweekly classroom sessions</b>
 ![Biweekly classroom sessions](/images/Biweekly%20classroom%20sessions.png)
 
 **Micro:bits programming workshop**

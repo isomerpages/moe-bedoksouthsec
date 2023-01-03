@@ -1,23 +1,34 @@
 ---
 title: Applied Learning Programme (ALP) PROJECT S H I N E
-permalink: /curriculum/applied-learning-programme-alp-project-s-h-i-n-e
+permalink: /curriculum/applied-learning-programme-alp-project-s-h-i-n-e/
 description: ""
 ---
-### Introduction
-In our effort to provide a vibrant learner-centred environment that is conducive to student development and achievement, we have introduced the Applied Learning Programme (Project SHINE) since 2014 where students work towards a solution to a problem that addresses a genuine need in the real world. 
+![](/images/Curriculum.png)
+
+Applied Learning Programme (ALP) - PROJECT S.H.I.N.E 
+=====================================================
 
 
+### Introduction  
+
+In our effort to provide a vibrant learner-centred environment that is conducive to student development and achievement, we have introduced the Applied Learning Programme (Project SHINE) since 2014 where students work towards a solution to a problem that addresses a genuine need in the real world. 
 
 ### Student Outcomes
 
-The programme aims to develop:     
 
+The programme aims to develop:     
 
-* **Motivated learners with life-long values, skills and 21st century competencies** and **skills** who are able to work in teams or independently, to experiment with ideas, explore their talent and contribute to the community. Students will see the relevance and value of what they are learning and develop in them a joy for learning and entrepreneurial spirit.   
+  
 
-* **Empathetic, innovative and critical thinkers who can apply their knowledge, skills and values** in real-life situations. They will experience the sense of purpose and achievement that comes with productive activity. Students will seek to greater understand the needs of their target audience and to empathise with them through iterations of meaningful conversations.
+*   <b>Motivated learners with life-long values, skills and 21st century competencies</b> who are able to work in teams or independently, to experiment with ideas, explore their talent and contribute to the community. Students will see the relevance and value of what they are learning and develop in them a joy for learning and entrepreneurial spirit.   
 
-* **Effective communicators and collaborators who serve with conviction**.  Over time, students come to regard themselves as people who can make a difference to their own lives and in the quality of the lives of other people. Students will learn to tap on each other’s strengths and assigned varying roles in order to collaboratively work as a team among a group of diverse learners.
+  
+
+*   <b>Empathetic, innovative and critical thinkers who can apply their knowledge, skills and values</b> in real-life situations. They will experience the sense of purpose and achievement that comes with productive activity. Students will seek to greater understand the needs of their target audience and to empathise with them through iterations of meaningful conversations.
+
+  
+
+*   <b>Effective communicators and collaborators who serve with conviction.</b>  Over time, students come to regard themselves as people who can make a difference to their own lives and in the quality of the lives of other people. Students will learn to tap on each other’s strengths and assigned varying roles in order to collaboratively work as a team among a group of diverse learners.
 
 
 ### Approach & Pedagogy

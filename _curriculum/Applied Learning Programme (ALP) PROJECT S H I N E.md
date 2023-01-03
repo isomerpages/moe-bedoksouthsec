@@ -64,13 +64,3 @@ Selected students who have shown a deeper ability to apply their understanding o
 
 
 <b>Biweekly classroom sessions</b>
-![Biweekly classroom sessions](/images/Biweekly%20classroom%20sessions.png)
-
-**Micro:bits programming workshop**
-![Micro:bits programming workshop](/images/Microbits%20programming%20workshop.png)
-
-**Sandcastle Building Design Challenge**
-![Sandcastle Building Design Challenge](/images/Sandcastle%20Building%20Design%20Challenge.png)
-
-**Learning Journey to Changi Experience Studio**
-![Learning Journey to Changi Experience Studio](/images/Learning%20Journey%20to%20Changi%20Experience%20Studio.png)

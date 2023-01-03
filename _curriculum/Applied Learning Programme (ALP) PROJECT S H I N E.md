@@ -56,6 +56,7 @@ To instil a sense of care for the environment, Secondary 1 students focused on t
 The Design Challenge gives students the opportunity to extend the principles and mindset of Design Thinking which they have learnt in Secondary 1 to instil a sense of responsibility towards our environment and the need for conservation. Students focus on working with community partners such as the World Wide Fund for Nature while developing marketing strategies to inculcate the spirit of entrepreneurial dare.
 
 #### III) Secondary Three
+--------------------------------------
 
 Selected students who have shown a deeper ability to apply their understanding of the Design Thinking framework in the Secondary 2 Design Challenge are selected to further explore their interest by partaking in carefully chosen national competitions. These opportunities allow students to explore and develop areas of strengths and interests as well as to better understand the post-secondary pathways, evolving job landscape and determine future career choices such as those in Science, Engineering and Technology.
 

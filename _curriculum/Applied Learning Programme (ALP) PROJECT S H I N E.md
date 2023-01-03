@@ -50,7 +50,7 @@ To instil a sense of care for the environment, Secondary 1 students focused on t
 #### II) Secondary Two (Empower & Enrich)
 --------------------------------------
 
-**Theme**: Caring for the environment
+<b>Theme:</b> Sustainability (Care for the environment)  
 
 **Design Challenge**: <br>
 The Design Challenge gives students the opportunity to extend the principles and mindset of Design Thinking which they have learnt in Secondary 1 to instil a sense of responsibility towards our environment and the need for conservation. Students focus on working with community partners such as the World Wide Fund for Nature while developing marketing strategies to inculcate the spirit of entrepreneurial dare.

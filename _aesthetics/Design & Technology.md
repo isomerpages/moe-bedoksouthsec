@@ -95,3 +95,25 @@ At upper secondary programme, designing and making are dealt with at a greater d
 
 ![Upper Secondary Coursework](/images/DnT4.jpg)
 Upper Secondary Coursework
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7yig">Lower Secondary Race Car Project<br><img src="https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Curriculum/Aesthetics/Design%20&%20Technology/DnT2.jpg" alt="DnT2.jpg"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">Lower Secondary Sketching Lesson<br><img src="https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Curriculum/Aesthetics/Design%20&%20Technology/DnT3.jpg" alt="DnT3.jpg" width="268" height="203"></td>
+  </tr>
+</tbody>
+</table>

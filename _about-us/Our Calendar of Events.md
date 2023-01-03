@@ -8,4 +8,3 @@ description: ""
 Our Calendar of Events
 ======================
 
-***Calendar to be added***

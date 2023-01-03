@@ -9,12 +9,12 @@ description: ""
 Aesthetics
 ==========
 
-WELCOME TO THE EXCITING WORLD OF THE BDS AESTHETICS DEPARTMENT
---------------------------------------------------------------
+### WELCOME TO THE EXCITING WORLD OF THE BDS AESTHETICS DEPARTMENT
+
 
   
 
-Introduction 
+### Introduction 
 -------------
 
 “Imagination is more important than knowledge.
@@ -27,7 +27,7 @@ Aesthetic disciplines engage, inspire and enrich all students, exciting their im
 
 In Bedok South Sec, students learn to express their ideas, thoughts and opinions as designers, culinary artists, visual artists and musicians.  They acquire skills and develop critical understanding that informs decision-making and aesthetic choices.  
 
-Student Outcomes
+### Student Outcomes
 ----------------
 
 The Aesthetics Department aims to develop:  
@@ -36,8 +36,7 @@ The Aesthetics Department aims to develop:
 
 ●     A creative youth who will appreciate the arts.
 
-****Subjects Offered****
-------------------------
+<b>Subjects Offered</b>
 
 1.    Design & Technology (Lower and Upper Sec)
 
@@ -47,8 +46,7 @@ The Aesthetics Department aims to develop:
 
 4.    Music (Lower Sec)
 
-****Curriculum****
-------------------
+<b>Curriculum</b>
 
 The lower secondary curriculum provides a broad and balanced range of learning experiences that is based upon Singapore’s national curriculum. The curriculum is designed to develop fundamental subject-specific skills that students will require for higher studies in related areas.
 
@@ -58,8 +56,7 @@ The upper secondary curriculum builds on the skills developed in Secondary 1 & 2
 
   
 
-****Co-Curriculum****
----------------------
+<b>Co-Curriculum</b>
 
 The co-curriculum focuses on the holistic development of students’ interests, abilities and talents in various aesthetic disciplines. It achieves this through: 
 

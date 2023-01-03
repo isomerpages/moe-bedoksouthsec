@@ -108,5 +108,20 @@ At upper secondary programme, designing and making are dealt with at a greater d
     
 *   do meaningful evaluation from evidence or data collected.
 
-![Upper Secondary Coursework](/images/DnT4.jpg)
-Upper Secondary Coursework
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-7yig">Upper Secondary Coursework<br><img src="/images/DnT4.jpg" style="width:100%"></td>
+  </tr>
+</thead>
+</table>

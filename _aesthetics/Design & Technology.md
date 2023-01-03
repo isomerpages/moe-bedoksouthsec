@@ -12,6 +12,8 @@ Design & Technology
 
 Design & Technology (D&T) is for lower and upper secondary levels (Express, Normal Academic and Normal Technical). In upper secondary, it is offered as an elective subject.
 
+  
+
 In D&T, students learn through design-and-make projects guided by a design process. The design process entails identifying design needs from real-world experiences, generating and developing ideas, and realising the design solution; with research carried out when necessary. Research includes testing ideas through quick mock-ups and evaluating the final design solution with the intended user. In doing so, students acquire related knowledge and develop skills to turn ideas into reality and values like mindfulness, empahty and sensitivity in the areas of social, culture and environment.
 
 ### Assessment Criteria

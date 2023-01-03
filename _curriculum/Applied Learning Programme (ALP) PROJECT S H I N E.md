@@ -47,7 +47,8 @@ The Design Thinking framework we adopt follows the following 4 phases:
 <b>Design challenge:</b>  <br> 
 To instil a sense of care for the environment, Secondary 1 students focused on the first 2 phases of the Design Thinking cycle (Empathy and Ideation) to actively seek out problems related to issues on sustainable living as a BDSian. Students engage in workshops such as App Development and also participate in the annual National Youth Upcycling Movement to introduce a culture of sustainability through upcycling and green consumerism through upcycling tips and learning about plastic waste.
 
-#### II) Secondary Two
+#### II) Secondary Two (Empower & Enrich)
+--------------------------------------
 
 **Theme**: Caring for the environment
 

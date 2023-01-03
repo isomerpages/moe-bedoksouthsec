@@ -4,6 +4,11 @@ permalink: /curriculum/aesthetics/music/
 description: ""
 third_nav_title: Music
 ---
+![](/images/Curriculum.png)
+
+Music
+=====
+
 ### Introduction
 
 ![Music](/images/music.jpg)

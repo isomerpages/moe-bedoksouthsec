@@ -28,6 +28,6 @@ All these cannot be done without our committed staff and teachers. BDS teachers 
 Success through Endeavour. 
 
 
-<br>Warm regards,
-Mr Daryl Koh
-Bedok South Secondary School<br>
+Warm regards, <br>
+Mr Daryl Koh <br> 
+Bedok South Secondary School

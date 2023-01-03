@@ -83,11 +83,15 @@ Lower Secondary Sketching Lesson
 
 At upper secondary programme, designing and making are dealt with at a greater depth and scope. The focus is on understanding everyday activities to create products that make life better. In the process, students cultivate creativity, critical and reflective thinking. They develop design related dispositions and skills. It aims to:
 
-* develop confidence, pride and tenacity through exploring real world design opportunities for which ideas are developed
-* develop ideas based on the Physical, Intellectual and Emotional needs of the user in the environment
-* cultivate thinking through doodling and sketching
-* prototype making skills using appropriate materials and tools
-* do meaningful evaluation from evidence or data collected.
+*   develop confidence, pride and tenacity through exploring real world design opportunities for which ideas are developed
+    
+*   develop ideas based on the Physical, Intellectual and Emotional needs of the user in the environment
+    
+*   cultivate thinking through doodling and sketching
+    
+*   prototype making skills using appropriate materials and tools
+    
+*   do meaningful evaluation from evidence or data collected.
 
 ![Upper Secondary Coursework](/images/DnT4.jpg)
 Upper Secondary Coursework

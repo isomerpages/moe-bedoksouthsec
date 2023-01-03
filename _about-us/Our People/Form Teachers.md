@@ -548,3 +548,80 @@ Form Teachers
 
 
 ### Other Teaching Staffs
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-kveo{background-color:#EAEAEA;text-align:left;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p"><span style="color:#222">Position</span></th>
+    <th class="tg-rj1p"><span style="color:#222">Name</span></th>
+    <th class="tg-rj1p"><span style="color:#222">Ext no.</span></th>
+    <th class="tg-rj1p"><span style="color:#222">Email address</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kveo">FAJT (English)</td>
+    <td class="tg-kveo">Ms Amy Syed</td>
+    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">TBC</td>
+  </tr>
+  <tr>
+    <td class="tg-kveo">FAJT (Chinese Language)</td>
+    <td class="tg-kveo">Mdm Chng Mei Ling</td>
+    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">TBC</td>
+  </tr>
+  <tr>
+    <td class="tg-kveo">FAJT (Chinese Language)</td>
+    <td class="tg-kveo">Mdm Wong Siew Har</td>
+    <td class="tg-kveo">101</td>
+    <td class="tg-kveo">wong_siew_har@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-kveo">FAJT (Malay Language)</td>
+    <td class="tg-kveo">Ms Norjanah Bte Mohamed Yusope</td>
+    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">TBC</td>
+  </tr>
+  <tr>
+    <td class="tg-kveo">FAJT (Science)</td>
+    <td class="tg-kveo">Mrs Djie-Lim Say Aii</td>
+    <td class="tg-kveo">109</td>
+    <td class="tg-kveo">lim_say_aii@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-kveo">FAJT (Special Needs)</td>
+    <td class="tg-kveo">Ms Lim Yih</td>
+    <td class="tg-kveo">-</td>
+    <td class="tg-kveo">lim_yih@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"><span style="color:#222">FAJT (Gear-up)</span></td>
+    <td class="tg-kveo">Mr Ng Wee Loon</td>
+    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">ng_wee_loon@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-kveo">FAJT (Mathematics)</td>
+    <td class="tg-kveo">Mr Ow Tai Pang Jeremy</td>
+    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">ow_tai_pang@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-kveo">FAJT (Music)</td>
+    <td class="tg-kveo">Mr Pradeep Radhakrishnan</td>
+    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">TBC</td>
+  </tr>
+</tbody>
+</table>

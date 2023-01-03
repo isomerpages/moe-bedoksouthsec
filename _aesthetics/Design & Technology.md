@@ -110,5 +110,3 @@ At upper secondary programme, designing and making are dealt with at a greater d
 
 ![Upper Secondary Coursework](/images/DnT4.jpg)
 Upper Secondary Coursework
-
-

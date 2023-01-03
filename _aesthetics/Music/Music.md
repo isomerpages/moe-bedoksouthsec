@@ -1,10 +1,9 @@
 ---
 title: Music
-permalink: /curriculum/aesthetics/music
+permalink: /curriculum/aesthetics/music/
 description: ""
 third_nav_title: Music
 ---
-
 ### Introduction
 
 ![Music](/images/music.jpg)

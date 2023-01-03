@@ -70,3 +70,7 @@ Selected students who have shown a deeper ability to apply their understanding o
 
 <b>Learning Journey to Changi Experience Studio</b>
 ![](/images/ALP2.png)
+
+
+
+<b>Workshops</b>

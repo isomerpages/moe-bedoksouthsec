@@ -33,9 +33,9 @@ The programme aims to develop:     
 
 ### Approach & Pedagogy
 
-Project SHINE employs the Design Thinking framework, a user-centred innovation problem-finding and problem-solving process to engage in innovation projects known as Design Challenges. Project SHINE also provides opportunities for students to use Science, Technology, Engineering and Mathematics (STEM) as a platform for problem-finding and problem-solving. Through biweekly classroom sessions with journaling on E-portfolios, learning journeys and tinkering in the ‘Xplore and Design Space, students will be equipped with the skills to identify challenges, gather information, generate potential solutions, refine ideas, test and market solutions.  
+Project SHINE employs the Design Thinking framework, a user-centred innovation problem-finding and problem-solving process to engage in innovation projects known as Design Challenges. Project SHINE also provides opportunities for students to use Science, Technology, Engineering and Mathematics (STEM) as a platform for problem-finding and problem-solving. Through biweekly classroom sessions with journaling on E-portfolios, learning journeys and tinkering in the ‘Xplore and Design Space, students will be equipped with the skills to identify challenges, gather information, generate potential solutions, refine ideas, test and market solutions.  
 
-The Design Thiking framework we adopt follows the following 4 phases:
+The Design Thinking framework we adopt follows the following 4 phases:
 
 ![Applied Learning Programme (ALP) - PROJECT S.H.I.N.E ](/images/ALPimg.jpg)
 

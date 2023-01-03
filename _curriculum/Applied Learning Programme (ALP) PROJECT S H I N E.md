@@ -79,3 +79,4 @@ Selected students who have shown a deeper ability to apply their understanding o
 
 
 <b>Secondary Three Innovation Programme</b>
+![](/images/ALP4.png)

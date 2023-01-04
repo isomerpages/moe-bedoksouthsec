@@ -273,5 +273,4 @@ Click [here](https://childrenandteens.nlb.gov.sg/) for Recommended Reading Lists
 
 [Grammar and Vocabulary Games British Council’s Listen & Watch Activities](https://learnenglish.britishcouncil.org/skills/listening) <br>
 [Dictionary and Thesaurus – Merriam-Webster Online](https://www.merriam-webster.com/) <br>
-[Phonemic Chart –British Council](https://www.teachingenglish.org.uk/try/activities/phonemic-chart) <br>
 [DiscoveRead by NLB](https://childrenandteens.nlb.gov.sg/)

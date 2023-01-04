@@ -11,7 +11,7 @@ Art
 
 ### Introduction
 
-In BDS, students engage with the concepts of artists artworks and audience. Art practice involves experiences, practical and critical thinking, conceptual and spatial inquiry and the analysis of artworks from a range of viewpoints as artists and audience. Students make individual and collaborative artworks that communicate their artistic intentions and use skills of observation, interpretation and analysis to critically evaluate their own and others’ artworks. 
+In BDS, students engage with the concepts of artists artworks and audience. Art practice involves experiences, practical and critical thinking, conceptual and spatial inquiry and the analysis of artworks from a range of viewpoints as artists and audience. Students make individual and collaborative artworks that communicate their artistic intentions and use skills of observation, interpretation and analysis to critically evaluate their own and others’ artworks.
 
 #### Student Outcomes
 

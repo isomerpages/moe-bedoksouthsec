@@ -55,3 +55,10 @@ Some of our activities in 2021:
 
 
 Click [<b>here</b>](https://sites.google.com/view/bdsreadingprogramme/home) to browse our Take Our Pick website.
+
+
+<b>Recommended Reading Lists Compiled by National Library Board (NLB)</b> <br>
+Click [<b>here</b>](http://go.gov.sg/nlb-childrenandteens) for the DiscoveReads by NLB.  
+  
+<b>Recommended English Language Resources Online</b> <br>
+[Grammar and Vocabulary Games British Council’s Listen& Watch Activities](http://learnenglish.britishcouncil.org/en/listen-and-watch)

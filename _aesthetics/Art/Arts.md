@@ -26,14 +26,17 @@ The curriculum refers to the content and learning experiences that support the a
 
 #### Learning Goals and Content
 
-In BDS, the general art programme is conducted semestrally. Students acquire foundational skills to be visually literate and appreciate art in two components: Fine Art and Digital Art. 
+In BDS, the general art programme is conducted semestrally. Students acquire foundational skills to be visually literate and appreciate art in two components: Fine Art and Digital Art.  
 
+  
 
 Students learn to apply the elements and principles of art through thoughtful art making projects that apply skills like observational contour line drawing and water colour/ acrylic paint techniques. Through the process of image gathering, exploration and development, students are able to craft and design art works that imbue their personality and characteristics, creating works that give them a sense of achievement and ownership.
 
+  
 
 In Digital Art, students learn digital imaging skills and methods of digital image manipulation This component allows students to harness technologies in unleashing imagination and expressing their thoughts and ideas.
 
+  
 
 Students who have an interest and demonstrated aptitude in art are encouraged to elect for the upper secondary art programme. This is a rigorous and disciplined area of study that will equip them with the requisite knowledge, skills and values to pursue higher education in art and design in their chosen career paths.
 

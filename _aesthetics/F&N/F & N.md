@@ -1,9 +1,14 @@
 ---
 title: F & N
-permalink: /curriculum/aesthetics/fnn
+permalink: /curriculum/aesthetics/fnn/
 description: ""
 third_nav_title: F&N
 ---
+![](/images/Curriculum.png)
+
+F&N
+===
+
 ### Introduction
 
 This subject is a compulsory project-based subject in the lower secondary school curriculum known as Food and Consumer Education. For the upper secondary school curriculum, it can be offered as an elective subject that will to lead to ‘O’ Level examination for that part of the school curriculum identified as Food and Nutrition. This will follow a course of study that emphasises on task analysis, research, decision making, planning, execution and evaluation.
@@ -199,4 +204,3 @@ Section C: consisting of open-ended type questions (45 marks)
 Candidates will be given an assignment at the beginning of the examination year which must be completed for assessment by end July or early August of the examination year. The assignment
 is a study which will require the candidates to apply their knowledge and understanding in relation to the subject content. The assignment requires a problem-solving and investigative approach, with an emphasis on experimental work. A total of 15–20 hours must be assigned during curriculum time to
 facilitate the completion of the assignment.
-

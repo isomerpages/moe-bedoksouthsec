@@ -37,14 +37,11 @@ Elective Module provides an opportunity for the students to undertake project th
 
 #### Upper Secondary
 
-**GENERAL OBJECTIVES**
-
-Students will be able to :
-a)   understand of the concepts of nutrition and meal planning
-b)   understand of the link between diet and health
-
-c)   understand of the principles of food science 
-
+<b>GENERAL OBJECTIVES</b> <br>
+Students will be able to : <br>
+a)   understand of the concepts of nutrition and meal planning <br>
+b)   understand of the link between diet and health <br>
+c)   understand of the principles of food science <br>
 d)   gain knowledge and skills to make informed decisions concerning food and nutrition.
 
 

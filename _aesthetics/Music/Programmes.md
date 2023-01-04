@@ -4,6 +4,11 @@ permalink: /curriculum/aesthetics/music/programmes/
 description: ""
 third_nav_title: Music
 ---
+![](/images/Curriculum.png)
+
+Programmes
+==========
+
 ### Performance in Bedok Community Centre
 
 Our 2G students who participated in Bedok Community Centre's National Day Dinner 2018, welcoming the Guest of Honour, Mr Lim Swee Say and kicking off the celebrations with the thunderous sounds of Brazilian drums!

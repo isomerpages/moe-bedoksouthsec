@@ -53,7 +53,7 @@ Upper secondary students with formal training and background are encouraged to p
 
 #### Pedagogy
 
-The department has applied the informal and non-formal pedagogical approach (Green, 2008) based on the practices of popular musicians. This approach emphasizes student-directed, peer-directed and group learning, in order to develop greater ownership and to express creative musical ideas in collaborative music making. The non-formal approach allows for differentiated learning in a group setting as students perform to their abilities, based on different instrument competencies. 
+The department has applied the informal and non-formal pedagogical approach (Green, 2008) based on the practices of popular musicians. This approach emphasizes student-directed, peer-directed and group learning, in order to develop greater ownership and to express creative musical ideas in collaborative music making. The non-formal approach allows for differentiated learning in a group setting as students perform to their abilities, based on different instrument competencies.
 
 #### Assessment
 

@@ -61,6 +61,8 @@ The central pedagogical approaches adopted for CPA are the ‘learning through d
 
 ![Computing Framework ](/images/Computing%20Framework%202017.jpg)
 
+### CPA Modules
+
 ![CPA_CPF](/images/CPA_CPF.jpg)
 
 ![CPA_MEL](/images/CPA_MEL.jpg)
@@ -75,25 +77,17 @@ The central pedagogical approaches adopted for CPA are the ‘learning through d
 
 ### Assessment Criteria
 
-**Paper 1 (Written) - 1 hour 15 minutes**
-
-This paper will assess knowledge, understanding and application of concepts and skills in all the six modules;
-
-•  Computer Fundamentals (CPF)
-
-•  Media Elements (MEL)
-
-•  Document Processing (DOP)
-
-•  Spreadsheets (SST)
-
-•  Interactive Multimedia Communication (IMC)
-
-•  Media Computing (MEC)
-
+<u><b>Paper 1 (Written) - 1 hour 15 minutes</b></u>  <br>
+This paper will assess knowledge, understanding and application of concepts and skills in all the six modules; <br>
+•  Computer Fundamentals (CPF) <br>
+•  Media Elements (MEL) <br>
+•  Document Processing (DOP) <br>
+•  Spreadsheets (SST) <br>
+•  Interactive Multimedia Communication (IMC) <br>
+•  Media Computing (MEC) <br>
 Refer to the link for further information.
 
-**Paper 2 (Lab-based) - 1 hour 30 minutes**
+<b>Paper 2 (Lab-based) - 1 hour 30 minutes</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

@@ -28,6 +28,29 @@ Some of our activities in 2021:
 5.  Mental Wellbeing Workshop
 6.  Yarn Doll Making Workshop
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-plpv{background-color:#EAEAEA;color:#222;font-style:italic;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ii8k"><img src="https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Curriculum/English/Reading%20Programme/Str1.jpg" alt="Str1.jpg" width="149" height="198"></th>
+    <th class="tg-ii8k"><img src="https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Curriculum/English/Reading%20Programme/str2.jpg" alt="str2.jpg" width="262" height="197"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-plpv">Calligraphy workshop to raise awareness about mental wellbeing. <br></td>
+    <td class="tg-plpv">Upcycling workshop to encourage students to go green.  </td>
+  </tr>
+</tbody>
+</table>
 
 
 

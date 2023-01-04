@@ -27,3 +27,8 @@ Some of our activities in 2021:
 4.  Paper Craft Workshop
 5.  Mental Wellbeing Workshop
 6.  Yarn Doll Making Workshop
+
+
+
+
+Click [<b>here</b>](https://sites.google.com/view/bdsreadingprogramme/home) to browse our Take Our Pick website.

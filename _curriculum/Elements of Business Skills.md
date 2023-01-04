@@ -49,3 +49,6 @@ Refer to the link below for further information. <br>
 ### Assessment Criteria
 
 ![](/images/ebs2.jpg)
+
+
+Source: [https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/humanities/2020elementsofbusinesssills](/files/2020elementsofbusinessskillsnormaltechnicalsyllabus.pdf)

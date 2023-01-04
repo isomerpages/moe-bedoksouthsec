@@ -47,3 +47,5 @@ Refer to the link below for further information. <br>
 
 
 ### Assessment Criteria
+
+![](/images/ebs2.jpg)

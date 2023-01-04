@@ -261,6 +261,8 @@ The BDS English Language and Literature programme approaches the teaching of tex
 
 We would like to suggest to parents to spend time looking through the specially selected readers/periodicals with your child as these can help build your child’s vocabulary. This word bank will be useful for their writing.
 
+  
+
 We hope we will be able to work in partnership to help heighten your child’s love for the language and mould them to be proficient and confident users of the English Language.
 
 ### Recommended Reading Lists Compiled by National Library Board (NLB)

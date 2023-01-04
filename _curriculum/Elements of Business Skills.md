@@ -34,23 +34,16 @@ It is hoped that every student will embody the Desired Outcomes of Education (DO
 
 <u><b>Approach and Pedagogy</b></u>
 
-*  Adoption of Mixed Mode Delivery (MMD) such as demonstration, explicit teaching, games, inquiry, mind-mapping, pair work, role-play and think-pair-share
-
-*  Infusion of Information and Communication Technology (ICT)
-
+*   Adoption of Mixed Mode Delivery (MMD) such as demonstration, explicit teaching, games, inquiry, mind-mapping, pair work, role-play and think-pair-share
+*   Infusion of Information and Communication Technology (ICT)
 *   Linkage of concepts that students learn in the classroom to authentic businesses
-
-*    Practice of Assessment for Learning through relevant toolkits
-
+*   Practice of Assessment for Learning through relevant toolkits
 *   Usage of Differentiated Instructions (DI)
+*   Participation in competitions by external organisations
+*   Collaboration between schools on the sharing of question papers and mark schemes of Mid-year Examinations, End-of-Year Examinations and Preliminary Examinations
 
-*  Participation in competitions by external organisations
-
-*    Collaboration between schools on the sharing of question papers and mark schemes of Mid-year Examinations, End-of-Year Examinations and Preliminary Examinations
-
-Refer to the link below for further information.
-
-*  [GCE Normal (Technical) Level: (Syllabus 7066)](/files/7066_y21_sy.pdf)
+Refer to the link below for further information. <br>
+[GCE Normal (Technical) Level: (Syllabus 7066)](/files/7066_y21_sy.pdf)
 
 
 ### Assessment Criteria

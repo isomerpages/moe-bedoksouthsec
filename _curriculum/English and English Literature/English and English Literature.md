@@ -167,7 +167,7 @@ The BDS English Language and Literature programme approaches the teaching of tex
 </tbody>
 </table>
 
-**Literature in English Assessment (End of year only)**
+<b>Literature in English Assessment (End of year only)</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

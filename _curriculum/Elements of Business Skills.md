@@ -51,4 +51,4 @@ Refer to the link below for further information. <br>
 ![](/images/ebs2.jpg)
 
 
-Source: [https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/humanities/2020elementsofbusinessskills](/files/2020elementsofbusinessskillsnormaltechnicalsyllabus.pdf)
+Source: [https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/humanities/2020elementsofbusinessskillsnormaltechnicalsyllabus.ashx?la=en&hash=DF3145382A9A2778E958427EE8B7F7EBFD11D861](/files/2020elementsofbusinessskillsnormaltechnicalsyllabus.pdf)

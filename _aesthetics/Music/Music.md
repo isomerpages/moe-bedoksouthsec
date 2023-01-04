@@ -57,8 +57,10 @@ The department has applied the informal and non-formal pedagogical approach (Gre
 
 #### Assessment
 
-Music achievement standards indicate the quality of learning that students should typically demonstrate.
+Music achievement standards indicate the quality of learning that students should typically demonstrate.  
+
 The sequence of achievement describes progress in the learning area, and provides students a framework of growth and learning in the subject. Students are also assessed on subject-specific terminology and organisation that reflects the essential characteristics of learning with the subject.
 
+  
 
 Student portfolios of creative work illustrate the expected learning and help teachers to make judgments about whether students have achieved the standard at each level.

@@ -1,8 +1,13 @@
 ---
 title: Computer Applications
-permalink: /curriculum/computer-applications
+permalink: /curriculum/computer-applications/
 description: ""
 ---
+![](/images/Curriculum.png)
+
+Computer Applications
+=====================
+
 ### Introduction
 
 Computer Applications syllabus aims to prepare students to be technologically adept citizens, and to function and contribute effectively in an increasingly technologically-driven world. The syllabus emphasises fundamental knowledge and skills, and includes the appreciation and use of several software application packages for word processing, computer drawing and image editing, video editing, multimedia presentations and documents, spreadsheet calculations and charts, game design, programming; as well as, applications on the Internet. It is a compulsory subject for all Normal Technical (NT) students from Secondary one to four.
@@ -186,4 +191,3 @@ Refer to the link for further information.
 ### Tips for Parents
 
 We would like to suggest to parents to encourage your child to download the free software from the web so that they can build up on their practical skills. We hope we will be able to work in partnership to help heighten your child's passion for this subject.
-

@@ -29,12 +29,19 @@ The General Music Programme aims to:
 
 #### Curriculum
 
-The curriculum refers tocontent and learning experiences that support the acquisition of the above student outcomes. The key features of the curriculum comprise learning goals and content, pedagogy and assessment.
+The curriculum refers tocontent and learning experiences that support the acquisition of the above  
+
+student outcomes. The key features of the curriculum comprise learning goals
+
+and content, pedagogy and assessment.
 
 #### Learning Goals and Content
 
 Music is conducted semestrally for all lower secondary students. Students acquire basic instrument
+
 skills in electronic music keyboards and guitar in order to develop their interests and passion. These skills serve as a platform for group music-making, songwriting and performance opportunities. Resources are provided for students to continue their learning outside of the classroom.
+
+  
 
 Students are exposed to specialised music software to add relevance to their learning in today’s increasingly digital world. These include music production software to facilitate creative and performance endeavours within the school and community.
 

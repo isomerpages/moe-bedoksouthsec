@@ -26,8 +26,7 @@ The programme aims to: 
 
 (iii) <b>Collaborate</b> as a team through active participation in various competitions and events
 
-Events & Awards:
-
+Events & Awards: 
 *   Singapore Schools’ Debating Championship
 *   Unity Young Writers Festival – 2nd place in Flash Fiction Category
 *   Live On Festival – Merit Award for Essay Category

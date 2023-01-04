@@ -1,9 +1,14 @@
 ---
 title: English and English Literature
-permalink: /curriculum/english-and-english-literature
+permalink: /curriculum/english-and-english-literature/
 description: ""
 third_nav_title: English and English Literature
 ---
+![](/images/Curriculum.png)
+
+English and English Literature
+==============================
+
 ![English](/images/english.jpg)
 
 ### Introduction

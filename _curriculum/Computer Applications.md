@@ -135,7 +135,7 @@ Refer to the link for further information.
 </tbody>
 </table>
 
-**Paper 3 (Lab-based) - 1 hour 30 minutes**
+<b>Paper 3 (Lab-based) - 1 hour 30 minutes</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

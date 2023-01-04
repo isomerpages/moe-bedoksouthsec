@@ -14,10 +14,12 @@ Computer Applications syllabus aims to prepare students to be technologically ad
 
 ### Student Outcomes
 
-Students will acquire skills in using a variety of application software and associated computer hardware to accomplish tasks, communicate, and facilitate activities;
-develop an awareness of how computing technology are used in the home, school, workplace and community;
-appreciate the role computers play in everyday life and recognise the impact computers have on society and people;
-develop critical thinking and problem-solving skills.
+Students will  
+
+1.  acquire skills in using a variety of application software and associated computer hardware to accomplish tasks, communicate, and facilitate activities;
+2.  develop an awareness of how computing technology are used in the home, school, workplace and community;
+3.  appreciate the role computers play in everyday life and recognise the impact computers have on society and people;
+4.  develop critical thinking and problem-solving skills.
 
 ### Pedagogy Approaches
 

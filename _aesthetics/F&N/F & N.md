@@ -161,32 +161,23 @@ Inquiry-based learning lends itself well in FCE as the syllabus is experiential 
 </tbody>
 </table>
 
-#### ASSESSMENT FORMAT (Upper secondary)
-The assessment objectives for this subject are classified into two main areas:
-
-Paper 1 : 40 % (100 marks)
-
-
+<b>ASSESSMENT FORMAT (Upper secondary)</b> <br>
+The assessment objectives for this subject are classified into two main areas: <br>
+Paper 1 : 40 % (100 marks) <br>
 Paper 2 : 60 % (100 marks)
 
 
 
 
-#### Paper 1 ( 2 Hours) – Written Paper
-
-This will test the candidates’ knowledge of theory and practice in response to the assessment objectives. Candidates are to answer all questions in Sections A and B. Candidates are to answer three essay questions in Section C.
-
-Section A: consisting of short answer type questions (25 marks)
-
-Section B: consisting of structured type questions (30 marks)
-
-
+<b>Paper 1 ( 2 Hours) – Written Paper</b> <br>
+This will test the candidates’ knowledge of theory and practice in response to the assessment objectives. Candidates are to answer all questions in Sections A and B. Candidates are to answer three essay questions in Section C. <br>
+Section A: consisting of short answer type questions (25 marks) <br>
+Section B: consisting of structured type questions (30 marks) <br>
 Section C: consisting of open-ended type questions (45 marks)
 
 
 
-#### Paper 2 – Coursework
-
+<b>Paper 2 – Coursework</b> <br>
 Candidates will be given an assignment at the beginning of the examination year which must be completed for assessment by end July or early August of the examination year. The assignment
 is a study which will require the candidates to apply their knowledge and understanding in relation to the subject content. The assignment requires a problem-solving and investigative approach, with an emphasis on experimental work. A total of 15–20 hours must be assigned during curriculum time to
 facilitate the completion of the assignment.

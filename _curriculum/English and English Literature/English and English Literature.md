@@ -249,11 +249,11 @@ The BDS English Language and Literature programme approaches the teaching of tex
 
 #### Literature in English
 
-**Literature in English (2065**) <br>
+<b>Literature in English (2065)</b> <br>
 [GCE O Syllabus](/files/2065_y22_sy.pdf)
 
 
-**Literature in English NA Syllabus (2022)** <br>
+<b>Literature in English NA Syllabus (2022)</b> <br>
 [GCE N(A) Syllabus](/files/2022_y22_sy.pdf)
 
 

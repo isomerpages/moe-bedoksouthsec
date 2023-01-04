@@ -17,8 +17,7 @@ This subject is a compulsory project-based subject in the lower secondary school
 
 #### Lower Secondary
 
-<b>GENERAL OBJECTIVES</b>
-
+<b>GENERAL OBJECTIVES</b> <br>
 Students will be able to : <br>
 a)   Understand the importance of nutrition for long-term health <br>
 b)   Apply basic principles of consumer education <br>
@@ -27,9 +26,8 @@ d)  Nurture and develop critical thinking, problem-solving and creativity, a spi
 e)  Develop positive attitudes and values for the well-being of the community (families and society) <br>
 f)   Demonstrate effective and responsible use of resources for the individuals and the community
 
-**SYLLABUS STRUCTURE** 
-
-Food and Consumer Education (FCE) syllabus includes **two Core Areas** of Study (Food Studies and Consumer Studies) and **one Elective Module** (project)
+<b>SYLLABUS STRUCTURE</b> <br>
+Food and Consumer Education (FCE) syllabus includes <u>two Core Areas</u> of Study (Food Studies and Consumer Studies) and <u>one Elective Module</u> (project)
 
 Food Studies equip students with the knowledge about diet and health, so that they could be more discerning in choosing nutritious food for good health and be informed of the benefits of a balanced meal. Students will also be taught culinary skills to be self-sufficient in planning and preparing healthy meals for themselves. 
 

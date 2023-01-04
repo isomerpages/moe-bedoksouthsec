@@ -7,64 +7,11 @@ description: ""
 
 Elements of Business Skills
 ===========================
-
-The Elements of Business Skills (EBS) syllabus is designed as an introduction to business concepts by understanding business activities, focusing on basic marketing and customer relations, in
-Singapore’s context. Students will have opportunities to acquire foundational business knowledge
-and develop transferable employability skills in the service industry, namely the Travel and
-Tourism, Hospitality and Retail industries.
+The Elements of Business Skills (EBS) syllabus is designed as an introduction to business concepts by understanding business activities, focusing on basic marketing and customer relations, in Singapore’s context. Students will have opportunities to acquire foundational business knowledge and develop transferable employability skills in the service industry, namely the Travel and Tourism, Hospitality and Retail industries.
 
   
 
-The service industry continues to play a significant role in Singapore’s economic growth and
-offers employment opportunities. With globalisation, changing demographics and technological
-advancement, businesses are innovating and reinventing themselves to stay ahead of the
-competition. The study of EBS in the selected industries would provide students with opportunities
-to learn and develop 21st Century Competencies (Figure 1.1) needed to thrive in an increasingly
-volatile, uncertain, complex and ambiguous world.
-
-### Introduction
-
-Element of Business Skills Syllabus 7066 aims to develop in students the knowledge, skills and attitudes to be productive employees and contributing members of society.
-
-The services sector continues to contribute to Singapore’s economic growth and offer employment opportunities. It is intended that this syllabus provides students with opportunities to develop generic employability skills, values and attitudes and foundational knowledge for work in the services sector, namely in the travel and tourism, hospitality and retail industries.
-
-This syllabus is an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations. These are learnt in the context of businesses in the travel and tourism, hospitality and retail industries, which offer employment opportunities accessible to the students.
-
- The context of knowledge and application is in the local situation in Singapore.
-
-The syllabus also provides students with the foundation for further studies at institutes of higher learning. Through this course of study, students become aware of the prospects and challenges of a career in the services sector.
-
-It is offered as an elective subject at Secondary Three and examinable at the GCE Normal (Technical) Level.
-
-
-### Student Outcomes
-The syllabus enables students to develop:
-
-1.    basic understanding of business activities in the travel and tourism, hospitality and            
-
-       retail industries
-
-2.    basic marketing concepts and customer relations skills
-
-3.    basic employability skills for working in the travel and tourism, hospitality and retail industries
-
-4.    analytical and evaluative skills and the ability to make judgments; and
-
-5.    sell and relationship management, social awareness, and responsible decision-making
-
-Students will be able to develop the employability and cognitive skills of:
-
-*  personal effectiveness
-
-*    problem solving and decision making
-
-*   information and communication technologies
-
-*   communication and relationship management
-
-*    initiative and enterprise; and
-
-*    learning and personal development
+The service industry continues to play a significant role in Singapore’s economic growth and offers employment opportunities. With globalisation, changing demographics and technological advancement, businesses are innovating and reinventing themselves to stay ahead of the competition. The study of EBS in the selected industries would provide students with opportunities to learn and develop 21st Century Competencies (Figure 1.1) needed to thrive in an increasingly volatile, uncertain, complex and ambiguous world.
 
 ### Curriculum
 

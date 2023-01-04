@@ -240,11 +240,11 @@ The BDS English Language and Literature programme approaches the teaching of tex
 <b>English Language (1128)</b> <br>
 [GCE O Syllabus](/files/1128_y22_sy.pdf)
 
-**English Language Syllabus A (1190)** <br>
+<b>English Language Syllabus A (1190)</b> <br>
 [GCE N(A) Syllabus](/files/1190_y22_sy.pdf) 
 
                             
-**English Language Syllabus T (1195)** <br>
+<b>English Language Syllabus T (1195)</b> <br>
 [GCE N(T) Syllabus](/files/1195_y22_sy.pdf)
 
 #### Literature in English

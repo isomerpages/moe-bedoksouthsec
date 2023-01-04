@@ -46,8 +46,7 @@ d)   gain knowledge and skills to make informed decisions concerning food and nu
 
 
 
-**ASSESSMENT OBJECTIVES**
-
+<b>ASSESSMENT OBJECTIVES</b> <br>
 The assessment objectives for this subjects are classified into two areas:(I) Knowledge and Understanding (Paper 1)
 
 1.   The principles of nutrition and the concept of a balanced diet in meal planning. 

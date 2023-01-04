@@ -9,22 +9,19 @@ third_nav_title: English and English Literature
 English and English Literature
 ==============================
 
-![English](/images/english.jpg)
-
 ### Introduction
 
-The BDS English and Literature in English curriculum aims to provide students with the opportunity to acquire literary and linguistic skills so that they will be able to communicate effectively as a result of their development in the various areas of language competency. The department carefully chooses texts and resources which are diverse to enable our students to explore their own and others’ customs, traditions, values, beliefs and ways of seeing and making sense of the world through readings and discussions. The resources used by the department add to the relevance and authenticity of the curriculum, allowing students to experience the power of language.
+The BDS English and Literature in English curriculum aims to provide students with the opportunity to acquire literary and linguistic skills so that they will be able to communicate effectively as a result of their development in the various areas of language competency.
 
-The BDS English and Literature Department recognises that timely and effective assessments give students feedback on how well they have understood the lessons and on what they need to improve on. Our teachers assess the students using a range of assessment methods including essays, oral/video presentations, journals, portfolios, dramatization of Literature texts, and self and peer evaluation.
+The department curates texts and resources which are diverse to enable our students to explore their own and others’ customs, traditions, values, beliefs and ways of seeing and making sense of the world through readings and discussions. The resources used by the department add to the relevance and authenticity of the curriculum, allowing students to experience the power of language.
 
-### Student Outcomes
+Student will
 
-Students will 
-* acquire communication and collaborative skills 
-* develop critical thinking skills 
-* have a global awareness 
-* find opportunities in class to be creative and innovative 
-* be introduced to media literacy
+*   acquire communication and collaborative skills
+*   develop critical thinking skills
+*   have a global awareness
+*   find opportunities in class to be creative and innovative
+*   be introduced to media literacy
 
 #### Approach & Pedagogy
 

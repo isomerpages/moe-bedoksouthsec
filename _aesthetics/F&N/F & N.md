@@ -17,7 +17,7 @@ This subject is a compulsory project-based subject in the lower secondary school
 
 #### Lower Secondary
 
-**GENERAL OBJECTIVES**
+<b>GENERAL OBJECTIVES</b>
 
 Students will be able to : <br>
 a)   Understand the importance of nutrition for long-term health <br>

@@ -237,7 +237,7 @@ The BDS English Language and Literature programme approaches the teaching of tex
 
 ### For more information, refer to links below
 
-**English Language (1128**) <br>
+<b>English Language (1128)</b> <br>
 [GCE O Syllabus](/files/1128_y22_sy.pdf)
 
 **English Language Syllabus A (1190)** <br>

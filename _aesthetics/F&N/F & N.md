@@ -59,7 +59,7 @@ The assessment objectives for this subjects are classified into two areas:(I) Kn
 
 
 
-(II) Analysis, Planning, Application and Evaluation in a given Coursework (Paper 2) Students should be able to demonstrate the following process skills in a given coursework task:
+(II) Analysis, Planning, Application and Evaluation in a given Coursework (Paper 2) Students should be able to demonstrate the following process skills in a given coursework task: 
 
 1.   Define and analyse task question / problem situation. 
 
@@ -85,25 +85,21 @@ The assessment objectives for this subjects are classified into two areas:(I) Kn
 
 Inquiry-based learning lends itself well in FCE as the syllabus is experiential in nature. The school focus on three main domains – Engage, Explore and Apply.
 
-#### Pedagogy Approach
-
-
+<b>Pedagogy Approach</b> <br>
 Inquiry-based learning lends itself well in FCE as the syllabus is experiential in nature. The school focus on three main domains – Engage, Explore and Apply.
 
-#### Engage
-
-
+<b>Engage</b> <br>
 -  Being provided an interesting context 
 
 -  Carry out research and interview
 
-#### Explore
+<b>Explore</b> <br>
 
 -  Students collaborate/ record thoughts
 
 -  Students ideate on possibilities
 
-#### Apply
+<b>Apply</b> <br>
 
 -   Demonstrate knowledge/skills gain
 

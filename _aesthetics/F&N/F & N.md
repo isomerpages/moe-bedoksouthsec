@@ -22,13 +22,9 @@ This subject is a compulsory project-based subject in the lower secondary school
 Students will be able to : <br>
 a)   Understand the importance of nutrition for long-term health <br>
 b)   Apply basic principles of consumer education <br>
-
 c)   Appreciate and develop an understanding of food, nutrition and trans-cultural awareness in the           global context <br>
-
-d)  Nurture and develop critical thinking, problem-solving and creativity, a spirit of enterprise,                    innovation, and aesthetic awareness; to make informed and discerning food and consumer-                  related decisions
-
-e)  Develop positive attitudes and values for the well-being of the community (families and society) 
-
+d)  Nurture and develop critical thinking, problem-solving and creativity, a spirit of enterprise,                    innovation, and aesthetic awareness; to make informed and discerning food and consumer-                  related decisions <br>
+e)  Develop positive attitudes and values for the well-being of the community (families and society) <br>
 f)   Demonstrate effective and responsible use of resources for the individuals and the community
 
 **SYLLABUS STRUCTURE** 

@@ -1,9 +1,14 @@
 ---
 title: Stretch Programme
-permalink: /curriculum/english-and-english-literature/stretch-programme
+permalink: /curriculum/english-and-english-literature/stretch-programme/
 description: ""
 third_nav_title: English and English Literature
 ---
+![](/images/Curriculum.png)
+
+Stretch Programme
+=================
+
 ### BDS Debate Team
 
 The BDS Debating Programme is a literacy programme that provides students with opportunities to develop intellectual rigour and critical thinking in their use of the English Language. We aim to develop in our students life-long values, skills and competencies that help them acquire global awareness and develop their communication, collaborative and critical thinking skills.

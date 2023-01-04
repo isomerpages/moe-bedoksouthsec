@@ -1,8 +1,13 @@
 ---
 title: Humanities
-permalink: /curriculum/humanities
+permalink: /curriculum/humanities/
 description: ""
 ---
+![](/images/Curriculum.png)
+
+Humanities
+==========
+
 ### Introduction
 
 The BDS Humanities Department believes that all our students have the capacity to hold the world in their hands.  

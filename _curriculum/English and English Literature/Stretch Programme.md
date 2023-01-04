@@ -20,11 +20,11 @@ The BDS Talent Management Programme is a literacy programme that provides studen
 
 The programme aims to: 
 
-(i)  Develop **independent, confident** and **effective** users of the language through varied activities that help to hone their communication skills,
+(i)  Develop <b>independent, confident</b> and <b>effective</b> users of the language through varied activities that help to hone their communication skills,
 
-(ii)  Inculcate an **intellectual curiosity** of real-world global and social issues, and be  **innovative** problem-solvers in approaching such issues
+(ii)  Inculcate an <b>intellectual curiosity</b> of real-world global and social issues, and be  <b>innovative</b> problem-solvers in approaching such issues
 
-(iii) **Collaborate** as a team through active participation in various competitions and events
+(iii) <b>Collaborate</b> as a team through active participation in various competitions and events
 
 Events & Awards:
 

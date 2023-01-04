@@ -40,8 +40,8 @@ Some of our activities in 2021:
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ii8k"><img src="https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Curriculum/English/Reading%20Programme/Str1.jpg" alt="Str1.jpg" width="149" height="198"></th>
-    <th class="tg-ii8k"><img src="https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Curriculum/English/Reading%20Programme/str2.jpg" alt="str2.jpg" width="262" height="197"></th>
+    <th class="tg-ii8k"><img src="/images/Str1.jpg" style="width:100%"></th>
+    <th class="tg-ii8k"><img src="/images/str2.jpg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>

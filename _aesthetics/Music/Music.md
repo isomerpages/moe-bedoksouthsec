@@ -14,7 +14,6 @@ Music
 ![Music](/images/music.jpg)
 
 In the music programme at BDS, students listen to, compose and perform music from a broad range of styles, traditions and contexts. They create, shape and share sounds in time and space and critically analyze music they listen to, make and perform. Music practice is aurally based and focuses on acquiring and using knowledge, to understand music and musicians from their own experience and from other times and places.
-
  
 #### Student Outcomes
 

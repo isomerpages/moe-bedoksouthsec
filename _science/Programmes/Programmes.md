@@ -77,3 +77,10 @@ Team Static Sisters with their exhibit to showcase tricks using concept of Stati
 ### Farmathon 2022
 
 On 30 July 2022, 2 teams of students participated in the MGS Farmathon 2022, an inter-school entrepreneurship competition organised by Methodist Girls’ School. This competition focuses on solving problems faced by Singapore’s farms and exposes students to business idea on increasing Singapore’s demand for locally produced food or on strengthening Singapore’s food security. Prior to this competition, the students even went on a learning journey to Singapore Indoor Farms which introduced them to farming in controlled environments. They visited a farm and were exposed to different types of hydroponic systems and also got to learn about seed germination. One group obtained the Certificate of Participation while the other clinched the Most Innovative Award.
+
+
+![](/images/Farm1.png)
+
+![](/images/Farm2.png)
+
+![](/images/Farm3.png)

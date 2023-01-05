@@ -10,26 +10,38 @@ Mathematics
 
 ### Introduction
 
-The Mathematics Department aims to enthuse and empower students to learn and use mathematics in future engagements. We seek to develop confident and competent, self-directed learners and users of mathematical problem solving in the 21st Century. 
+The Mathematics Department aims to enthuse and empower students to learn and use mathematics in future engagements. We seek to develop confident and competent, self-directed learners and users of mathematical problem solving in the 21st Century.
 
 ### Student Outcomes
 
-The **Additional Mathematics Syllabus** aims to enable students who have an aptitude and interest in mathematics to:
-* Acquire mathematical concepts and skills for higher studies in mathematics and to support learning in the other subjects, in particular, the sciences;
-* Develop thinking, reasoning and meta-cognitive skills through a mathematical approach to problem-solving;
-* Connect ideas within mathematics and between mathematics and the sciences through applications of mathematics; and
-* Appreciate the abstract nature and power of mathematics.
+The <b>Additional Mathematics Syllabus</b> aims to enable students who have an aptitude and interest in mathematics to:
 
-The **Mathematics Syllabus** aims to enable all students to:
-* Acquire mathematical concepts and skills for continuous learning in mathematics and to support learning in other subjects;
-* Develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving; 
-* Connect ideas within mathematics and between mathematics and other subjects through applications of mathematics; 
-* Build confidence and foster interest in mathematics.
+*   Acquire mathematical concepts and skills for higher studies in mathematics and to support learning in the other subjects, in particular, the sciences;  
+    
+*   Develop thinking, reasoning and meta-cognitive skills through a mathematical approach to problem-solving;  
+    
+*   Connect ideas within mathematics and between mathematics and the sciences through applications of mathematics; and  
+    
+*   Appreciate the abstract nature and power of mathematics.  
+    
 
-The **N(T) Mathematics Syllabus** aims to enable students who are bound for post-secondary vocational education to:
-* Acquire mathematical concepts and skills for real life, to support learning in other subjects, and to prepare for vocational education; 
-* Develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem solving; and 
-* Build confidence in using mathematics and appreciate its value in making informed decisions in real life.
+  
+
+The <b>Mathematics Syllabus</b> aims to enable all students to:
+
+*   Acquire mathematical concepts and skills for continuous learning in mathematics and to support learning in other subjects;
+*   Develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving; 
+*   Connect ideas within mathematics and between mathematics and other subjects through applications of mathematics; 
+*   Build confidence and foster interest in mathematics.
+
+  
+
+The <b>N(T) Mathematics Syllabus</b> aims to enable students who are bound for post-secondary vocational education to:  
+
+*   Acquire mathematical concepts and skills for real life, to support learning in other subjects, and to prepare for vocational education; 
+*   Develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem solving; and   
+    
+*   Build confidence in using mathematics and appreciate its value in making informed decisions in real life.
 
 ### GCE Exam Format
 

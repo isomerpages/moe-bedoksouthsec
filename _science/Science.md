@@ -22,4 +22,12 @@ Students will acquire and develop scientific knowledge, skills, values, ethics a
 *   <b>Innovate</b> using Science as they use their knowledge to solve real-world problems and show care for the local and global environment
 
 
-### Student Outcomes
+### Approach & Pedagogy
+
+Inquiry-based learning through e-Pedagogy, constructivist and cooperative learning strategies on platforms such as Student Learning Space (SLS) to
+
+*   **Engage** students’ curiosity
+*   **Explore** the practices of scientific inquiry through hands-on experiments, data loggers or simulations
+*   **Explain** and critically discuss scientific concepts in relation to experimental results
+*   **Elaborate** and connect scientific understanding to new experiences
+*   **Evaluate** and demonstrate their understanding in varied ways

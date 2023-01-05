@@ -39,7 +39,7 @@ In line with the school's Teaching and Learning Framework, we seek to nurture cr
 * Be curious about the world around them. 
 * Be motivated to meaningfully contribute to bettering the lives of others around them.
 
-**Approach & Pedagogy**
+<b>Approach & Pedagogy</b>
 
 * Inquiry-Based Learning approach to investigating issues 
 * (Historical Inquiry/Geographical Inquiry/Issues Investigation)       

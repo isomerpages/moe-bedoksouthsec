@@ -11,9 +11,7 @@ Science
 
 ### Introduction
 
-![Science](/images/Science.jpg)
-
-BDS Science curriculum aims to provide every student with the opportunity to stimulate their passion for learning through well-designed studies of experimental and practical sciences. We hope that though varied teaching strategies, competitions and enrichment programmes, we can help every student to realise their potential/talent. Teachers in the Science Department strongly promote “Learning Beyond Classroom” to enhance learner-centered pedagogy.
+BDS Science curriculum aims to provide every student with the opportunity to ignite their passion for inquiry-based learning through well-designed experiments and hands-on activities, while developing values, ethics and attitudes relevant to Science as a way of thinking and doing. Through varied learner-centered teaching strategies, self-directed learning, enrichment programmes and competitions, students are engaged in authentic learning experiences within and beyond the Science classroom, to acquire skills that will help them to make informed decisions about Science-related issues in their everyday life.
 
 ### Student Outcomes
 

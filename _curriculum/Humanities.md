@@ -27,7 +27,7 @@ In line with the school's Teaching and Learning Framework, we seek to nurture cr
 * Clearly and confidently communicate their ideas through a variety of means.       
 * Acquire, manage and use different types of information effectively. 
 
-**Knowledge**
+<b>Knowledge</b>
 
 * Develop an understanding of important concepts related to History, Geography and Social Studies. 
 * Have an informed awareness about current issues relevant to Singapore, the region, and the world. 

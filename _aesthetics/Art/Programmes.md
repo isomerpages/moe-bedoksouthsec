@@ -4,8 +4,6 @@ permalink: /curriculum/aesthetics/art/programmes/
 description: ""
 third_nav_title: Art
 ---
-![](/images/Curriculum.png)
-
 Programmes
 ==========
 

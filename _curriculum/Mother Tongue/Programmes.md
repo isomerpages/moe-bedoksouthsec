@@ -9,7 +9,7 @@ Programmes
 
 ### Mother Tongue Language Fortnight
 
-As part of the school's effort to create a vibrant environment that encourages students to learn more about their Mother Tongue Languages, the MTL Department has been holding the MTL Fortnight on an annual basis. During the MTL Fortnight, a wide range of activities (including quizzes, riddles, a singing competition, creative essay writing competition and various cultural related workshops including cooking and traditional food tasting, seal carving, fan painting, and lantern making) would be organized to encourage students to use more of their Mother Tongue Languages, and help students gain more exposure to their respective cultures. 
+As part of the school's effort to create a vibrant environment that encourages students to learn more about their Mother Tongue Languages, the MTL Department has been holding the MTL Fortnight on an annual basis. During the MTL Fortnight, a wide range of activities (including quizzes, riddles, a singing competition, creative essay writing competition and various cultural related workshops including cooking and traditional food tasting, seal carving, fan painting, and lantern making) would be organized to encourage students to use more of their Mother Tongue Languages, and help students gain more exposure to their respective cultures.
 
 ![Mother Tongue Language Fortnight](/images/Mother%20Tongue%20Langauge%20Fortnight.png)
 

@@ -3,8 +3,6 @@ title: Elements of Business Skills
 permalink: /curriculum/elements-of-business-skills/
 description: ""
 ---
-![](/images/Curriculum.png)
-
 Elements of Business Skills
 ===========================
 The Elements of Business Skills (EBS) syllabus is designed as an introduction to business concepts by understanding business activities, focusing on basic marketing and customer relations, in Singapore’s context. Students will have opportunities to acquire foundational business knowledge and develop transferable employability skills in the service industry, namely the Travel and Tourism, Hospitality and Retail industries.

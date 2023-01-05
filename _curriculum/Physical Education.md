@@ -98,16 +98,25 @@ At Sec 4 and 5 levels; the guiding philosophy of SPEARS plays a key role as it e
 </tbody>
 </table>
 
-**Scoring &amp; Grading System:** 
+<b>Scoring & Grading System:</b>
 
-* Physical Fitness = 30 points (actual score in NAPFA)
+*   Physical Fitness = 30 points (actual score in NAPFA)
 
-* Physical Skills = Practical : 30 points (total score x 3) = Theory : 20 points (total score x 2) 
+  
 
-* Behaviour Domain = 20 points (total score x 2)
- 
-* The Grading Table: total score is 100 and the score is converted into grades; <br>
-With effect from 2005; Grades A &amp; B will entitle students LEAPS CCA points under CCA-Others /             Other Special Events / Participation – Intra-School Activities / Intra School – Inter Group Games.
+*   Physical Skills = Practical : 30 points (total score x 3) \= Theory : 20 points (total score x 2) 
+
+  
+
+*   Behaviour Domain = 20 points (total score x 2)  
+    
+
+  
+
+*   The Grading Table: total score is 100 and the score is converted into grades;  
+    
+
+    With effect from 2005; Grades A & B will entitle students LEAPS CCA points under CCA-Others / Other Special Events / Participation – Intra-School Activities / Intra School – Inter Group Games.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

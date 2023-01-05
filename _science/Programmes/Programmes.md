@@ -19,5 +19,5 @@ The Science Talent Management Programme is a two-year programme that provides st
 ![](/images/Team%20Newton.png)
 Team Newton explaining gravity using Einstein concept of spacetime.
 
-
+![](/images/Team%20Sauce%20Based.png)
 Team Sauce Based Question with their magnetic train exhibit using the concept of electromagnetism.

@@ -19,23 +19,24 @@ Principles of Accounts (POA), Syllabus 7087 and 7086, is designed to teach age-a
 This subject forms part of a broad-based education to equip students with strong fundamentals for future learning. It is offered as an elective subject at Secondary Three and examinable at the Singapore-Cambridge General Certificate of Education (GCE) Ordinary Level (O-Level) and Normal (Academic) Level (N(A)-Level).
 
 
-### Student Outcomes
+### Aims
 
-It is the intent of this syllabus that students develop the abilities to **prepare, communicate** and **use** accounting information.
+The primary aim of the POA syllabus is to develop in students the knowledge and skills to prepare, communicate and use both accounting information and non-accounting information related to business to make decisions.
 
-In the learning process, students will develop an understanding of the importance of **professional ethics**.
+  
 
-Students will be able to:
+Students need to understand the purpose of the information and how business activities are measured and represented before becoming users of accounting information. Hence, the syllabus aims to first equip students with the basic knowledge and skills on how to prepare and present accounting information and communicate with them in a useful manner that can be understood by others.
 
-* apply the double entry system of recording business transactions
+  
 
-* organise and present accounting information in ledger accounts and financial statements
+The syllabus then aims to help students to become users of accounting information and make informed decisions using both accounting and non-accounting business-related information. By learning to become users of information, students understand:
 
-* analyse the effects of accounting transactions on financial statements
+  
 
-* analyse and interpret financial statements
- 
-* evaluate businesses for their profitability, liquidity and inventory management using financial information and ratios
+*   what business decisions are
+*   how decisions are made using accounting information
+*   the limitations of relying only on accounting information; and
+*   the consideration of non-accounting business-related information.
 
 
 ### Curriculum

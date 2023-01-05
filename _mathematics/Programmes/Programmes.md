@@ -13,12 +13,16 @@ Programmes
 
 Bedok South came into the programme with the aim of improving students’ learning experience in Mathematics as well as enhancing teachers’ capacity. While the school has been experiencing an improving trend in terms of academic results, we are concerned that many of our students fail to retain the concepts that they are supposed to have learnt and they demonstrate a lack of depth in their understanding.
 
-For example, Algebra seem to be a collection of rules and procedures with little link to numbers and arithmetic. Mathematics in mensuration, profit and loss, rate, ratio and portion seem to stand alone as a series of formulae that needs to be applied in the appropriate contexts instead of an extension of proportional reasoning. While a minority of students may be able to see the links between some of these concepts, the majority lack the habits of the mind nor the motivation to seek these underlying links. Hence, MProSE’s emphasis on the mathematical problem solving process aligns itself well with enhancing students: 
-Knowledge of the mathematical problem solving process, making it possible for them to have greater metacognitive awareness of their own thought processes during mathematical problem solving;
-Appreciation of mathematical problem solving and building their sense of self-efficacy in engaging with mathematical problem solving by engaging in successful problem solving; and
-Developing habits of the mind and the motivation to seek links between the ideas that they come across
+For example, Algebra seem to be a collection of rules and procedures with little link to numbers and arithmetic. Mathematics in mensuration, profit and loss, rate, ratio and portion seem to stand alone as a series of formulae that needs to be applied in the appropriate contexts instead of an extension of proportional reasoning. While a minority of students may be able to see the links between some of these concepts, the majority lack the habits of the mind nor the motivation to seek these underlying links. Hence, MProSE’s emphasis on the mathematical problem-solving process aligns itself well with enhancing students: 
 
-While solving mathematical puzzles have been associated with students who are high-achievers in mathematics, it is precisely because the under-performing students lack the skills and motivation to seek links between mathematical ideas and to engage effectively in mathematical problem solving that we are seeking to help them develop their capacity and motivation to do so to help improve their academic performances. 
+1.  Knowledge of the mathematical problem-solving process, making it possible for them to have greater metacognitive awareness of their own thought processes during mathematical problem-solving;
+2.  Appreciation of mathematical problem solving and building their sense of self-efficacy in engaging with mathematical problem solving by engaging in successful problem solving; and
+3.  Developing habits of the mind and the motivation to seek links between the ideas that they come across
+
+  
+
+While solving mathematical puzzles have been associated with students who are high-achievers in mathematics, it is precisely because the under-performing students lack the skills and motivation to seek links between mathematical ideas and to engage effectively in mathematical problem solving that we are seeking to help them develop their capacity and motivation to do so to help improve their academic performances. 
+
 
 ### Subject-Based Banding
 

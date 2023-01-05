@@ -3,8 +3,6 @@ title: Computer Applications
 permalink: /curriculum/computer-applications/
 description: ""
 ---
-![](/images/Curriculum.png)
-
 Computer Applications
 =====================
 

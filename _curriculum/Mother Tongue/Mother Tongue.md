@@ -4,8 +4,6 @@ permalink: /curriculum/mother-tongue/
 description: ""
 third_nav_title: Mother Tongue
 ---
-![](/images/Curriculum.png)
-
 Mother Tongue
 =============
 

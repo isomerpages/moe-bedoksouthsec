@@ -1,6 +1,6 @@
 ---
 title: Student Welfare
-permalink: /student-development/student-welfare
+permalink: /student-development/student-welfare/
 description: ""
 third_nav_title: Student Welfare
 ---
@@ -24,4 +24,3 @@ The Student Welfare Committee has the following objectives:
 The following support framework is adapted from MOE:
 
 ![Support Framework](/images/Support%20Framework.jpg)
-

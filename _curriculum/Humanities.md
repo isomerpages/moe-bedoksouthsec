@@ -3,8 +3,6 @@ title: Humanities
 permalink: /curriculum/humanities/
 description: ""
 ---
-![](/images/Curriculum.png)
-
 Humanities
 ==========
 

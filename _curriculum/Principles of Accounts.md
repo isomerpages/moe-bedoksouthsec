@@ -57,3 +57,12 @@ The syllabus then aims to help students to become users of accounting informatio
 
 [Syllabus 7087: Singapore-Cambridge GCE O-Level](/files/7087_y22_sy.pdf) <br>
 [Syllabus 7086: Singapore Cambridge GCE N(A)-Level](/files/7086_y22_sy.pdf)
+
+
+
+### Scheme of Assessment
+
+There are two compulsory papers.  
+  
+
+<b>Syllabus 7087: Singapore-Cambridge GCE O-Level</b>

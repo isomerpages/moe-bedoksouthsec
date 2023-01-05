@@ -276,24 +276,12 @@ Our BDS Physical Education: The emphasis in PE teaching is not only based on the
 </tbody>
 </table>
 
-**To teach progressive sports skills for effective life-long learning outcomes.** 
+  
+<b>To teach progressive sports skills for effective life-long learning outcomes.</b>  
 
-* Lower Secondary: Acquisition of basic skills (Hand – Eye Coordination)
-
-* Upper Secondary; Acquisition &amp; applications of concepts, tactics, strategies.
-
-* Both levels: Basic knowledge of FITT of exercise concepts
+·         Lower Secondary: Acquisition of basic skills (Hand – Eye Coordination) <br>
+·         Upper Secondary; Acquisition & applications of concepts, tactics, strategies. <br>
+·         Both levels: Basic knowledge of FITT of exercise concepts
 
 ### Development of PE Student-Leaders
 
-We also have our PE process in student-leadership development. We appoint a student as PE Class Leader to assist the teacher in facilitating the following duties;
-
-1.    **I**nspire classmates in the organisation of intra/interclass games/Sports Friday
-
-2.    **L**ead the class to conduct dynamic warm-up 
-
-3.    **E**nsure punctuality and report to PE teacher on class attendance
-
-4.    **A**ppoint students for the collection and returning of PE equipment
-
-5.    **D**isseminate information and performing administrative tasks (e.g. collect and return student valuables)

@@ -3,8 +3,6 @@ title: Curriculum
 permalink: /curriculum/
 description: ""
 ---
-![](/images/Curriculum.png)
-
 Curriculum
 ==========
 

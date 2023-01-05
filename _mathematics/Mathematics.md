@@ -3,8 +3,6 @@ title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
 ---
-![](/images/Curriculum.png)
-
 Mathematics
 ===========
 

@@ -10,7 +10,9 @@ Humanities
 
 ### Introduction
 
-The BDS Humanities Department believes that all our students have the capacity to hold the world in their hands.  
+The BDS Humanities Department believes that all our students have the capacity to hold the world in their hands.    
+
+  
 
 In line with the school's Teaching and Learning Framework, we seek to nurture creative and critical thinkers with the skills to excel in the 21st Century world, the heart to empathise with our fellow men, and the spirit to appreciate our diverse heritage and environment.
 

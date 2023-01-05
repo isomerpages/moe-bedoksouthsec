@@ -3,6 +3,9 @@ title: Physical Education
 permalink: /curriculum/physical-education/
 description: ""
 ---
+Physical Education
+==================
+
 ### Introduction
 
 <img style="width:65%" src="/images/SHAPE%20AT%20BDS.png">

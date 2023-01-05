@@ -1,8 +1,11 @@
 ---
 title: Science
-permalink: /curriculum/science
+permalink: /curriculum/science/
 description: ""
 ---
+Science
+=======
+
 
 ### Introduction
 
@@ -259,4 +262,4 @@ To do well in Science, it is important for you to encourage your child to:
 * Identifying key scientific concepts presented in the question
 * Explaining phenomena in the question using scientific vocabulary
 
-8. **Practice** questions consistently using the topical ten-year series books (Upper Secondary). 
+8. **Practice** questions consistently using the topical ten-year series books (Upper Secondary).

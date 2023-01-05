@@ -167,13 +167,17 @@ At Sec 4 and 5 levels; the guiding philosophy of SPEARS plays a key role as it e
 
 ### Objectives of PE Assessment
 
-* To equip students with skills and games concepts necessary to perform a variety of physical activities through structured PE programme with progressive two levels of teaching-learning of 6 chosen Sports under Physical Activities. **(PA)**
-
-* To engage students in effective teaching and learning of physical education and attain the desired fitness level to pass NAPFA. **(PHF)**
-
-* To develop in students - skills and competencies to lead themselves and others towards living an active and healthy lifestyle. 
+*   To equip students with skills and games concepts necessary to perform a variety of physical activities through structured PE programme with progressive two levels of teaching-learning of 6 chosen Sports under Physical Activities. <b>(PA)</b>  
     
-* To develop self and social awareness for students to build and maintain positive relationships to achieve personal well-being and effectiveness. **(OE &amp; PA)**
+
+*   To engage students in effective teaching and learning of physical education and attain the desired fitness level to pass NAPFA. <b>(PHF)</b>  
+    
+
+*   To develop in students - skills and competencies to lead themselves and others towards living an active and healthy lifestyle. 
+
+      
+
+*   To develop self and social awareness for students to build and maintain positive relationships to achieve personal well-being and effectiveness. <b>(OE & PA)</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

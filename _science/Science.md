@@ -20,3 +20,6 @@ Students will acquire and develop scientific knowledge, skills, values, ethics a
 *   Be <b>Inspired</b> by Science and enjoy learning as they develop scientific literacy to explain phenomena in daily lives
 *   <b>Inquire</b> like scientists as they engage in the Practices of Science to learn inquiry and Science process skills
 *   <b>Innovate</b> using Science as they use their knowledge to solve real-world problems and show care for the local and global environment
+
+
+### Student Outcomes

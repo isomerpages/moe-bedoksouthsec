@@ -59,6 +59,5 @@ The criteria for taking Humanities at a more demanding level will be based on st
 
   
 
-For more information on Full SBB, visit [www.moe.gov.sg/microsites/psle-fsbb](https://www.moe.gov.sg/microsites/psle-fsbb/index.html).
-
+For more information on Full SBB, visit [www.moe.gov.sg/microsites/psle-fsbb](https://www.moe.gov.sg/microsites/psle-fsbb/index.html). <br>
 For more information on how our school will be implementing Full SBB, you can contact us at bsss@moe.edu.sg.

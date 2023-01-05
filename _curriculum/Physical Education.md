@@ -246,7 +246,7 @@ At Sec 4 and 5 levels; the guiding philosophy of SPEARS plays a key role as it e
 
 ### Scheme of Work
 
-Our BDS Physical Education: The emphasis in PE teaching is not only based on the mere acquisition of skills, but also to one where pupils are able to develop character and to transfer their learning from one situation to another. PE teachers’ teaching methodology should be progressive to skill &amp; knowledge development, focuses particularly on the development of games concepts;
+Our BDS Physical Education: The emphasis in PE teaching is not only based on the mere acquisition of skills, but also to one where pupils are able to develop character and to transfer their learning from one situation to another. PE teachers’ teaching methodology should be progressive to skill & knowledge development, focuses particularly on the development of games concepts;
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

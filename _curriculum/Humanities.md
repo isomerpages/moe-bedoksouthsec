@@ -18,9 +18,9 @@ In line with the school's Teaching and Learning Framework, we seek to nurture cr
 
 ### Student Outcomes 
 
-**A BDS Humanities Student will be able to acquire the following:**
+<b>A BDS Humanities Student will be able to acquire the following:</b>
 
-**Skills**
+<b>Skills</b>
 
 * Think critically about various issues from different perspectives. 
 * Critically examine and analyse different sources of information to construct clear explanations and make informed judgments.      

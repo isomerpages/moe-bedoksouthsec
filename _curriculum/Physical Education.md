@@ -20,21 +20,19 @@ The Physical Education Programme is an integral component of BDSians' balanced a
 
 ### Student Outcomes
 
-To inculcate in our students - life-long values, skills and competencies to lead themselves and others; towards living an active, healthy and fulfilling life. 
+To inculcate in our students - life-long values, skills and competencies to lead themselves and others; towards living an active, healthy and fulfilling life.  
 
- (i)    Self-awareness and self-management skills to achieve personal well-being physically, emotionally           and mentally; 
+(i)    Self-awareness and self-management skills to achieve personal well-being physically, emotionally and mentally; 
 
- (ii)   Social awareness, interpersonal and leadership skills to build maintain positive relationships and             lead others; 
+ (ii)   Social awareness, interpersonal and leadership skills to build maintain positive relationships and lead others;   
+  
+ (iii)  Skills and knowledge of sports and the outdoors to lead themselves and others towards living a healthy and balanced life.
 
- (iii)  Skills and knowledge of sports and the outdoors to lead themselves and others towards living a               healthy and balanced life.
+<b>Approach & Pedagogy</b>
 
+Our PE/LLP key strategy is to use the <b>experiential learning approach</b> to develop students' psychomotor, cognitive and affective domains. Students go through a cycle of experiences, observation, reflection, and application in real-world situations through PE, sports and outdoors to help them internalise the skills and values. The use of authentic and learning experiences is accompanied with a strong emphasis on the 3 components of reflection (i.e analysis, critical thinking and decision making) to build on experiences that will help students to inculcate these lifelong habits.     
 
-**Approach &amp; Pedagogy**
-
-Our PE/LLP key strategy is to use the **experiential learning approach** to develop students' psychomotor, cognitive and affective domains. Students go through a cycle of experiences, observation, reflection, and application in real-world situations through PE, sports and outdoors to help them internalise the skills and values. The use of authentic and learning experiences is accompanied with a strong emphasis on the 3 components of reflection (i.e analysis, critical thinking and decision making) to build on experiences that will help students to inculcate these lifelong habits.   
-
-
-The department also takes direction from MOE's new PE syllabus and adopts a differentiated instruction to meet our students learning needs via the **Games Concept Approach** and **Sports Education Model** where students take up active roles while learning and playing the games. **Cooperative Learning** and Working in Teams is the emphasis in facilitating the Outdoor modules. 
+The department also takes direction from MOE's new PE syllabus and adopts a differentiated instruction to meet our students learning needs via the <b>Games Concept Approach</b> and <b>Sports Education Model</b> where students take up active roles while learning and playing the games. <b>Cooperative Learning</b> and Working in Teams is the emphasis in facilitating the Outdoor modules.
 
 <img src="/images/BDS%20LLP%20(PHYSICAL%20AND%20HEALTH)%20FRAMEWORK.png"  
 style="width:67%">

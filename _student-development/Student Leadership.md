@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /student-development/student-leadership
+permalink: /student-development/student-leadership/
 description: ""
 ---
 The Student Leadership Programme is led by the Student Leadership Committee. The committee conducts programmes and develops student leaders through school wide programmes and through specific skills training at every level. The committee is led by a HOD (Character and Citizenship Education) and his team. Directly linked to the Committee are the Prefectorial Board and Peer Leaders. 

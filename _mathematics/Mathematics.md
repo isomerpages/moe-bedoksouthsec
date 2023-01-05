@@ -130,4 +130,3 @@ Students’ feedback on the lessons was encouraging while teachers felt that the
 ![Math Lesson](/images/Maths%201.jpg)
 
 ![Math Lesson](/images/Math%202.jpg)
-

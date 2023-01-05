@@ -8,11 +8,15 @@ Principles of Accounts
 
 ### Introduction
 
-Accounting is an information system based on generally accepted accounting principles. It involves the recording and processing of business transactions, and communicating the information to stakeholders. The accounting information is used to evaluate business performance and facilitate decision-making.
+Accounting is an information system based on accepted accounting principles. It involves the recording and processing of business transactions and communicating the information to stakeholders. Accounting information is used to evaluate business performance and facilitate decision-making. What sets the accountancy profession apart is the responsibility to act in the public’s interest.  
 
-Principles of Accounts is designed to provide students with a meaningful basic introduction to financial accounting and to develop an appreciation of the discipline of accounting. It is grounded in preparing, communicating and using financial information, and appreciating the need for ethical conduct. The subject places emphasis on the understanding and application of accounting knowledge to develop lifelong skills and values that will be of value in the increasingly complex world of business.
+  
 
-This subject forms part of a broad-based education to equip students with strong fundamentals for future learning. It is offered as an elective subject at Secondary Three and examinable at the GCE Ordinary Level and Normal (Academic) Level.
+Principles of Accounts (POA), Syllabus 7087 and 7086, is designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.
+
+  
+
+This subject forms part of a broad-based education to equip students with strong fundamentals for future learning. It is offered as an elective subject at Secondary Three and examinable at the Singapore-Cambridge General Certificate of Education (GCE) Ordinary Level (O-Level) and Normal (Academic) Level (N(A)-Level).
 
 
 ### Student Outcomes

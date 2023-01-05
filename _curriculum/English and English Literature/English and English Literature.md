@@ -4,8 +4,6 @@ permalink: /curriculum/english-and-english-literature/
 description: ""
 third_nav_title: English and English Literature
 ---
-![](/images/Curriculum.png)
-
 English and English Literature
 ==============================
 

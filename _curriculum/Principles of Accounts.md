@@ -97,7 +97,7 @@ There are two compulsory papers.
   </tr>
   <tr>
     <td class="tg-dgl5">Paper 2</td>
-    <td class="tg-zr06">Answer 4 compulsory structured questions. (60 marks)<br><br><br>One question requires the preparation of financial statements for a business for one financial year. (20 marks)<br>A scenario-based question (7 marks) will be part of one of the 3 remaining questions.</td>
+    <td class="tg-zr06">Answer 4 compulsory structured questions. (60 marks)<br><br><br>· One question requires the preparation of financial statements for a business for one financial year. (20 marks)<br>· A scenario-based question (7 marks) will be part of one of the 3 remaining questions.</td>
     <td class="tg-7yig">60%</td>
     <td class="tg-7yig">2 hours</td>
   </tr>

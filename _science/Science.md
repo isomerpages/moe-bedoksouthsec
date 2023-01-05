@@ -254,4 +254,4 @@ To enjoy learning Science, it is important for you to encourage your child to:
 
 2\. <b>Understand the scientific concepts</b> instead of memorising them without understanding. This will help in <b>applying</b> these concepts to novel questions and in <b>interpreting</b> data such as graphs or tables.
 
-3\. Practice questions consistently and actively seek feedback from teachers.
+3\. <b>Practice</b> questions consistently and actively seek feedback from teachers.

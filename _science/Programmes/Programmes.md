@@ -21,3 +21,6 @@ Team Newton explaining gravity using Einstein concept of spacetime.
 
 ![](/images/Team%20Sauce%20Based.png)
 Team Sauce Based Question with their magnetic train exhibit using the concept of electromagnetism.
+
+![](/images/Team%20Static.png)
+Team Static Sisters with their exhibit to showcase tricks using concept of Static Electricity.

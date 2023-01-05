@@ -126,3 +126,120 @@ Combined Science (Chemistry, Physics)
 
 
 <b>Upper Secondary Science Examination Format</b>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Level / Stream</th>
+    <th class="tg-dgl5">Subject</th>
+    <th class="tg-dgl5">Duration</th>
+    <th class="tg-dgl5">Format</th>
+    <th class="tg-dgl5">Marks Allocation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">Sec 3 Express</td>
+    <td class="tg-ktyi">5076 <br>Science <br>(Chemistry /Physics)</td>
+    <td class="tg-ktyi">1½ h<br>(Chemistry) <br>1½ h (Physics)</td>
+    <td class="tg-ktyi">Section A: M.C.Q. <br>Section B: Structured questions <br>Section C: Essay questions</td>
+    <td class="tg-ktyi">20 <br>35<br> <br>20 </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Sec 3 Express</td>
+    <td class="tg-ktyi">5078 <br>Science <br>(Chemistry/ Biology) </td>
+    <td class="tg-ktyi">1½ h <br>(Chemistry) <br>1½ h<br>(Biology)</td>
+    <td class="tg-ktyi">Section A: M.C.Q. <br>Section B: Structured questions <br>Section C: Essay questions</td>
+    <td class="tg-ktyi">20 <br>35<br> <br>20 </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Sec 3 Express</td>
+    <td class="tg-ktyi">6091 <br>Physics</td>
+    <td class="tg-ktyi">2 h</td>
+    <td class="tg-ktyi">Section A: M.C.Q. <br>Section B: Structured questions <br>Section C: Essay questions</td>
+    <td class="tg-ktyi">30 <br>40 <br>30</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Sec 3 Express</td>
+    <td class="tg-ktyi">6092<br>Chemistry</td>
+    <td class="tg-ktyi">2 h</td>
+    <td class="tg-ktyi">Section A: M.C.Q. <br>Section B: Structured questions <br>Section C: Essay questions</td>
+    <td class="tg-ktyi">30 <br>40<br> <br>30</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Sec 3 Express</td>
+    <td class="tg-ktyi">6093 <br>Biology </td>
+    <td class="tg-ktyi">2 h</td>
+    <td class="tg-ktyi">Section A: M.C.Q. <br>Section B: Structured questions <br>Section C: Essay questions</td>
+    <td class="tg-ktyi">30 <br>40 <br>30</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Sec 3 Normal (Academic)</td>
+    <td class="tg-ktyi">5105 <br>Science <br>(Chemistry/Physics) </td>
+    <td class="tg-ktyi">1¼ h <br>(Chemistry) <br>1¼ h<br>(Physics) </td>
+    <td class="tg-ktyi">Section A: M.C.Q. <br>Section B: Structured questions <br>Section C: Essay questions</td>
+    <td class="tg-ktyi">20 <br>14<br> <br>16</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Sec 3 Normal (Academic)</td>
+    <td class="tg-ktyi">5107<br>Science <br>(Chemistry/Biology) </td>
+    <td class="tg-ktyi">1¼ h <br>(Chemistry) <br>1¼ h<br>(Biology) </td>
+    <td class="tg-ktyi">Section A: M.C.Q. <br>Section B: Structured questions <br>Section C: Essay questions</td>
+    <td class="tg-ktyi">20 <br>14<br> <br>16</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Sec 3 Normal (Technical)</td>
+    <td class="tg-ktyi">5148 <br>Science </td>
+    <td class="tg-ktyi">1 h <br>1 h </td>
+    <td class="tg-ktyi">Paper 1: M.C.Q. <br>Paper 2 : Structured questions</td>
+    <td class="tg-ktyi">40 <br>60<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Sec 4 Express <br><br><br><br><br>Sec 5 Normal <br>(Academic) </td>
+    <td class="tg-ktyi">5076 <br>Science (Chemistry/Physics) <br><br><br><br><br><br></td>
+    <td class="tg-ktyi">1 h <br>1¼ h <br><br><br><br><br>1¼ h <br><br><br>1½ h </td>
+    <td class="tg-ktyi">Paper 1: M.C.Q. <br>Paper 2 (Physics): <br>Section A - Structured questions <br>Section B - Essay <br>Paper 3 (Chemistry): <br>Section A - Structured questions <br>Section B - Essay <br>Paper 5: Physics &amp; Chemistry Practical </td>
+    <td class="tg-ktyi">40 <br><br>45 <br><br><br>20 <br><br>45 <br>20 <br>30 </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Sec 4 Express </td>
+    <td class="tg-ktyi">5078 <br>Science <br>(Chemistry/ Biology) </td>
+    <td class="tg-ktyi">1 h <br>1¼ h <br><br><br><br><br>1¼ h <br><br><br>1½ h</td>
+    <td class="tg-ktyi">Paper 1: M.C.Q. <br>Paper 3 (Chemistry): <br>Section A - Structured questions <br>Section B - Essay <br>Paper 4 (Biology): <br>Section A - Structured questions <br>Section B - Essay <br>Paper 5: Biology &amp; Chemistry Practical</td>
+    <td class="tg-ktyi">40 <br><br>45 <br>20 <br><br>45 <br>20 <br>30</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Sec 4 Express</td>
+    <td class="tg-ktyi">6091<br>Physics<br><br>6092<br>Chemistry<br><br>6093<br>Biology</td>
+    <td class="tg-ktyi">1 h<br>1 ¾ h <br> <br>1h 50m</td>
+    <td class="tg-ktyi">Paper 1: M.C.Q.<br>Paper 2: <br>Section A - Structural<br>Section B - Essay<br>Paper 3:<br>Practical</td>
+    <td class="tg-ktyi">40<br><br>50<br>30<br>40</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Sec 4 Normal <br>(Academic)</td>
+    <td class="tg-ktyi">5105<br>Science<br>(Chemistry/Physics) </td>
+    <td class="tg-ktyi">1¼ h <br>(Chemistry)<br>1¼ h <br>(Physics)</td>
+    <td class="tg-ktyi">Section A: M.C.Q.<br>Section B: Structured questions<br>Section C: Essay questions<br><br><br></td>
+    <td class="tg-ktyi">20<br>14<br>16</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Sec 4 Normal <br>(Technical)</td>
+    <td class="tg-ktyi">5148<br>Science</td>
+    <td class="tg-ktyi">1 h<br>1¼ h </td>
+    <td class="tg-ktyi">Paper 1: M.C.Q.<br>Paper 2 : Structured questions</td>
+    <td class="tg-ktyi">40<br>60</td>
+  </tr>
+</tbody>
+</table>
+
+
+### Examination Syllabuses

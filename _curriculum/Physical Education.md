@@ -8,11 +8,14 @@ Physical Education
 
 ### Introduction
 
-<img style="width:65%" src="/images/SHAPE%20AT%20BDS.png">
 
-To develop BDSians with the knowledge, skills and attitude to maintain a lifelong active and healthy lifestyle through effective Physical Education Programmes. <br>
+<img src="/images/SHAPE%20AT%20BDS.png" style="width:200px;height:240px;margin-right:15px;" align = "left">
 
+To develop BDSians with the knowledge, skills and attitude to maintain a lifelong active and healthy lifestyle through effective Physical Education Programmes.  
+  
 The Physical Education Programme is an integral component of BDSians' balanced and holistic education.
+
+
 
 
 ### Student Outcomes

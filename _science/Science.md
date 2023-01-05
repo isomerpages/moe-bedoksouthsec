@@ -65,3 +65,6 @@ Combined Science (Chemistry, Physics)
 ### Assessment Criteria
 
 <b>Lower Secondary Science Examination Format</b>
+
+
+<b>Upper Secondary Science Examination Format</b>

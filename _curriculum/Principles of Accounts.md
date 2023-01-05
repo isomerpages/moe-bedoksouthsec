@@ -3,6 +3,9 @@ title: Principles of Accounts
 permalink: /curriculum/principles-of-accounts/
 description: ""
 ---
+Principles of Accounts
+======================
+
 ### Introduction
 
 Accounting is an information system based on generally accepted accounting principles. It involves the recording and processing of business transactions, and communicating the information to stakeholders. The accounting information is used to evaluate business performance and facilitate decision-making.

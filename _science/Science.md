@@ -26,8 +26,8 @@ Students will acquire and develop scientific knowledge, skills, values, ethics a
 
 Inquiry-based learning through e-Pedagogy, constructivist and cooperative learning strategies on platforms such as Student Learning Space (SLS) to
 
-*   **Engage** students’ curiosity
-*   **Explore** the practices of scientific inquiry through hands-on experiments, data loggers or simulations
-*   **Explain** and critically discuss scientific concepts in relation to experimental results
-*   **Elaborate** and connect scientific understanding to new experiences
-*   **Evaluate** and demonstrate their understanding in varied ways
+*   <b>Engage</b> students’ curiosity
+*   <b>Explore</b> the practices of scientific inquiry through hands-on experiments, data loggers or simulations
+*   <b>Explain</b> and critically discuss scientific concepts in relation to experimental results
+*   <b>Elaborate</b> and connect scientific understanding to new experiences
+*   <b>Evaluate</b> and demonstrate their understanding in varied ways

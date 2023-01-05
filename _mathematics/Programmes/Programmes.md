@@ -4,6 +4,8 @@ permalink: /curriculum/mathematics/programmes/
 description: ""
 third_nav_title: Programmes
 ---
+![](/images/Curriculum.png)
+
 Programmes
 ==========
 

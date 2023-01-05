@@ -24,7 +24,7 @@ Students will be able to use their Mother Tongue Languages to:
 * convey information and ideas coherently for specific purposes and contexts
 * interact with others to construct knowledge
 
-**Approach & Pedagogy**
+<b>Approach & Pedagogy</b>
 
 * Differentiated Teaching with banded groups 
 * Infusion of ICT in teaching and learning

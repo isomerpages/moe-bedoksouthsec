@@ -243,3 +243,15 @@ Combined Science (Chemistry, Physics)
 
 
 ### Examination Syllabuses
+
+
+
+### Tips for Parents
+
+To enjoy learning Science, it is important for you to encourage your child to:
+
+1\.   Be an <b>active and inquisitive learner</b> in the classroom to participate in activities and ask questions when in doubt. 
+
+2\. <b>Understand the scientific concepts</b> instead of memorising them without understanding. This will help in <b>applying</b> these concepts to novel questions and in <b>interpreting</b> data such as graphs or tables.
+
+3\. Practice questions consistently and actively seek feedback from teachers.

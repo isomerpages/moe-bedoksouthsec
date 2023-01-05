@@ -26,7 +26,7 @@ While solving mathematical puzzles have been associated with students who are hi
 
 ### Subject-Based Banding
 
-We believe in differentiating our curriculum so that our students who excel in Mathematics are  provided with the opportunity to push themselves . Since 2008, students in the Normal (Academic) stream with strength in Mathematics are offered the opportunity to study the subject at the Express level. These students would be studying the subject at a more challenging level and be assessed together with their peers in the Express stream. 
+We believe in differentiating our curriculum so that our students who excel in Mathematics are provided with the opportunity to push themselves. Since 2008, students in the Normal (Academic) stream with strength in Mathematics are offered the opportunity to study the subject at the Express level. These students would be studying the subject at a more challenging level and be assessed together with their peers in the Express stream.
 
 ![Subject-Based Banding](/images/Subject-Based%20Banding.png)
 
@@ -34,7 +34,11 @@ We believe in differentiating our curriculum so that our students who excel in M
 
 In our effort towards student-centric, values-driven education, we want to nurture engaged learners who are motivated and enjoy learning. One of the areas to make every student an engaged learner is to ignite the joy of learning. This can be achieved in many means. We chose Experiential Learning.
 
+  
+
 Learning Journeys are designed for students to have the opportunities to apply knowledge and skills learnt in class in real-life contexts. We have evolved to integrate more subjects into these learning journeys.
+
+  
 
 Through these learning experiences, our students learn realise the relevance of their lessons in school and have developed renewed enthusiasm and drive to greater achievement in school.
 

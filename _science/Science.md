@@ -42,3 +42,8 @@ Thematic curriculum that is aligned to the Primary Science Syllabus
 Subject disciplines include  
 Pure Chemistry, Pure Physics, Pure Biology  
 Combined Science (Chemistry, Physics)
+
+
+### Assessment Criteria
+
+<b>Lower Secondary Science Examination Format</b>

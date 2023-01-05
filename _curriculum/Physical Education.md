@@ -285,3 +285,14 @@ Our BDS Physical Education: The emphasis in PE teaching is not only based on the
 
 ### Development of PE Student-Leaders
 
+We also have our PE process in student-leadership development. We appoint a student as PE Class Leader to assist the teacher in facilitating the following duties;  
+
+1.    <b>I</b>nspire classmates in the organisation of intra/interclass games/Sports Friday
+
+2.    <b>L</b>ead the class to conduct dynamic warm-up 
+
+3.    <b>E</b>nsure punctuality and report to PE teacher on class attendance
+
+4.    <b>A</b>ppoint students for the collection and returning of PE equipment
+
+5.    <b>D</b>isseminate information and performing administrative tasks (e.g. collect and return student valuables)

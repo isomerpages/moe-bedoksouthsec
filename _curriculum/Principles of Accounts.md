@@ -38,22 +38,20 @@ The syllabus then aims to help students to become users of accounting informatio
 *   the limitations of relying only on accounting information; and
 *   the consideration of non-accounting business-related information.
 
+![](/images/POA.jpeg)
 
-### Curriculum
+### Approach and Pedagogy
 
-**Approach and Pedagogy**
 
-* Adoption of Mixed Mode Delivery (MMD) such as demonstration, explicit teaching, games, inquiry, pair work and think-pair-share
-* Linkage of concepts that students learn in the classroom to authentic businesses
-* Practice of Assessment for Learning through relevant toolkits
-* Usage of Differentiated Instructions (DI)
-* Participation in competitions by external organisations
-* Collaboration between schools on the sharing of question papers and mark schemes of Mid-year Examinations, End-of-year Examinations and Preliminary Examinations
+*   Adoption of Mixed Mode Delivery (MMD) such as case study, demonstration, discussion, explicit teaching, games, inquiry, pair work, and think-pair-share
+*   Linkage of concepts that students learn in the classroom to authentic businesses
+*   Practice of Assessment for Learning through relevant toolkits
+*   Usage of Differentiated Instructions (DI)
+*   Participation in competitions by external organisations and learning journeys
+*   Infusion of Information and Communications Technology (ICT) through platforms such as Student Learning Space (SLS), Classkick, Google Classroom, Screencast-O-Matic and Zoom and applications such as Kahoot!, Mentimeter and Padlet
+*   Formation of POA Networked Learning Community (NLC) East Zone
+*   Collaboration between schools on the sharing of Question Papers and Marks Schemes of Weighted Assessments, Mid-year Examinations, End-of-year Examinations and Preliminary Examinations
 
-Refer to the links for further information.
-
-* [GCE Ordinary Level (Syllabus 7087)](/files/7087_y21_sy.pdf)
-* [GCE Normal (Academic) Level (Syllabus 7086)](/files/7086_y21_sy.pdf)
 
 
 ### Assessment Criteria

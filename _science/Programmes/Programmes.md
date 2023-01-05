@@ -15,3 +15,6 @@ The Science Talent Management Programme is a two-year programme that provides st
 #### NUS Illustratum 2021
 
 7 of our Upper Secondary Physics students joined the inaugural NUS Illustratum Competition where they showcased and explained Physics in an interesting and engaging manner. The 3 teams managed to obtain Certificates of Merit with 1 of the teams clinching Special Mention for Craftsmanship.
+
+![](/images/Team%20Newton.png)
+Team Newton explaining gravity using Einstein concept of spacetime.

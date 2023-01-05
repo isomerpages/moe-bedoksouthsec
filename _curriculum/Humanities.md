@@ -69,4 +69,4 @@ Subjects Offered:
 * [Secondary 5 Humanities Subjects](/files/Secondary%205%20Humanities%20Subjects.pdf)
 
 
-Photo Gallery **(file too big)**
+Photo Gallery <b>(file too big)</b>

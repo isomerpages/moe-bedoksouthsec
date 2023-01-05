@@ -27,5 +27,5 @@ These students are then invited to participate in a 10 session training programm
 #### Learning Journey to Giant Hypermart
 ![Learning Journey to Giant Hypermart](/images/06.jpg)
 
-#### Learning Journey to Giant Hypermart
+#### Learning Journey to NTUC Xtra
 ![Learning Journey to Giant Hypermart](/images/learning%20journey%20to%20ntuc%20xtra.png)

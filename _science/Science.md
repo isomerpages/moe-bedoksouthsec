@@ -31,3 +31,14 @@ Inquiry-based learning through e-Pedagogy, constructivist and cooperative learni
 *   <b>Explain</b> and critically discuss scientific concepts in relation to experimental results
 *   <b>Elaborate</b> and connect scientific understanding to new experiences
 *   <b>Evaluate</b> and demonstrate their understanding in varied ways
+
+
+### Subjects Offered
+
+<u>Lower Secondary Science - Thematic curriculum</u>  
+Thematic curriculum that is aligned to the Primary Science Syllabus  
+  
+<u>Upper Secondary</u>    
+Subject disciplines include  
+Pure Chemistry, Pure Physics, Pure Biology  
+Combined Science (Chemistry, Physics)

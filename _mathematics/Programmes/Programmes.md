@@ -1,9 +1,12 @@
 ---
 title: Programmes
-permalink: /curriculum/mathematics/programmes
+permalink: /curriculum/mathematics/programmes/
 description: ""
 third_nav_title: Programmes
 ---
+Programmes
+==========
+
 ### MProSE
 
 Bedok South came into the programme with the aim of improving students’ learning experience in Mathematics as well as enhancing teachers’ capacity. While the school has been experiencing an improving trend in terms of academic results, we are concerned that many of our students fail to retain the concepts that they are supposed to have learnt and they demonstrate a lack of depth in their understanding.

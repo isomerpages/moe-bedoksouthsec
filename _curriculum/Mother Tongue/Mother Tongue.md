@@ -1,9 +1,14 @@
 ---
 title: Mother Tongue
-permalink: /curriculum/mother-tongue
+permalink: /curriculum/mother-tongue/
 description: ""
 third_nav_title: Mother Tongue
 ---
+![](/images/Curriculum.png)
+
+Mother Tongue
+=============
+
 ### Introduction
 
 Department Vision: The school will be a role-model for value-adding in the teaching and learning of the Mother Tongue Language.
@@ -60,6 +65,3 @@ Intensity of language learning and frequency of language usage are two important
 **5**. Encourage your child to refrain from mixing vocabulary from different languages when speaking. Your child should only do that if it is a deliberate attempt to explain the meaning of certain words. Otherwise, your child should make a conscious **effort to speak proper and unadulterated MTL**.
 
 Have your child think again of the MTL grade that he/she would want to eventually achieve. Consistency is key. Have your child **start to work towards it. Now.**
-
-
-

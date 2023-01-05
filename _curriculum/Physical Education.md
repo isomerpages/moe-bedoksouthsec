@@ -39,8 +39,8 @@ style="width:67%">
 
 ### Assessment Criteria
 
-With our key focus on character development, the guiding philosophy of SPEARS curriculum is to inculcate and infuse positive physical participation through learning and assessment of variety of sports and games. The assessment framework is based the three to four games they learn per year and they are tested on Sports Skills Performance (rubrics), Knowledge of the Games (theory questions), Behavioural Conduct (rubrics) and include NAPFA scores.
-
+With our key focus on character development, the guiding philosophy of SPEARS curriculum is to inculcate and infuse positive physical participation through learning and assessment of variety of sports and games. The assessment framework is based the three to four games they learn per year and they are tested on Sports Skills Performance (rubrics), Knowledge of the Games (theory questions), Behavioural Conduct (rubrics) and include NAPFA scores.  
+  
 At Sec 4 and 5 levels; the guiding philosophy of SPEARS plays a key role as it enhances our student’s learning through ownership of Electives. Having acquired the various skills, the students are given a number of options to select a sport for specialization.
 
 <style type="text/css">

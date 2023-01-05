@@ -4,8 +4,6 @@ permalink: /curriculum/mathematics/programmes/stretch-programme/
 description: ""
 third_nav_title: Programmes
 ---
-![](/images/Curriculum.png)
-
 Stretch Programme
 =================
 

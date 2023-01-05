@@ -4,8 +4,6 @@ permalink: /curriculum/aesthetics/music/programmes/
 description: ""
 third_nav_title: Music
 ---
-![](/images/Curriculum.png)
-
 Programmes
 ==========
 

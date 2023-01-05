@@ -3,8 +3,6 @@ title: Design & Technology
 permalink: /curriculum/aesthetics/design-n-technology/
 description: ""
 ---
-![](/images/Curriculum.png)
-
 Design & Technology
 ===================
 

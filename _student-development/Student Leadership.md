@@ -76,3 +76,7 @@ The prefectorial board strives to develop the school culture anchored by the sch
   </tr>
 </thead>
 </table>
+
+
+<b>The Peer Support Leaders</b> <br>
+The Peer Support Leaders (PSLs) lead in peer bonding, helping, and influencing their peers to prosocial behaviours and contribute to a caring and enabling school environment. They oversee, initiate class bonding activities, and share on tips and strategies that promote mental health and cyber wellness, to help students to feel connected and be accepted by their classmates.

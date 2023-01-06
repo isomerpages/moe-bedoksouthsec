@@ -261,7 +261,7 @@ b. Character and Citizenship Education (CCE)
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.
 
-#### At Bedok South Secondary School, the eTeens programme will be implemented as follows in 2022:
+#### At Bedok South Secondary School, the <i>eTeens</i> programme will be implemented as follows in 2022:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

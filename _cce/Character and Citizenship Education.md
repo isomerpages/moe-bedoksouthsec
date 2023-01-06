@@ -52,8 +52,8 @@ CCE lessons are also a platform to deliver the National Education (NE) experienc
 To enhance the development of positive character and values, morning assemblies are platforms for talks and sharing by staff and students. Three times a week, presentations during morning assemblies focus on the following themes:
 
 * <i>Values Monday</i> : Staff and students link the BDS ICARE Values to stories, articles and their personal experiences to inculcate in students the values of Integrity, Courage, Accountability, Respect, Excellence and Care. 
-* *CCE Wednesday* : Sharing by staff and students on Character and Citizenship Education
-* *Excellence Friday* : To encourage students to strive for excellence in all they do, student achievements are recognised and students are given the opportunity to share their learning on their journey to success. 
+* <i>CCE Wednesday</i> : Sharing by staff and students on Character and Citizenship Education
+* <i>Excellence Friday</i> : To encourage students to strive for excellence in all they do, student achievements are recognised and students are given the opportunity to share their learning on their journey to success. 
 
 In addition, customised assembly programmes are planned throughout the year to compliment the lessons taught during CCE lessons.
 

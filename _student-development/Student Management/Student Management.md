@@ -32,7 +32,6 @@ The school rules and regulations are aligned to the school’s core values of In
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jhp2{background-color:#E7E6E6;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-bcfl{background-color:#E7E6E6;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
@@ -40,7 +39,7 @@ The school rules and regulations are aligned to the school’s core values of In
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-jhp2">ICARE Values</th>
+    <th class="tg-bcfl">ICARE Values</th>
     <th class="tg-bcfl">Action Statement</th>
     <th class="tg-bcfl">Observable Behaviours :<br>I will…</th>
   </tr>

@@ -17,7 +17,7 @@ Camp Unity was a 3-day 2-night residential camp programme conducted in school. 
 
   
 
-**Sec 2 Camp Challenge:**
+<b>Sec 2 Camp Challenge:</b>
 
   
 
@@ -25,7 +25,7 @@ Camp Resilience was conducted at Jalan Bahtera located at the western end of Si
 
   
 
-**Sec 3 Camp Endeavour:**
+<b>Sec 3 Camp Endeavour:</b>
 
   
 
@@ -33,7 +33,7 @@ Camp Endeavour was a series of three expeditions. The first was a 8km long orie
 
   
 
-**Sec 4 Camp Success:**
+<b>Sec 4 Camp Success:</b>
 
   
 

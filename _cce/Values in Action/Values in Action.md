@@ -57,9 +57,9 @@ Hand</b>
 
 ### Assessment Criteria
 
-**A Component of Leap 2.0**
+<b>A Component of Leap 2.0</b>
 
-This domain recognises students’ development as socially responsible citizens who contribute meaningfully to the community. Every secondary school student will contribute at least 6 hours per school year to the community. They can choose to embark on a Values-In-Action project (VIA). Students will be recognised for the time they put into planning, service and reflection, when participating in a VIA project. 
+This domain recognises students’ development as socially responsible citizens who contribute meaningfully to the community. Every secondary school student will contribute at least 6 hours per school year to the community. They can choose to embark on a Values-In-Action project (VIA). Students will be recognised for the time they put into planning, service and reflection, when participating in a VIA project.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

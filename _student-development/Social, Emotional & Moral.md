@@ -1,8 +1,12 @@
 ---
 title: Social, Emotional & Moral
-permalink: /student-development/social-emotional-n-moral
+permalink: /student-development/social-emotional-n-moral/
 description: ""
 ---
+Social, Emotional & Moral
+=========================
+
+
 Our programmes support the holistic development of students  by instilling in them positive values and building their Social and Emotional Competencies. These are represented by the centre and middle rings of MOE's Framework for 21st Century Competencies.
 
 <img src="/images/21CC%20Framework.png"  

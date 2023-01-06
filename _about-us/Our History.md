@@ -3,9 +3,6 @@ title: Our History
 permalink: /about-us/our-history/
 description: ""
 ---
-![](/images/AboutUs.png)
-
-
 Our History
 ===========
 

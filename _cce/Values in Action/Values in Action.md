@@ -23,7 +23,7 @@ Our BDS VIA aims to:</b>
 * support students’ development as Leaders of Tomorrow who will Serve with Conviction, to contribute meaningfully to the community;
 * foster student ownership over how they contribute to the community;
 
-**Process:**
+<b>Process:</b>
 * As part of VIA, students reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully. 
 * We adopt the BDS approach where we focus on three levels of students involvement: Baseline, Development and Stretch.
 

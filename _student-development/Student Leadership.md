@@ -29,3 +29,5 @@ The school has different themes for different Tiers and Levels. The Tiers framew
 ### The Four Leadership Roles
 
 The Student Leaders comprises of the Prefects, Peer Support Leaders, Class Committee Leaders and CCA Leaders.
+
+![](/images/The%20Four%20Leadership%20Roles.jpeg)

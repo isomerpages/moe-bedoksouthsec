@@ -49,17 +49,32 @@ The three principles in the second ring – Quality, Customisation and Ownership
 
 The outer-most ring represents three key groups of stakeholders that are involved in the delivery of NE – educators, students and the community. This reinforces the idea that NE is owned by everyone, and emphasizes the importance of community partners in the process of NE.
 
-### National Education Messages
+#### **National Education Messages**
 
-* Singapore is our homeland; this is where we belong. 
-* We treasure our heritage and take pride in shaping our own unique way of life.
-* We must preserve racial and religious harmony. 
-* We value our diversity and are determined to stay a united people. 
-* We must uphold meritocracy and incorruptibility. 
-* We provide opportunities for all, according to their ability and effort.
-* No one owes Singapore a living. 
-* We find our own way to survive and prosper, turning challenge into opportunity.
-* We must ourselves defend Singapore. 
-* We are proud to defend Singapore ourselves, no one else is responsible for our security and well-being.
-* We have confidence in our future. 
-* United, determined and well-prepared, we have what it takes to build a bright future for ourselves, and to progress together as one nation.
+* * *
+
+  
+
+*   Singapore is our homeland; this is where we belong.   
+    
+*   We treasure our heritage and take pride in shaping our own unique way of life.  
+    
+*   We must preserve racial and religious harmony.   
+    
+*   We value our diversity and are determined to stay a united people.   
+    
+*   We must uphold meritocracy and incorruptibility.   
+    
+*   We provide opportunities for all, according to their ability and effort.  
+    
+*   No one owes Singapore a living.   
+    
+*   We find our own way to survive and prosper, turning challenge into opportunity.  
+    
+*   We must ourselves defend Singapore.   
+    
+*   We are proud to defend Singapore ourselves, no one else is responsible for our security and well-being.  
+    
+*   We have confidence in our future.   
+    
+*   United, determined and well-prepared, we have what it takes to build a bright future for ourselves, and to progress together as one nation.

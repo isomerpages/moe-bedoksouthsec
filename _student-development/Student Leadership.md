@@ -35,3 +35,44 @@ The Student Leaders comprises of the Prefects, Peer Support Leaders, Class Commi
 
 <b>The Prefectorial Board</b> <br> 
 The prefectorial board strives to develop the school culture anchored by the school’s ICARE values. As the bridge of communication for the student body to the school leaders and teachers, they assist in the planning and execution of key programmes that develop the school identity and sense of pride amongst the students. The prefectorial board also works very closely with the school management team in fostering a disciplined Bedok South community that is rooted by the school core values.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-y7qa" rowspan="9"><br><br><br><br><br><br><br><br>Prefect EXCO</td>
+    <td class="tg-y7qa">Head Prefect</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Vice-Head Prefect (Internal Affairs)</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Vice-Head Prefect (External Affairs)</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Head of Programmes</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Head of Training &amp; Mentorship</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Head of Deployment</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Head of Communications &amp; Engagement</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Head of Welfare</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Sec 1 - 4/5 Level Heads</td>
+  </tr>
+</thead>
+</table>

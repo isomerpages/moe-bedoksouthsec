@@ -172,6 +172,23 @@ The Class Leaders play an important part in the school. They are the first touch
 <b>CCA Leaders</b> <br> 
 The CCA leaders are managed by the CCA teachers in-charge. They include Captains of Sports, Sergeant Majors of Uniform Groups and President and Chairpersons of Performing Arts and Clubs/Societies. EXCOs of each CCA also play a part in the CCA Leadership. Each CCA group is led by its teachers and respective CCA Coordinators.
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-y7qa">CCA Coordinator</td>
+    <td class="tg-y7qa">Mr Edzra Iskandar (HOD PE/CCA)</td>
+  </tr>
+</thead>
+</table>
+
 
 
 <b>The Student Leadership Committee (Teachers)</b>

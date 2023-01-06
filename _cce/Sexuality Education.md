@@ -1,8 +1,11 @@
 ---
 title: Sexuality Education
-permalink: /student-development/character-and-citizenship-education/sexuality-education
+permalink: /student-development/character-and-citizenship-education/sexuality-education/
 description: ""
 ---
+Sexuality Education
+===================
+
 ### MOE Sexuality Education in Schools 
 
 

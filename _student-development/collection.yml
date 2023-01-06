@@ -2,8 +2,8 @@ collections:
   student-development:
     output: true
     order:
-      - CCE/.keep
       - Learning for Life Programme (LLP) SHAPE @BDS.md
+      - CCE/.keep
       - Student Leadership.md
       - Social, Emotional & Moral.md
       - Student Management/.keep

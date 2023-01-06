@@ -31,6 +31,6 @@ Students involvement in Community & Environment Programmes
 
 #### The past BINDers have returned with:
 
-* A sense of appreciation of Singapore and their families
-* Greater empathy
-* Greater awareness of the world/region
+*   A sense of appreciation of Singapore and their families
+*   Greater empathy
+*   Greater awareness of the world/region

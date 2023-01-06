@@ -1,9 +1,12 @@
 ---
 title: Student Management
-permalink: /student-development/student-management
+permalink: /student-development/student-management/
 description: ""
 third_nav_title: Student Management
 ---
+Student Management
+==================
+
 1.    **Department Vision**
 
 The department aims to develop BDS students to become the “True BDSians”.  A True BDSian is one who:
@@ -73,4 +76,3 @@ The school rules and regulations are aligned to the school’s core values of In
   </tr>
 </tbody>
 </table>
-

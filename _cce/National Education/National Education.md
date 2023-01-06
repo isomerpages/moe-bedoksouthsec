@@ -4,12 +4,15 @@ permalink: /student-development/character-and-citizenship-education/national-edu
 description: ""
 third_nav_title: National Education
 ---
-National Education (NE) aims to develop national cohesion, cultivate the instinct for survival as a nation and instill in our students, confidence in our nation's future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore.
+National Education
+==================
 
-MOE has adopted a two-pronged approach in the cultivation of national instincts among pupils: First, to develop an awareness of facts, circumstances and opportunities facing Singapore, so that they will be able to make decisions for their future with conviction and realism.
-
-Second, to develop a sense of emotional belonging and commitment to the community and nation. This approach is amply captured in the phrase "engaging hearts and minds".
-
+National Education (NE) aims to develop national cohesion, cultivate the instinct for survival as a nation and instill in our students, confidence in our nation's future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore.  
+  
+MOE has adopted a two-pronged approach in the cultivation of national instincts among pupils: First, to develop an awareness of facts, circumstances and opportunities facing Singapore, so that they will be able to make decisions for their future with conviction and realism.  
+  
+Second, to develop a sense of emotional belonging and commitment to the community and nation. This approach is amply captured in the phrase "engaging hearts and minds".  
+  
 The following are some information on NE in Singapore.
 
 ### Purpose of NE

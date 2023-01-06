@@ -19,3 +19,13 @@ style="width:70%">
 <i><b>Social and Emotional Competencies</b></i> are skills necessary for students to recognise and manage their emotions, develop care and concern for others, make responsible decisions, establish positive relations, and handle challenges effectively.
 
 
+
+The [CCE programme and the respective guidance areas](/student-development/character-and-citizenship-education/) form the baseline approach to achieve these outcomes. In addition, the following are some of the programmes that complement CCE at various levels:
+
+  
+
+*   Financial Literacy Workshops (Sec 1)
+*   Study Skills Workshops (Sec 2)
+*   Myer-Briggs Type Indicator Workshops (Sec 3)
+*   Resume Writing and Interview Skills Workshops (Sec 4/5)
+*   Stress Management Workshop (Sec 4/5)

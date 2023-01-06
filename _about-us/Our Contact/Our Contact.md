@@ -4,8 +4,6 @@ permalink: /about-us/Our-Contact/Our-Contact/
 description: ""
 third_nav_title: Our Contact
 ---
-![](/images/AboutUs.png)
-
 Our Contact
 ===========
 

@@ -3,6 +3,9 @@ title: Character and Citizenship Education
 permalink: /student-development/character-and-citizenship-education/
 description: ""
 ---
+Character and Citizenship Education  
+=====================================
+
 ### Introduction
 
 Bedok South Secondary takes a whole school approach towards Student Development with every teacher, a Character and Citizenship Education (CCE) teacher. The school aims to develop our students’ knowledge, understanding, skills and abilities to make informed and responsible choices in their lives. CCE seeks to achieve the BDS vision to: 

@@ -92,7 +92,7 @@ The Peer Support Leaders (PSLs) lead in peer bonding, helping, and influencing t
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-y7qa" rowspan="10"><br><br><br><br><br><br>Peer Leaders EXCO</td>
+    <td class="tg-y7qa" rowspan="10"><br><br><br><br><br><br><br><br>Peer Leaders EXCO</td>
     <td class="tg-y7qa">Chairperson</td>
   </tr>
   <tr>

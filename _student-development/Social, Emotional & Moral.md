@@ -12,9 +12,11 @@ Our programmes support the holistic development of students  by instilling in t
 <img src="/images/21CC%20Framework.png"  
 style="width:70%">
 
-**Values** define a person's character. They shape the beliefs, attitudes and actions of our students. In addition to the CCE Core Values of *Respect, Responsibility, Resilience,Integrity, Care and Harmony*, our programmes focus on the BDS ICARE values.
+<i><b>Values</b></i> define a person's character. They shape the beliefs, attitudes and actions of our students. In addition to the CCE Core Values of _Respect_, _Responsibility_, _Resilience_,_Integrity_, _Care_ and _Harmony_, our programmes focus on the BDS ICARE values.
 
-**Social and Emotional Competencies** are skills necessary for students to recognise and manage their emotions, develop care and concern for others, make responsible decisions, establish positive relations, and handle challenges effectively.
+  
+
+**_Social and Emotional Competencies_** are skills necessary for students to recognise and manage their emotions, develop care and concern for others, make responsible decisions, establish positive relations, and handle challenges effectively.
 
 
 The [CCE programme and the respective guidance areas](/student-development/character-and-citizenship-education) form the baseline approach to achieve these outcomes. In addition, the following are some of the programmes that complement CCE at various levels:

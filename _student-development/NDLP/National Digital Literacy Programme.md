@@ -42,7 +42,7 @@ The school aims to empower every BDSian to be a positive, future-ready, digital 
 
 As part of the NDLP, schools will progressively roll out IT applications that will be vital to students’ learning experience and educational journey. In the following months, MOE will roll out some or all of the following applications:
 
-(a) **Student iCON:** MOE will give every secondary school student an email address. This is a service provided by Google as part of Google Suite. Click [here](https://workspace.google.com/dashboard) to access the student iCON.
+(a) <b>Student iCON:</b> MOE will give every secondary school student an email address. This is a service provided by Google as part of Google Suite. Click [here](https://workspace.google.com/dashboard) to access the student iCON.
 
 (b) **Microsoft Pro Plus:** every secondary school will be granted a licence to use Microsoft Office tools that include Word, PowerPoint and Excel.
 

@@ -8,7 +8,7 @@ Character and Citizenship Education  
 
 ### Introduction
 
-Bedok South Secondary takes a whole school approach towards Student Development with every teacher, a Character and Citizenship Education (CCE) teacher. The school aims to develop our students’ knowledge, understanding, skills and abilities to make informed and responsible choices in their lives. CCE seeks to achieve the BDS vision to: 
+Bedok South Secondary takes a whole school approach towards Student Development with every teacher, a Character and Citizenship Education (CCE) teacher. The school aims to develop our students’ knowledge, understanding, skills and abilities to make informed and responsible choices in their lives. CCE seeks to achieve the BDS vision to:
 
 * Build Character 
 * Develop Leaders of Tomorrow; so that BDSians will 
@@ -27,7 +27,7 @@ Our curriculum is aligned to the [MOE Framework for 21st Century Competencies an
 
 The BDS CCE experience comprises the following areas: 
 
-**CCE Lessons**
+##### **CCE Lessons**
 
 CCE lessons are opport unities for teachers to facilitate learning for building positive character and citizenry. The lessons across all levels (secondary 1 to 5) are taught according to the following themes
 
@@ -47,11 +47,11 @@ To develop social and emotional competencies in students, the following programm
 
 CCE lessons are also a platform to deliver the National Education (NE) experience.
 
-**School-Based CCE**
+##### **School-Based CCE**
 
 To enhance the development of positive character and values, morning assemblies are platforms for talks and sharing by staff and students. Three times a week, presentations during morning assemblies focus on the following themes:
 
-* *Values Monday* : Staff and students link the BDS ICARE Values to stories, articles and their personal experiences to inculcate in students the values of Integrity, Courage, Accountability, Respect, Excellence and Care. 
+* <i>Values Monday</i> : Staff and students link the BDS ICARE Values to stories, articles and their personal experiences to inculcate in students the values of Integrity, Courage, Accountability, Respect, Excellence and Care. 
 * *CCE Wednesday* : Sharing by staff and students on Character and Citizenship Education
 * *Excellence Friday* : To encourage students to strive for excellence in all they do, student achievements are recognised and students are given the opportunity to share their learning on their journey to success. 
 

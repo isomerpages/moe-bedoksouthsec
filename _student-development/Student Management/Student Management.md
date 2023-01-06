@@ -76,3 +76,23 @@ The school rules and regulations are aligned to the school’s core values of In
   </tr>
 </tbody>
 </table>
+
+
+
+**1.     Department** **Vision**
+
+The department aims to develop BDS students to become the “True BDSians”.  A True BDSian is one who:
+
+·        Possesses and demonstrates the BDS **ICARE Values**.
+
+·        Exercises responsibility in all that he/she does.
+
+·        Respects and observes all school rules and laws of the land.
+
+**2.**     **Department Mission**
+
+The department mission is to **B**uild character and **D**evelop students who are future ready by grounding them with a **S**olid value system.
+
+ **3****.**    **School Rules** 
+
+The school rules and regulations are aligned to the school’s core values of Integrity, Courage, Accountability, Respect, Excellence and Care (ICARE).

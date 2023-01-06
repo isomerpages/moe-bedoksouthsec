@@ -16,7 +16,7 @@ style="width:70%">
 
   
 
-**_Social and Emotional Competencies_** are skills necessary for students to recognise and manage their emotions, develop care and concern for others, make responsible decisions, establish positive relations, and handle challenges effectively.
+<i><b>Social and Emotional Competencies</b></i> are skills necessary for students to recognise and manage their emotions, develop care and concern for others, make responsible decisions, establish positive relations, and handle challenges effectively.
 
 
 The [CCE programme and the respective guidance areas](/student-development/character-and-citizenship-education) form the baseline approach to achieve these outcomes. In addition, the following are some of the programmes that complement CCE at various levels:

@@ -33,15 +33,10 @@ The objective is to develop national cohesion, the instinct for survival and con
 
 The "Head, Heart and Hands" framework was recommended by the Committee on NE in March 2007.
 
-<div>
-<div style="float: left">
-<img src="/images/Head%20Heart%20Hands%20NE%20Framework%202007.png" />
-</div>
-<div>
+<img src="/images/Head%20Heart%20Hands%20NE%20Framework%202007.png" style="width:250px;height:270px;margin-right:15px;" align = "left">
+
 In engaging the “Head”, students should be actively involved in their own learning; beyond knowing, they should think through issues and arrive at a deeper understanding of the challenges facing Singapore and what it means to be Singaporean. In engaging the “Heart”, students should connect emotionally with the Singapore story; their love for the nation should be the outcome of their appreciating Singapore and having a deeper sense of belonging. In engaging the “Hands”, students should have opportunities to give back to society, and realise that everyone has a part to contribute to and create Singapore’s future, and, where possible, to lead in different fields of society.
 
-</div>
-</div>
 
 “Head”, “Heart” and “Hands” will be the focus of engagement at all levels, but with varying emphases as appropriate to the age and maturity of the students . The “Hands” concept also expands on the original “Lead Singapore” outcome for post-secondary students to emphasise the fact that all students have a role in contributing to and creating Singapore’s future.
 

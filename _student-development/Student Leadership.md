@@ -132,6 +132,41 @@ The Peer Support Leaders (PSLs) lead in peer bonding, helping, and influencing t
 <b>The Class Leaders</b> <br> 
 The Class Leaders play an important part in the school. They are the first touchpoint the Student Leaders have with the students.
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-y7qa" rowspan="7"><br><br><br><br><br><br>Class Leaders</td>
+    <td class="tg-y7qa">Class Chairperson</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Vice Chairperson</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">ICT Leader</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Safety and Environment Leader</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">PE Leader</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">CCE Leader</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">VIA Leader</td>
+  </tr>
+</thead>
+</table>
+
 
 
 <b>CCA Leaders</b> <br> 

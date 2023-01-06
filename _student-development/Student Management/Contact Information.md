@@ -29,7 +29,6 @@ Contact Information
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-h29a{background-color:#BFBFBF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-v8cp{background-color:#BFBFBF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
@@ -37,7 +36,7 @@ Contact Information
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-h29a">Level</th>
+    <th class="tg-v8cp">Level</th>
     <th class="tg-v8cp">Teacher-In-Charge</th>
     <th class="tg-v8cp">Extension No.</th>
   </tr>

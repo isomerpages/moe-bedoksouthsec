@@ -15,15 +15,21 @@ Second, to develop a sense of emotional belonging and commitment to the communit
   
 The following are some information on NE in Singapore.
 
-### Purpose of NE
+#### **Purpose of NE**
 
-The objective is to develop national cohesion, the instinct for survival and confidence in the future,
-* by fostering a sense of identity, pride and self-respect as Singaporeans;
-* by knowing the Singapore story -- how Singapore succeeded against the odds to become a nation;
-* by understanding Singapore's unique challenges, constraints and vulnerabilities, which make us different from other countries; and
-* by instilling the core values of our way of life, and the will to prevail, that ensures our continued success and well-being.
+* * *
 
-### Head, Heart, Hands Framework
+  
+The objective is to develop national cohesion, the instinct for survival and confidence in the future,  
+
+*   by fostering a sense of identity, pride and self-respect as Singaporeans;
+*   by knowing the Singapore story -- how Singapore succeeded against the odds to become a nation;
+*   by understanding Singapore's unique challenges, constraints and vulnerabilities, which make us different from other countries; and
+*   by instilling the core values of our way of life, and the will to prevail, that ensures our continued success and well-being.
+
+#### **Head, Heart, Hands Framework**
+
+* * *
 
 The "Head, Heart and Hands" framework was recommended by the Committee on NE in March 2007.
 

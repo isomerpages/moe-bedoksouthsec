@@ -76,6 +76,3 @@ The school rules and regulations are aligned to the school’s core values of In
   </tr>
 </tbody>
 </table>
-
-
-

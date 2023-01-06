@@ -7,19 +7,21 @@ third_nav_title: Student Management
 Student Management
 ==================
 
-1.    **Department Vision**
+**1.     Department** **Vision**
 
-The department aims to develop BDS students to become the “True BDSians”.  A True BDSian is one who:
+The department aims to develop BDS students to become the “True BDSians”.  A True BDSian is one who:
 
-* Possesses and demonstrates the BDS **ICARE Values**.
-* Exercises responsibility in all that he/she does.
-* Respects and observes all school rules and laws of the land.
+·        Possesses and demonstrates the BDS **ICARE Values**.
 
-2.    **Department Mission**
+·        Exercises responsibility in all that he/she does.
 
-The department mission is to **B**uild character and **D**evelop students who are future ready by grounding them with a **S**olid value system.
+·        Respects and observes all school rules and laws of the land.
 
- 3.    **School Rules** 
+**2.**     **Department Mission**
+
+The department mission is to **B**uild character and **D**evelop students who are future ready by grounding them with a **S**olid value system.
+
+ **3****.**    **School Rules** 
 
 The school rules and regulations are aligned to the school’s core values of Integrity, Courage, Accountability, Respect, Excellence and Care (ICARE).
 

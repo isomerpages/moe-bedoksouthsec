@@ -11,7 +11,7 @@ Student Management
 
 The department aims to develop BDS students to become the “True BDSians”.  A True BDSian is one who:
 
-·        Possesses and demonstrates the BDS **ICARE Values**.
+·        Possesses and demonstrates the BDS <b>ICARE Values</b>.
 
 ·        Exercises responsibility in all that he/she does.
 

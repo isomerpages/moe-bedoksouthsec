@@ -7,7 +7,7 @@ third_nav_title: Student Management
 Student Management
 ==================
 
-**1.     Department** **Vision**
+<b>1.     Department Vision</b>
 
 The department aims to develop BDS students to become the “True BDSians”.  A True BDSian is one who:
 

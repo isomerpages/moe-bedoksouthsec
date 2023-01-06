@@ -52,7 +52,7 @@ b. Character and Citizenship Education (CCE)
 
 #### At Bedok South Secondary School, the following lessons from Sexuality Education will be taught in 2022:
 
-**Secondary 1**
+<b>Secondary 1</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

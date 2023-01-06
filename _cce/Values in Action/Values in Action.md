@@ -18,8 +18,8 @@ To develop a morally uprights and responsible individual who is caring and compa
 
 #### Approach & Pedagogy
 
-**BDS VIA Framework** <br>
-Our BDS VIA aims to: 
+<b>BDS VIA Framework <br>
+Our BDS VIA aims to:</b> 
 * support students’ development as Leaders of Tomorrow who will Serve with Conviction, to contribute meaningfully to the community;
 * foster student ownership over how they contribute to the community;
 

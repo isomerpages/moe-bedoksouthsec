@@ -113,35 +113,30 @@ This domain recognises students’ development as socially responsible citizens 
 
 ### Completed Staff VIA activities 
 
-**Term 1**
+<u>Term 1</u>
+*   Beach cleaning @ East Coast Park for graduating classes
+*   Chinese New Year Hamper of Love (Chee Hoon Kog Moral Promotion Society)
 
-* Beach cleaning @ East Coast Park for graduating classes
-* Chinese New Year Hamper of Love (Chee Hoon Kog Moral Promotion Society)
+<u>Term 2</u>
+*   Singapore Kindness Movement Acts of Kindness
+*   Bedok South Internationalisation and National Education Development Programme (BIND) - 3 Express: West Malaysia & Learning Journey to Muhammadiyah & Peace Haven
+*   Use your hand campaign
 
-**Term 2**
-
-* Singapore Kindness Movement Acts of Kindness
-* Bedok South Internationalisation and National Education Development Programme (BIND) - 3 Express: West Malaysia & Learning Journey to Muhammadiyah & Peace Haven
-* Use your hand campaign
-
-**Term 3**
-
+<u>Term 3</u>
 * Lower Secondary VIA
 
-**Term 4**
-
-* Upcoming: Bedok South Internationalisation and National Education Development Programme (BIND) - 3 Normal Academic: West Malaysia & Learning Journey to Muhammadiyah & Peace Haven
-* Upcoming: Use your hand campaign
+<u>Term 4</u>
+*   <b>Upcoming</b>: Bedok South Internationalisation and National Education Development Programme (BIND) - 3 Normal Academic: West Malaysia & Learning Journey to Muhammadiyah & Peace Haven
+*  <b>Upcoming</b>: Use your hand campaign
 
 ### CCA
 
-**Uniformed Groups**
-
-* Community Safety & Security Programme (NPCC)
-* Police Youth Ambassador Programme (NPCC)
-* DARE Awareness Programme (NCDCC)
-* Scouts Job Week (Scouts)
-* VIA @ Willing Hearts (Girl Guides)
+<u><b>Uniformed Groups</b></u>
+*   Community Safety & Security Programme (NPCC)
+*   Police Youth Ambassador Programme (NPCC)
+*   DARE Awareness Programme (NCDCC)
+*   Scouts Job Week (Scouts)
+*   VIA @ Willing Hearts (Girl Guides)
 
 **Visual & Performing Arts**
 

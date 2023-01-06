@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Learning for Life Programme (LLP) SHAPE @BDS.md
+      - CCE/Contact Information.md
       - CCE/.keep
       - Student Leadership.md
       - Social, Emotional & Moral.md

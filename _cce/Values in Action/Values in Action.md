@@ -34,14 +34,15 @@ Hand</b>
 * Our commitment to serve 
 * An imprint of our intend to leave a mark to serve the community and the environment 
 
-**Palm** 
+
+<b>Palm</b> 
 
 * 3 Tiered BDS Approach 
 * Infusion of the 21st CC Skills and Competencies, as well as alignment to ICARE Values 
 * Extensions(Fingers and Thumb) 
 * Our Five approaches to serve through CCA, Project SHINE, Students Leaders, BIND and our Staff 
 
-**Heart** 
+<b>Heart</b> 
 
 * It encompasses the ICARE values Integrity in carrying out our mission to serve 
 * Courage to serve with humility 
@@ -50,7 +51,7 @@ Hand</b>
 * Excellence in our Service to the Community and the Environment 
 * Care always in our heart, meaning to develop ourselves to be selfless. 
 
-**Cycle of Service** 
+<b>Cycle of Service</b> 
 
 • The two main benefactors of our service: Our Community and our Environment
 

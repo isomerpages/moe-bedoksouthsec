@@ -85,6 +85,5 @@ The Peer Support Leaders (PSLs) lead in peer bonding, helping, and influencing t
 
 
 
-**The Class Leaders**  
-
+<b>The Class Leaders</b> <br> 
 The Class Leaders play an important part in the school. They are the first touchpoint the Student Leaders have with the students.

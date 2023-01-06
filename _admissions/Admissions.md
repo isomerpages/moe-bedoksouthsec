@@ -3,9 +3,6 @@ title: Admissions
 permalink: /about-us/admissions/
 description: ""
 ---
-![](/images/AboutUs.png)
-
-
 Admissions
 ==========
 

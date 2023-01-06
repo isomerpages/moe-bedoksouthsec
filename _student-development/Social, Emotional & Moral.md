@@ -12,7 +12,7 @@ Our programmes support the holistic development of students  by instilling in t
 <img src="/images/21CC%20Framework.png"  
 style="width:70%">
 
-<i><b>Values</b></i> define a person's character. They shape the beliefs, attitudes and actions of our students. In addition to the CCE Core Values of _Respect_, _Responsibility_, _Resilience_,_Integrity_, _Care_ and _Harmony_, our programmes focus on the BDS ICARE values.
+<i><b>Values</b></i> define a person's character. They shape the beliefs, attitudes and actions of our students. In addition to the CCE Core Values of <i>Respect</i>, <i>Responsibility</i>, <i>Resilience</i>,<i>Integrity</i>, <i>Care</i> and <i>Harmony</i>, our programmes focus on the BDS ICARE values.
 
   
 

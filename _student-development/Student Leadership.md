@@ -31,3 +31,7 @@ The school has different themes for different Tiers and Levels. The Tiers framew
 The Student Leaders comprises of the Prefects, Peer Support Leaders, Class Committee Leaders and CCA Leaders.
 
 ![](/images/The%20Four%20Leadership%20Roles.jpeg)
+
+
+<b>The Prefectorial Board</b> <br> 
+The prefectorial board strives to develop the school culture anchored by the school’s ICARE values. As the bridge of communication for the student body to the school leaders and teachers, they assist in the planning and execution of key programmes that develop the school identity and sense of pride amongst the students. The prefectorial board also works very closely with the school management team in fostering a disciplined Bedok South community that is rooted by the school core values.

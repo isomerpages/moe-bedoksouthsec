@@ -94,7 +94,7 @@ b. Character and Citizenship Education (CCE)
 </tbody>
 </table>
 
-**Secondary 2**
+<b>Secondary 2</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -135,7 +135,7 @@ b. Character and Citizenship Education (CCE)
 </tbody>
 </table>
 
-**Secondary 3**
+<b>Secondary 3</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

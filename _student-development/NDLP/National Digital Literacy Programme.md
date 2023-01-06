@@ -44,7 +44,7 @@ As part of the NDLP, schools will progressively roll out IT applications that wi
 
 (a) <b>Student iCON:</b> MOE will give every secondary school student an email address. This is a service provided by Google as part of Google Suite. Click [here](https://workspace.google.com/dashboard) to access the student iCON.
 
-(b) **Microsoft Pro Plus:** every secondary school will be granted a licence to use Microsoft Office tools that include Word, PowerPoint and Excel.
+(b) <b>Microsoft Pro Plus:</b> every secondary school will be granted a licence to use Microsoft Office tools that include Word, PowerPoint and Excel.
 
 (c) **Zoom:** MOE will set up Zoom free account with 40 mins time limit using Student iCON for the schools’ video conferencing needs.
 

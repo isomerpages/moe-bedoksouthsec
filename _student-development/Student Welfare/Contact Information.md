@@ -1,9 +1,12 @@
 ---
 title: Contact Information
-permalink: /student-development/student-welfare/contact-information
+permalink: /student-development/student-welfare/contact-information/
 description: ""
 third_nav_title: Student Welfare
 ---
+Contact Information
+===================
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

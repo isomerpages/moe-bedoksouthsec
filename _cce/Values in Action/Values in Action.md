@@ -138,10 +138,9 @@ This domain recognises students’ development as socially responsible citizens 
 *   Scouts Job Week (Scouts)
 *   VIA @ Willing Hearts (Girl Guides)
 
-**Visual & Performing Arts**
-
-* Concert fundraising for Breast Cancer Foundation (Choir)
-* Walk for Our Children -Singapore Children's Society (Symphonic Band)
+<u><b>Visual & Performing Arts</b></u>
+*   Concert fundraising for Breast Cancer Foundation (Choir)
+*   Walk for Our Children -Singapore Children's Society (Symphonic Band)
 
 ### Student Leaders
 

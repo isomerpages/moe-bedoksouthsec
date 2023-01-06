@@ -87,3 +87,8 @@ The Peer Support Leaders (PSLs) lead in peer bonding, helping, and influencing t
 
 <b>The Class Leaders</b> <br> 
 The Class Leaders play an important part in the school. They are the first touchpoint the Student Leaders have with the students.
+
+
+
+<b>CCA Leaders</b> <br> 
+The CCA leaders are managed by the CCA teachers in-charge. They include Captains of Sports, Sergeant Majors of Uniform Groups and President and Chairpersons of Performing Arts and Clubs/Societies. EXCOs of each CCA also play a part in the CCA Leadership. Each CCA group is led by its teachers and respective CCA Coordinators.

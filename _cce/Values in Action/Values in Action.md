@@ -4,6 +4,9 @@ permalink: /student-development/character-and-citizenship-education/values-in-ac
 description: ""
 third_nav_title: Values in Action
 ---
+Values in Action
+================
+
 ### Introduction
 
 A learning experience in Character & Citizenship Education (CCE) that enhances students’ development as socially responsible citizens through ownership of their contribution to the community.

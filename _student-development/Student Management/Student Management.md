@@ -17,11 +17,11 @@ The department aims to develop BDS students to become the “True BDSians”.  
 
 ·        Respects and observes all school rules and laws of the land.
 
-**2.**     **Department Mission**
+<b>2.     Department Mission</b>
 
-The department mission is to **B**uild character and **D**evelop students who are future ready by grounding them with a **S**olid value system.
+The department mission is to <b>B</b>uild character and <b>D</b>evelop students who are future ready by grounding them with a <b>S</b>olid value system.
 
- **3****.**    **School Rules** 
+<b>3.    School Rules</b>
 
 The school rules and regulations are aligned to the school’s core values of Integrity, Courage, Accountability, Respect, Excellence and Care (ICARE).
 

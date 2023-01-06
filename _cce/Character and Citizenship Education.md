@@ -57,14 +57,14 @@ To enhance the development of positive character and values, morning assemblies 
 
 In addition, customised assembly programmes are planned throughout the year to compliment the lessons taught during CCE lessons.
 
-**Teacher-Pupil Interviews**
+##### **Teacher-Pupil Interviews**
 
 Form Teachers conduct Teacher-Pupil Interview (TPI) sessions with students to build rapport and identify their needs and strengths. Students are encouraged to take this opportunity to get to know their Form Teachers better and share with them their concerns and aspirations. TPI sessions are conducted during dedicated curriculum time.
 
-**Student Recognition**
+##### **Student Recognition**
 
-The [EdusaveCharacter Award (ECHA)](https://www.moe.gov.sg/education/edusave/edusave-awards/edusave-character-awards-(echa)) **(broken link)** aims to recognise Singaporean students in the school who are exemplary in character and possess outstanding personal qualities through their behaviour and actions which inspire others. This award is given to a maximum of 2% of Singaporean students in the school at the end of the year. 
-
+The [EdusaveCharacter Award (ECHA)](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards) aims to recognise Singaporean students in the school who are exemplary in character and possess outstanding personal qualities through their behaviour and actions which inspire others. This award is given to a maximum of 2% of Singaporean students in the school at the end of the year.   
+  
 ECHA recipients are selected based on school-based criteria that are based on guidelines provided by MOE. Students are identified for consistently demonstrating civic responsibility, resilience and values that BDS wishes to recognise and encourage.
 
 
@@ -83,7 +83,8 @@ ECG Parent Guide (https://www.moe.gov.sg/microsites/ecg-parent-guide) **(broken 
 
 ### Recommended online resources
 
-[MySkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) – Students are introduced to this tool to help them discover their attributes and strengths, and find out more about different careers that they might be interested in.
+[MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) Portal – Students are introduced to this tool to help them discover their attributes and strengths, and find out more about different careers that they might be interested in.  
 
+  
 
-[Medialiteracycouncil.sg](https://www.betterinternet.sg/) – The Media Literacy Council website hosts useful resources for both parents and students on safe, smart and kind internet usage.
+Medialiteracycouncil.sg – The Media Literacy Council website hosts useful resources for both parents and students on safe, smart and kind internet usage.

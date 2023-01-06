@@ -1,9 +1,12 @@
 ---
 title: Level Camps for Grow Week
-permalink: /student-development/character-and-citizenship-education/physical-n-health/level-camps-for-grow-week
+permalink: /student-development/character-and-citizenship-education/physical-n-health/level-camps-for-grow-week/
 description: ""
 third_nav_title: Physical & Health
 ---
+Level Camps for "Grow Week"
+===========================
+
 For the first time, BDS embarked on a coordinated school-wide programme where all levels went through 3 days of camp throughout Singapore in the second week of Term 1 from 13-15 Jan. The Sec 1s had Camp Unity which was an orientation camp while the Sec 2s had Camp Challenge, an
 adventure camp at Jalan Bahtera Outdoor Adventure Learning Centre. As for the Sec 3s, they had Camp Endeavour with expeditions taking them to various parts of the island. The Sec 4s and 5s had ‘Camp Success’ which was a personal development programme to prepare for their national examinations ahead.
 

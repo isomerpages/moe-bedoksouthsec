@@ -3,9 +3,6 @@ title: Our Mission, Vision, Values and Motto
 permalink: /about-us/our-mission-vision-values-and-motto/
 description: ""
 ---
-![](/images/AboutUs.png)
-
-
 Our Mission, Vision, Values and Motto
 =====================================
 

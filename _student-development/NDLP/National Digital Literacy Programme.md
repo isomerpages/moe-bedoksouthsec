@@ -46,7 +46,7 @@ As part of the NDLP, schools will progressively roll out IT applications that wi
 
 (b) <b>Microsoft Pro Plus:</b> every secondary school will be granted a licence to use Microsoft Office tools that include Word, PowerPoint and Excel.
 
-(c) **Zoom:** MOE will set up Zoom free account with 40 mins time limit using Student iCON for the schools’ video conferencing needs.
+(c) <b>Zoom:</b> MOE will set up Zoom free account with 40 mins time limit using Student iCON for the schools’ video conferencing needs.
 
 You may click [here](/files/BSSS%20Zoom%20Onboarding%20for%20students.pdf) for Zoom Onboarding Guide for students.
 

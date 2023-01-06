@@ -1,9 +1,12 @@
 ---
 title: National Digital Literacy Programme
-permalink: /ndlp
+permalink: /ndlp/
 description: ""
 third_nav_title: NDLP
 ---
+NDLP
+====
+
 ### National Digital Literacy Programme
 -----------------------------------
 

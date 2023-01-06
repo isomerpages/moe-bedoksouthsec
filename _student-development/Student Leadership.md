@@ -81,6 +81,50 @@ The prefectorial board strives to develop the school culture anchored by the sch
 <b>The Peer Support Leaders</b> <br>
 The Peer Support Leaders (PSLs) lead in peer bonding, helping, and influencing their peers to prosocial behaviours and contribute to a caring and enabling school environment. They oversee, initiate class bonding activities, and share on tips and strategies that promote mental health and cyber wellness, to help students to feel connected and be accepted by their classmates.
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-y7qa" rowspan="10"><br><br><br><br><br><br>Peer Leaders EXCO</td>
+    <td class="tg-y7qa">Chairperson</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Vice-Chairperson (CCE)</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Vice-Chairperson (Student Leadership)</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Head of Deployment (CCE)</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Head of Deployment (Student Leadership)</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Head of Events (CCE)</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Head of Events (Student Leadership)</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Head of Level (CCE)</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Head of Level (Student Leadership)</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Head of Communications &amp; Engagement</td>
+  </tr>
+</thead>
+</table>
+
 
 
 
@@ -92,3 +136,7 @@ The Class Leaders play an important part in the school. They are the first touch
 
 <b>CCA Leaders</b> <br> 
 The CCA leaders are managed by the CCA teachers in-charge. They include Captains of Sports, Sergeant Majors of Uniform Groups and President and Chairpersons of Performing Arts and Clubs/Societies. EXCOs of each CCA also play a part in the CCA Leadership. Each CCA group is led by its teachers and respective CCA Coordinators.
+
+
+
+<b>The Student Leadership Committee (Teachers)</b>

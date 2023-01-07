@@ -21,11 +21,14 @@ Every BDSian will be using the Apple iPad as their PLD. Every iPad will come bun
 The enhanced device bundle includes 3-year AppleCare+ for the iPad, associated accessories, two repairs or one replacement claim within the 3-year insurance/warranty period and fortnightly courier service by Contractor to collect damaged devices from school. Alternatively, parents can choose to send the iPad directly to one of the Apple Service Centres located islandwide.
 
 ### Use of Edusave
------------------------------------
 
 MOE has provided a one-off Edusave top-up of $200 in 2020, to all students who are Singapore Citizens. As part of the Household Support Package announced in Budget 2021, the Government will also provide a top-up of $200 in 2021 to the Edusave account of Singapore Citizens who are studying in a MOE-funded school. This is on top of the current annual contributions of $290 for secondary students. The top-up will be done automatically in May 2021.
 
+  
+
 Parents/guardians can also choose to pay cash for the PLD. However, please note that it is compulsory for all existing students on the MOE Financial Assistance Scheme to use their Edusave to pay for the PLD, after subsidies have been granted.
+
+  
 
 To find out the balance in your Edusave account, please call 6260 0777.
 

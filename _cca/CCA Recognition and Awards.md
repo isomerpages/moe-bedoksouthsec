@@ -1,8 +1,11 @@
 ---
 title: CCA Recognition and Awards
-permalink: /cca/cca-recognition-and-awards
+permalink: /cca/cca-recognition-and-awards/
 description: ""
 ---
+CCA Recognition and Awards
+==========================
+
 * **CCA Colours Gold Award / Plaque Award (Pinnacle CCA Outstanding Award**
 
 	This is given on Speech Day for pupils who satisfy the criteria of excellence defined by the School in their CCAs.

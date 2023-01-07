@@ -92,4 +92,4 @@ Sports
 </tbody>
 </table>
 
-**Note:** Additional training sessions may be required during competition / performance season; CCA Teachers will inform students and parents of updates where necessary.
+<b>Note:</b> Additional training sessions may be required during competition / performance season; CCA Teachers will inform students and parents of updates where necessary.

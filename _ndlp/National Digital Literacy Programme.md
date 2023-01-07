@@ -43,14 +43,13 @@ As part of the NDLP, schools will progressively roll out IT applications that wi
 
 (c) <b>Zoom:</b> MOE will set up Zoom free account with 40 mins time limit using Student iCON for the schools’ video conferencing needs.
 
-You may click [here](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/PDLP/BSSS%20Zoom%20Onboarding%20for%20students.pdf) for Zoom Onboarding Guide for students.
+You may click [here](/files/BSSS%20ZoomOnboarding%20for%20students.pdf) for Zoom Onboarding Guide for students.
 
 The school will need to use your child/ward’s personal data such as his/her name and class to set up user accounts.
 
 The school may also roll out applications other than those listed above. The school will need to use your child’s/ward’s personal data such as his/her name and class to set up these user accounts.
 
-PDLP Information For Parents
-----------------------------
+### PDLP Information For Parents
 
 ***video to be embedded***
 

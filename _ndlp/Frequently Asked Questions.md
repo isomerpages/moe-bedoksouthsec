@@ -62,5 +62,29 @@ The insurance coverage is only applicable to situations of damages and loss wher
   
 11. <b>Does a police report need to be made if a student loses his/her PLD due to negligence?</b>
   
-Accidental loss due to negligence in not covered by insurance and a new PLD will need to be purchased by the parents/student. The school will assist in purchasing a replacement PLD. 
+Accidental loss due to negligence in not covered by insurance and a new PLD will need to be purchased by the parents/student. The school will assist in purchasing a replacement PLD.
+
+
+12. <b>What if the PLD is faulty?</b>  
   
+Technical support will be provided to students through:  
+
+*   The courier service by vendor to collect damaged devices from school fortnightly 
+*   [Apple Service Centres](https://go.gov.sg/support-apple-contact)
+
+  
+13. <b>What happens if students damage their PLD accidentally?</b>  
+  
+If the PLD is damaged, the parents/student can report it to the school. The school will coordinate with the vendor on the assessment of damage and repairs. If there are additional costs incurred, the vendor will contact the parents/student before proceeding with the repair. All additional costs for repairs will be borne by the parents/student if not covered by insurance.  
+  
+Edusave funds cannot be used to pay for the cost of repairs.  
+  
+If the device is damaged beyond economical repair and is not covered by insurance (e.g. when negligence is involved), the replacement device will have to be paid for by the parents/student.  
+  
+14. <b>Would it not be better if the devices could be insured/have a warranty </b>  
+  
+Extended warranty beyond 3 years for computing devices is not available in the open market. It would be very costly to incorporate such a requirement and it makes more economical sense to replace the device when it is beyond economical repair after 3 years.  
+  
+15. <b>Where will students store their iPads when they go for recess or PE lessons? Will students be allowed to store the iPads in school overnight?</b> 
+  
+The school will install lockers for students to store their iPads. Students are expected to secure their iPads in the lockers when they are away from their classrooms. Students should bring home the iPads at the end of the school day so that they can utilise the iPads for learning at home as well as to charge them for use the next day.

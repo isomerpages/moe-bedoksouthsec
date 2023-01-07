@@ -1,9 +1,12 @@
 ---
 title: Uniformed Groups
-permalink: /cca/uniformed-groups
+permalink: /cca/uniformed-groups/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+Uniformed Groups
+================
+
 ![Uniformed Groups](/images/Uniformed-Group.jpg)
 
 <style type="text/css">

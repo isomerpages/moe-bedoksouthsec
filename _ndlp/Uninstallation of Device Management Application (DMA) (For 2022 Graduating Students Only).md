@@ -50,3 +50,13 @@ After the DMA uninstallation, you will be able to use the PLD without the DMA. T
 
 *   The <b>Student iCON</b> will <b>cease to operate after 29 December 2022</b>.
 *   Perform the back-up using the guide [here](/files/iCON_Google%20Takeout_Guide_for_Students%20rev%20for%202022.pdf).
+
+
+
+<u><b>4\. Technical Support</b></u>
+
+Should you require technical assistance, proceed to the General Office between 20-28 December 2022 (office hours only), to acquire assistance from our ICT Associate Manager, Mr Choo Meng Kwang.
+
+  
+
+If you find that the DMA has not been uninstalled properly, please contact bsss@moe.edu.sg.

@@ -10,7 +10,6 @@ Badminton
 ![Badminton](/images/Badminton.jpg)
 
 ### Overview
---------
 
 Our members undergo basic game training and learn the skills and techniques of badminton playing through individual and mass training. Regular physical training sessions and runs are also conducted in the School Gymnasium and Indoor Sports Hall to keep the members fit for the sport. 
 
@@ -21,14 +20,12 @@ Our members also learn to assist in line-judging and umpiring of the game in fri
   
 
 ### Objectives
-----------
 
 The aim of the badminton club is to develop character, mental and physical well-being in our students.Through the learning of badminton skills, discipline and desirable social attitudes may be instilled into the students so that they become self-motivated and responsible individuals in all their undertaking. It is our vision to scale the heights to achieve in the top four positions among the schools in the East-Zone.  
 
   
 
 ### Scope of Activities
--------------------
 
 Our members undergo basic game training and learn the skills and techniques of badminton playing through individual and mass training. Regular physical training sessions and runs are also conducted in the School Gymnasium and Indoor Sports Hall to keep the members fit for the sport.
 
@@ -39,7 +36,6 @@ Our members also learn to assist in line-judging and umpiring of the game in fri
   
 
 ### Achievements
-------------
 
 <br>
 

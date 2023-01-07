@@ -62,3 +62,7 @@ To support you in keeping your child / ward safe online, you may refer to this a
 
 
 ### DMA Guide for Parents
+
+*   [DMA Guide - Default Option](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/PDLP/Resources%20for%20Parents/DMA%20Parent%20Guide%20v2.0%20-%20Default%20iPadOS.pdf)
+*   [DMA Guide - Option A](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/PDLP/Resources%20for%20Parents/DMA%20Parent%20Guide%20v2.0%20-%20Option%20A%20iPadOS.pdf)
+*   [DMA Guide - Option B](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/PDLP/Resources%20for%20Parents/DMA%20Parent%20Guide%20v2.0%20-%20Option%20B%20iPadOS.pdf)

@@ -42,9 +42,9 @@ The battery of a fully charged device will be sufficient for a typical day of sc
   
 The PLDs have an average shelf life of 3-4 years, to cover the time a student is in a secondary school. The school will uninstall the Device Management Application (DMA) from the PLDs upon students’ graduation, and students will have full control over their PLDs afterward.  
   
-**Questions about the Warranty, Insurance and Security**  
+<u><b>Questions about the Warranty, Insurance and Security</b></u>
   
-9. **What is covered by the insurance?**  
+9. <b>What is covered by the insurance?</b>  
   
 The PLD will come with a 3-year warranty and insurance coverage allowing for claims of two repairs or one replacement.  
   
@@ -56,13 +56,13 @@ The following events are covered by insurance:
 ● Theft due to forcible entry  
 ● Robbery  
   
-10. **What happens if the device is stolen/lost?**  
+10. <b>What happens if the device is stolen/lost?</b>  
   
 The insurance coverage is only applicable to situations of damages and loss where the student has taken all necessary precautions to safeguard the PLD. A police report will need to be made for the insurance claim.  
   
-11. **Does a police report need to be made if a student loses his/her PLD due to negligence?**  
+11. <b>Does a police report need to be made if a student loses his/her PLD due to negligence?</b>
   
-Accidental loss due to negligence in not covered by insurance and a new PLD will need to be purchased by the parents/student. The school will assist in purchasing a replacement PLD.  
+Accidental loss due to negligence in not covered by insurance and a new PLD will need to be purchased by the parents/student. The school will assist in purchasing a replacement PLD. 
   
 12. **What if the PLD is faulty?**  
   

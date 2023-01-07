@@ -10,7 +10,6 @@ Swimming
 ![Swimming](/images/swimming.jpg)
 
 ### Overview
---------
 
 The Bedok South Swim Team comprises swimmers from diverse backgrounds and experiences who have come together to help one another achieve their personal best. The team has represented the school in the National School Games competitions since 2017 and the swimmers’ hard work and dedication have earned them places in the finals for both freestyle and medley relays.  
 

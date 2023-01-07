@@ -2,6 +2,8 @@ collections:
   ndlp:
     output: true
     order:
+      - Uninstallation of Device Management Application (DMA) (For 2022
+        Graduating Students Only).md
       - National Digital Literacy Programme.md
       - On Boarding Process.md
       - Device Support.md

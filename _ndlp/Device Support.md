@@ -15,7 +15,6 @@ Technical support will be provided to students through a form request using the 
 
 
 ### Apple Authorised Service Centre
--------------------------------
 
 There will be a fortnightly collection of faulty devices that will be sent via courier to the apple authorised service centres for repairs. The devices sent through the school may take between 1-3 weeks for repairs, depending on the extent of the damage.
 

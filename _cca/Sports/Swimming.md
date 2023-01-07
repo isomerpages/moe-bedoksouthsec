@@ -43,12 +43,12 @@ Besides training together once a week, the CCA also provides ample opportunities
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5">2018</td>
+    <td class="tg-ktyi">2018</td>
     <td class="tg-ktyi">National School Games – C Boys Medley Relay</td>
     <td class="tg-ktyi">Finals</td>
   </tr>
   <tr>
-    <td class="tg-dgl5" rowspan="4">2019</td>
+    <td class="tg-ktyi" rowspan="4">2019</td>
     <td class="tg-ktyi">National School Games – C Girls Medley Relay</td>
     <td class="tg-ktyi">Finals</td>
   </tr>
@@ -65,15 +65,15 @@ Besides training together once a week, the CCA also provides ample opportunities
     <td class="tg-ktyi">Finals</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">2020</td>
+    <td class="tg-ktyi">2020</td>
     <td class="tg-ktyi" colspan="2">No National School Games</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">2021</td>
+    <td class="tg-ktyi">2021</td>
     <td class="tg-ktyi" colspan="2">No National School Games</td>
   </tr>
   <tr>
-    <td class="tg-dgl5" rowspan="16">2022<br> </td>
+    <td class="tg-ktyi" rowspan="16">2022<br> </td>
     <td class="tg-ktyi">200m Backstroke (Boys)</td>
     <td class="tg-ktyi">Bronze Medal</td>
   </tr>
@@ -122,19 +122,19 @@ Besides training together once a week, the CCA also provides ample opportunities
     <td class="tg-ktyi">Finals</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">National School Games – C Girls Medley Relay</td>
+    <td class="tg-ktyi">National School Games – B Girls Medley Relay</td>
     <td class="tg-ktyi">Finals</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">National School Games – C Girls Freestyle Relay</td>
+    <td class="tg-ktyi">National School Games – B Girls Freestyle Relay</td>
     <td class="tg-ktyi">Finals</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">National School Games – C Boys Freestyle Relay</td>
+    <td class="tg-ktyi">National School Games – B Boys Freestyle Relay</td>
     <td class="tg-ktyi">Finals</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">National School Games – C Boys Medley Relay</td>
+    <td class="tg-ktyi">National School Games – B Boys Medley Relay</td>
     <td class="tg-ktyi">Finals</td>
   </tr>
 </tbody>

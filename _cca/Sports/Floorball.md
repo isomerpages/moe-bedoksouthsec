@@ -107,19 +107,15 @@ Every floorballer, a skillful player, who plays with sportsmanship, and full of 
 
 ### Teachers-in-Charge  
 
----------------------
-
-Mr. Joshua Tan (OIC) <br>
-Ms Gerardine Foo <br>
-Ms Shek Mee Keng  <br>
+Mr. Joshua Tan (OIC)<br>
+Ms Gerardine Foo  <br>   Ms Shek Mee Keng <br>
 Mdm Raihana <br>
-And **External Coach**
+And <b>External Coach</b>
 
   
 
 ### Leadership Positions
---------------------
 
-1.  Captains and Vice Captains for each division
-2.  Quarter Master
-3.  Welfare Leader
+1\.  Captains and Vice Captains for each division <br>
+2\.  Quarter Master <br>
+3\.  Welfare Leader

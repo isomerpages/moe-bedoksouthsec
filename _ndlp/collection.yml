@@ -2,5 +2,6 @@ collections:
   ndlp:
     output: true
     order:
+      - Resources for Parents.md
       - Frequently Asked Questions.md
       - Use of PLD In School.md

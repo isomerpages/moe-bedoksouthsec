@@ -33,14 +33,14 @@ Parents/guardians can also choose to pay cash for the PLD. However, please note 
 To find out the balance in your Edusave account, please call 6260 0777.
 
 ### Financial Assistance
------------------------------------
 
-Subsidies are available for students who require financial assistance to purchase a PLD. Students under the MOE or School-based Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not on either the MOE or School-based Financial Assistance Scheme may approach the school’s General Office to apply for subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less.
+Subsidies are available for students who require financial assistance to purchase a PLD. Students under the MOE or School-based Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not on either the MOE or School-based Financial Assistance Scheme may approach the school’s General Office to apply for subsidy if their Gross Household Income (GHI) is $4,400 or less, or Per Capita Income (PCI) is $1,100 or less.
+
+  
 
 “PCI” refers to the Gross Household Income divided by the total number of family members in the household.
 
 ### Next Step
------------------------------------
 
 Please refer to the time frame below for the upcoming dates to note.
 

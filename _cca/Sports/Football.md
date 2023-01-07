@@ -10,7 +10,6 @@ Football
 ![Football](/images/football-1-copy.jpg)
 
 ### Overview
---------
 
 Football training in Bedok South Secondary provides the opportunity for students to take time off from their school work to relax and have fun. Even though our Coach, Ex-National Player, Dalis Supait enforces tough training to ensure the players improve their fitness level and also their technical skills, every session always ends with a game where players get to pit their skills against one another resulting in much enjoyment for all players. 
 
@@ -27,25 +26,26 @@ Character Building is another key aspect that the coach and the teachers greatly
 With all these components infused, we believe that our CCA provides an enriching and fulfilling experience for all our members. 
 
   
+
 ### Vision
-------------
+
 
 To teach our students the fundamental aspect of the beautiful game of football in an enjoyable and  
 challenging environment.  
 
-### Key Events  
--------------
 
-1.  East Zone Football Tournament (B Div and C Div Boys)
-2.  National Schools Football Tournament (B Div and C Div Boys), if qualify
-3.  Combined Sports Camps in June and Training Camp in December
-4.  Friendly Matches with other schools or clubs
-5.  External tournaments
+### Key Events  
+
+1\.  East Zone Football Tournament (B Div and C Div Boys) <br>
+2\.  National Schools Football Tournament (B Div and C Div Boys), if qualify <br>
+3\.  Combined Sports Camps in June and Training Camp in December <br>
+4\.  Friendly Matches with other schools or clubs <br>
+5\.  External tournaments
 
   
 
 ### Achievements
-------------
+
 
 <br>
 

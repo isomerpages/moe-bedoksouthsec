@@ -125,10 +125,9 @@ Mrs Mah-Pow Lai Ghim  <br>
 Ms Tan Wan Chin <br>
 And <b>External Coach</b>  
 
-Leadership Positions
---------------------
+### Leadership Positions
 
-1.  Captains, vice-captains cooperate with the teachers IC to maintain discipline within the teams
-2.  Publicity chairperson, vice chairperson – plan games and events
-3.  Official photographers (1 boy, 1 girl)
-4.  Welfare officers (1 boy, 1 girls per division) – to make sure the juniors transit to the next phase of student life smoothly in both sports and studies
+1\.  Captains, vice-captains cooperate with the teachers IC to maintain discipline within the teams <br>
+2\.  Publicity chairperson, vice chairperson – plan games and events <br>
+3\.  Official photographers (1 boy, 1 girl) <br>
+4\.  Welfare officers (1 boy, 1 girls per division) – to make sure the juniors transit to the next phase of student life smoothly in both sports and studies

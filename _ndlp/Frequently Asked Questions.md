@@ -116,3 +116,27 @@ For the IT Applications (student iCON, Microsoft ProPlus and Zoom), the school w
 20. <b>Where will the data collected by DMA and IT Applications for NDLP be stored?</b>  
   
 All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: [https://www.smartnation.gov.sg/why-Smart-Nation/securesmart-nation/personal-data-protection](https://www.smartnation.gov.sg/why-Smart-Nation/securesmart-nation/personal-data-protection)
+
+<u><b>Questions about Edusave, Subsidies and Payment</b></u>
+  
+21. <b>Can students use their Edusave Fund to purchase PLDs from vendors not engaged by the school?</b>  
+  
+Edusave fund can only be used for purchases facilitated by the school through MOE’s bulk tender.  
+  
+22. <b>Can Edusave be used to pay for purchase of accessories/peripherals for the PLD?</b>  
+  
+Edusave can only be purchased for accessories/peripherals that are bundled with the initial PLD. Edusave cannot be used for individual’s purchase of optional accessories / peripherals from the vendor.  
+  
+23. <b>For students whose parents do not want schools to deduct their Edusave for the purchase of PLDs, can they pay cash instead?</b>  
+  
+It is compulsory for all MOE FAS students to use their Edusave to purchase the PLDs. This authorization is already covered in the 2021 FAS application form.  
+  
+School-Based FAS students are strongly encouraged to sign up for the PDLP Standing Order for use of Edusave (Singapore Citizen only) so as to minimize the cash outlay.  
+  
+For students who are Singapore Citizen and not under MOE FAS or School Based FAS, parents are encouraged to use Edusave and pay any outstanding amount through SingPost SAM/SingPost SAM mobile app/cash upon receiving the school bill. Parents opting to pay cash and are onboard GIRO should ensure sufficient amount in their bank account.  
+  
+24. <b>I require financial assistance for the purchase of the PLD. How can I apply?</b>  
+  
+Subsidies are available for students who require financial assistance to purchase a PLD. Students under the MOE or School-based Financial Assistance Scheme for the year will automatically be subsidized for the PLD. Students who are currently not on either the MOE or School-based Financial Assistance Scheme may approach the school’s General Office to apply for subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less.  
+  
+“<b>PCI</b>” refers to the Gross Household Income divided by the total number of family members in the household.

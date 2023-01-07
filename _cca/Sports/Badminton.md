@@ -1,9 +1,12 @@
 ---
 title: Badminton
-permalink: /cca/sports/badminton
+permalink: /cca/sports/badminton/
 description: ""
 third_nav_title: Sports
 ---
+Badminton
+=========
+
 ![Badminton](/images/Badminton.jpg)
 
 ### Overview

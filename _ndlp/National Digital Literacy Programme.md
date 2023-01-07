@@ -24,7 +24,6 @@ The following provides important information about how you can purchase the PLD 
 ***video to be embedded***
 
 ### Bedok South’s Vision for PDLP
------------------------------
 
 A positive, future-ready, digital learner.
 

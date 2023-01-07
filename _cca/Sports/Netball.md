@@ -78,3 +78,19 @@ To develop qualities of sportsmanship, leadership, confidence teamwork and fair 
   </tr>
 </tbody>
 </table>
+
+
+
+### Teachers-in-Charge  
+
+Ms Joanne Lee (OIC) <br>Ms Srividya <br>
+Ms Cheng Wan Li <br>
+Ms Nadia Lamri  
+
+  
+
+And <b>External Coach</b>
+
+### Leadership Positions
+
+Captains and Vice-Captains

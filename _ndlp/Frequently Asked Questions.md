@@ -28,9 +28,9 @@ The prices are similar or in most cases, lower than market prices (including sof
   
 The PLD allows students to access curriculum-aligned resources in the SLS in and out of class at their own pace to complement their learning. The PLD and SLS resources will not fully replace textbooks as textbooks are currently designed as curriculum-aligned reference for students.
   
-6. **How frequently will the PLD be used in class? Is there a recommended limit to screen time in class?**  
+6. <b>How frequently will the PLD be used in class? Is there a recommended limit to screen time in class?</b>  
   
-There is no recommended screen time as it depends very much on the nature of the lesson. Schools will design their learning programmes to ensure that the students’ use of PLDs is balanced in relation to other activities and modes of learning. All PLDs will be installed with DMA, which allows teachers to manage students’ screen time if they so desire. Teachers will also continue to ensure that the amount of assignments set (both online and offline) is guided by the school’s homework policy.  
+There is no recommended screen time as it depends very much on the nature of the lesson. Schools will design their learning programmes to ensure that the students’ use of PLDs is balanced in relation to other activities and modes of learning. All PLDs will be installed with DMA, which allows teachers to manage students’ screen time if they so desire. Teachers will also continue to ensure that the amount of assignments set (both online and offline) is guided by the school’s homework policy.
   
 **Questions about the Personal Learning Device (PLD)**  
   

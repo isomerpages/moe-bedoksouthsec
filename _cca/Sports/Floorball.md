@@ -10,26 +10,27 @@ Floorball
 ![Floorball](/images/floorball-copy.jpg)
 
 ### Overview
---------
+
 
 Floorball started in 2008 and has since gained a lot of popularity from Bedok South Students.  We have both the girls' and boys' teams representing our school.  CCA players will train together with the others, in the hope of fostering a good team spirit amongst everyone.
 
   
 
 ### Vision
----------
+
 
 Every floorballer, a skillful player, who plays with sportsmanship, and full of character.
 
- 
+  
+
+
 
 ### Key Events
-----------
 
-1.  National Schools Floorball Championships (B Div and C Div for both Boys and Girls)
-2.  Training Camps in June (C Division) and December (B Division)
-3.  Friendly Matches with other schools
-4.  At least 1 external competitionAchievements
+1\.  National Schools Floorball Championships (B Div and C Div for both Boys and Girls) <br>
+2\.  Training Camps in June (C Division) and December (B Division) <br>
+3\.  Friendly Matches with other schools <br>
+4\.  At least 1 external competitionAchievements
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

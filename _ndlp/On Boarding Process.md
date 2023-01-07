@@ -3,14 +3,16 @@ title: On Boarding Process
 permalink: /ndlp/on-boarding-process/
 description: ""
 ---
-
-
-### On-Boarding Process
------------------------------------
+On-Boarding Process
+===================
 
 The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS) – as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
 
-As part of NDLP, the school has made arrangement for the purchase of personal learning device (PLD) for your child / ward. 
+  
+
+As part of NDLP, the school has made arrangement for the purchase of personal learning device (PLD) for your child / ward. 
+
+  
 
 Every BDSian will be using the Apple iPad as their PLD. Every iPad will come bundled with the Apple pencil and keyboard to maximise the affordances of the iPad as a learning tool.
 

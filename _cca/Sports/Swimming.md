@@ -1,9 +1,12 @@
 ---
 title: Swimming
-permalink: /cca/sports/swimming
+permalink: /cca/sports/swimming/
 description: ""
 third_nav_title: Sports
 ---
+Swimming
+========
+
 ![Swimming](/images/swimming.jpg)
 
 ### Overview

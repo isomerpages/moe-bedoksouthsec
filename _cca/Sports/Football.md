@@ -145,18 +145,17 @@ challenging environment.
 
 
 
+
 ### Teachers-in-Charge  
----------------------
 
 Mr Nordin Hassan (OIC) <br>
 Ms Erdiah Bte Samad <br>
-Mr Imran Mawardi  <br>
-Mr Zulhilmi <br>
+Mr Imran Mawardi <br> 
+Mr Zulhilmi
 
-And **External Coach**
+And <b>External Coach</b>
 
 ### Leadership Positions
---------------------
 
-1.  Captains and Vice Captains for each division
-2.  Team managers for each division
+1\.  Captains and Vice Captains for each division <br> 
+2\.  Team managers for each division

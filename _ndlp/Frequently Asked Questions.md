@@ -32,13 +32,13 @@ The PLD allows students to access curriculum-aligned resources in the SLS in and
   
 There is no recommended screen time as it depends very much on the nature of the lesson. Schools will design their learning programmes to ensure that the students’ use of PLDs is balanced in relation to other activities and modes of learning. All PLDs will be installed with DMA, which allows teachers to manage students’ screen time if they so desire. Teachers will also continue to ensure that the amount of assignments set (both online and offline) is guided by the school’s homework policy.
   
-**Questions about the Personal Learning Device (PLD)**  
+<u><b>Questions about the Personal Learning Device (PLD)</b></u>
   
-7. **What is the battery life for the iPads?**  
+7. <b>What is the battery life for the iPads?</b>  
   
 The battery of a fully charged device will be sufficient for a typical day of school activities. Students are to ensure their iPads are fully charged at home before bringing them to school.  
   
-8. **What is the expected shelf life of the PLD? What happens to the PLD after the student graduates?**  
+8. <b>What is the expected shelf life of the PLD? What happens to the PLD after the student graduates?</b> 
   
 The PLDs have an average shelf life of 3-4 years, to cover the time a student is in a secondary school. The school will uninstall the Device Management Application (DMA) from the PLDs upon students’ graduation, and students will have full control over their PLDs afterward.  
   

@@ -3,13 +3,12 @@ title: Device Support
 permalink: /ndlp/device-support/
 description: ""
 ---
-
-### Device Support
------------------------------------
+Device Support
+==============
 
 Technical support will be provided to students through a form request using the following link:  
 
-*   BSSS ipad helpline:&nbsp;[https://go.gov.sg/bsss-pld-helpline](https://go.gov.sg/bsss-pld-helpline)&nbsp;or scan the QR Code:
+*   BSSS ipad helpline: [https://go.gov.sg/bsss-pld-helpline](https://go.gov.sg/bsss-pld-helpline) or scan the QR Code:
 
 
 <img style="width:30%" src="/images/qr.jpeg">

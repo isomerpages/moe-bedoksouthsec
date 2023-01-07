@@ -39,14 +39,14 @@ After the DMA uninstallation, you will be able to use the PLD without the DMA. T
 
   
 
-(a) iCloud Files: For e.g. tan\_weiling@bsss.moe.edu.sg
+(a) iCloud Files: For e.g. tan\_weiling@bsss.moe.edu.sg 
 
-*   The **School Managed Apple ID** will be **deleted after 29 December 2022**.
-*   Perform the back-up to your **personal cloud storage**.
+*   The <b>School Managed Apple ID</b> will be <b>deleted after 29 December 2022</b>.
+*   Perform the back-up to your <b>personal cloud storage</b>.
 
   
 
 (b) Student iCON Email & Google Drive: For e.g. tan\_weiling@students.edu.sg
 
-*   The **Student iCON** will **cease to operate after 29 December 2022**.
+*   The <b>Student iCON</b> will <b>cease to operate after 29 December 2022</b>.
 *   Perform the back-up using the guide [here](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/NDLP/iCON_Google%20Takeout_Guide_for_Students%20rev%20for%202022.pdf).

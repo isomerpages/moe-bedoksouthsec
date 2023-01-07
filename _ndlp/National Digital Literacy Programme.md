@@ -53,8 +53,8 @@ The school may also roll out applications other than those listed above. The sch
 
 ***video to be embedded***
 
+
 ### Important Actions For Parents/Guardians
----------------------------------------
 
 Parents/guardians will receive a letter from the school via Parents Gateway or hardcopy with details about the PDLP. Please submit the following consent forms in order for the school to begin processing the purchase of a PLD for your child/ward.
 
@@ -66,11 +66,9 @@ Parents/guardians will receive a letter from the school via Parents Gateway or h
 
   
 
-For parents/guardians with Singpass, please make an online submission at **[go.gov.sg/bsss-pdlp-admin](https://go.gov.sg/bsss-pdlp-admin)**.
-
-For parents/guardians without Singpass, please submit the **hardcopy letter to your child’s/ward’s Form Teacher**.
+For parents/guardians <u>with Singpass</u>, please make an online submission at <b>[go.gov.sg/bsss-pdlp-admin](https://go.gov.sg/bsss-pdlp-admin)</b>. <br>
+For parents/guardians <u>without Singpass</u>, please submit the <b>hardcopy letter to your child’s/ward’s Form Teacher</b>.
 
 ### Further Queries
----------------
 
-Should there by any further queries or clarification, please email us at [**bsss@moe.edu.sg**](mailto:bsss@moe.edu.sg).
+Should there by any further queries or clarification, please email us at [<b>bsss@moe.edu.sg</b>](mailto:bsss@moe.edu.sg).

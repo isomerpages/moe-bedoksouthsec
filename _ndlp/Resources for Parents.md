@@ -3,9 +3,8 @@ title: Resources for Parents
 permalink: /ndlp/resources-for-parents/
 description: ""
 ---
-
-### Resources for Parents
------------------------------------
+Resources for Parents
+=====================
 
 To support you in keeping your child / ward safe online, you may refer to this additional resources and kits:
 
@@ -60,4 +59,3 @@ To support you in keeping your child / ward safe online, you may refer to this a
   </tr>
 </tbody>
 </table>
-

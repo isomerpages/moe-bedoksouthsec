@@ -12,19 +12,19 @@ Frequently Asked Questions
   
 Every student is required to have a PLD for teaching and learning purposes and is encouraged to purchase one through the school via MOE’s bulk tender procured at discounted prices. Students are strongly encouraged to use the PLD model prescribed by the school, as the uniformity of systems and software would ensure a smooth learning experience for everyone. The PLD purchased through the school will come with the necessary warranty and insurance as well. Students who do not wish to purchase the iPad because they already have one will have to check with the school to ascertain whether the specifications of their existing devices meet the schools’ requirements. These existing devices must also be installed with a Device Management Application (DMA) software to provide a safe learning experience for them and to prevent misuse of the devices. The DMA is fully funded by the school and will be uninstalled from the devices when they graduate/leave the school.  
   
-2. **Do all students in a school have to use the same PLD? What about students who opt out of using the school-selected PLD and wish to use their own? How will this affect their learning?  
-**  
+2. <b>Do all students in a school have to use the same PLD? What about students who opt out of using the school-selected PLD and wish to use their own? How will this affect their learning?</b>  
+
 Students are strongly encouraged to use the PLD model prescribed by the school for a smooth learning experience. If students wish to use their own devices, these devices must meet the necessary specifications stated by the school. They must also be willing to allow the school to install a DMA software (reset to factory setting is required for iPads) to provide a safe learning experience for them and to prevent misuse of the devices.  
   
-3. **Can students share one PLD with their siblings?**  
+3. <b>Can students share one PLD with their siblings?</b>  
   
 For a smooth learning experience, it is strongly encouraged that each student has his/her own PLD as prescribed by the school. This is because different schools may tap on specific PLD for teaching and learning. In addition, the student will be required to use the PLD in school daily and for their learning after school, hence it might not be practical to share the PLD with their siblings.  
   
-4. **Is the price of the iPad similar or lower than market prices?**  
+4. <b>Is the price of the iPad similar or lower than market prices?</b>  
   
 The prices are similar or in most cases, lower than market prices (including software/technical support, warranty and insurance). MOE has a process to review the prices with contractors to keep the prices competitive.  
   
-5. **Will the PLD and SLS resources replace textbooks?**  
+5. <b>Will the PLD and SLS resources replace textbooks?</b>  
   
 The PLD allows students to access curriculum-aligned resources in the SLS in and out of class at their own pace to complement their learning. The PLD and SLS resources will not fully replace textbooks as textbooks are currently designed as curriculum-aligned reference for students.
   

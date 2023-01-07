@@ -49,4 +49,4 @@ After the DMA uninstallation, you will be able to use the PLD without the DMA. T
 (b) Student iCON Email & Google Drive: For e.g. tan_weiling@students.edu.sg
 
 *   The <b>Student iCON</b> will <b>cease to operate after 29 December 2022</b>.
-*   Perform the back-up using the guide [here](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/NDLP/iCON_Google%20Takeout_Guide_for_Students%20rev%20for%202022.pdf).
+*   Perform the back-up using the guide [here](/files/iCON_Google%20Takeout_Guide_for_Students%20rev%20for%202022.pdf).

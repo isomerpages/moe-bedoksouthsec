@@ -63,20 +63,20 @@ Please refer to the time frame below for the upcoming dates to note.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Jan 2022</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Parents will receive:</span><br><br><br>Letter of Consent sent via Parents Gateway<br>Individualised hardcopy letter (through child / ward) to inform parents / guardian of the amount to be deducted from Edusave / GIRO</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Jan 2023</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Parents will receive:</span><br><br><br>•    <span style="font-weight:bold">Letter of Consent</span> sent via Parents Gateway<br>•    <span style="font-weight:bold">Individualised hardcopy letter</span> (through child / ward) to inform parents / guardian of the amount to be deducted from Edusave / GIRO</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Term 1</span></td>
     <td class="tg-y7qa"><span style="color:#222;background-color:#EAEAEA">For students with existing devices, to bring the device to school for the school to ascertain its compatibility to the DMA and Apple Pencil.</span><br><br></td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">29 Mar 2022</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mar 2023</span></td>
     <td class="tg-y7qa"><span style="color:#222;background-color:#EAEAEA">Collection &amp; setup of PLD </span><br><br></td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> Term 1</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">For students with existing devices, to bring the device to school for the ICT department to perform the factory reset.</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">For students with existing device (only Apple iPAD), to bring the device to school for the ICT department to check for compatibility and installation of DMA.</span></td>
   </tr>
 </tbody>
 </table>

@@ -17,7 +17,7 @@ The Device Management Application (DMA), Mobile Guardian, will be uninstalled fr
 *   <b>Secondary 4 Express: 15 November 2022</b>
 *   <b>Secondary 4 Normal: 30 December 2022</b>
 
-    *   Click [here](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/NDLP/Briefing%20for%20Uninstalling%20DMA%20from%20PLD%20For%204N%20Students.pdf) for briefing slides.
+    *   Click [here](/files/Briefing%20for%20Uninstalling%20DMA%20from%20PLD%20For%204N%20Students.pdf) for briefing slides.
 
   
 

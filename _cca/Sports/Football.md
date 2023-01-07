@@ -1,9 +1,12 @@
 ---
 title: Football
-permalink: /cca/sports/football
+permalink: /cca/sports/football/
 description: ""
 third_nav_title: Sports
 ---
+Football
+========
+
 ![Football](/images/football-1-copy.jpg)
 
 ### Overview

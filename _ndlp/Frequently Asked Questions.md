@@ -3,18 +3,17 @@ title: Frequently Asked Questions
 permalink: /ndlp/frequently-asked-questions/
 description: ""
 ---
+Frequently Asked Questions
+==========================
 
-### Frequently Asked Questions
------------------------------------
-
-**Questions about the Personal Digital Learning Programme**  
-
-1. **Can my child not purchase the iPad \[the prescribed personal learning device (PLD) for Bedok South Secondary School\]?**  
+<u><b>Questions about the Personal Digital Learning Programme</b></u>  
+ 
+1. <b>Can my child not purchase the iPad \[the prescribed personal learning device (PLD) for Bedok South Secondary School\]?</b> 
   
 Every student is required to have a PLD for teaching and learning purposes and is encouraged to purchase one through the school via MOE’s bulk tender procured at discounted prices. Students are strongly encouraged to use the PLD model prescribed by the school, as the uniformity of systems and software would ensure a smooth learning experience for everyone. The PLD purchased through the school will come with the necessary warranty and insurance as well. Students who do not wish to purchase the iPad because they already have one will have to check with the school to ascertain whether the specifications of their existing devices meet the schools’ requirements. These existing devices must also be installed with a Device Management Application (DMA) software to provide a safe learning experience for them and to prevent misuse of the devices. The DMA is fully funded by the school and will be uninstalled from the devices when they graduate/leave the school.  
   
-2. **Do all students in a school have to use the same PLD? What about students who opt out of using the school-selected PLD and wish to use their own? How will this affect their learning?**  
-
+2. **Do all students in a school have to use the same PLD? What about students who opt out of using the school-selected PLD and wish to use their own? How will this affect their learning?  
+**  
 Students are strongly encouraged to use the PLD model prescribed by the school for a smooth learning experience. If students wish to use their own devices, these devices must meet the necessary specifications stated by the school. They must also be willing to allow the school to install a DMA software (reset to factory setting is required for iPads) to provide a safe learning experience for them and to prevent misuse of the devices.  
   
 3. **Can students share one PLD with their siblings?**  
@@ -27,7 +26,7 @@ The prices are similar or in most cases, lower than market prices (including sof
   
 5. **Will the PLD and SLS resources replace textbooks?**  
   
-The PLD allows students to access curriculum-aligned resources in the SLS in and out of class at their own pace to complement their learning. The PLD and SLS resources will not fully replace textbooks as textbooks are currently designed as curriculum-aligned reference for students.  
+The PLD allows students to access curriculum-aligned resources in the SLS in and out of class at their own pace to complement their learning. The PLD and SLS resources will not fully replace textbooks as textbooks are currently designed as curriculum-aligned reference for students.
   
 6. **How frequently will the PLD be used in class? Is there a recommended limit to screen time in class?**  
   

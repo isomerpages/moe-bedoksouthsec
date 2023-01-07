@@ -16,7 +16,6 @@ The Bedok South Swim Team comprises swimmers from diverse backgrounds and experi
 Besides training together once a week, the CCA also provides ample opportunities for character development. Our swimmers have put their skills to good use by participating in events such as Swim for Hope organised by SAFRA to raise funds for charity, and by creating a video to educate the school community on various water safety measures.
 
 ### Objectives
-----------
 
 *   To develop character, mental and physical well-being in the swimmers
 *   To provide training for students to swim competitively
@@ -24,7 +23,6 @@ Besides training together once a week, the CCA also provides ample opportunities
 *   To teach students to respect one another and work as a team
 
 ### Achievements
-------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

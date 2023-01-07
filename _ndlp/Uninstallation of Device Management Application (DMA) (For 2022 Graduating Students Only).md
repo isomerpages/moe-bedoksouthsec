@@ -32,4 +32,4 @@ After the DMA uninstallation, you will be able to use the PLD without the DMA. T
 
   
 
-*   <b>After the uninstallation</b>: Click [here](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/NDLP/Instructions%20for%20DMA%20Uninstallation.pdf) for the guide to check if the DMA has been successfully uninstalled.
+*   <b>After the uninstallation</b>: Click [here](/files/Instructions%20for%20DMA%20Uninstallation.pdf) for the guide to check if the DMA has been successfully uninstalled.

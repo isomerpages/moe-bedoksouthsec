@@ -1,9 +1,11 @@
 ---
 title: Girl Guides
-permalink: /cca/uniformed-groups/girl-guides
+permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+Girl Guides
+===========
 
 ![Girl Guides](/images/Girl-Guides.jpg)
 

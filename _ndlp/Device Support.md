@@ -96,15 +96,13 @@ Please note that devices sent by parents/students directly to the service centre
 Should you have any queries about the device, insurance and warranty, you may contact the device contractor directly.
   
 
-### AsiaPac
------------
+### <u>AsiaPac</u>
 
-**Help Desk Number:**&nbsp;6270 8281  
+<b>Help Desk Number:</b> 6270 8281  
   
-**Help Desk Email:**&nbsp;[pdlpapple@asiapac.com.sg](mailto:pdlpapple@asiapac.com.sg)
-
+<b>Help Desk Email:</b> pdlpapple@asiapac.com.sg  
   
-**Help Desk Operating Hours:**&nbsp;<br>
+<b>Help Desk Operating Hours:</b> <br>
 Mon - Thu: 0830 - 1730  
 Fri: 0830 - 1700  
-Closed on Sat, Sun &amp; Public Holidays
+Closed on Sat, Sun & Public Holidays

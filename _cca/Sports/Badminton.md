@@ -37,8 +37,6 @@ Our members also learn to assist in line-judging and umpiring of the game in fri
 
 ### Achievements
 
-<br>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -46,17 +44,17 @@ Our members also learn to assist in line-judging and umpiring of the game in fri
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-iva4{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1xc9{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-laxs{background-color:#EAEAEA;text-align:left;vertical-align:middle}
+.tg .tg-cduw{background-color:#B0B0B0;color:#222;text-align:left;vertical-align:top}
 .tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-iva4"><span style="color:#222">Year</span></th>
+    <th class="tg-1xc9"><span style="color:#222">Year</span></th>
     <th class="tg-1xc9"><span style="color:#222">Activity</span></th>
-    <th class="tg-1xc9"><span style="color:#222">Achievement</span></th>
+    <th class="tg-cduw"><span style="color:#222">Achievement</span></th>
   </tr>
 </thead>
 <tbody>
@@ -86,7 +84,7 @@ Our members also learn to assist in line-judging and umpiring of the game in fri
     <td class="tg-y7qa"><span style="color:#222">3</span>rd Place</td>
   </tr>
   <tr>
-    <td class="tg-rj1p"><span style="color:#222"> </span>2017</td>
+    <td class="tg-y7qa"><span style="color:#222"> </span>2017</td>
     <td class="tg-y7qa"><span style="color:#222">National School Games (NSG East Zone) - C Girls</span></td>
     <td class="tg-y7qa"><span style="color:#222">2nd Round</span></td>
   </tr>
@@ -96,7 +94,7 @@ Our members also learn to assist in line-judging and umpiring of the game in fri
     <td class="tg-y7qa"><span style="color:#222">2nd Round</span></td>
   </tr>
   <tr>
-    <td class="tg-rj1p"><span style="color:#222"> </span>2016</td>
+    <td class="tg-y7qa"><span style="color:#222"> </span>2016</td>
     <td class="tg-y7qa"><span style="color:#222">National School Games (NSG East Zone) - C Girls</span></td>
     <td class="tg-y7qa"><span style="color:#222">2nd Round</span></td>
   </tr>
@@ -106,7 +104,7 @@ Our members also learn to assist in line-judging and umpiring of the game in fri
     <td class="tg-y7qa"><span style="color:#222">1st Round</span><br><span style="color:#222">C Girls 2nd Round (Top 8)</span></td>
   </tr>
   <tr>
-    <td class="tg-rj1p"><span style="color:#222"> </span>2015</td>
+    <td class="tg-y7qa"><span style="color:#222"> </span>2015</td>
     <td class="tg-y7qa"><span style="color:#222">National School Games (NSG East Zone) - C Boys</span></td>
     <td class="tg-y7qa"><span style="color:#222">2nd Round </span></td>
   </tr>
@@ -118,16 +116,16 @@ Our members also learn to assist in line-judging and umpiring of the game in fri
 </tbody>
 </table>
 
+
 ### Teachers-in-Charge  
----------------------
 
 Mr Wong Zi Heng (OIC) <br>
 Mr Yip Kim San <br>
 Mrs Mah-Pow Lai Ghim  <br>
 Ms Tan Wan Chin <br>
-And **External Coach**  
+And <b>External Coach</b>  
 
-### Leadership Positions
+Leadership Positions
 --------------------
 
 1.  Captains, vice-captains cooperate with the teachers IC to maintain discipline within the teams

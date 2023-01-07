@@ -7,10 +7,13 @@ CCA LEAPS and grading system
 ============================
 
 ### LEAPS 2.0 Domains
------------------
 
 
-**(For New Sec 1 Students From 2014 Onwards)**
+  
+
+
+<b>(For New Sec 1 Students From 2014 Onwards)</b>
+
 
 
 This domain recognises students’ participation in one school-based1 Co-Curricular Activity (CCA). Recognition is based on the number of years of participation and exemplary conduct and active contribution2 to the CCA. Sustained engagement in the same CCA allows for progressive development of character, skills, knowledge and friendships, and will be accorded higher recognition.

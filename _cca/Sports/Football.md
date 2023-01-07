@@ -46,9 +46,6 @@ challenging environment.
 
 ### Achievements
 
-
-<br>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -56,21 +53,20 @@ challenging environment.
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-1xc9{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-laxs{background-color:#EAEAEA;text-align:left;vertical-align:middle}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-cduw{background-color:#B0B0B0;color:#222;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1xc9"><span style="color:#222">Year</span></th>
-    <th class="tg-1xc9"><span style="color:#222">Activity</span></th>
-    <th class="tg-1xc9"><span style="color:#222">Award</span></th>
+    <th class="tg-cduw"><span style="color:#222">Year</span></th>
+    <th class="tg-cduw"><span style="color:#222">Activity</span></th>
+    <th class="tg-cduw"><span style="color:#222">Award</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-rj1p"><span style="color:#222">2018</span></td>
+    <td class="tg-y7qa"><span style="color:#222">2018</span></td>
     <td class="tg-y7qa"><span style="color:#222">East Zone C Division Championship – Boys</span></td>
     <td class="tg-y7qa"><span style="color:#222">First Round</span></td>
   </tr>
@@ -100,7 +96,7 @@ challenging environment.
     <td class="tg-y7qa"><span style="color:#222">Achievement</span></td>
   </tr>
   <tr>
-    <td class="tg-rj1p"><span style="color:#222"> 2016</span></td>
+    <td class="tg-y7qa"><span style="color:#222"> 2016</span></td>
     <td class="tg-y7qa"><span style="color:#222">National School Games (NSG East Zone) B and C Boys</span></td>
     <td class="tg-y7qa"><span style="color:#222"> 1st Round</span></td>
   </tr>
@@ -110,7 +106,7 @@ challenging environment.
     <td class="tg-y7qa"><span style="color:#222">4th Place</span></td>
   </tr>
   <tr>
-    <td class="tg-rj1p"><span style="color:#222">2015</span></td>
+    <td class="tg-y7qa"><span style="color:#222">2015</span></td>
     <td class="tg-y7qa"><span style="color:#222">National School Games (NSG East Zone) B and C Boys</span></td>
     <td class="tg-y7qa"><span style="color:#222">1st Round</span></td>
   </tr>
@@ -130,7 +126,7 @@ challenging environment.
     <td class="tg-y7qa"><span style="color:#222">1st Runners-Up</span></td>
   </tr>
   <tr>
-    <td class="tg-rj1p"><span style="color:#222">2014</span></td>
+    <td class="tg-y7qa"><span style="color:#222">2014</span></td>
     <td class="tg-y7qa"><span style="color:#222">Nike Cup</span></td>
     <td class="tg-y7qa"><span style="color:#222">Quarter-Finals</span></td>
   </tr>
@@ -142,10 +138,12 @@ challenging environment.
   <tr>
     <td class="tg-y7qa"><br></td>
     <td class="tg-y7qa"><span style="color:#222">Masagos Cup</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Champions</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Champions</span><br></td>
   </tr>
 </tbody>
 </table>
+
+
 
 ### Teachers-in-Charge  
 ---------------------

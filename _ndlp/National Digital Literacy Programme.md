@@ -3,7 +3,6 @@ title: National Digital Literacy Programme
 permalink: /ndlp/NDLP/
 description: ""
 ---
-
 NDLP
 ====
 
@@ -20,8 +19,7 @@ The following provides important information about how you can purchase the PLD 
 
 ![Aims of PDLP](/images/pdlp1.jpg)
 
-### Principal's Introduction to PDLP
--------------------------------- 
+### Introduction to PDLP
 
 ***video to be embedded***
 

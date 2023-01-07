@@ -89,12 +89,11 @@ Should there be a need to send the device for immediate repairs, below is the li
 </tbody>
 </table>
 
-Please note that devices sent by parents/students directly to the service centres will not be subjected to the same courier pickup services offered through the school’s service desk.&nbsp;  
+Please note that devices sent by parents/students directly to the service centres will not be subjected to the same courier pickup services offered through the school’s service desk.   
 
 ### Device Contractor Information
------------------------------
 
-Should you have any queries about the device, insurance and warranty, you may contact the device contractor directly.  
+Should you have any queries about the device, insurance and warranty, you may contact the device contractor directly.
   
 
 ### AsiaPac

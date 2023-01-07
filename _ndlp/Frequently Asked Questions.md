@@ -44,7 +44,7 @@ The PLDs have an average shelf life of 3-4 years, to cover the time a student is
   
 <u><b>Questions about the Warranty, Insurance and Security</b></u>
   
-9. <b>What is covered by the insurance?</b>  
+9. <b>What is covered by the insurance?</b> 
   
 The PLD will come with a 3-year warranty and insurance coverage allowing for claims of two repairs or one replacement.  
   
@@ -60,11 +60,10 @@ The following events are covered by insurance:
   
 The insurance coverage is only applicable to situations of damages and loss where the student has taken all necessary precautions to safeguard the PLD. A police report will need to be made for the insurance claim.  
   
-11. <b>Does a police report need to be made if a student loses his/her PLD due to negligence?</b>
+11. <b>Does a police report need to be made if a student loses his/her PLD due to negligence?</b>  
   
-Accidental loss due to negligence in not covered by insurance and a new PLD will need to be purchased by the parents/student. The school will assist in purchasing a replacement PLD.
-
-
+Accidental loss due to negligence in not covered by insurance and a new PLD will need to be purchased by the parents/student. The school will assist in purchasing a replacement PLD.  
+  
 12. <b>What if the PLD is faulty?</b>  
   
 Technical support will be provided to students through:  
@@ -81,10 +80,10 @@ Edusave funds cannot be used to pay for the cost of repairs.
   
 If the device is damaged beyond economical repair and is not covered by insurance (e.g. when negligence is involved), the replacement device will have to be paid for by the parents/student.  
   
-14. <b>Would it not be better if the devices could be insured/have a warranty </b>  
+14. <b>Would it not be better if the devices could be insured/have a warranty period of 4 years as a standard?</b>  
   
 Extended warranty beyond 3 years for computing devices is not available in the open market. It would be very costly to incorporate such a requirement and it makes more economical sense to replace the device when it is beyond economical repair after 3 years.  
   
-15. <b>Where will students store their iPads when they go for recess or PE lessons? Will students be allowed to store the iPads in school overnight?</b> 
+15. <b>Where will students store their iPads when they go for recess or PE lessons? Will students be allowed to store the iPads in school overnight?</b>  
   
 The school will install lockers for students to store their iPads. Students are expected to secure their iPads in the lockers when they are away from their classrooms. Students should bring home the iPads at the end of the school day so that they can utilise the iPads for learning at home as well as to charge them for use the next day.

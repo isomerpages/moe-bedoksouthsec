@@ -1,9 +1,12 @@
 ---
 title: Floorball
-permalink: /cca/sports/floorball
+permalink: /cca/sports/floorball/
 description: ""
 third_nav_title: Sports
 ---
+Floorball
+=========
+
 ![Floorball](/images/floorball-copy.jpg)
 
 ### Overview

@@ -2,8 +2,6 @@ collections:
   ndlp:
     output: true
     order:
-      - Uninstallation of Device Management Application (DMA) (For 2022
-        Graduating Students Only).md
       - National Digital Literacy Programme.md
       - On Boarding Process.md
       - Device Support.md
@@ -12,3 +10,5 @@ collections:
       - Frequently Asked Questions.md
       - Use of PLD In School.md
       - NDLP Info Site for Staff and Students.md
+      - Uninstallation of Device Management Application (DMA) (For 2022
+        Graduating Students Only).md

@@ -166,3 +166,12 @@ The purpose of the visit is to broaden the mental horizon of our cadets and memb
   </tr>
 </tbody>
 </table>
+
+
+### VIA Activities
+
+<b>I. Community Safety & Security Programme - For Sec 2 Cadets</b> <br>
+CSSP is a VIA project within the school community. Cadets are to understand that to be socially conscious is to take ownership of educating the school community on safety and security as well as to assist in enforcing those values and beliefs through actions.
+
+<b>II. Police Youth Ambassador - Sec 3 cadets</b> <br>
+PYA is a VIA project to be conducted outside the school community. Cadets are to understand that taking ownership in improving the safety and security of the community beyond school is an important part of being socially conscious – serving the common good.

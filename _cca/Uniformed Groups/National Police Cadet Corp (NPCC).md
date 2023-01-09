@@ -128,3 +128,41 @@ The purpose of the visit is to broaden the mental horizon of our cadets and memb
 
 ### Leadership Positions
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ktyi">President</th>
+    <th class="tg-ktyi">Sgt (NPCC) Ellis Binte Mohamad Arfan</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">Vice-President</td>
+    <td class="tg-ktyi">Sgt (NPCC) Reyes Ong Jia Yang</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Vice-President</td>
+    <td class="tg-ktyi">Sgt (NPCC) Chan Yi Xin</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Head of Administration &amp; Publicity</td>
+    <td class="tg-ktyi">Sgt (NPCC) Vinod Menon Karthik Menon</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Head of Logistics</td>
+    <td class="tg-ktyi">Sgt (NPCC) Kang Shao Jie</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Head of Trainings</td>
+    <td class="tg-ktyi">Sgt (NPCC) Tan Rui Yin Natasha<br>Sgt (NPCC) Donovan Neo Choon Kai</td>
+  </tr>
+</tbody>
+</table>

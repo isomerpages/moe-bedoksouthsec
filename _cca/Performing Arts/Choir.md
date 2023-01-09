@@ -9,3 +9,8 @@ Choir
 
 ![](/images/choir2022.png)
 
+### Teachers-in-charge
+
+Ms Lam Yen Ping (OIC)<br>
+Ms Chia Suat Huang<br>
+Mrs Adeline Yee

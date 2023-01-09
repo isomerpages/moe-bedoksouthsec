@@ -22,7 +22,6 @@ Mr Loh Jia Perng (Advisor)
 And&nbsp;**Volunteer Adult Leaders**
 
 ### Mission
-------------------
 
 “To develop our members to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe”.
 

@@ -22,12 +22,12 @@ Mr Samuel Goh (Advisor)
 And **Volunteer Adult Leaders**
 
 ### Objectives
-----------
+
 
 In alignment with the aims of our HQ NCDCC and our parent organisation SCDF, NCDCC will seek to nurture and develop our youths into resilient and responsible citizens through innovative and challenging CD activities. It is a choice Uniformed Group (UG) that equips our youths with life-savings skills for challenging times ahead.
 
 ### Scope of Activities
--------------------
+
 
 NCDCC believes in developing and empowering its cadets to become active and concerned citizens with life-saving skills such as basic firefighting, first aid, CPR and AED. 
 
@@ -40,7 +40,7 @@ In 2017, NCDCC launched the Specialisation Model to better train and equip cadet
 In the light of the rising threat of terrorism, Singapore has launched the SGSecure Movement as a community response to the terror threat. The NCDCC cadets play a crucial role in actively advocating for greater knowledge of life-saving skills. Throughout the year, the cadets also participated in many events and competitions such as NCDCC Outdoor Resilience Adventure Challenge (NORAC), NFEC-NCDCC Inter-unit Quiz, NCDCC Affirmation Day and Games Day. All these help develop the cadets’ leadership skills, civil defence knowledge and also forge stronger bonds amongst them.
 
 ### Achievements
-------------
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -141,7 +141,7 @@ In the light of the rising threat of terrorism, Singapore has launched the SGSec
 </table>
 
 ### Leadership Positions
---------------------
+
 
 1. Company Sergeant Major (CSM)  
 

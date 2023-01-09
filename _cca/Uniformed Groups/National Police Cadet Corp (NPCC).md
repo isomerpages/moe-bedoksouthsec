@@ -21,20 +21,16 @@ Mr Loh Jia Perng (Advisor)
 
 And&nbsp;**Volunteer Adult Leaders**
 
-### Mission
+### MISSION of the CCA
 
 “To develop our members to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe”.
 
-### Vision
-
+### VISION of the CCA
 
 “To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world”.
 
-Unit URL
---------
+### Unit URL
 
-Click&nbsp;[here](https://go.gov.sg/bds-npcc-facebook)&nbsp;to visit our&nbsp;BDS NPCC Facebook.  
-Click&nbsp;[here](https://go.gov.sg/bds-npcc-instagram)&nbsp;to visit our BDS NPCC Instagram.  
 
 ### Achievements
 ------------

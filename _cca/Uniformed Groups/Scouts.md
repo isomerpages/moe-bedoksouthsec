@@ -8,11 +8,10 @@ Scouts
 ======
 
 ![Scout](/images/SCOUT.png)
-
 Kijang Scout Group is dedicated to the development of every Scout that joins us. Nurturing and cultivating Leadership skills, integrity, responsibility and good moral character through the Scout Method with the guiding principles of the Scout Promise and Law. It is our aspiration that the life skills taught will prepare our Scouts for the future and to become useful individuals to society.
 
 ### Teachers-in-Charge
-------------------
+
 
 Mr Webster Lim (OIC) <br>
 Mr Eric Choo  <br>
@@ -21,10 +20,9 @@ Mr Sum Tuck Mun (Advisor)
 
   
 
-And **Volunteer Adult Leaders**
+And <b>Volunteer Adult Leaders</b>
 
 ### Objectives of Scouting
-----------------------
 
 To nurture and inculcate:
 
@@ -35,7 +33,6 @@ To nurture and inculcate:
 *   Life Skills
 
 ### The Mission of Scouting
------------------------
 
 The mission of Scouting is to contribute to the education of young people, through a value system based on the Scout Promise and Law, to help build a better world where people are self-fulfilled as individuals and play a constructive role in society. This is achieved by:
 
@@ -44,12 +41,11 @@ The mission of Scouting is to contribute to the education of young people, throu
 *   assisting them to establish a value system based upon spiritual, social and personal principles as expressed in the Promise and Law
 
 ### The Vision of Scouting
-----------------------
+
 
 Better Scouting for more Young People
 
 ### Activities
-----------
 
 *   Pioneering/ Campcraft
 *   Orienteering
@@ -65,7 +61,7 @@ Better Scouting for more Young People
 *   Community Service
 
 ### Achievements
-------------
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -109,11 +105,10 @@ Better Scouting for more Young People
 </table>
 
 ### Leadership Positions
---------------------
 
-1.  Troop Leader
-2.  Asst. Troop Leader
-3.  Patrol Leader
-4.  Asst. Patrol Leader
-5.  Quartermaster
-6.  Council Secretary
+1\.  Troop Leader<br>
+2\.  Asst. Troop Leader<br>
+3\.  Patrol Leader<br>
+4\.  Asst. Patrol Leader<br>
+5\.  Quartermaster<br>
+6\.  Council Secretary

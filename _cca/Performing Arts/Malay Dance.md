@@ -102,3 +102,14 @@ Mrs Kow Yoke Ling (Advisor)
   </tr>
 </tbody>
 </table>
+
+
+
+### Events We Represented Are
+
+*   Colours of BDS at Methodist Girls Agape Hall and SG50 Youth Dance Presentation at Singapore Indoor Stadium.
+*   Our Malay dancers did a Hari Raya showcase on the 9th of May 2022, during our school morning assembly.
+*   They were also involved in a Malay Dance Competition, on the 08th of July, at the Kallang Theatre and clichéd the <b>Best Costume Award</b>.  
+    
+*   Our Malay Dancers were involved in Siglap Community Centre on the 6th of August as part of Singapore’s 57th birthday celebrations. The dance item, entitled ‘Sulam Sembilan’ showcased the elegance movement of Zapin which originates from the Middle Eastern countries. They carried out a contemporary movement without leaving the traces of the traditional touch so as to preserve the identity as of the basic fundamental elements in Malay Dance.
+*   They actively performed in our school’s Open House on the 26th of November 2022.

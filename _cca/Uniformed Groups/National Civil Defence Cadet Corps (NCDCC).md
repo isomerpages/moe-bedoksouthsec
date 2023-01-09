@@ -1,9 +1,11 @@
 ---
 title: National Civil Defence Cadet Corps (NCDCC)
-permalink: /cca/uniformed-groups/national-civil-defence-cadet-corps-ncdcc
+permalink: /cca/uniformed-groups/national-civil-defence-cadet-corps-ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+National Civil Defence Cadet Corps (NCDCC)
+==========================================
 
 ![National Civil Defence Cadet Corps (NCDCC)](/images/NCDCC_2019.jpg)
 

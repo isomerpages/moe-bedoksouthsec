@@ -1,9 +1,11 @@
 ---
 title: Scouts
-permalink: /cca/uniformed-groups/scouts
+permalink: /cca/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+Scouts
+======
 
 ![Scout](/images/SCOUT.png)
 

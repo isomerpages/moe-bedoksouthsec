@@ -6,3 +6,5 @@ third_nav_title: Performing Arts
 ---
 Chinese Orchestra
 =================
+
+![](/images/COBackdrop22.png)

@@ -41,7 +41,6 @@ In the light of the rising threat of terrorism, Singapore has launched the SGSec
 
 ### Achievements
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -50,13 +49,12 @@ In the light of the rising threat of terrorism, Singapore has launched the SGSec
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
 .tg .tg-xxiv{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-6k70{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-6k70"><span style="color:#222;background-color:#B0B0B0">Year</span></th>
+    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Year</span></th>
     <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Activity</span></th>
     <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Achievements</span></th>
   </tr>
@@ -139,6 +137,7 @@ In the light of the rising threat of terrorism, Singapore has launched the SGSec
   </tr>
 </tbody>
 </table>
+
 
 ### Leadership Positions
 

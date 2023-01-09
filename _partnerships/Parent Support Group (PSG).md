@@ -3,28 +3,30 @@ title: Parent Support Group (PSG)
 permalink: /partnerships/parent-support-group-psg/
 description: ""
 ---
-### Introduction
-------------
+Parent Support Group (PSG)
+==========================
 
-The&nbsp;BDS Parents’ Support Group (PSG)&nbsp;comprises like-minded parents from diverse backgrounds but all sharing a common goal to support and advocate the school’s mission, vision and values.
+### Introduction
+
+
+The BDS Parents’ Support Group (PSG) comprises like-minded parents from diverse backgrounds but all sharing a common goal to support and advocate the school’s mission, vision and values.
 
 ### Objectives
-----------
 
-*   To support&nbsp;the school’s programmes&nbsp;through close working relationship with the school
+*   To support the school’s programmes through close working relationship with the school
 *   To enhance communication between the school and parents to work towards a better school-home partnership
 *   To engage parents to nurture positive family relationships
-*   To establish&nbsp;a platform for parents to network and&nbsp;to share parenting tips
+*   To establish a platform for parents to network and to share parenting tips
 
 ### Our Working Teams
------------------
 
 *   Publicity and Communication
 *   Programmes
 *   Administration
 
+
 ### Activities
-----------
+
 
 The activities that the PSG are generally involved in:
 

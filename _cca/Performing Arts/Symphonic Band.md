@@ -39,3 +39,9 @@ Red Dot @ Esplanade Outdoor Theatre
 Musical Escapades @ Jewel Changi  
 Youth Band Leaders’ Symposium  
 School’s Out @ Infinite Studios
+
+
+### Achievements
+
+SYF 2021 – Certificate of Distinction (Team A)<br>
+SYF 2021 – Certificate of Accomplishment (Team B)

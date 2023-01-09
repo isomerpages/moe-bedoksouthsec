@@ -59,3 +59,46 @@ Mrs Kow Yoke Ling (Advisor)
 
 
 ![](/images/malaydance2.jpg)
+
+
+
+### Leadership Positions
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ktyi">Chairman      </th>
+    <th class="tg-ktyi">Nurulzaskia Alya Binte Saadon</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">Vice-Chairman</td>
+    <td class="tg-ktyi">Nurul Syazwani Binte Mohd Azlan</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Asst. Vice-Chairman</td>
+    <td class="tg-ktyi">Nur Syaqiqah Bte Sugiman</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Training Manager        </td>
+    <td class="tg-ktyi">Alya Aryna Binte Iswadi</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Wardrobe Managers</td>
+    <td class="tg-ktyi">NurAlyaa Natasha Muhd Arif</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Logistic Managers</td>
+    <td class="tg-ktyi">Kaisah d/o Mohamed Ismail</td>
+  </tr>
+</tbody>
+</table>

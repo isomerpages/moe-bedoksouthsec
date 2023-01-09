@@ -14,3 +14,5 @@ Choir
 Ms Lam Yen Ping (OIC)<br>
 Ms Chia Suat Huang<br>
 Mrs Adeline Yee
+
+<b>And External Instructors</b>

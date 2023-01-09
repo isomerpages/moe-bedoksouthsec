@@ -16,3 +16,5 @@ Besides experiencing the various movements in the Chinese Dance and Wushu, stude
 To allow students to explore and enhance their passion in dance, programmes such as watching professional arts groups performances have been planned. CCA leaders also attended the yearly Ampliefied!DanceLab organized by Arts Education Branch. This helps them to explore their passion in dance as they interact with other students and professionals during this two-day course.
 
 As members of the society, it is important to inculcate empathy and encourage students to actively engage with the community. Students participated yearly in Values-in-Action (VIA) activities. In 2022, students work with Thye Hua Kwan Bedok Radiance Seniors Activity Centre at Bedok South Road. They helped out by engaging and encouraging the elderly during their keep fit programme and packed food rations and distributed to the elderly in their respective HDB units.
+
+![](/images/Dance2.jpg)

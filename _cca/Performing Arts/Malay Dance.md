@@ -28,3 +28,14 @@ To exhibit a high standard of Malay Dance performance while displaying graciousn
 Mdm Zalehah Bte Mohd Noor (OIC)   
 Ms Raudhah  
 Mrs Kow Yoke Ling (Advisor)
+
+
+### Participation
+
+1\. Colours of BDS at Methodist Girls AGAPE Hall
+
+2\. SG50 Youth Dance Presentation at Singapore Indoor Stadium
+
+3\. Bedok Community Park on 8th August, part of Singapore's 52nd birthday celebrations 
+
+4\. Received distinction awards for SYF Dance Presentation in 2013, 2015, 2017 and 2021

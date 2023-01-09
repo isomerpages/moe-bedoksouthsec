@@ -55,6 +55,53 @@ The NCC seeks to develop its cadets in a holistic manner, thus providing many op
 
 Our consistency in delivering results at the highest levels is a testament to BDS NCC’s passion and dedication. BDS NCC cadets are chosen for prestigious opportunities such as the India Trekking Expedition and International Cadet Exchange Programmes every year.
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-xxiv{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Year</span></th>
+    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Activity</span></th>
+    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2022</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Outstanding Cadet Award </span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Muhammad Hakim Bin Ismadie, 4F </span></td>
+  </tr>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2021</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Recognition Award (2021) </span><br></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Outstanding</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2019</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Recognition Award (2019) </span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Outstanding</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2018</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Recognition Award (2018) </span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Outstanding</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Outstanding Cadet Award</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Hugo Low Ren Hao, 4C</span><br><span style="color:#222;background-color:#EAEAEA">Keanne Tan Yi Ern, 4E</span></td>
+  </tr>
+</tbody>
+</table>
+
 
 
 ### Leadership Positions

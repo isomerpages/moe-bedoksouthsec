@@ -1,9 +1,12 @@
 ---
 title: Infocomm Media Club
-permalink: /cca/clubs-and-societies/infocomm-media-club
+permalink: /cca/clubs-and-societies/infocomm-media-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+Infocomm Media Club
+===================
+
 ![Infocomm Media Club](/images/Infocomm.jpg)
 
 The focus of Infocomm Media Club is to provide its members with a plethora of skills and experiences pertaining to photography, videography information and communication technology as well as content creation.  

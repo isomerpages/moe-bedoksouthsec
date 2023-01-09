@@ -26,7 +26,7 @@ And&nbsp;**Volunteer Adult Leaders**
 “To develop our members to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe”.
 
 ### Vision
------------------
+
 
 “To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world”.
 

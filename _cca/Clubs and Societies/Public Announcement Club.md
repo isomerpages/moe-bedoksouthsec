@@ -1,9 +1,13 @@
 ---
 title: Public Announcement Club
-permalink: /cca/clubs-and-societies/public-announcement-club
+permalink: /cca/clubs-and-societies/public-announcement-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+Public Announcement Club
+========================
+
+
 ![Public Announcement Club](/images/Public-Announcement.jpg)
 
 ### Objectives/Vision/Mission

@@ -22,3 +22,20 @@ To inculcate disciplined and empathetic students who are both passionate and com
 ### Motto
 
 In Music, We Believe
+
+
+### Key Events
+
+<b>2021</b>  
+School Events (CCA Fair)  
+SYF Arts Presentation (Flexi-Band)  
+New Beginnings: A Junior Band Showcase  
+Youth Arts Leaders Conference  
+  
+<b>2022</b>  
+School Events (CCA Fair, CNY Celebrations, National Day Concert, Teachers’ Day concert)  
+New Beginnings: A Junior Band Showcase  
+Red Dot @ Esplanade Outdoor Theatre  
+Musical Escapades @ Jewel Changi  
+Youth Band Leaders’ Symposium  
+School’s Out @ Infinite Studios

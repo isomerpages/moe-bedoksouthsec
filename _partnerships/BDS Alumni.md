@@ -18,7 +18,7 @@ The BDS alumni and students session was conducted with the aim of having the al
 ![BDS Alumni Kickabout](/images/alumini%20photo01.jpg)
 
 ### BDS Alumni Kickabout 
----------------------
+
 
 On the morning of our Alumni got together to have a kickabout soccer session in our school field. There were participants from the various batches of students. The event was a great success as the Alumni really had a good time through the interactions they had. In between the matches and during refreshments, the various batches had a good time getting to know one another. We are looking forward to future sessions.
 

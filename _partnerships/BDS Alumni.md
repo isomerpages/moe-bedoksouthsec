@@ -8,11 +8,10 @@ BDS Alumni
 
 
 ### Alumni Annual Meeting
----------------------
+
 The annual alumni meeting was held in February 2017. The school leaders engaged the alumni in discussion on how the alumni could help in enhancing our school's student outcomes.
 
 ### BDS Alumni Kickabout 
----------------------
 
 The BDS alumni and students session was conducted with the aim of having the alumni share their experiences and skills with the soccer students. The alumni gave our soccer students positive pointers in terms of life skills and managing emotions, both of which are very helpful in the development of 21st Century Competencies.
 

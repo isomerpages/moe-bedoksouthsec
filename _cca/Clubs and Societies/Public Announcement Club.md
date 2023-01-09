@@ -16,3 +16,5 @@ Public Announcement Club
 *   Train and develop a group of technically competent PA student personnel
 *   To provide optimal support to major school events such as Speech Day & Learning Fiesta
 
+
+### Major Events

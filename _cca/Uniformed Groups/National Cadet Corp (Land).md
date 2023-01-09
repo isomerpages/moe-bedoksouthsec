@@ -16,7 +16,7 @@ The National Cadet Corps is a CCA which nurtures responsible, resilient and reso
   
 
 ### Teachers-in-Charge
-------------------
+
 
 Mr Adrian Lim (OIC) <br>
 Mr Asraf <br>
@@ -28,7 +28,7 @@ And **Volunteer Adult Leaders**
   
 
 ### Vision  
----------
+
 
 The Singapore National Cadet Corps is a world-class organization that nurtures responsible, resilient and resourceful cadets to become successful citizens.
 
@@ -37,21 +37,21 @@ We are a thinking and learning team driven by our Core Values.
 
   
 ### Mission
--------
+
 
 The NCC's mission is to develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities.
 
   
 
 ### Scope of Activities
--------------------
+
 
 The NCC seeks to develop its cadets in a holistic manner, thus providing many opportunities for its cadets to be involved in Service Learning Projects and independently-run training sessions. Senior Cadet Leaders (Sec 4/5), Cadet Leaders (Sec 3) and Student Leaders of any level are given the chance to hone their abilities and shine through rigorous and fun training sessions. NCC cadets are given the option of learning military skills in visits to the Singapore Armed Forces (SAF), exposing them to the newly developed 3G SAF training environment. NCC Cadets are also given the opportunity to participate in the prestigious International Cadet Exchange Programme (ICEP), where they can go to various countries, such as Australia (Exercise Wallaby), New Zealand (Exercise Thunder Warrior) and India (Desert Trekking). There are also many other adventure events, expeditions and courses to attend, where cadets will earn badges for their outstanding performance and attendance. These experiences have definitely shaped NCC cadets to be more global in thinking. Furthermore, they have generated more ideas for implementing the independently-run training sessions.
 
   
 
 ### Achievements
-------------
+
 
 Our consistency in delivering results at the highest levels is a testament to BDS NCC’s passion and dedication. BDS NCC cadets are chosen for prestigious opportunities such as the India Trekking Expedition and International Cadet Exchange Programmes every year. Our cadets also marched proudly this year during the National Day Parade and were involved in the first ever NDP Finale Show helmed by NCC.
 

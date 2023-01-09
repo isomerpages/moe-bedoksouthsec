@@ -105,3 +105,38 @@ Our consistency in delivering results at the highest levels is a testament to BD
 
 
 ### Leadership Positions
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-y7qa"><span style="color:#222">Unit Sergeant Major</span></th>
+    <th class="tg-y7qa">Issac Daniel Lua Zheng An</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa"><span style="color:#222">Assistant Sergeant Major</span></td>
+    <td class="tg-y7qa">Fam Yu Hang</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"><span style="color:#222">Head of Training</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Issac Daniel Lua Zheng An</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"><span style="color:#222">Head of Administration </span></td>
+    <td class="tg-y7qa">Yap Kang</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"><span style="color:#222">Head of Logistics</span></td>
+    <td class="tg-y7qa">Lim Ying Xiang Cayden</td>
+  </tr>
+</tbody>
+</table>

@@ -16,3 +16,10 @@ Being part of Bedok South Secondary School Chinese Orchestra (BDSCO) family requ
 
     
 Students with no musical background get to learn the basics of music and gained opportunities to perform. We look forward to the years ahead where we will work harder and continue to pursue our passion for music and grow stronger as a team. We welcome you to join us!
+
+
+![](/images/CO12022.jpeg)
+
+### Vision
+
+We inspire students to develop their appreciation and passion for music. We believe that our values & culture shape our students character. The CCA aims to mold them into confident musicians who are respectful to one another, and establish strong unity within the group.

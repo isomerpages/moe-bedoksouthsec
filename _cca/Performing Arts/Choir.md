@@ -92,3 +92,15 @@ In BDS Choir, students from different levels come together and bond to create ne
 3\. School and public performances<br>
 4\. Choir exchanges<br>
 5\. VIA
+
+
+### Leadership Positions
+
+Chairperson<br>
+Vice-Chairperson<br>
+Soprano Section Leader<br>
+Alto Section Leader<br>
+Baritone Section Leader<br>
+Wardrobe Manager<br>
+Librarian<br>
+Logistic Manager

@@ -6,3 +6,5 @@ third_nav_title: Performing Arts
 ---
 Performing Arts
 ===============
+
+![](/images/performingarts2022.png)

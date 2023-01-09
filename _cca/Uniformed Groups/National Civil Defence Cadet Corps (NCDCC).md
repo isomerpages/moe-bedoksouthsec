@@ -143,22 +143,13 @@ In the light of the rising threat of terrorism, Singapore has launched the SGSec
 ### Leadership Positions
 
 
-1. Company Sergeant Major (CSM)  
-
-2. Assistant Sergeant Major (ASM)
-
-3. Head of Training
-
-4. Head of Operations
-
-5. Head of Administration
-
-6. Head of Public Relations and Welfare
-
-7. Head of Logistics
-
-8. Physical Training Instructor
-
-9. First Aid IC
-
-10. Fire Safety IC
+1\. Company Sergeant Major (CSM)<br>
+2\. Assistant Sergeant Major (ASM)<br> 
+3\. Head of Training<br>
+4\. Head of Operations<br>
+5\. Head of Administration<br>
+6\. Head of Public Relations and Welfare<br>
+7\. Head of Logistics<br>
+8\. Physical Training Instructor<br>
+9\. First Aid IC<br>
+10\. Fire Safety IC

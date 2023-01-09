@@ -18,3 +18,14 @@ To allow students to explore and enhance their passion in dance, programmes such
 As members of the society, it is important to inculcate empathy and encourage students to actively engage with the community. Students participated yearly in Values-in-Action (VIA) activities. In 2022, students work with Thye Hua Kwan Bedok Radiance Seniors Activity Centre at Bedok South Road. They helped out by engaging and encouraging the elderly during their keep fit programme and packed food rations and distributed to the elderly in their respective HDB units.
 
 ![](/images/Dance2.jpg)
+
+
+### Teachers-in-Charge
+
+Mdm Sandra Teo (OIC)  
+Ms Zhao Xiumin  
+Mr Tan Han Yuen  
+Ms Low Mei Foong  
+Ms Pearl Lee (Advisor)  
+  
+<b>And External Instructors</b>

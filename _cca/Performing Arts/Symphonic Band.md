@@ -68,3 +68,11 @@ And External Instructors
 *   Librarian & Assistant Librarian
 *   Marketing & Welfare Officer & Assistant Marketing & Welfare Officer
 *   Section Leaders & Assistant Section Leaders
+
+
+
+
+SYF Achievements
+================
+
+The BDS Symphonic Band participated in the 2021 SYF Arts Presentation in the Band (Flexible Band) category. Due to Covid-19, the configuration of the band had to be adjusted to fit the safe management measures. As such, we had to rearrange our members into two smaller teams. Team A performed Acclamations by Ed Huckeby and Team B performed Terracotta Warriors by Scott Watson at the Singapore Conference Hall in April this year. We are proud to announce that Team A and B have done us proud, and have achieved the Certificate of Distinction and the Certificate of Accomplishment respectively. Well done to both bands, and in music we believe!

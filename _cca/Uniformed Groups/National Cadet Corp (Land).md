@@ -8,6 +8,7 @@ National Cadet Corp (Land)
 ==========================
 
 ![National Cadet Corp (Land)](/images/NCC-1.jpeg)
+![](/images/NCC-2.jpeg)
 
 
 The National Cadet Corps is a CCA which nurtures responsible, resilient and resourceful cadets to become successful citizens. It takes a structured approach towards the leadership development of its cadets. Through the numerous leadership courses and programmes organised by the CCA and HQ NCC, the cadet is able to hone his abilities and nurture his leadership potential.

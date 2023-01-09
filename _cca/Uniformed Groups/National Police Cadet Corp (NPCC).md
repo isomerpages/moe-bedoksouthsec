@@ -86,16 +86,15 @@ Click [here](https://go.gov.sg/bds-npcc-instagram) to visit our BDS NPCC Insta
 
 ### Activities
 
-
 **A) Parades**  
 
 **I. NPCC Annual Parade**
 
-The NPCC Annual Parade (NPAP) is the flagship event in the NPCC calendar. It marks the celebration of the NPCC Day and is also the day for the NPCC to honour the outstanding achievements of its units. It also aims to instil loyalty in the cadets &amp; dedication to the Corps. The participation would be formed by all school representatives.
+The NPCC Annual Parade (NPAP) is the flagship event in the NPCC calendar. It marks the celebration of the NPCC Day and is also the day for the NPCC to honour the outstanding achievements of its units. It also aims to instil loyalty in the cadets & dedication to the Corps. The participation would be formed by all school representatives.
 
 **II. National Day Parade**
 
-The Singapore National Day Parade is a national ceremony to commemorate Singapore’s independence on 9th&nbsp;August. Every year, NPCC will form one supporting contingent in the National Day Parade. Our supporting contingent is made up of selected cadets from various units.
+The Singapore National Day Parade is a national ceremony to commemorate Singapore’s independence on 9th August. Every year, NPCC will form one supporting contingent in the National Day Parade. Our supporting contingent is made up of selected cadets from various units.
 
 **B) Competitions**
 

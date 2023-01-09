@@ -1,9 +1,12 @@
 ---
 title: Clubs and Societies
-permalink: /cca/clubs-and-societies
+permalink: /cca/clubs-and-societies/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+Clubs and Societies
+===================
+
 ![Clubs and Societies](/images/Clubs%20and%20Societies.jpg)
 
 <br>

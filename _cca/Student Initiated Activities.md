@@ -6,8 +6,8 @@ description: ""
 Student Initiated Activities
 ============================
 
-## BDS Basketball Interest Group
------------------------------
+### BDS Basketball Interest Group
+
 
 ![BDS Basketball Interest Group](/images/basketball.jpg)
 

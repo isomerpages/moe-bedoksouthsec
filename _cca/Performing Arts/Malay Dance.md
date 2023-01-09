@@ -39,3 +39,20 @@ Mrs Kow Yoke Ling (Advisor)
 3\. Bedok Community Park on 8th August, part of Singapore's 52nd birthday celebrations 
 
 4\. Received distinction awards for SYF Dance Presentation in 2013, 2015, 2017 and 2021
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-d2d2{border-color:#ffffff;font-size:16px;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-d2d2">Pictures of our Malay Dancers in their beautiful costumes</td>
+  </tr>
+</thead>
+</table>

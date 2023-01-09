@@ -45,3 +45,13 @@ School’s Out @ Infinite Studios
 
 SYF 2021 – Certificate of Distinction (Team A)<br>
 SYF 2021 – Certificate of Accomplishment (Team B)
+
+
+### Teachers-in-Charge
+
+Miss Siti Fatimah (OIC)  
+Ms Cherlyn Tan  
+Ms Khoo Su Lin  
+Ms Dichen Grace Isaacs (Advisor)  
+  
+And External Instructors

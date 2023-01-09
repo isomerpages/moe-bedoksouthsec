@@ -25,7 +25,7 @@ On the morning of our Alumni got together to have a kickabout soccer session in 
 ![BDS Alumni Kickabout](/images/BDS%20Alumni.png)
 
 ### BDS 35th Anniversary Alumni Reunion 2015
-----------------------------------------
+
 
 ![BDS 35th Anniversary Alumni Reunion 2015](/images/BDS%2035th%20Anniversary%20Alumni%20Reunion%202015.jpg)
 

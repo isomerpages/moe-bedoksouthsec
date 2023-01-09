@@ -113,3 +113,8 @@ Mrs Kow Yoke Ling (Advisor)
     
 *   Our Malay Dancers were involved in Siglap Community Centre on the 6th of August as part of Singapore’s 57th birthday celebrations. The dance item, entitled ‘Sulam Sembilan’ showcased the elegance movement of Zapin which originates from the Middle Eastern countries. They carried out a contemporary movement without leaving the traces of the traditional touch so as to preserve the identity as of the basic fundamental elements in Malay Dance.
 *   They actively performed in our school’s Open House on the 26th of November 2022.
+
+
+
+SYF Achievements
+================

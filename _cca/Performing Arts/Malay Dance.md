@@ -6,3 +6,5 @@ third_nav_title: Performing Arts
 ---
 Malay Dance
 ===========
+
+![](/images/malaydance1.png)

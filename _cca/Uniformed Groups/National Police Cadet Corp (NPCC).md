@@ -86,7 +86,7 @@ Click [here](https://go.gov.sg/bds-npcc-instagram) to visit our BDS NPCC Insta
 
 ### Activities
 
-**A) Parades**  
+<b>A) Parades</b>
 
 **I. NPCC Annual Parade**
 

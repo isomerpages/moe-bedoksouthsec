@@ -13,3 +13,12 @@ The BDS Symphonic Band prides itself in being an energetic and passionate group 
   
 
 In line with the school motto, Success through Endeavour, BDS Symphonic Band strives to develop its members’ musical talents through discipline and dedication to the craft. The band aims to foster strong bonds amongst its band members and the community while pursuing excellence in their musicality, thus staying true to the band’s conviction - <i>In Music We Believe</i>.
+
+
+### Vission
+
+To inculcate disciplined and empathetic students who are both passionate and compassionate, and who strive to be champions of music-making.
+
+### Motto
+
+In Music, We Believe

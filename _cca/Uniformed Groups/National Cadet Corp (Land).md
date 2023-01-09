@@ -23,7 +23,7 @@ Mr Asraf <br>
 Mr Hubert Song <br>  Ms Mary Pai <br>
 Mr Sean Goh (Advisor)
 
-And **Volunteer Adult Leaders**
+And <b>Volunteer Adult Leaders</b>
 
   
 

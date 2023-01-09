@@ -12,7 +12,7 @@ National Civil Defence Cadet Corps (NCDCC)
 The National Civil Defence Cadet Corps (NCDCC) was formed in 2005 and the creation of this Uniformed Group was in response to the need for the young leaders of tomorrow to have a firm pillar and grounding in Total Defence. NCDCC is a component of the Home Team Cadet Corps Initiative and have their Headquarters located at the Home Team Academy. The NCDCC Crest follows closely to the crest of the parent organisation, Singapore Civil Defence Force (SCDF). The international Civil Defence triangle features prominently in the crest. The equilateral blue triangle symbolizes the three main areas of Civil Defence — fire safety, first aid, and rescue and evacuation.
 
 ### Teachers-in-charge
-------------------
+
 
 Miss Goh Jing Teng (OIC) <br>
 Miss Corrina Teo <br>

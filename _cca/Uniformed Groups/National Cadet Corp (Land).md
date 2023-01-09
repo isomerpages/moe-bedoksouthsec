@@ -53,75 +53,9 @@ The NCC seeks to develop its cadets in a holistic manner, thus providing many op
 ### Achievements
 
 
-Our consistency in delivering results at the highest levels is a testament to BDS NCC’s passion and dedication. BDS NCC cadets are chosen for prestigious opportunities such as the India Trekking Expedition and International Cadet Exchange Programmes every year. Our cadets also marched proudly this year during the National Day Parade and were involved in the first ever NDP Finale Show helmed by NCC.
+Our consistency in delivering results at the highest levels is a testament to BDS NCC’s passion and dedication. BDS NCC cadets are chosen for prestigious opportunities such as the India Trekking Expedition and International Cadet Exchange Programmes every year.
 
-  
 
-Our senior cadet, Lee Chun Yong, also placed 10th in the National NCC IMT Shooting Competition.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-xxiv{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-w9w3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Year</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Activity</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-w9w3"><span style="color:#222;background-color:#EAEAEA">2019</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Recognition Award (2019) - Outstanding</span></td>
-    <td class="tg-y7qa"></td>
-  </tr>
-  <tr>
-    <td class="tg-w9w3"><span style="color:#222;background-color:#EAEAEA">2018</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Recognition Award (2018) - Outstanding</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p"></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Outstanding Cadet Award</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Hugo Low Ren Hao, 4C</span><br><span style="color:#222;background-color:#EAEAEA">Keanne Tan Yi Ern, 4E</span></td>
-  </tr>
-  <tr>
-    <td class="tg-w9w3"><span style="color:#222;background-color:#EAEAEA">2017</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Best Unit Competition</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Gold</span></td>
-  </tr>
-  <tr>
-    <td class="tg-w9w3"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Outstanding Cadet Award</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">CHRISTOPHER SAW MCKAIGE, 4B</span></td>
-  </tr>
-  <tr>
-    <td class="tg-w9w3"><span style="color:#222;background-color:#EAEAEA">2016</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">NCC ICEP UK (Sussex) - International Cadet Exchange Programme</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">CHRISTOPHER SAW MCKAIGE, 3B</span></td>
-  </tr>
-  <tr>
-    <td class="tg-w9w3"><span style="color:#222;background-color:#EAEAEA">2015</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mini League Basketball Competition for Senior Cadets</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Semi-Finals</span></td>
-  </tr>
-  <tr>
-    <td class="tg-w9w3"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Best Unit Competition </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Silver (2013)</span></td>
-  </tr>
-</tbody>
-</table>
 
 ### Leadership Positions
 --------------------

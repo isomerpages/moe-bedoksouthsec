@@ -68,3 +68,6 @@ Performing Arts
   </tr>
 </tbody>
 </table>
+
+
+<b>Note</b>: Additional practices and rehearsals may be required during competition / performance season. CCA Teachers will inform students and parents where necessary on Parent Gateway.

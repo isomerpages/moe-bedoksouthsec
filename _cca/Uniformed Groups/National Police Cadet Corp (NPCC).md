@@ -31,11 +31,12 @@ And&nbsp;**Volunteer Adult Leaders**
 
 ### Unit URL
 
+Click [here](https://go.gov.sg/bds-npcc-facebook) to visit our BDS NPCC Facebook.  
+Click [here](https://go.gov.sg/bds-npcc-instagram) to visit our BDS NPCC Instagram.
+
 
 ### Achievements
-------------
 
-<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -44,13 +45,12 @@ And&nbsp;**Volunteer Adult Leaders**
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-xxiv{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-6k70{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-6k70"><span style="color:#222;background-color:#B0B0B0">Year</span></th>
+    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Year</span></th>
     <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Activity</span></th>
     <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Achievement</span></th>
   </tr>
@@ -85,7 +85,7 @@ And&nbsp;**Volunteer Adult Leaders**
 </table>
 
 ### Activities
-----------
+
 
 **A) Parades**  
 

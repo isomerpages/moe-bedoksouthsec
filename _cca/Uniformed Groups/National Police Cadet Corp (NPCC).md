@@ -10,7 +10,7 @@ National Police Cadet Corp (NPCC)
 ![National Police Cadet Corp (NPCC)](/images/National-Police-Cadet-Corp.jpg)
 
 ### Teachers-in-Charge
-------------------
+
 
 Mr Steve Kong (OIC)&nbsp;<br>
 Ms Joy Chia&nbsp;<br>

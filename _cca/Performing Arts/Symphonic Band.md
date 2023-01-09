@@ -76,3 +76,23 @@ SYF Achievements
 ================
 
 The BDS Symphonic Band participated in the 2021 SYF Arts Presentation in the Band (Flexible Band) category. Due to Covid-19, the configuration of the band had to be adjusted to fit the safe management measures. As such, we had to rearrange our members into two smaller teams. Team A performed Acclamations by Ed Huckeby and Team B performed Terracotta Warriors by Scott Watson at the Singapore Conference Hall in April this year. We are proud to announce that Team A and B have done us proud, and have achieved the Certificate of Distinction and the Certificate of Accomplishment respectively. Well done to both bands, and in music we believe!
+
+
+![](/images/Band.jpg)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-d2d2{border-color:#ffffff;font-size:16px;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-d2d2">Team A: Certificate of Distinction</td>
+    <td class="tg-d2d2">Team B: Certificate of Achievement</td>
+  </tr>
+</thead>
+</table>

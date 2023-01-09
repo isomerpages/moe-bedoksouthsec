@@ -90,3 +90,13 @@ Ms Pearl Lee (Advisor)
 1\.  Secondary One CCA Fair & Orientation<br>
 2\.  Chinese New Year Celebration<br>
 3\.  Bedok Community Centre National Day Dinner Performance
+
+
+SYF Achievements
+================
+
+On April 6, the Chinese Dance Society took part in the Singapore Youth Festival (SYF) 2021 Dance Arts Performance (AP). With Singapore still in Phase 3 of the nation’s Re-opening plans, participation in SYF 2021 proved to be more challenging than previous years with the Safety Management Measures (SMM) in place. It was challenging for the instructor to choreograph the dance for SYF 2021 with restrictions on the maximum number of dancers per group, the need to ensure a distance of 2m between participants, and having no part of the hand or face in contact with the dance mat.
+
+Our dance titled “2020 and me” centres around the theme of the Covid-19 pandemic. The dance aims to show the isolation and frustration faced by many people in 2020. The girls started their practice early in January this year and had more intensive training sessions during the March holidays.
+
+The hard work and effort the girls put in truly showed their commitment and determination. The students were elated that their effort had not been in vain when they received news that Chinese Dance Society had achieved the Certificate of Distinction for their performance.

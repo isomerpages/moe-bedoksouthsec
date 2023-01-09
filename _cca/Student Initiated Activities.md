@@ -1,8 +1,11 @@
 ---
 title: Student Initiated Activities
-permalink: /cca/student-initiated-activities
+permalink: /cca/student-initiated-activities/
 description: ""
 ---
+Student Initiated Activities
+============================
+
 ## BDS Basketball Interest Group
 -----------------------------
 

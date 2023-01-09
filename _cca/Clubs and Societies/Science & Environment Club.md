@@ -110,7 +110,7 @@ The Science Society has/ will be participating in the following events:<br>
 Committee members were also given ample opportunities to organize various school events. Some students were talent-scouted and specially trained to deliver a talk on Environmental issues to the entire school population.
 
 ### Teachers-In-Charge
-------------------
+
 
 Ms Nancy Sim (OIC) <br>
 Ms Nadia Begam   <br>
@@ -118,10 +118,9 @@ Ms Joanne Ng    <br>
 Ms Denise Wong (Advisor)  
 
 ### Leadership Positions
---------------------
 
-1.  President
-2.  Vice President
-3.  Head of Robotics
-4.  Head of PET Rocket
+1\.  President<br>
+2.  Vice President<br>
+3.  Head of Robotics<br>
+4.  Head of PET Rocket<br>
 5.  Head of Environment

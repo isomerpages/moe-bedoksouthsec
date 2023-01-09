@@ -123,3 +123,5 @@ SYF Achievements
 Our BDS Malay Dancers participated in <b>SYF Dance Presentation 2021</b>, where they performed a Traditional dance entitled “<i><b>Zapin Girang Berliuk</b></i>” (with original music composed by Mr Aidil Akmal) on the 29th of March, at the University Cultural Centre. We are delighted to announce that we have clinched the <b>Distinction Award</b> for the performance.
 
 The dance made use of the traditional straw hat (Tudung Saji) and the Malay hand-held paddles (Pendayung). The Tudung Saji were often used in olden times as accessories by the Malays to protect their heads from the hot sun while working in the fields. The paddles on the other hand signified the occupation of the men in the family as fishermen or ‘Nelayan’, going out to sea in a small boat (sampan) in search of food to sell to feed the families. The dance symbolises the joy in celebration of a tradition, and having our youth acknowledge and appreciate this tradition of their forefathers for generation to come.
+
+![](/images/MalayDance2.jpg)

@@ -29,3 +29,64 @@ Ms Low Mei Foong
 Ms Pearl Lee (Advisor)  
   
 <b>And External Instructors</b>
+
+
+### Our Vision
+
+4Es: Experience, Enrich, Engage and Explore   
+
+### Achievements & Participation
+
+
+<b>Achievements:</b>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ktyi">Year</th>
+    <th class="tg-ktyi">Competition</th>
+    <th class="tg-ktyi">Achievement</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">2021</td>
+    <td class="tg-ktyi">SYF Arts Presentation – Chinese Dance Category</td>
+    <td class="tg-ktyi">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">2021</td>
+    <td class="tg-ktyi">National School Games  - Wushu Championship</td>
+    <td class="tg-ktyi">4th place in 2nd International Spear</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">2021</td>
+    <td class="tg-ktyi">National Wushu and Sanda Competition</td>
+    <td class="tg-ktyi">3rd place in 2nd International Spear<br>3rd place in 1st International Spear<br>3rd place in 1st International Changquan<br>2nd place in 1st International Changquan<br>1st place in 象形拳</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">2022</td>
+    <td class="tg-ktyi">National School Games – Wushu Championship</td>
+    <td class="tg-ktyi">4th place in 2nd International Spear<br>4th place in 1st International Changquan</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">2022</td>
+    <td class="tg-ktyi">National Wushu and Sanda Competition</td>
+    <td class="tg-ktyi">Competition starts on 15 Nov 2022</td>
+  </tr>
+</tbody>
+</table>
+
+<b>Participation:</b>
+
+1\.  Secondary One CCA Fair & Orientation<br>
+2\.  Chinese New Year Celebration<br>
+3\.  Bedok Community Centre National Day Dinner Performance

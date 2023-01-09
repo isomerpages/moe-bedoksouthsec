@@ -55,3 +55,16 @@ Ms Khoo Su Lin
 Ms Dichen Grace Isaacs (Advisor)  
   
 And External Instructors
+
+
+### Leadership Positions
+*   Drum Major
+*   Band Major (Events) & Band Major (Admin)
+*   Secretary
+*   Student Conductor
+*   Quartermaster (Brass) & Assistant Quartermaster (Brass)
+*   Quartermaster (Woodwind) & Assistant Quartermaster (Woodwind)  
+    
+*   Librarian & Assistant Librarian
+*   Marketing & Welfare Officer & Assistant Marketing & Welfare Officer
+*   Section Leaders & Assistant Section Leaders

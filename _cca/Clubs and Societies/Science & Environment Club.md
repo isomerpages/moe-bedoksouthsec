@@ -11,7 +11,6 @@ Science & Environment Club
 ![Science & Environment Club](/images/Science-and-Environment.jpg)
 
 ### Overview
---------
 
 The Science Society comprises 4 main sub-groups:   
 (i) Robotics   
@@ -35,21 +34,20 @@ A highlight of this year would be the students’ visit to the Science Centre fo
 The Environment sub-group has been engaged in activities to better appreciate the Earth and raise awareness on the need to save the Earth from Man’s harmful activities. Our members have organised workshops for neighbouring secondary schools to engage them in fun-filled and hands-on ‘green’ activities. They have also visited the ABC Water Trail @ Lorong Halus and the Alpha Biodiesel Plant and Incineration Plant as part of their learning journeys.
 
 ### Key Events
-----------
 
-The Science Society has/ will be participating in the following events:
 
-1.  International and National PET Rocket Competition
-2.  APRSAF-23 Water Rocket Event
-3.  Robofest
-4.  Underwater Robotics Olympiad 
-5.  Bull's Eye Competition
-6.  VJC Robotics Challenge
-7.  ITE RoboChallenge
-8.  Gliderfest at Republic Poly
+The Science Society has/ will be participating in the following events:<br>
+1\.  International and National PET Rocket Competition<br>
+2.  APRSAF-23 Water Rocket Event<br>
+3.  Robofest<br>
+4.  Underwater Robotics Olympiad<br> 
+5.  Bull's Eye Competition<br>
+6.  VJC Robotics Challenge<br>
+7.  ITE RoboChallenge<br>
+8.  Gliderfest at Republic Poly<br>
 
 ### Achievements
-------------
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

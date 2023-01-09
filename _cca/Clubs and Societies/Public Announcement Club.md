@@ -49,3 +49,20 @@ Public Announcement Club
   </tr>
 </tbody>
 </table>
+
+
+### Teachers-in-Charge:
+
+Mdm Suhaila (OIC)   
+Ms Irene Kwek   
+Mdm Faruzah (Advisor)  
+
+### Leadership Positions
+
+1\) Advisor  
+2) Chairman  
+3) Vice Chairman 1  
+4) Vice Chairman 2  
+5) Sec 1 Level Coordinator  
+6) Sec 2 Level Coordinator  
+7) Sec 3 Level Coordinator

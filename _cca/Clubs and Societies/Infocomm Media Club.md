@@ -34,3 +34,17 @@ The members also contribute to the society with CCA leaders guiding the members 
 *   Singapore Youth Festival (SYF) 2019 Celebrations (Finalist)
 *   Tableau Data Stories Competition 2017 (Popular Choice Award)
 *   Anti-Drug Video Competition 2016 (Merit Award)
+
+
+### Teachers-in-Charge
+
+Mr Benjamin Ong (OIC)  
+Mdm Suchandra   
+Ms Sophia Yap  
+Ms Hoori  
+Mdm Zubaidah (Advisor)
+
+
+### Links
+
+InfoComm Google Site: [https://sites.google.com/a/moe.edu.sg/infocomclub/](https://sites.google.com/a/moe.edu.sg/infocomclub/)

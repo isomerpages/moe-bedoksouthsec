@@ -83,3 +83,12 @@ In BDS Choir, students from different levels come together and bond to create ne
 6\. Teachers' Day Celebration<br>
 7\. Voices of Singapore (September)<br>
 8\. Voices in Harmony (November)
+
+
+##### **Upcoming events in 2023**
+
+1\. Singapore Youth Festival Arts Presentation<br>
+2\. Colours of BDS<br>
+3\. School and public performances<br>
+4\. Choir exchanges<br>
+5\. VIA

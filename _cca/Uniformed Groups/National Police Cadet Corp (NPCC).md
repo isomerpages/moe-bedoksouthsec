@@ -1,9 +1,11 @@
 ---
 title: National Police Cadet Corp (NPCC)
-permalink: /uniformed-groups/national-police-cadet-corp-npcc
+permalink: /uniformed-groups/national-police-cadet-corp-npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+National Police Cadet Corp (NPCC)
+=====================================
 
 ![National Police Cadet Corp (NPCC)](/images/National-Police-Cadet-Corp.jpg)
 

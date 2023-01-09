@@ -19,7 +19,7 @@ Miss Corrina Teo <br>
 Miss Jeanette Sim  <br>
 Mr Samuel Goh (Advisor)  
 
-And **Volunteer Adult Leaders**
+And <b>Volunteer Adult Leaders</b>
 
 ### Objectives
 

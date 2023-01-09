@@ -69,25 +69,15 @@ The activities that the PSG are generally involved in:
 ![Parent Support Group (PSG)](/images/psg%203A.jpg)
 
 ### Instagram
----------
 
-Follow us on Instagram @&nbsp;[https://go.gov.sg/bds-psg](https://go.gov.sg/bds-psg)
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/PSG4.jpg" alt="Parent Support Group (PSG)" style="width:70%;">  
-  
-</body>
+Follow us on Instagram @ [https://go.gov.sg/bds-psg](https://go.gov.sg/bds-psg)
+
+![](/images/PSG4.jpg)
 
 ### Registration
-------------
 
-We welcome all parents to join us in the PSG. If you are interested in serving and supporting the school and students, please register via this&nbsp;[link](https://go.gov.sg/bds-2022-psg), or scan the QR Code:
+We welcome all parents to join us in the PSG. If you are interested in serving and supporting the school and students, please register via this [link](https://go.gov.sg/bds-2022-psg), or scan the QR Code:
 
 
 <img style="width:35%" src="/images/PSG5.jpg">

@@ -126,3 +126,23 @@ Successful applicants will attend weekly lessons in the afternoon at the AEP/ ME
   </tr>
 </tbody>
 </table>
+
+
+
+### ARE THESE AEP and MEP PROGRAMMES FOR YOU?
+
+
+  
+
+##### **Commitment and Time Management**
+
+*   <b>Commit</b> to the scheduled lesson timings and enrichment activities, and cope with extended lessons, projects and assignments for <b>4 years</b>.
+*   <b>Travel</b> to the centres for lessons <b>one afternoon a week</b>
+
+##### **Subject Choices**
+
+*   Will <b>need to offer</b> Higher Art/ Music at GCE O Levels (This is considered a R1/bR3 in the computation of L1R5 for JC/bMI entrance)
+*   Will <b>not be offered</b> Design and Technology (D&T) and Food and Consumer Education (FCE) at the Lower Secondary Level (Therefore, you cannot take D&T and T&N at Upper Secondary level)
+
+  
+If you would like to have more information on AEP and MEP, you can visit the web links provided below.

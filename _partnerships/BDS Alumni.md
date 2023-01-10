@@ -13,7 +13,7 @@ The annual alumni meeting was held in February 2017. The school leaders engaged 
 
 ### BDS Alumni Kickabout 
 
-The BDS alumni and students session was conducted with the aim of having the alumni share their experiences and skills with the soccer students. The alumni gave our soccer students positive pointers in terms of life skills and managing emotions, both of which are very helpful in the development of 21st Century Competencies.
+On the morning of our Alumni got together to have a kickabout soccer session in our school field. There were participants from the various batches of students. The event was a great success as the Alumni really had a good time through the interactions they had. In between the matches and during refreshments, the various batches had a good time getting to know one another. We are looking forward to future sessions.
 
 ![BDS Alumni Kickabout](/images/alumini%20photo01.jpg)
 

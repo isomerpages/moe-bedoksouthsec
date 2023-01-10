@@ -14,11 +14,8 @@ The National Civil Defence Cadet Corps (NCDCC) was formed in 2005 and the creati
 ### Teachers-in-charge
 
 
-Miss Goh Jing Teng (OIC) <br>
-Miss Corrina Teo <br>
-Miss Jeanette Sim  <br>
-Mr Samuel Goh (Advisor)  
-
+Miss Corrina Teo (OIC) <br>
+Miss Syafiqah Begum <br>
 And <b>Volunteer Adult Leaders</b>
 
 ### Objectives

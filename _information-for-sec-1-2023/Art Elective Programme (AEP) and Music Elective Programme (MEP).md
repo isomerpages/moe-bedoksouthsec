@@ -80,3 +80,49 @@ E-Interview to share your ideas and music making experiences, and an aural test 
 
 
 Successful applicants will attend weekly lessons in the afternoon at the AEP/ MEP Centres.
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-syr2{background-color:#AEABAB;text-align:left;vertical-align:top}
+.tg .tg-vjxa{background-color:#E3E2E2;text-align:center;vertical-align:top}
+.tg .tg-p4ry{background-color:#F2F1F1;color:#F00;text-align:center;vertical-align:top}
+.tg .tg-gszg{background-color:#F2F1F1;color:#F00;text-align:left;vertical-align:top}
+.tg .tg-1h3x{background-color:#AEABAB;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-hdsu{background-color:#E3E2E2;color:#F00;text-align:left;vertical-align:top}
+.tg .tg-fg18{background-color:#E3E2E2;color:#F00;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h3x" rowspan="2">Programme</th>
+    <th class="tg-1h3x" rowspan="2">Centres &amp; Addresses</th>
+    <th class="tg-1h3x" colspan="2">Lesson days &amp; timings (for 2023 Sec 1 cohort)</th>
+  </tr>
+  <tr>
+    <th class="tg-vjxa">Lower Sec</th>
+    <th class="tg-vjxa">Upper Sec</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-syr2">AEP</td>
+    <td class="tg-gszg"><span style="font-weight:bold;color:red">National Junior College</span><br><span style="color:red">37 Hillcrest Road S 288913</span></td>
+    <td class="tg-p4ry"><span style="color:red">Tuesdays</span><br><span style="color:red">3 – 6 pm</span></td>
+    <td class="tg-p4ry"><span style="color:red">Thursdays</span><br><span style="color:red">3 – 6 pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-syr2" rowspan="2">MEP</td>
+    <td class="tg-hdsu"><span style="font-weight:bold;color:red">Anglo-Chinese School (Independent)</span><br><span style="color:red">121 Dover Road S 139650</span></td>
+    <td class="tg-fg18"><span style="color:red">Thursdays</span><br><span style="color:red">3.30 – 5.30 pm</span></td>
+    <td class="tg-fg18"><span style="color:red">Fridays</span><br><span style="color:red">3 – 6 pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-gszg"><span style="font-weight:bold;color:red">Dunman High School</span><br><span style="color:red">10 Tanjong Rhu Road</span><br><span style="color:red">S 436895</span></td>
+    <td class="tg-p4ry"><span style="color:red">Mondays</span><br><span style="color:red">3.30 – 5.30 pm</span></td>
+    <td class="tg-p4ry"><span style="color:red">Wednesdays</span><br><span style="color:red">3.30 – 6.30 pm</span></td>
+  </tr>
+</tbody>
+</table>

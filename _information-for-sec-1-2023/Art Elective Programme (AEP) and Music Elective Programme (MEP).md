@@ -77,3 +77,6 @@ E-Interview to share your ideas and music making experiences, and an aural test 
   
 
 <b>The decision of the Selection Panel is final.</b>
+
+
+Successful applicants will attend weekly lessons in the afternoon at the AEP/ MEP Centres.

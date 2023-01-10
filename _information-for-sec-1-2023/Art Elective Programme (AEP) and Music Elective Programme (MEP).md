@@ -147,6 +147,13 @@ Successful applicants will attend weekly lessons in the afternoon at the AEP/ ME
   
 If you would like to have more information on AEP and MEP, you can visit the web links provided below.
 
-<center> <b>Art</b> <br>
+
+<center> <b>Art</b>
 	
-[https://go.gov.sg/specialartprogrammes](https://go.gov.sg/specialartprogrammes) </center>
+[https://go.gov.sg/specialartprogrammes](https://go.gov.sg/specialartprogrammes)
+
+<b>Music</b>
+
+[https://go.gov.sg/specialmusicprogrammes](https://go.gov.sg/specialmusicprogrammes)
+
+[https://go.gov.sg/empmepshowcase2020](https://go.gov.sg/empmepshowcase2020)</center>

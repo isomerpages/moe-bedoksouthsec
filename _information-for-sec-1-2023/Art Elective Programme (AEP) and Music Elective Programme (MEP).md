@@ -57,3 +57,23 @@ You will have opportunities to
 *   Learn through analysing, creating and performing music
 *   Engage with a range of music across genres and traditions
 *   Learn from music practitioners and peers from MEP schools
+
+##### **Selection Exercise for MEP**
+
+*   Online Application <b>(by 15 January)</b> <br>
+Submit a <b>5-minute</b> video-recording consisting of <b>two</b> contrasting solo pieces
+
+  
+
+*   Phase 1 <b>(27 January)</b> <br>
+Attend a Listening Test at ACS(I) or DHS  
+(25 MCQ questions pegged at P6 music syllabus)
+
+  
+
+*   Phase 2 <b>(16 – 26 February) - for shortlisted Phase 1 applicants</b> <br>
+E-Interview to share your ideas and music making experiences, and an aural test where you will respond to short melodic and rhythmic fragments
+
+  
+
+<b>The decision of the Selection Panel is final.</b>

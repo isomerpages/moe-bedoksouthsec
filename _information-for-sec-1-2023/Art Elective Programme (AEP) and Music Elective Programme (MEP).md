@@ -31,4 +31,17 @@ Students will have opportunities to
 *   Learn through studio practice and art criticism
 *   Engage with a range of materials, media and creative processes
 *   Learn from art practitioners and peers from AEP schools
-  
+
+
+##### **Selection Exercise for AEP**
+
+*   Online Application <b>(by 15 January)</b>
+
+
+*   Phase 1 <b>(by 27 January)</b> <br>
+Submit an e-Portfolio comprising of 3-5 artworks\* you have done (may include artworks completed during Art lessons/ Art Club sessions) and a short paragraph to explain what art making and enrolling in AEP means to you.
+
+*   Phase 2 <b>(16 – 26 February) – for shortlisted Phase 1 applicants</b> <br>
+E-Interview to share your ideas and art making experiences, with reference to your e-Portfolio. You may also be invited to participate in a short art task during the interview.
+
+<b>The decision of the Selection Panel is final.</b>

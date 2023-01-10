@@ -19,3 +19,12 @@ The application period is from <b>12pm, 21 December 2022 (Wednesday) to 5pm,</b
 To submit the appeal, please click [<b>here</b>](https://form.gov.sg/639bb961dfcf8d00126944bb) or scan the QR code to access the form.
 
 <img src="/images/postingappeal.jpg" style="width:40%">
+
+
+### When will I know the outcome of my application?
+
+Only shortlisted applicants will be informed. If you do not hear from us by <b>6 January 2023 (Friday)</b>, we regret that you have not been successful in your appeal. Pending the outcome of the appeal, all applicants are still required to report to the school that they are posted to by the Ministry of Education.  
+
+  
+
+Thank you.

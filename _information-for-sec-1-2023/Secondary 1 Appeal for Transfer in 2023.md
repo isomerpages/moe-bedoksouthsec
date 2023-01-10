@@ -12,3 +12,8 @@ School admissions are based on merit in the Secondary 1 Posting Exercise. Primar
 ### Application Period
 
 The application period is from **12pm, 21 December 2022 (Wednesday) to 5pm,** **28 December 2022 (Wednesday)**. Late submission will not be considered.
+
+
+### How to apply?
+
+To submit the appeal, please click **[here](https://form.gov.sg/639bb961dfcf8d00126944bb)** or scan the QR code to access the form.

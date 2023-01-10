@@ -45,3 +45,15 @@ Submit an e-Portfolio comprising of 3-5 artworks\* you have done (may include ar
 E-Interview to share your ideas and art making experiences, with reference to your e-Portfolio. You may also be invited to participate in a short art task during the interview.
 
 <b>The decision of the Selection Panel is final.</b>
+
+
+### Application for Music Elective Programme (MEP) Centres 2023 (4 – 15 Jan 2023)
+
+MEP is a 4-year music programme offered at MEP centres @ ACS (I) and DHS which prepares students for GCE O-Level Higher Music.  
+  
+You will have opportunities to  
+
+*   Develop creativity, conceptual and analytical thinking through active music learning
+*   Learn through analysing, creating and performing music
+*   Engage with a range of music across genres and traditions
+*   Learn from music practitioners and peers from MEP schools

@@ -17,3 +17,5 @@ The application period is from <b>12pm, 21 December 2022 (Wednesday) to 5pm,</b
 ### How to apply?
 
 To submit the appeal, please click [<b>here</b>](https://form.gov.sg/639bb961dfcf8d00126944bb) or scan the QR code to access the form.
+
+<img src="/images/postingappeal.jpg" style="width:40%">

@@ -157,3 +157,11 @@ If you would like to have more information on AEP and MEP, you can visit the web
 [https://go.gov.sg/specialmusicprogrammes](https://go.gov.sg/specialmusicprogrammes)
 
 [https://go.gov.sg/empmepshowcase2020](https://go.gov.sg/empmepshowcase2020)</center>
+
+
+### INTERESTED TO APPLY FOR AEP/ MEP?
+
+1.  Visit the MOE websites to find out more and submit your application 
+2.  If you have any questions, approach Ms Sheena Seng (SH Aesthetics)
+3.  In the application, you will need to fill in Ms Sheena Seng’s email address: seng_mei_hui_sheena@schools.gov.sg
+4.  Submit your application by <b>15 January 2023</b>

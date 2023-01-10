@@ -57,6 +57,12 @@ In the light of the rising threat of terrorism, Singapore has launched the SGSec
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2021</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Overall Proficiency Award </span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Gold </span><br></td>
+  </tr>
+	
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2020</span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">SCDF-NCDCC Pinnacle Award</span><br></td>
@@ -97,41 +103,10 @@ In the light of the rising threat of terrorism, Singapore has launched the SGSec
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Overall Proficiency Award</span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Silver</span></td>
   </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2014</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Overall Proficiency Award</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Gold (4th consecutive in 2014)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Sustained Excellence Award (for 3 continuous years, 2013) </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Best Cadet (2014)</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">WO Muhd Syafique Bin Muhd A </span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">SCDF – NCDCC Pinnacle Badge Recipient</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">WO Zafran Bin Azhar </span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> 2013</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Overall Proficiency Award</span></td>
-    <td class="tg-y7qa">Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> 2012</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Overall Proficiency Award</span></td>
-    <td class="tg-y7qa">Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> 2011</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Overall Proficiency Award</span></td>
-    <td class="tg-y7qa">Gold</td>
-  </tr>
+  
+  
+ 
+
 </tbody>
 </table>
 

@@ -1,6 +1,6 @@
 ---
 title: Upcoming Events
-permalink: /upcoming-events
+permalink: /upcoming-events/
 description: ""
 ---
 <style type="text/css">
@@ -68,4 +68,4 @@ description: ""
 </tbody>
 </table>
 
-To view our full calendar of events for 2022, please click [here](/about-us/our-calendar-of-events). 
+To view our full calendar of events for 2023, please click [here](/about-us/our-calendar-of-events).

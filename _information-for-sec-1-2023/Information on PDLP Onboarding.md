@@ -30,7 +30,7 @@ Through the NDLP, all secondary school students will own a school-prescribed Per
 
 #### **Funding Support for Singapore Citizen (SC) Students**
 
-**The cost of the device bundle can be paid using your child’s Edusave account**, after setting aside provision for payment of second-tier miscellaneous fees.  
+<b>The cost of the device bundle can be paid using your child’s Edusave account</b>, after setting aside provision for payment of second-tier miscellaneous fees.  
 
   
 
@@ -46,4 +46,4 @@ Financial assistance is also available for Permanent residents (PR) and internat
 
 #### **Supporting Students in the Responsible Use of the Devices**
 
-The school has in place some measures **to enable a safe and seamless learning environment for students**. The role of the parent is also key in partnering the school to support your child.
+The school has in place some measures <b>to enable a safe and seamless learning environment for students</b>. The role of the parent is also key in partnering the school to support your child.

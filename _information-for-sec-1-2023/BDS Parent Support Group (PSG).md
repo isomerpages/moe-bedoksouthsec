@@ -25,3 +25,34 @@ The BDS Parents’ Support Group (PSG) comprises like-minded parents from divers
 
   
 <b>Activities</b>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-y7qa">School Activities</th>
+    <th class="tg-y7qa">Learning Journeys, Cross Country Meet, Festival Celebrations, Racial Harmony Day activities, Teachers’ Day activities</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa">Sports / Recreational Activities</td>
+    <td class="tg-y7qa">Bowling, Nagomi art workshop, Craft Workshops</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Social Activities</td>
+    <td class="tg-y7qa">Culinary workshops/ competitions, charitable Home visits</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Personal Enrichment Talks / Workshops</td>
+    <td class="tg-y7qa">Parenting Talks, Education and Career Guidance Talks</td>
+  </tr>
+</tbody>
+</table>

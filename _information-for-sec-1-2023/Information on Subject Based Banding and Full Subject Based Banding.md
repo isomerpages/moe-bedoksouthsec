@@ -80,7 +80,7 @@ Secondary 1 students will be grouped into mixed form classes, with each form cla
 
 <b>2)    Common Curriculum Subjects</b>
 
-In their mixed form classes, students will take a set of subjects at a common level, amounting to about one-third of curriculum time. This would allow students in mixed form classes to spend curriculum time together in these subjects. Secondary One (2023) students from all courses will take six common curriculum subjects.
+In their mixed form classes, students will take a set of subjects at a common level, amounting to about one-third of curriculum time. This would allow students in mixed form classes to spend curriculum time together in these subjects. Secondary One (2023) students from all courses will take <u>six</u> common curriculum subjects.
 
 These subjects are:
 
@@ -95,4 +95,4 @@ Teachers will adopt a range of teaching approaches to meet the different learnin
 
 <b>3)    Offering Humanities subjects at a more demanding level</b>
 
-Students in schools that are implementing Full SBB will also be able to offer **Humanities subjects** (Geography, History and Literature in English) at a more demanding level from Secondary Two. The criteria for taking Humanities at a more demanding level will be based on students' aptitude for and interest in these subjects at Secondary One.
+Students in schools that are implementing Full SBB will also be able to offer <b>Humanities subjects</b> (Geography, History and Literature in English) at a more demanding level from Secondary Two. The criteria for taking Humanities at a more demanding level will be based on students' aptitude for and interest in these subjects at Secondary One.

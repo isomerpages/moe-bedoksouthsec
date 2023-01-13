@@ -96,3 +96,39 @@ Teachers will adopt a range of teaching approaches to meet the different learnin
 <b>3)    Offering Humanities subjects at a more demanding level</b>
 
 Students in schools that are implementing Full SBB will also be able to offer <b>Humanities subjects</b> (Geography, History and Literature in English) at a more demanding level from Secondary Two. The criteria for taking Humanities at a more demanding level will be based on students' aptitude for and interest in these subjects at Secondary One.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gm9x{background-color:#D9E2F3;text-align:left;vertical-align:top}
+.tg .tg-vp9w{background-color:#B4C6E7;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-vp9w">Subjects offered under Full SBB</th>
+    <th class="tg-vp9w" colspan="3">Eligibility Criteria</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi" rowspan="3">Geography<br>History<br>Literature in English</td>
+    <td class="tg-gm9x">PSLE Subject Level</td>
+    <td class="tg-gm9x">School-based assessment</td>
+    <td class="tg-gm9x">Option to take Humanities at a more demanding level from Secondary Two</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">N(A) Level</td>
+    <td class="tg-ktyi" rowspan="2">Aptitude and Interest for specific subject</td>
+    <td class="tg-ktyi">Any of these subjects(s) at Express Level</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Social Studies N(T)</td>
+    <td class="tg-ktyi">Any of these subjects(s) at N(A) Level</td>
+  </tr>
+</tbody>
+</table>

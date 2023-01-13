@@ -43,4 +43,7 @@ This year, the incoming Sec 1 students are <u><b>not required</b></u> to physi
 [Application for Parent Support Group](/information-for-sec-1-2023/BDS-Parent-Support-Group-PSG/) <br>
 [Information on Subject-Based Banding and Full Subject-Based Banding](/information-for-sec-1-2023/Information-on-Subject-Based-Banding-and-Full-Subject-Based-Banding/) <br>
 [Information on Higher Mother Tongue Language (HMTL), Tamil Language, Third Languages](/information-for-sec-1-2023/Information-on-Mother-Tongue-Languages/) <br>
-[Information on PDLP Onboarding](/information-for-sec-1-2023/Information-on-PDLP-Onboarding/)
+[Information on PDLP Onboarding](/information-for-sec-1-2023/Information-on-PDLP-Onboarding/) <br>
+[Application for Art Elective Programme (AEP) and Music Elective Programme (MEP) Centres 2023](/information-for-sec-1-2023/Art-Elective-Programme-AEP-and-Music-Elective-Programme-MEP/)
+
+If you have any other enquiries, please call the General Office at 64414479, between 9.00 am – 4.00 pm.

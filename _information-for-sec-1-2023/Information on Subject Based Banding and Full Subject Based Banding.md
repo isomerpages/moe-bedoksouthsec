@@ -56,7 +56,7 @@ All secondary school students can offer <b>English Language, Mother Tongue Lang
 
 If students qualify for SBB, the school will be emailing parents the Letter of Offer, and/ or posting it to them through Parents Gateway. Students and parents have the option to either accept or decline the offer to take those subjects at a higher level.  
 
-#### Submission of letters of offer
+#### **Submission of letters of offer**
 
 (a) Email the completed form to Ms Ummu Hani Bte S H Alsagoff at ummu\_hani\_syed\_haider@schools.gov.sg before 28 Dec 2022 at 12 noon. 
 
@@ -65,3 +65,34 @@ If students qualify for SBB, the school will be emailing parents the Letter of O
   
 
 If students miss out on SBB at the start of the year, there are also possibilities of Mid-Year and End-of-Year inserts. The school will assess your suitability based on your Weighted Assessment (WA) scores and aptitude. Students must score a minimum of 75% for the subject(s) you intend to offer at the more demanding level.
+
+
+### Full Subject-Based Banding (FSBB) @ Bedok South Secondary School
+
+
+Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.
+
+Under Full Subject-Based Banding (Full SBB), MOE will expand Subject-Based Banding (Secondary) beyond the four PSLE subjects. So, with Full SBB, what will a Secondary One BDSian’s school experience be like?  
+
+<b>1)    Mixed form classes at lower secondary</b>
+
+Secondary 1 students will be grouped into mixed form classes, with each form class comprising students taking different courses. Mixed form classes present more opportunities for students to interact with other students taking different subject combinations and with different strengths and interests.
+
+<b>2)    Common Curriculum Subjects</b>
+
+In their mixed form classes, students will take a set of subjects at a common level, amounting to about one-third of curriculum time. This would allow students in mixed form classes to spend curriculum time together in these subjects. Secondary One (2023) students from all courses will take six common curriculum subjects.
+
+These subjects are:
+
+*   Art <i>– examinable</i>
+*   Character and Citizenship Education <i>– non-examinable</i>
+*   Design and Technology  <i>– examinable</i>
+*   Food and Consumer Education <i>– examinable</i>
+*   Music  <i>– non-examinable</i>
+*   Physical Education <i>– non-examinable</i>
+
+Teachers will adopt a range of teaching approaches to meet the different learning needs and pace of their students in the same form class.
+
+<b>3)    Offering Humanities subjects at a more demanding level</b>
+
+Students in schools that are implementing Full SBB will also be able to offer **Humanities subjects** (Geography, History and Literature in English) at a more demanding level from Secondary Two. The criteria for taking Humanities at a more demanding level will be based on students' aptitude for and interest in these subjects at Secondary One.

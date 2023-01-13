@@ -49,3 +49,12 @@ Information on School Smart Card
   </tr>
 </tbody>
 </table>
+
+
+<b>Note</b>: Basic bus services include trunk and feeder services. Express, Fast Forward and premium bus services like Chinatown Direct, Premium, Nite Owl, NightRider and City Direct are NOT included.
+
+3.    For Primary School Smartcard, concession fare will be deducted during the 4 months and Secondary concession pass can be purchased.
+
+4.    We would like to advise all Secondary 1 students to return their old Primary School Smartcard to TransitLink once they have received their new SSC. At any point of time during the 4 months grace period, students may request for an immediate refund (if any) at any TransitLink Ticket Office or Concession Card Replacement Office. Once the 4 month period is up, the student's card will expire and cannot be used or refunded immediately. Students will then be issued a receipt and the refund can be collected after 5 working days from any TransitLink Ticket Office or Concession Card Replacement Office.
+
+5.    The new Secondary level SSC will be issued in Feb or Mar 2023. More information will be given closer to the date.

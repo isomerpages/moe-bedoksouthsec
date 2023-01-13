@@ -23,3 +23,37 @@ To assist the students in making this transition, we have organised the followin
 *   To create a sense of belonging to the school with new environment and phase of life
 *   To start the development of class identity through team building programmes and activities to build a strong sense of belonging to the school
 *   To acquaint the Sec 1 students with the school’s rules and regulations, culture, and routines
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p">Event</th>
+    <th class="tg-rj1p">Date</th>
+    <th class="tg-rj1p">Dismissal Time</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k" rowspan="3">Sec 1 Orientation Programme</td>
+    <td class="tg-ii8k">Tues, 3 Jan 2023</td>
+    <td class="tg-ii8k">2.30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Wed, 4 Jan 2023</td>
+    <td class="tg-ii8k">2.30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Thurs, 5 Jan 2023</td>
+    <td class="tg-ii8k">4.00pm</td>
+  </tr>
+</tbody>
+</table>

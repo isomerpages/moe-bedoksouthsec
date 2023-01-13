@@ -19,3 +19,5 @@ To make it more convenient and secure, HPB have launched the Child Consent Porta
   
 
  1. Log on to [https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/) or scan the QR code below to access the child consent portal.
+
+<img src="/images/Image4.jpg" style="width:25%">

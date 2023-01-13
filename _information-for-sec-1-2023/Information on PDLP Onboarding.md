@@ -14,7 +14,7 @@ Through the NDLP, all secondary school students will own a school-prescribed Per
 
 #### **Implementation @ BDS**
 
-**Timeline**: Delivery of personal learning devices by Term 2  
+<b>Timeline</b>: Delivery of personal learning devices by Term 2  
 
   
 

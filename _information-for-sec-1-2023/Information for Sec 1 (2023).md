@@ -39,4 +39,5 @@ This year, the incoming Sec 1 students are <u><b>not required</b></u> to physi
 [Online Consent for Dental Services](/information-for-sec-1-2023/Online-Consent-for-Dental-Services/) <br>
 [Information on the various subjects for Sec 1 students](/information-for-sec-1-2023/Information-on-Various-Subjects-for-Sec-1-Students/) <br>
 [Information on School Smart Card](/information-for-sec-1-2023/Information-on-School-Smart-Card/) <br>
-[Information on Financial Assistance Scheme (FAS) 2023](/information-for-sec-1-2023/Information-on-Financial-Assistance-Scheme-FAS-2023/)
+[Information on Financial Assistance Scheme (FAS) 2023](/information-for-sec-1-2023/Information-on-Financial-Assistance-Scheme-FAS-2023/) <br>
+[Application for Parent Support Group](/information-for-sec-1-2023/BDS-Parent-Support-Group-PSG/)

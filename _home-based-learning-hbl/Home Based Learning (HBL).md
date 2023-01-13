@@ -18,3 +18,8 @@ HBL@BDS will be scheduled on every EVEN Friday. Please click on the following da
 
 
 Please click on the [HBL@BDS + Student Initiated Learning Briefing Slides.](/files/SILStudent%20Guide.pdf)
+
+
+
+
+### Student-Initiated Learning (SIL)

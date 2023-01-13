@@ -52,3 +52,16 @@ All secondary school students can offer <b>English Language, Mother Tongue Lang
   </tr>
 </tbody>
 </table>
+
+
+If students qualify for SBB, the school will be emailing parents the Letter of Offer, and/ or posting it to them through Parents Gateway. Students and parents have the option to either accept or decline the offer to take those subjects at a higher level.  
+
+#### Submission of letters of offer
+
+(a) Email the completed form to Ms Ummu Hani Bte S H Alsagoff at ummu\_hani\_syed\_haider@schools.gov.sg before 28 Dec 2022 at 12 noon. 
+
+(b) Send the completed hardcopy form to General Office before 28 Dec 2022 at 12 noon.  
+
+  
+
+If students miss out on SBB at the start of the year, there are also possibilities of Mid-Year and End-of-Year inserts. The school will assess your suitability based on your Weighted Assessment (WA) scores and aptitude. Students must score a minimum of 75% for the subject(s) you intend to offer at the more demanding level.

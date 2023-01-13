@@ -52,7 +52,7 @@ The school may also roll out applications other than those listed above. The sch
 
 ### PDLP Information For Parents
 
-***video to be embedded***
+[Information For Parents](https://youtu.be/779SmuMicAw)
 
 
 ### Important Actions For Parents/Guardians

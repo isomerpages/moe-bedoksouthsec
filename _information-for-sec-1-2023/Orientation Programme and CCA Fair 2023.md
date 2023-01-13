@@ -85,3 +85,40 @@ Friday, 6 January 2023 (2.00 pm to 5.30 pm)
 
 <b>Attire</b>: <br>
 Students will <u><b>change to your PE attire after lunch</b></u> for comfort and ease. You are strongly advised to have a water bottle with you so that you can hydrate yourself.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ba4e{background-color:#B4C6E7;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ba4e">Time</th>
+    <th class="tg-ba4e">Details of CCA Fair</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">2.00 pm</td>
+    <td class="tg-ktyi">Uniform Group Parade</td>
+  </tr>
+  <tr>
+    <td class="tg-9hzb">2.30 pm</td>
+    <td class="tg-ktyi">Understanding CCA &amp; Assessment (LEAPS 2.0) by HOD PE/ CCA</td>
+  </tr>
+  <tr>
+    <td class="tg-9hzb">3.30 pm</td>
+    <td class="tg-ktyi">Explore the different CCAs (for students)<br>Parenting Talk by Parent Support Group (for parents)</td>
+  </tr>
+</tbody>
+</table>
+
+
+We welcome parents to join us for the CCA Fair. Please be seated at the school hall by 2.20 pm for the talk by HOD PE/ CCA.

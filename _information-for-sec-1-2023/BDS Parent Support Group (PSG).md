@@ -60,3 +60,6 @@ The BDS Parents’ Support Group (PSG) comprises like-minded parents from divers
 Follow us on Instagram at [https://go.gov.sg/bds-psg](https://go.gov.sg/bds-psg).  
   
 We welcome all parents to join us in the PSG.  If you are interested in serving and supporting the school and students, please scan the QR Code:
+
+
+<img src="/images/QR.jpg" style="width:20%">

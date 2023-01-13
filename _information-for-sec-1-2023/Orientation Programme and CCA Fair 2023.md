@@ -57,3 +57,13 @@ To assist the students in making this transition, we have organised the followin
   </tr>
 </tbody>
 </table>
+
+
+<b>Attire for Orientation Programme</b> <br>
+<b>Come in full Bedok South Secondary School attire (if possible) and ensure proper grooming.</b>
+
+<i>\- Students who have not purchased the uniform may come in their primary school attire.</i>
+
+<i>\- Students pending to transfer out may be in their primary school uniform.</i>
+
+<i>\-</i> <i><b>Note: Students are required to bring along an old T-shirt on Day 3 (Thurs, 5 Jan 2023) of the Orientation Programme as they will be involved in a painting activity.</b></i>

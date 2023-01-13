@@ -41,4 +41,5 @@ This year, the incoming Sec 1 students are <u><b>not required</b></u> to physi
 [Information on School Smart Card](/information-for-sec-1-2023/Information-on-School-Smart-Card/) <br>
 [Information on Financial Assistance Scheme (FAS) 2023](/information-for-sec-1-2023/Information-on-Financial-Assistance-Scheme-FAS-2023/) <br>
 [Application for Parent Support Group](/information-for-sec-1-2023/BDS-Parent-Support-Group-PSG/) <br>
-[Information on Subject-Based Banding and Full Subject-Based Banding](/information-for-sec-1-2023/Information-on-Subject-Based-Banding-and-Full-Subject-Based-Banding/)
+[Information on Subject-Based Banding and Full Subject-Based Banding](/information-for-sec-1-2023/Information-on-Subject-Based-Banding-and-Full-Subject-Based-Banding/) <br>
+[Information on Higher Mother Tongue Language (HMTL), Tamil Language, Third Languages](/information-for-sec-1-2023/Information-on-Mother-Tongue-Languages/)

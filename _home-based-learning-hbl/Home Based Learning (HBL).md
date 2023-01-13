@@ -5,3 +5,5 @@ description: ""
 ---
 Home-Based Learning (HBL)
 =========================
+
+![](/images/2023EVEN%20Fri%20HBL_Student.jpg)

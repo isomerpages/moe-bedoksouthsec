@@ -2,6 +2,7 @@ collections:
   information-for-sec-1-2023:
     output: true
     order:
+      - Information for Sec 1 (2023).md
       - Reporting Time on First Day of School.md
       - Purchase of Books, Stationeries, Socks, PE Attire and Booklist for
         2023.md

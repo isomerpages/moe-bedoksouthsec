@@ -15,3 +15,6 @@ At Bedok South Secondary School, we strive to provide an effective and conduciv
 ### HBL@BDS (every EVEN Friday)
 
 HBL@BDS will be scheduled on every EVEN Friday. Please click on the following dates for the HBL@BDS timetable. <b>All students will need to check-in with their respective Form Teachers at 7.45am on HBL@BDS days.</b>
+
+
+Please click on the [HBL@BDS + Student Initiated Learning Briefing Slides.](/files/SILStudent%20Guide.pdf)

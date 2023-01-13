@@ -2,6 +2,7 @@ collections:
   information-for-sec-1-2023:
     output: true
     order:
+      - BDS Parent Support Group (PSG).md
       - Information on Subject Based Banding and Full Subject Based Banding.md
       - Information on Mother Tongue Languages.md
       - Information on PDLP Onboarding.md

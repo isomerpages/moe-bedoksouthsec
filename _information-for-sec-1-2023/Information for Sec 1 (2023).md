@@ -15,3 +15,19 @@ This year, the incoming Sec 1 students are <u><b>not required</b></u> to physi
   
 
 <b>Important to note:</b> As our school is a Full Subject Based Banding (FSBB) school in 2023, all Secondary One students will not be assigned to classes based on traditional streams i.e. Express/ Normal Academic/ Normal Technical but will be mixed to allow for better social mixing.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xxiv{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Things to take note</span></td>
+  </tr>
+</thead>
+</table>

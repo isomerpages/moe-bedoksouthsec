@@ -32,3 +32,4 @@ This year, the incoming Sec 1 students are <u><b>not required</b></u> to physi
 </thead>
 </table>
 
+[Reporting Time on first day of school](/information-for-sec-1-2023/Reporting-Time-on-First-Day-of-School/)

@@ -2,6 +2,7 @@ collections:
   information-for-sec-1-2023:
     output: true
     order:
+      - Information on School Smart Card.md
       - Information on Financial Assistance Scheme (FAS) 2023.md
       - BDS Parent Support Group (PSG).md
       - Information on Subject Based Banding and Full Subject Based Banding.md

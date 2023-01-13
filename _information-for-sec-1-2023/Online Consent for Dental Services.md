@@ -21,3 +21,13 @@ To make it more convenient and secure, HPB have launched the Child Consent Porta
  1. Log on to [https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/) or scan the QR code below to access the child consent portal.
 
 <img src="/images/Image4.jpg" style="width:25%">
+
+2\. Login using your Singpass with 2-factor authentication (2FA). (You may register for Singpass by visiting [https://www.singpass.gov.sg](https://www.singpass.gov.sg/) OR any SingPass counter. The location of Singpass counters and instructions for @FA activation are available on  [https://www.singpass.gov.sg](https://www.singpass.gov.sg/).
+
+3\. Type in your child's UIN/ BC/ FIN number.
+
+4\. Fill up and submit the consent form.
+
+  
+
+HPB receives enrolment information progressively in batches. Should you be prompted at Step 3 that HPB has not received your child’s enrolment information, please provide your email address via the portal. You will be notified via email once HPB receives your child’s enrolment information.

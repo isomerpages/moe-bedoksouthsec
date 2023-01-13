@@ -36,4 +36,5 @@ This year, the incoming Sec 1 students are <u><b>not required</b></u> to physi
 [Sec 1 booklist and information on sale of Textbooks/ Resources, Stationeries, Socks and PE Attire](/information-for-sec-1-2023/Purchase-of-Books-Stationeries-Socks-PE-Attire-and-Booklist-for-2023/) <br>
 [Information on sale of School Uniform and Tie](/information-for-sec-1-2023/Purchase-of-School-Uniform-and-Tie/) <br>
 [Orientation Programme and CCA Fair 2023](/information-for-sec-1-2023/Orientation-Programme-and-CCA-Fair-2023/) <br>
-[Online Consent for Dental Services](/information-for-sec-1-2023/Online-Consent-for-Dental-Services/)
+[Online Consent for Dental Services](/information-for-sec-1-2023/Online-Consent-for-Dental-Services/) <br>
+[Information on the various subjects for Sec 1 students](/information-for-sec-1-2023/Information-on-Various-Subjects-for-Sec-1-Students/)

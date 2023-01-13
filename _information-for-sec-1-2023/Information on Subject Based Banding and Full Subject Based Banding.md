@@ -58,7 +58,7 @@ If students qualify for SBB, the school will be emailing parents the Letter of O
 
 #### **Submission of letters of offer**
 
-(a) Email the completed form to Ms Ummu Hani Bte S H Alsagoff at ummu\_hani\_syed\_haider@schools.gov.sg before 28 Dec 2022 at 12 noon. 
+(a) Email the completed form to Ms Ummu Hani Bte S H Alsagoff at ummu_hani_syed_haider@schools.gov.sg before 28 Dec 2022 at 12 noon. 
 
 (b) Send the completed hardcopy form to General Office before 28 Dec 2022 at 12 noon.  
 

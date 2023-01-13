@@ -19,6 +19,5 @@ Purchase of Books, Stationeries/ Socks/ PE Attire and Booklist for 2023
 Parents/ Students are strongly advised to adhere to the <u><b>chosen appointment date and time</b></u>. We seek your understanding that <u><b>no walk-ins will be entertained</b></u>.
 
 
-3. <u><b>Students who are on FAS</b></u>
-
+3. <u><b>Students who are on FAS</b></u> <br>
 You will be contacted directly by the FAS officer, Ms Mardhiah on the assigned date and time for onsite collection via our school FAS Whatsapp service. Should there be any concerns or if you did not receive any notification from our school, please Whatsapp the FAS line @ 86866208 for assistance.

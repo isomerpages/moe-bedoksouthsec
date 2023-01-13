@@ -84,4 +84,4 @@ Friday, 6 January 2023 (2.00 pm to 5.30 pm)
   
 
 <b>Attire</b>: <br>
-Students will <b>change to your PE attire after lunch</b> for comfort and ease. You are strongly advised to have a water bottle with you so that you can hydrate yourself.
+Students will <u><b>change to your PE attire after lunch</b></u> for comfort and ease. You are strongly advised to have a water bottle with you so that you can hydrate yourself.

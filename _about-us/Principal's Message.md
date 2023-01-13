@@ -9,7 +9,6 @@ Principal's Message
 
 <img src="/images/Mr%20Daryl%20Koh.png" style="width:80%">
 
-
 Welcome
 -------
 

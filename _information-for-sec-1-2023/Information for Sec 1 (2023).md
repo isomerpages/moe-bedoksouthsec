@@ -33,4 +33,5 @@ This year, the incoming Sec 1 students are <u><b>not required</b></u> to physi
 </table>
 
 [Reporting Time on first day of school](/information-for-sec-1-2023/Reporting-Time-on-First-Day-of-School/) <br>
-[Sec 1 booklist and information on sale of Textbooks/ Resources, Stationeries, Socks and PE Attire](/information-for-sec-1-2023/Purchase-of-Books-Stationeries-Socks-PE-Attire-and-Booklist-for-2023/)
+[Sec 1 booklist and information on sale of Textbooks/ Resources, Stationeries, Socks and PE Attire](/information-for-sec-1-2023/Purchase-of-Books-Stationeries-Socks-PE-Attire-and-Booklist-for-2023/) <br>
+[Information on sale of School Uniform and Tie](/information-for-sec-1-2023/Purchase-of-School-Uniform-and-Tie/)

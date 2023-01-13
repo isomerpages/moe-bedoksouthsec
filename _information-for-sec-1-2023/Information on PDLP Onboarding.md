@@ -26,3 +26,24 @@ Through the NDLP, all secondary school students will own a school-prescribed Per
   
 
 <b>Platforms/ tools</b>: Student Learning Space (SLS) as primary platform, complemented by a host of other apps and tools that the school has an overview of (some of which may be subject-specific)
+
+
+#### **Funding Support for Singapore Citizen (SC) Students**
+
+**The cost of the device bundle can be paid using your child’s Edusave account**, after setting aside provision for payment of second-tier miscellaneous fees.  
+
+  
+
+For students on MOE-FAS, subsidies are available even if there is insufficient Edusave balance. The cash out-of-pocket will be $0.  
+
+  
+
+#### **Funding Support for Non-Singapore Citizen Students**
+
+Financial assistance is also available for Permanent residents (PR) and international students (IS) who need support.  
+
+  
+
+#### **Supporting Students in the Responsible Use of the Devices**
+
+The school has in place some measures **to enable a safe and seamless learning environment for students**. The role of the parent is also key in partnering the school to support your child.

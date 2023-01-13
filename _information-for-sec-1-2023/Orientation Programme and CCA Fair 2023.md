@@ -67,3 +67,21 @@ To assist the students in making this transition, we have organised the followin
 <i>\- Students pending to transfer out may be in their primary school uniform.</i>
 
 <i>\-</i> <i><b>Note: Students are required to bring along an old T-shirt on Day 3 (Thurs, 5 Jan 2023) of the Orientation Programme as they will be involved in a painting activity.</b></i>
+
+
+### CCA Fair
+
+
+
+<b>Objectives of the CCA Fair</b>: <br>
+To provide a platform for students to get to know the different CCAs in greater detail before they confirm on their CCA decision.
+
+  
+
+<b>Date</b>: <br>
+Friday, 6 January 2023 (2.00 pm to 5.30 pm)
+
+  
+
+<b>Attire</b>: <br>
+Students will <b>change to your PE attire after lunch</b> for comfort and ease. You are strongly advised to have a water bottle with you so that you can hydrate yourself.

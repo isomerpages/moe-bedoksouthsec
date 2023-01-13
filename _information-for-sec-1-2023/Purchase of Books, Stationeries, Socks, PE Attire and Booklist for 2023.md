@@ -11,9 +11,8 @@ Purchase of Books, Stationeries/ Socks/ PE Attire and Booklist for 2023
 2\. How do we make the purchase?
 
 *   Online at [<b>https://www.pacificbookstores.com/</b>](https://www.pacificbookstores.com/) with the option for home delivery (fixed delivery charge of $13.80 applies). The online ordering system is available from 20 Dec 2022 till 28 Dec 2022.
-*   School (Collection only) - Strictly by appointment\*\*
-
-       \*\* _Only for students not on Financial Assistance Scheme (FAS)_  
+*   School (Collection only) - Strictly by appointment\*\* <br>
+ \*\* <i>Only for students not on Financial Assistance Scheme (FAS)</i>  
 
   
 

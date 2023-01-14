@@ -2,13 +2,13 @@ collections:
   information-and-links:
     output: true
     order:
-      - For Students/Open House 2023.md
       - For Students/.keep
       - For Students/For Students.md
       - For Students/Student Learning Space (SLS).md
       - For Students/Rules and Regulations.md
       - For Students/School Uniform and Tie.md
       - For Students/Booklists for 2023.md
+      - For Students/Open House 2023.md
       - For Students/Start of Term 3.md
       - For Parents/.keep
       - For Parents/For Parents.md

@@ -2,6 +2,7 @@ collections:
   information-and-links:
     output: true
     order:
+      - For Students/Open House 2023.md
       - For Students/.keep
       - For Students/For Students.md
       - For Students/Student Learning Space (SLS).md

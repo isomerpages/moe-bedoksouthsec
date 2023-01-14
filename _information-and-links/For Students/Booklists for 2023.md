@@ -19,4 +19,4 @@ Booklists for 2023
 \- [Sec 4 Express](/files/4%20Exp.pdf) <br>
 \- [Sec 4 Normal Academic](/files/4%20NA.pdf) <br>
 \- [Sec 4 Normal Technical](/files/4%20NT.pdf) <br>
-\- [Sec 5 Normal Academic](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Useful%20Links/Booklists%202023/SEC%205%20NA.pdf)
+\- [Sec 5 Normal Academic](/files/SEC%205%20NA.pdf)

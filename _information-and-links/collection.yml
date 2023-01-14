@@ -2,7 +2,6 @@ collections:
   information-and-links:
     output: true
     order:
-      - For Students/Start of Term 3.md
       - For Students/.keep
       - For Students/For Students.md
       - For Students/Student Learning Space (SLS).md
@@ -10,6 +9,7 @@ collections:
       - For Students/School Uniform and Tie.md
       - For Students/Booklists for 2023.md
       - For Students/Chinese New Year Celebration.md
+      - For Students/Start of Term 3.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Enhanced school measures for novel coronavirus.md

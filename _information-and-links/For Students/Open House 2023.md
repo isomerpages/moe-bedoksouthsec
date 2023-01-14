@@ -10,7 +10,7 @@ Open House 2023
 Please click the respective links below.  
   
 [Information Sheet on the Pre U Chinese Language Elective Programme](/files/Information%20Sheet%20on%20the%20Pre-U%20Chinese%20Language%20Elective%20Programme.pdf) <br>
-[Information Sheet on the Pre U Malay Language Elective Programme](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Information%20and%20Links/For%20Students/Information%20Sheet%20on%20the%20Pre-U%20Malay%20Language%20Elective%20Programme.pdf)  
+[Information Sheet on the Pre U Malay Language Elective Programme](/files/Information%20Sheet%20on%20the%20Pre-U%20Malay%20Language%20Elective%20Programme.pdf) <br>
 [Information Sheet on the Pre U Tamil Language Elective Programme](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Information%20and%20Links/For%20Students/Information%20Sheet%20on%20the%20Pre-%20U%20Tamil%20Language%20Elective%20Programme.pdf)  
   
 [LEP Briefing slides](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Information%20and%20Links/For%20Students/LEP%20Briefings_Consolidated%20Info.pptx)  

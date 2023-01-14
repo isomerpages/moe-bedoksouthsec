@@ -23,8 +23,8 @@ Please click on the [HBL@BDS + Student Initiated Learning Briefing Slides.](/fil
 
 | <b>Term 1</b> |  <b>Term 2</b>  | <b>Term 3</b> | <b>Term 4</b>
 | -------- | -------- | -------- | -------- |
-| [13 Jan](/files/13Jan.pdf) 
-| Text     | Text     | Text     |
+| [13 Jan](/files/13Jan.pdf) | Text     | Text     | Text     |
+| [13 Jan](/files/13Jan.pdf) | Text     | Text     | Text     |
 
 
 

@@ -71,3 +71,6 @@ The BDS Parent Support Group (PSG) comprises like-minded parents from diverse ba
 ![](/images/For%20Parents3.jpg)
 
 ##### **Packing of Motivation Packs for our Graduating Students**
+![](/images/For%20Parents4.jpg)
+
+##### **Motivation Booster Booth For Graduating Students**

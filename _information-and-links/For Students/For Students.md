@@ -49,5 +49,5 @@ For Students
 2.  Students are strongly advised to purchase their school items [**online**](http://pacificbookstores.com/) with option for home delivery (fixed delivery charge of $13.80 applies). The online ordering system is available from 15 Nov 2021 till 31 Dec 2021.
 3.  **Students who are not on the Financial Assistance Scheme (FAS)** may opt for self-collection from the school premises. They are strongly encouraged to adhere to the chosen appointment date and time. We seek your understanding that no walk-ins will be entertained.
 4.  **Students who are on FAS** will be notified via Whatsapp or call once the application is approved. They will be given instructions by the FAS Officer regarding the purchase of books.
-5.  All booklists are available on the school website [here](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/information-and-links/for-students/booklists-for-2023).
+5.  All booklists are available on the school website [here](/information-and-links/For-Students/Booklist-for-2023/).
 6.  Thank you.

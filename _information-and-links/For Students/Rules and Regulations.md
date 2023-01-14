@@ -1,9 +1,12 @@
 ---
 title: Rules and Regulations
-permalink: /information-and-links/for-students/rules-and-regulations
+permalink: /information-and-links/for-students/rules-and-regulations/
 description: ""
 third_nav_title: For Students
 ---
+Rules and Regulations
+=====================
+
 For more information, please click on the following   
   
 * [The Computer Laboratory Rules](/files/Computer%20Laboratory%20and%20IT%20Facilities%20and%20Rules2017.pdf)

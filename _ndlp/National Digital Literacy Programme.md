@@ -21,7 +21,7 @@ The following provides important information about how you can purchase the PLD 
 
 ### Introduction to PDLP
 
-[Click here for the video](https://youtu.be/7ef6jZfoMkI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ef6jZfoMkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### Bedok South’s Vision for PDLP

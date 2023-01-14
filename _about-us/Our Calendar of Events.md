@@ -7,3 +7,4 @@ Our Calendar of Events
 ======================
 
 <i><b>Calendar to be added</b></i>
+

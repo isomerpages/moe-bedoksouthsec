@@ -25,7 +25,7 @@ Please click on the [HBL@BDS + Student Initiated Learning Briefing Slides.](/fil
 | -------- | -------- | -------- | -------- |
 | [13 Jan](/files/13Jan.pdf) | Text     | 7 Jul     | 22 Sep     |
 | [27 Jan](/files/27Jan.pdf) | Text     | 21 Jul    |     |
-| [13 Jan](/files/13Jan.pdf) | Text     | 4 Aug     |     |
+| [10 Feb](/files/10Feb.pdf) | Text     | 4 Aug     |     |
 | [13 Jan](/files/13Jan.pdf) | 12 May    | 18 Aug   |      |
 | [13 Jan](/files/13Jan.pdf) | Text     | 1 Sep    |      |
 

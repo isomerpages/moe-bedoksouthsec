@@ -7,7 +7,7 @@ third_nav_title: For Students
 Booklists for 2023
 ==================
 
-\- [Sec 1 Express](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Useful%20Links/Booklists%202023/SEC%201%20EXP.pdf)  
+\- [Sec 1 Express](/files/SEC%201%20EXP.pdf) <br> 
 \- [Sec 1 Normal Academic](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Useful%20Links/Booklists%202023/SEC%201%20NA.pdf)  
 \- [Sec 1 Normal Technical](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Useful%20Links/Booklists%202023/SEC%201%20NT.pdf)  
 \- [Sec 2 Express](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Information%20and%20Links/For%20Students/Booklist%202023/2%20Exp.pdf)  

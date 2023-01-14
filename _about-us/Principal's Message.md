@@ -8,8 +8,7 @@ Principal's Message
 
 
 <img src="/images/Mr%20Daryl%20Koh.png" style="width:80%">
-Welcome
--------
+
 
 I am proud and humbled to be leading Bedok South Secondary School (BDS), a school with a rich history of 42 years and one blessed with a conducive environment and most importantly, caring staff. With respectful and teachable BDSians (an endearing term we call our students), I am most excited and privileged to build on the good work of my predecessor, Mr Teoh Teik Hoe to continue the mission to provide a caring and supportive school to develop character, ensure student well-being and having enriched learning experiences in their secondary school life.
 

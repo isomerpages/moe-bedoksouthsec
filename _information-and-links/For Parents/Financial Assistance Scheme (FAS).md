@@ -32,3 +32,7 @@ g. Copies of NRIC of household members, other than parents and unmarried sibling
 h. Where applicable, documents showing proof of legal guardianship (e.g. a court order or Letters of Probate or Administration), for the purposes of Section VI of the application form.
 
 i. Any other documents as and when required by the school for the purpose of verifying the income.
+
+Students or their parents may submit the completed form along with all the necessary documents when they come down to the school to collect their books and school uniform on the allocated date and time. The school will issue them the FAS Approval Letter upon receiving the form and documents. Parents or students will have to show the FAS Approval Letter to the bookshop or the uniform vendor.
+
+P6 parents or students who have applied for FAS from their primary school will receive a notification via Parents’ Gateway from Bedok South Secondary after the release of Sec 1 posting. Thus, parents are highly encouraged to download the Parents’ Gateway app on their phone.

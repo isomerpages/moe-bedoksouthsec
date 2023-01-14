@@ -65,3 +65,6 @@ The BDS Parent Support Group (PSG) comprises like-minded parents from diverse ba
 ![](/images/For%20Parents1.jpg)
 
 ##### **Racial Harmony Day**
+![](/images/For%20Parents2.jpg)
+
+##### **Nagomi Art workshop**

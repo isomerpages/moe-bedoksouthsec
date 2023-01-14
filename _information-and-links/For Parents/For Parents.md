@@ -26,3 +26,34 @@ The BDS Parent Support Group (PSG) comprises like-minded parents from diverse ba
 *   Administration
 
 ### Activities
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ktyi"><span style="background-color:transparent">School Activities</span></th>
+    <th class="tg-ktyi"><span style="background-color:transparent">Learning Journeys, Cross Country Meet, Festival celebrations, Racial Harmony Day activities, Teachers’ Day activities </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:transparent">Sports / Recreational Activities</span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Bowling, Nagomi art workshop, Craft workshops</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:transparent">Social Activities</span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Culinary workshops / competitions, charitable home visits </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:transparent">Personal Enrichment Talks / Workshops</span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Parenting Talks, Education and Career Guidance Talks</span></td>
+  </tr>
+</tbody>
+</table>

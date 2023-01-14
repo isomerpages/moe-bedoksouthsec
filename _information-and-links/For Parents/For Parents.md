@@ -89,3 +89,5 @@ Follow us on Instagram [here](https://go.gov.sg/bds-psg).
 ### Registration
 
 We welcome all parents to join us in the PSG. If you are interested in serving and supporting the school and students, please register via this [link](https://go.gov.sg/bdspsg23), or scan the QR code:
+
+<img src="/images/For%20Parents10.jpg" style="width:25%">

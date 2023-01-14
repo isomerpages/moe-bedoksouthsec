@@ -16,6 +16,6 @@ Sale of Textbooks and Others
 
 4.    <b><u>Students who are on FAS</b></u> will be notified via Whatsapp or call once the application is approved. They will be given instructions by the FAS Officer regarding the purchase of books. The self-collection date for the Sec 1 & 5 FAS students is on 29 Dec 2022.
 
-5.    All booklists are available on the school website [here](/information-and-links/For-Students/Booklist-for-2023/).
+5.    All booklists are available on the school website [<i>here</i>](/information-and-links/For-Students/Booklist-for-2023/).
 
 6.     Thank you.

@@ -77,3 +77,6 @@ The BDS Parent Support Group (PSG) comprises like-minded parents from diverse ba
 ![](/images/For%20Parents5.jpg)
 
 ##### **National Day Dinner**
+![](/images/For%20Parents7.jpg)
+
+##### **Parent-Child Cupcake Baking Competition**

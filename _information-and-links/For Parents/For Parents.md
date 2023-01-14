@@ -59,7 +59,6 @@ The BDS Parent Support Group (PSG) comprises like-minded parents from diverse ba
 </table>
 
 
-Photos of Various Programmes
-----------------------------
+### Photos of Various Programmes
 
 ##### **Parent-Child Bonding Over Bonding**

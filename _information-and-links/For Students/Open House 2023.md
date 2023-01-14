@@ -16,7 +16,7 @@ Please click the respective links below.
 [LEP Briefing slides](/files/LEP%20Briefings_Consolidated%20Info.pdf)
   
 Open House for:  
-
-[TJC](/files/TJC.pdf)
+[DHS](/files/DHS%20Open%20House%20Poster%20to%20Schools.pdf) <br>
+[TJC](/files/TJC.pdf) <br>
 [RVHS](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Information%20and%20Links/For%20Students/RVHS%20JC%20Open%20House%20Poster.jpg)  
 [Poly and JC](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Information%20and%20Links/For%20Students/2023%20Open%20House%20Schedule_PolyJC.pdf)

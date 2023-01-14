@@ -43,11 +43,10 @@ For Students
 
 ### School Bookshop and Booklists
 
-<u><b>Sale and Collection of Textbooks / Stationery / Socks / PE attire</b></u>
-
-1.  Please be informed that there will be no physical sale of textbooks, stationery, socks and PE attire in school premises this year due to the Covid-19 situation.
-2.  Students are strongly advised to purchase their school items [**online**](http://pacificbookstores.com/) with option for home delivery (fixed delivery charge of $13.80 applies). The online ordering system is available from 15 Nov 2021 till 31 Dec 2021.
-3.  **Students who are not on the Financial Assistance Scheme (FAS)** may opt for self-collection from the school premises. They are strongly encouraged to adhere to the chosen appointment date and time. We seek your understanding that no walk-ins will be entertained.
-4.  **Students who are on FAS** will be notified via Whatsapp or call once the application is approved. They will be given instructions by the FAS Officer regarding the purchase of books.
-5.  All booklists are available on the school website [here](/information-and-links/For-Students/Booklist-for-2023/).
+<u><b>Sale and Collection of Textbooks / Stationery / Socks / PE attire</b></u> <br>
+1\.  Please be informed that there will be no physical sale of textbooks, stationery, socks and PE attire in school premises this year due to the Covid-19 situation. <br>
+2.  Students are strongly advised to purchase their school items [**online**](http://pacificbookstores.com/) with option for home delivery (fixed delivery charge of $13.80 applies). The online ordering system is available from 15 Nov 2021 till 31 Dec 2021. <br>
+3.  <u><b>Students who are not on the Financial Assistance Scheme (FAS)</b></u> may opt for self-collection from the school premises. They are strongly encouraged to adhere to the chosen appointment date and time. We seek your understanding that no walk-ins will be entertained. <br>
+4.  <u><b>Students who are on FAS</b></u> will be notified via Whatsapp or call once the application is approved. They will be given instructions by the FAS Officer regarding the purchase of books. <br>
+5.  All booklists are available on the school website [here](/information-and-links/For-Students/Booklist-for-2023/). <br>
 6.  Thank you.

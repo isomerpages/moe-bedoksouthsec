@@ -1,6 +1,6 @@
 ---
 title: Latest Happenings
-permalink: /latest-happenings
+permalink: /latest-happenings/
 description: ""
 ---
 #### Direct School Admission

@@ -38,11 +38,9 @@ The members also contribute to the society with CCA leaders guiding the members 
 
 ### Teachers-in-Charge
 
-Mr Benjamin Ong (OIC)  
-Mdm Suchandra   
+Mdm Suchandra (OIC)  
 Ms Sophia Yap  
 Ms Hoori  
-Mdm Zubaidah (Advisor)
 
 
 ### Links

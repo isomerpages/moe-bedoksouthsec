@@ -4,7 +4,7 @@ permalink: /cca/clubs-and-societies/public-announcement-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-Public Announcement Club
+Media Production Club
 ========================
 
 
@@ -55,7 +55,6 @@ Public Announcement Club
 
 Mdm Suhaila (OIC)   
 Ms Irene Kwek   
-Mdm Faruzah (Advisor)  
 
 ### Leadership Positions
 

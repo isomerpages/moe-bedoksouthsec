@@ -7,14 +7,8 @@ description: ""
 
 Please click [here](/files/Open%20Houses%202023%20RI%20SJI%20and%20Eunoia.pdf) for information on Raffles Institution, SJI and Eunoia! JC Open Houses 2023 and [here](/files/2023%20Open%20House%20SchedulePolyJC.pdf) for other JC, Poly, LaSalle & NAFA and Other Institutions 2023 Open House Schedule. Click [here](/information-and-links/For-Students/Open-House-2023/) for more information.
 
+
 #### Release of 2022 GCE O-Level Examination Results and 2023 Joint Admissions Exercise
-
-The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 2023. For more information, click [here](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/information-and-links/for-students/2022-o-level-results-release).
-
-
-
-
-[**Release of 2022 GCE O-Level Examination Results and 2023 Joint Admissions Exercise**](https://bedoksouthsec.moe.edu.sg/#)
 
 The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 2023. For more information, click [here](/information-and-links/For-Students/2022-O-Level-Results-Release/).
 

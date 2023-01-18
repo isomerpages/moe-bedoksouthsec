@@ -3,6 +3,10 @@ title: Latest Happenings
 permalink: /latest-happenings/
 description: ""
 ---
+#### Open Houses 2023
+
+
+
 #### Direct School Admission
 
 Please click [here](/about-us/admissions/direct-school-admission-dsa) for more information on Direct School Admission (DSA).

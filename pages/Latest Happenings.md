@@ -27,11 +27,9 @@ Please click [here](/files/2023%20Welcome_Sec%201.pdf) for the 2023 Sec 1 Webi
 
 Click [here](/information-for-sec-1-2023/Secondary-1-Appeal-for-Transfer-in-2023/) to access the Sec 1 appeal for transfer in 2023.
 
-[**Release of the 2022 Singapore-Cambridge GCE N(A)- & N(T)-Level Examination Results**](https://bedoksouthsec.moe.edu.sg/#)
 
-The results of the 2022 Singapore-Cambridge General Certificate of Education Normal (Academic)-\[N(A)\] and Normal (Technical)-\[N(T)\] Level Examinations will be released on Monday, 19 December 2022, 2.00pm. Click [here](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/information-and-links/for-students/2022-n-a-n-t-results-release) for more information.
 
-[**Full Subject-Based Banding (FSBB) @ Bedok South Secondary School**](https://bedoksouthsec.moe.edu.sg/#)
+#### Full Subject-Based Banding (FSBB) @ Bedok South Secondary School
 
 Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students. Click [here](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/curriculum/full-subject-based-banding-fsbb-at-bedok-south-secondary-school) to find out more.
 

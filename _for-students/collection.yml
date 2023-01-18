@@ -2,4 +2,5 @@ collections:
   for-students:
     output: true
     order:
+      - Open House 2023.md
       - Start of Term 3.md

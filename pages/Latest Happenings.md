@@ -21,7 +21,7 @@ The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 20
 
 #### 2023 Sec 1 Webinar Briefing Notes
 
-Please click [here](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Announcements/2023%20Welcome_Sec%201.pdf) for the 2023 Sec 1 Webinar Briefing Notes.
+Please click [here](/files/2023%20Welcome_Sec%201.pdf) for the 2023 Sec 1 Webinar Briefing Notes.
 
 [**Sec 1 Appeal for Transfer in 2023**](https://bedoksouthsec.moe.edu.sg/#)
 

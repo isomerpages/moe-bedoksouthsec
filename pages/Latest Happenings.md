@@ -51,7 +51,7 @@ Please click [here](/open-house/Open-House/) for more information.
 
 We would like to invite the parents and guardians to sign up for a series of online parenting webinars organised by Morning Star Community Services, to help you learn strategies to help your teens maintain both online and offline connections to meet all their psycho-social needs. Please click [here](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/information-and-links/for-parents/parents-in-education) to find out more. 
 
-[**Student Vaccination Exercise**](https://bedoksouthsec.moe.edu.sg/#)
+#### Student Vaccination Exercise
 
 Please click on the following links to access [Infographic](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Announcements/Infographic%20on%20Student%20Vaccination%20Exercise.pdf) or [Parent Kit](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Announcements/Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf) on Student Vaccination Exercise.
 

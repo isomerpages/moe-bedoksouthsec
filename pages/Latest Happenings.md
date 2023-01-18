@@ -67,9 +67,9 @@ Please click below to access information on the TraceTogether app for quicker de
 Please click on the respective link to access
 
 *   [FAQ for online learning](/files/FAQforonlinelearning.pdf)
-*   [Students' guide](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Announcements/Students'%20Guide%20to%20Video%20Conferencing%20with%20Teachers%20Using%20Zoom%20for%20HBL%20(MOE%20ETD%20-%20Version%2020March2020)%20(1).pdf) for downloading Zoom and accessing a Zoom meeting.
+*   [Students' guide](/files/Students'%20Guide%20to%20Video%20Conferencing%20with%20Teachers%20Using%20Zoom%20for%20HBL.pdf) for downloading Zoom and accessing a Zoom meeting.
 
-[**Launch of Parents Gateway**](https://bedoksouthsec.moe.edu.sg/#)
+#### Launch of Parents Gateway
 
 We would like to encourage all parents to sign up for the Parents Gateway app. A letter with instructions on how to sign up was given to students in Week 1. Alternatively, you may want to click **[here](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Announcements/Letter%20-%20Parents%20Gateway%20(Beta)%20(BSSS).pdf)** for the Step-by-Step Guide.
 

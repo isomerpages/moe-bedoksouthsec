@@ -16,7 +16,7 @@ The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 20
 
 [**Release of 2022 GCE O-Level Examination Results and 2023 Joint Admissions Exercise**](https://bedoksouthsec.moe.edu.sg/#)
 
-The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 2023. For more information, click [here](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/information-and-links/for-students/2022-o-level-results-release).
+The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 2023. For more information, click [here](/information-and-links/For-Students/2022-O-Level-Results-Release/).
 
 [**2023 Sec 1 Webinar Briefing Notes**](https://bedoksouthsec.moe.edu.sg/#)
 

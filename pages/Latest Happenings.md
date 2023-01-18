@@ -45,7 +45,7 @@ You are warmly welcome to join us at our Physical Open House on Saturday, 26 Nov
 
 Bedok South Secondary School is hosting an Open House to welcome prospective parents and students who wish to visit our campus and learn more about what we have to offer.
 
-Please click [here](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/open-house) for more information.
+Please click [here](/open-house/Open-House/) for more information.
 
 [**Online Parenting Webinars**](https://bedoksouthsec.moe.edu.sg/#)
 

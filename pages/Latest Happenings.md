@@ -71,42 +71,9 @@ Please click on the respective link to access
 
 #### Launch of Parents Gateway
 
-We would like to encourage all parents to sign up for the Parents Gateway app. A letter with instructions on how to sign up was given to students in Week 1. Alternatively, you may want to click **[here](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Announcements/Letter%20-%20Parents%20Gateway%20(Beta)%20(BSSS).pdf)** for the Step-by-Step Guide.
-
-![SLS Support for Home-based Learning](https://bedoksouthsec.moe.edu.sg/qql/slot/articles/ig02/67249d42d_1026.jpg)[**SLS Support for Home-based Learning**](https://bedoksouthsec.moe.edu.sg/#)
-
-Please click on the following link to access
-
-\-  [how to navigate the new SLS Homepage and within an assignment.](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/About%20Us/Student%20E-Poster%20for%20Navigation%20on%20SLS.pdf "new SLS interface")  
-\-  [information about SLS password reset.](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/information-and-links/for-students/student-learning-space-sls/sls-support-for-home-based-learning)
-
-![](https://bedoksouthsec.moe.edu.sg/pix/spacer.gif)
-
-#### Direct School Admission
-
-Please click [here](/about-us/admissions/direct-school-admission-dsa) for more information on Direct School Admission (DSA).
-
-#### Student Vaccincation Exercise
-
-Please click on the following link to access [Infographic](/files/Infographic%20on%20Student%20Vaccination%20Exercise.pdf) or [Parent Kit](/files/Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf) on Student Vaccination Exercise
-
-#### TraceTogether App
-
-![Why Use TraceTogether](/images/Why%20Use%20TraceTogether.png)
-
-![TraceTogether Onboarding Guide](/images/TraceTogether%20Onboarding%20Guide%20for%20citizens%20(6%20June).png)
+We would like to encourage all parents to sign up for the Parents Gateway app. A letter with instructions on how to sign up was given to students in Week 1. Alternatively, you may want to click [here](/files/Letter%20-%20Parents%20Gateway(BSSS).pdf) for the Step-by-Step Guide.
 
 
-#### FAQ for Online Learning and Zoom Meeting
-	
-Please click on the respective link to access
-
-* [FAQ for online learning](/files/FAQ%20for%20online%20learning.pdf)
-* [Students' guide](/files/Students'%20Guide%20to%20Video%20Conferencing%20with%20Teachers%20Using%20Zoom%20for%20HBL%20MOE%20ETD.pdf) for downloading Zoom and accessing a Zoom meeting
-
-#### Launch of Parents Gateway
-
-We would like to encourage all parents to sign up for the Parents Gateway app. A letter with instructions on how to sign up was given to students in Week 1. Alternatively, you may want to click [here](/files/Letter%20-%20Parents%20Gateway%20(Beta)%20(BSSS).pdf) for the Step-by-step guide.
 
 #### SLS Support for Home-based Learning
 

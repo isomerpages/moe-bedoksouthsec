@@ -17,5 +17,5 @@ sections:
           url: /upcoming-events
         - title: Useful Links
           description: Click here for useful links
-          url: ""
+          url: /for-students/for-students/
 ---

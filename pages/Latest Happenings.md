@@ -53,7 +53,7 @@ We would like to invite the parents and guardians to sign up for a series of onl
 
 #### Student Vaccination Exercise
 
-Please click on the following links to access [Infographic](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Announcements/Infographic%20on%20Student%20Vaccination%20Exercise.pdf) or [Parent Kit](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Announcements/Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf) on Student Vaccination Exercise.
+Please click on the following links to access [Infographic](/files/Infographic%20onStudent%20Vaccination%20Exercise.pdf) or [Parent Kit](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Announcements/Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf) on Student Vaccination Exercise.
 
 [**TraceTogether App**](https://bedoksouthsec.moe.edu.sg/#)
 

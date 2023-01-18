@@ -19,13 +19,7 @@ Please click [here](/files/Open%20Houses%202023%20RI%20SJI%20and%20Eunoia.pdf)�
 
 The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 2023. For more information, click [here](/information-and-links/For-Students/2022-O-Level-Results-Release/).
 
-
-
-
-
-
-
-[**2023 Sec 1 Webinar Briefing Notes**](https://bedoksouthsec.moe.edu.sg/#)
+#### 2023 Sec 1 Webinar Briefing Notes
 
 Please click [here](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Announcements/2023%20Welcome_Sec%201.pdf) for the 2023 Sec 1 Webinar Briefing Notes.
 

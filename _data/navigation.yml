@@ -64,3 +64,12 @@ links:
     collection: open-house
   - title: Our Contact
     collection: our-contact
+  - title: Useful Links
+    url: /permalink
+    sublinks:
+      - title: For Students
+        url: /permalink
+      - title: For Parents
+        url: /permalink
+      - title: For Teachers
+        url: /permalink

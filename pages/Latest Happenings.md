@@ -41,7 +41,7 @@ Click [<b>here</b>](https://sites.google.com/moe.edu.sg/bds-eopen-house-2022/ho
 
 You are warmly welcome to join us at our Physical Open House on Saturday, 26 November 2022 from 0830-1230!
 
-[**Open House**](https://bedoksouthsec.moe.edu.sg/#)
+#### Open House
 
 Bedok South Secondary School is hosting an Open House to welcome prospective parents and students who wish to visit our campus and learn more about what we have to offer.
 

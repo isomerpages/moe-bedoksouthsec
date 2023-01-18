@@ -37,7 +37,7 @@ Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and d
 
 Received your PSLE results?
 
-Click [**here**](https://sites.google.com/moe.edu.sg/bds-eopen-house-2022/home) to visit us at our eOpen House website.
+Click [<b>here</b>](https://sites.google.com/moe.edu.sg/bds-eopen-house-2022/home) to visit us at our eOpen House website.
 
 You are warmly welcome to join us at our Physical Open House on Saturday, 26 November 2022 from 0830-1230!
 

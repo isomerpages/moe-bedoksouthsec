@@ -59,7 +59,7 @@ Please click on the following links to access [Infographic](/files/Infographic%
 
 Please click below to access information on the TraceTogether app for quicker detection and mitigate the spread of COVID-19.
 
-*   [Why Use TraceTogether](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Announcements/Why%20Use%20TraceTogether.png) 
+*   [Why Use TraceTogether](/files/Why%20Use%20TraceTogether.pdf)
 *   [TraceTogether Onboarding Guide](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Announcements/TraceTogether%20Onboarding%20Guide%20for%20citizens%20(6%20June).png)
 
 [**FAQ for Online Learning and Zoom Meeting**](https://bedoksouthsec.moe.edu.sg/#)

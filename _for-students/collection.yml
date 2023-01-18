@@ -2,9 +2,9 @@ collections:
   for-students:
     output: true
     order:
-      - Student Learning Space (SLS)/Student Learning Space (SLS).md
-      - Student Learning Space (SLS)/.keep
       - For Students.md
+      - Student Learning Space (SLS)/.keep
+      - Student Learning Space (SLS)/Student Learning Space (SLS).md
       - Rules and Regulations.md
       - School Uniform and Tie.md
       - Sale of Textbooks and Others.md

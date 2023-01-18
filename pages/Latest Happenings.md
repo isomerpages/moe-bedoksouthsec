@@ -5,7 +5,7 @@ description: ""
 ---
 #### Open Houses 2023
 
-Please click [here](/files/Open%20Houses%202023%20RI%20SJI%20and%20Eunoia.pdf) for information on Raffles Institution, SJI and Eunoia! JC Open Houses 2023 and [here](/files/2023%20Open%20House%20SchedulePolyJC.pdf) for other JC, Poly, LaSalle & NAFA and Other Institutions 2023 Open House Schedule. Click [here](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/information-and-links/for-students/open-house-2023) for more information.
+Please click [here](/files/Open%20Houses%202023%20RI%20SJI%20and%20Eunoia.pdf) for information on Raffles Institution, SJI and Eunoia! JC Open Houses 2023 and [here](/files/2023%20Open%20House%20SchedulePolyJC.pdf) for other JC, Poly, LaSalle & NAFA and Other Institutions 2023 Open House Schedule. Click [here](/information-and-links/For-Students/Open-House-2023/) for more information.
 
 
 

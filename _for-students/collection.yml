@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Student Learning Space (SLS)/Student Learning Space (SLS).md
       - Student Learning Space (SLS)/.keep
       - For Students.md
       - Rules and Regulations.md

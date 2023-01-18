@@ -31,7 +31,7 @@ Click [here](/information-for-sec-1-2023/Secondary-1-Appeal-for-Transfer-in-202
 
 #### Full Subject-Based Banding (FSBB) @ Bedok South Secondary School
 
-Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students. Click [here](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/curriculum/full-subject-based-banding-fsbb-at-bedok-south-secondary-school) to find out more.
+Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students. Click [here](/curriculum/Full-Subject-Based-Banding-FSBB/) to find out more.
 
 [**BDS Open House**](https://bedoksouthsec.moe.edu.sg/#)
 

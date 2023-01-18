@@ -3,9 +3,6 @@ title: Start of Term 3
 permalink: /for-students/Start-of-Term-3/
 description: ""
 ---
-
-
-
 Start of Term 3
 ===============
 

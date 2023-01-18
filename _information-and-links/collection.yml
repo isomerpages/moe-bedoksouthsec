@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Students/.keep
-      - For Students/For Students.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Enhanced school measures for novel coronavirus.md

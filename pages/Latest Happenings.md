@@ -3,6 +3,13 @@ title: Latest Happenings
 permalink: /latest-happenings/
 description: ""
 ---
+#### Parenting Webinar
+
+Dear parents/ guardians
+
+We would like to invite you to an upcoming webinar on Mindfulness by Morning Star Community Services. Please click [here](https://mailchi.mp/morningstar/webinar-mindfulness?e=f91eb6b78a) to find out more and register for the webinars. 
+
+
 #### Open Houses 2023
 
 Please click [here](/files/Open%20Houses%202023%20RI%20SJI%20and%20Eunoia.pdf) for information on Raffles Institution, SJI and Eunoia! JC Open Houses 2023 and [here](/files/2023%20Open%20House%20SchedulePolyJC.pdf) for other JC, Poly, LaSalle & NAFA and Other Institutions 2023 Open House Schedule. Click [here](/information-and-links/For-Students/Open-House-2023/) for more information.
@@ -13,21 +20,10 @@ Please click [here](/files/Open%20Houses%202023%20RI%20SJI%20and%20Eunoia.pdf)�
 The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 2023. For more information, click [here](/information-and-links/For-Students/2022-O-Level-Results-Release/).
 
 
-#### Parenting Webinar
-
-Dear parents/ guardians
-
-We would like to invite you to an upcoming webinar.
 
 
 
-[**Open Houses 2023**](https://bedoksouthsec.moe.edu.sg/#)
 
-Please click [here](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Latest%20Happenings/Open%20Houses%202023%20RI%20SJI%20and%20Eunoia.pdf) for information on Raffles Institution, SJI and Eunoia! JC Open Houses 2023 and [here](http://bedoksouthsec-moe-edu-sg-admin.cwp.sg/qql/slot/u755/Useful%20Links/2023%20Open%20House%20Schedule_PolyJC.pdf) for other JC, Poly, LaSalle & NAFA and Other Institutions 2023 Open House Schedule. Click [here](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/information-and-links/for-students/open-house-2023) for more information.
-
-[**Release of 2022 GCE O-Level Examination Results and 2023 Joint Admissions Exercise**](https://bedoksouthsec.moe.edu.sg/#)
-
-The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 2023. For more information, click [here](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/information-and-links/for-students/2022-o-level-results-release).
 
 [**2023 Sec 1 Webinar Briefing Notes**](https://bedoksouthsec.moe.edu.sg/#)
 

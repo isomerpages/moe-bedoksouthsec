@@ -65,10 +65,10 @@ links:
   - title: Our Contact
     collection: our-contact
   - title: Useful Links
-    url: /permalink
+    url: /for-students/for-students/
     sublinks:
       - title: For Students
-        url: /permalink
+        url: /for-students/for-students/
       - title: For Parents
         url: /permalink
       - title: For Teachers

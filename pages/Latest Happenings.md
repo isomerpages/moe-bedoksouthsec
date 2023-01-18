@@ -47,7 +47,7 @@ Bedok South Secondary School is hosting an Open House to welcome prospective par
 
 Please click [here](/open-house/Open-House/) for more information.
 
-[**Online Parenting Webinars**](https://bedoksouthsec.moe.edu.sg/#)
+#### Online Parenting Webinars
 
 We would like to invite the parents and guardians to sign up for a series of online parenting webinars organised by Morning Star Community Services, to help you learn strategies to help your teens maintain both online and offline connections to meet all their psycho-social needs. Please click [here](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/information-and-links/for-parents/parents-in-education) to find out more. 
 

@@ -22,6 +22,9 @@ To actively engage and challenge every member with the opportunity to develop in
 
 ### Achievements
 
+![](/images/infocomm1.jpg)
+
+![](/images/infocomm2.jpg)
 
 *   Amazing Race Parallel Universe 2021 using SPARK AR and Python organized by Ngee Ann Polytechnic
     

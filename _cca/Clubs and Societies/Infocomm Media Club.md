@@ -4,7 +4,7 @@ permalink: /cca/clubs-and-societies/infocomm-media-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-Infocomm Media Club
+Infocomm Club
 ===================
 
 ![Infocomm Media Club](/images/Infocomm.jpg)

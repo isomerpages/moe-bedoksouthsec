@@ -570,14 +570,14 @@ Form Teachers
   <tr>
     <td class="tg-kveo">FAJT (English)</td>
     <td class="tg-kveo">Ms Amy Syed</td>
-    <td class="tg-kveo"> </td>
-    <td class="tg-kveo">TBC</td>
+    <td class="tg-kveo">102</td>
+    <td class="tg-kveo">amy_syed@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">FAJT (Chinese Language)</td>
-    <td class="tg-kveo">Mdm Chng Mei Ling</td>
-    <td class="tg-kveo"> </td>
-    <td class="tg-kveo">TBC</td>
+    <td class="tg-kveo">Mdm Chng Mei Li</td>
+    <td class="tg-kveo">102 </td>
+    <td class="tg-kveo">chng_mei_li@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">FAJT (Chinese Language)</td>
@@ -588,8 +588,14 @@ Form Teachers
   <tr>
     <td class="tg-kveo">FAJT (Malay Language)</td>
     <td class="tg-kveo">Ms Norjanah Bte Mohamed Yusope</td>
-    <td class="tg-kveo"> </td>
-    <td class="tg-kveo">TBC</td>
+    <td class="tg-kveo">101</td>
+    <td class="tg-kveo">norjanah_m_yusope@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-kveo">FAJT (Malay Language)</td>
+    <td class="tg-kveo">Ms Marinah Bte Mydin</td>
+    <td class="tg-kveo">115</td>
+    <td class="tg-kveo">marina_mydin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">FAJT (Science)</td>
@@ -606,20 +612,20 @@ Form Teachers
   <tr>
     <td class="tg-y7qa"><span style="color:#222">FAJT (Gear-up)</span></td>
     <td class="tg-kveo">Mr Ng Wee Loon</td>
-    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">163</td>
     <td class="tg-kveo">ng_wee_loon@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">FAJT (Mathematics)</td>
     <td class="tg-kveo">Mr Ow Tai Pang Jeremy</td>
-    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">157</td>
     <td class="tg-kveo">ow_tai_pang@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">FAJT (Music)</td>
     <td class="tg-kveo">Mr Pradeep Radhakrishnan</td>
-    <td class="tg-kveo"> </td>
-    <td class="tg-kveo">TBC</td>
+    <td class="tg-kveo">103</td>
+    <td class="tg-kveo"><br>pradeep_radhakrishnan@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

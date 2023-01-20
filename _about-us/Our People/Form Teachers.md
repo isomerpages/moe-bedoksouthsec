@@ -625,7 +625,7 @@ Form Teachers
     <td class="tg-kveo">FAJT (Music)</td>
     <td class="tg-kveo">Mr Pradeep Radhakrishnan</td>
     <td class="tg-kveo">103</td>
-    <td class="tg-kveo"><br>pradeep_radhakrishnan@moe.edu.sg</td>
+    <td class="tg-kveo">pradeep_radhakrishnan@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

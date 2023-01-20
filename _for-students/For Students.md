@@ -3,8 +3,6 @@ title: For Students
 permalink: /for-students/for-students/
 description: ""
 ---
-
-
 For Students
 ============
 

@@ -17,7 +17,7 @@ Please click [here](/files/Open%20Houses%202023%20RI%20SJI%20and%20Eunoia.pdf)�
 
 #### Release of 2022 GCE O-Level Examination Results and 2023 Joint Admissions Exercise
 
-The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 2023. For more information, click [here](/For-Students/2022-O-Level-Results-Release/).
+The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 2023. For more information, click [here](/information-and-links/For-Students/2022-O-Level-Results-Release/).
 
 #### 2023 Sec 1 Webinar Briefing Notes
 

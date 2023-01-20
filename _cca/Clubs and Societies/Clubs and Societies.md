@@ -7,7 +7,8 @@ third_nav_title: Clubs and Societies
 Clubs and Societies
 ===================
 
-![Clubs and Societies](/images/Clubs%20and%20Societies.jpg)
+<img src="/images/infocomm.jpg" style="width:65%;float:left">
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

@@ -64,12 +64,3 @@ links:
     collection: open-house
   - title: Our Contact
     collection: our-contact
-  - title: Useful Links
-    url: /for-students/for-students/
-    sublinks:
-      - title: For Students
-        url: /for-students/for-students/
-      - title: For Parents
-        url: /information-and-links/for-parents/
-      - title: For Teachers
-        url: /information-and-links/for-teachers/

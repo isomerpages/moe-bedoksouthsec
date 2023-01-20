@@ -2,9 +2,9 @@ collections:
   cce:
     output: true
     order:
-      - National Education.md
       - Character and Citizenship Education.md
       - Education and Career Guidance.md
+      - National Education.md
       - National Education/.keep
       - National Education/National Education.md
       - Sexuality Education.md

@@ -4,7 +4,6 @@ permalink: /cca/clubs-and-societies/Media-Production-Club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
 Media Production Club
 =====================
 
@@ -56,6 +55,7 @@ Media Production Club
 
 Mdm Suhaila (OIC)   
 Ms Irene Kwek   
+Mdm Faruzah (Advisor) 
 
 ### Leadership Positions
 

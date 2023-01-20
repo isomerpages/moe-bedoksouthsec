@@ -95,3 +95,10 @@ Saturdays: 9:00 am - 3:00 pm <br>
   
 
 When emailing the SLS Helpdesk, students should include their full name, name of school and form class.
+
+
+Some Useful Tips
+====================
+
+Not sure if your audio/video files have been uploaded? Click [here](/files/FHBLResource%201%20-%20Uploading%20of%20Audio%20and%20Video%20Files.pdf).  
+Don't know how to clear browsing history, cache and cookies? Click [here](/files/FHBLResource%202_Clear%20browsing%20history%20and%20Cache%20for%20students.pdf).

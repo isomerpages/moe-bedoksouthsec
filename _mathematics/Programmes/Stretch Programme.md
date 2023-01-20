@@ -19,6 +19,8 @@ These students are then invited to participate in a 10 session training programm
 
 #### Learning Journey to Changi Airport
 
+![](/images/01.jpg)
+
 
 #### Learning Journey to Universal Studio Singapore
 

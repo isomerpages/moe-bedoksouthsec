@@ -24,6 +24,8 @@ These students are then invited to participate in a 10 session training programm
 
 #### Learning Journey to Universal Studio Singapore
 
+![](/images/02.jpg)
+
 
 
 #### Learning Journey to Giant Hypermart

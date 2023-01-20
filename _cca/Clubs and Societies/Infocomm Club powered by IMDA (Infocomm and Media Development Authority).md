@@ -4,7 +4,6 @@ permalink: /cca/clubs-and-societies/Infocomm-Club-powered-by-IMDA-Infocomm-and-M
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
 Infocomm Club powered by IMDA (Infocomm and Media Development Authority) 
 =========================================================================
 
@@ -23,9 +22,7 @@ To actively engage and challenge every member with the opportunity to develop in
 
 ### Achievements
 
-![](/images/infocomm1.jpg)
 
-![](/images/infocomm2.jpg)
 
 *   Amazing Race Parallel Universe 2021 using SPARK AR and Python organized by Ngee Ann Polytechnic
     
@@ -36,6 +33,8 @@ To actively engage and challenge every member with the opportunity to develop in
 *   Infocomm Media Club Youth Awards 2022 organized by IMDA: Commendation for Silver Ribbon project
     
 *   strITwise Mythic Trials 2022, organized by Ngee Ann Polytechnic: Trailer Head Module Award and Social Media Challenge Award
+
+![](/images/infoclub.png)
    
 
 ### Teachers-in-Charge

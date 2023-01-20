@@ -22,7 +22,7 @@ The Device Management Application (DMA), Mobile Guardian, will be uninstalled fr
 
 After the DMA uninstallation, you will be able to use the PLD without the DMA. The browsing activity and browsing history will no longer be monitored and will be deleted from the DMA server.
 
-<u><b>2\. Actions required by Graduating Students</b></u>
+<u><b>2. Actions required by Graduating Students</b></u>
 
 *   <b>Before the uninstallation:</b> Ensure that all data on your PLD have been backed-up (e.g. saved on an <i><b>external storage device</b></i> or to a <i><b>personal cloud storage</b></i>). This will prevent any loss of important data when the factory reset is performed.
 
@@ -35,7 +35,7 @@ After the DMA uninstallation, you will be able to use the PLD without the DMA. T
 *   <b>After the uninstallation</b>: Click [here](/files/Instructions%20for%20DMA%20Uninstallation.pdf) for the guide to check if the DMA has been successfully uninstalled.
 
 
-<u><b>3\. Guides on Backing up iCloud Files (School Managed Apple ID), Student iCON Email & Google Drive</b></u>
+<u><b>3. Guides on Backing up iCloud Files (School Managed Apple ID), Student iCON Email & Google Drive</b></u>
 
   
 
@@ -53,7 +53,7 @@ After the DMA uninstallation, you will be able to use the PLD without the DMA. T
 
 
 
-<u><b>4\. Technical Support</b></u>
+<u><b>4. Technical Support</b></u>
 
 Should you require technical assistance, proceed to the General Office between 20-28 December 2022 (office hours only), to acquire assistance from our ICT Associate Manager, Mr Choo Meng Kwang.
 

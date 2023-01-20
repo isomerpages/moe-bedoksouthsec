@@ -43,8 +43,8 @@ Mrs Kow Yoke Ling (Advisor)
 
 <center> Pictures of our Malay Dancers in their beautiful costumes </center>
 
+![](/images/malaydance.jpg)
 
-![](/images/malaydance2.jpg)
 
 
 

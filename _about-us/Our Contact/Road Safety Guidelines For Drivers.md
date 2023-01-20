@@ -25,11 +25,11 @@ We thank all parents/guardians who have been understanding and we continue to se
 
 
 
-<b>To Bedok Road</b>
+<center> <b>To Bedok Road</b> </center>
 
 ![](/images/ToBedok%20Road.jpg)
 	
 	
-<b>To Upper East Coast Road</b>
+<center> <b>To Upper East Coast Road</b> </center>
 
 ![](/images/ToUpper%20East%20Coast%20Road.jpg)

@@ -4,8 +4,8 @@ permalink: /cca/clubs-and-societies/infocomm-media-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-Infocomm Club
-===================
+Infocomm Club powered by IMDA (Infocomm and Media Development Authority) 
+=========================================================================
 
 ![Infocomm Media Club](/images/Infocomm.jpg)
 

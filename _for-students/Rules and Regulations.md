@@ -3,8 +3,6 @@ title: Rules and Regulations
 permalink: /for-students/rules-and-regulations/
 description: ""
 ---
-
-
 Rules and Regulations
 =====================
 

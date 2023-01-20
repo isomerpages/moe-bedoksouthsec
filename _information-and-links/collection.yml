@@ -2,6 +2,7 @@ collections:
   information-and-links:
     output: true
     order:
+      - For Students/Start of Term 3.md
       - For Students/.keep
       - For Parents/.keep
       - For Parents/For Parents.md

@@ -62,9 +62,7 @@ links:
       - title: Student Management
         url: /student-development/student-management/
       - title: Student Welfare
-        url: /permalink
-  - title: Student Development
-    collection: student-development
+        url: /student-development/student-welfare/
   - title: NDLP
     collection: ndlp
   - title: CCA

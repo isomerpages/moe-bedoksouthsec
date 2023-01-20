@@ -3,8 +3,6 @@ title: School Uniform and Tie
 permalink: /for-students/school-uniform-and-tie/
 description: ""
 ---
-
-
 School Uniform and Tie
 ======================
 

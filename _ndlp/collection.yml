@@ -1,6 +1,4 @@
 collections:
   ndlp:
     output: true
-    order:
-      - Uninstallation of Device Management Application (DMA) (For 2022
-        Graduating Students Only).md
+    order: []

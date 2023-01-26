@@ -2,7 +2,6 @@ collections:
   ndlp:
     output: true
     order:
-      - Frequently Asked Questions.md
       - Use of PLD In School.md
       - NDLP Info Site for Staff and Students.md
       - Uninstallation of Device Management Application (DMA) (For 2022

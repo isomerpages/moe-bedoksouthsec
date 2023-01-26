@@ -4,13 +4,13 @@ permalink: /cca/Sports/permalink/
 description: ""
 third_nav_title: Sports
 ---
-**OVERVIEW**
+### OVERVIEW
 
 “Success is the sum of small efforts, repeated day in and day out.”
 
 Driven by a common passion and dedication for the sport, members of the Bedok South Basketball Team work hard to hone their skills. They strive for excellence both on and off the court and are determined to attain what they have set out to achieve.
 
-**OBJECTIVES**
+### OBJECTIVES
 
 1.      Develop holistic student-athletes: The basketball CCA aims to help its members reach their full potential both on and off the court. They not only improve as players but are also prepared for life after school through academic and character development.
 
@@ -18,7 +18,7 @@ Driven by a common passion and dedication for the sport, members of the Bedok So
 
 3.      Develop strong community connections: This involves engaging with alumni members as well as working with local organizations to make a positive impact in the community.
 
-**ACHEIVEMENTS**
+### ACHEIVEMENTS
 
 
 | YEAR | ACTIVITY | ACHIEVEMENTS |
@@ -29,10 +29,10 @@ Driven by a common passion and dedication for the sport, members of the Bedok So
 
 
 
-**Teacher-In-Charge**
+### Teacher-In-Charge
 Mr Tan Rong 'en Joshua
 
 
-**Leadership Positions**
+### Leadership Positions
 * Team Captain
 * Team Vice-Captain

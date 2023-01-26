@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Facilities.md
       - Principal's Message.md
       - Our History.md
       - Our Mission, Vision, Values and Motto.md
@@ -14,6 +13,7 @@ collections:
       - Our People/School Advisory Committee (SAC).md
       - Our People/Parent Support Group (PSG).md
       - Our People/BDS Alumni.md
+      - School Facilities.md
       - Our School Facilities/.keep
       - Our School Facilities/Oasis@BDS.md
       - Our Contact/.keep

@@ -2,6 +2,7 @@ collections:
   prospectors:
     output: true
     order:
+      - Open House.md
       - Information for Sec 1 (2023).md
       - Reporting Time on First Day of School.md
       - Purchase of Books, Stationeries, Socks, PE Attire and Booklist for

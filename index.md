@@ -15,7 +15,4 @@ sections:
         - title: Upcoming Events
           description: Check out the upcoming events!
           url: /upcoming-events
-        - title: Useful Links
-          description: Click here for more!
-          url: /information-and-links/For-Students/for-students/
 ---

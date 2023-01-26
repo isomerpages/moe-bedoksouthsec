@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Learning for Life Programme (LLP) SHAPE @BDS.md
+      - NDLP/Resources for Parents.md
       - NDLP/Cyber Security and Cyber Wellness.md
       - NDLP/Device Support.md
       - NDLP/On Boarding Process.md

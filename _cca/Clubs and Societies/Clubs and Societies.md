@@ -7,7 +7,11 @@ third_nav_title: Clubs and Societies
 Clubs and Societies
 ===================
 
-<img src="/images/infocomm1.jpg" style="width:65%;float:left">
+<img src="/images/infocomm1.jpg" style="width:65%" align = left>
+
+<br clear = left>
+
+<br>
 
 
 <style type="text/css">

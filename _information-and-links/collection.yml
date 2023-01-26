@@ -2,6 +2,10 @@ collections:
   information-and-links:
     output: true
     order:
+      - For Parents/.keep
+      - For Parents/For Parents.md
+      - For Parents/Enhanced school measures for novel coronavirus.md
+      - For Parents/Financial Assistance Scheme (FAS).md
       - For Students/.keep
       - For Students/For Students.md
       - For Students/Student Learning Space (SLS).md
@@ -13,8 +17,4 @@ collections:
       - For Students/Open House 2023.md
       - For Students/Start of Term 3.md
       - For Students/Oasis@BDS.md
-      - For Parents/.keep
-      - For Parents/For Parents.md
-      - For Parents/Enhanced school measures for novel coronavirus.md
-      - For Parents/Financial Assistance Scheme (FAS).md
       - For Teachers.md

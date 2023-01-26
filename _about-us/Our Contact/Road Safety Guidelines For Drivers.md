@@ -19,17 +19,3 @@ Road Safety Guidelines For Drivers
 
 ·   When driving out of the school gate, please turn left as it will help ease the congestion                    and ensure a smooth traffic flow.
 
-Please refer to the attached maps on how to get to Bedok Road and Upper East Coast Road after turning left at the school gate.
-
-We thank all parents/guardians who have been understanding and we continue to seek everyone’s co-operation when driving into the school during the peak hours.
-
-
-
-<center> <b>To Bedok Road</b> </center>
-
-![](/images/ToBedok%20Road.jpg)
-	
-	
-<center> <b>To Upper East Coast Road</b> </center>
-
-![](/images/ToUpper%20East%20Coast%20Road.jpg)

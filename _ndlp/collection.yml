@@ -2,6 +2,5 @@ collections:
   ndlp:
     output: true
     order:
-      - NDLP Info Site for Staff and Students.md
       - Uninstallation of Device Management Application (DMA) (For 2022
         Graduating Students Only).md

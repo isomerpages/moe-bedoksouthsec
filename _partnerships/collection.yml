@@ -2,5 +2,4 @@ collections:
   partnerships:
     output: true
     order:
-      - Parent Support Group (PSG).md
       - BDS Alumni.md

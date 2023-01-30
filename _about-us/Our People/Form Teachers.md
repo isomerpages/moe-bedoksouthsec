@@ -366,7 +366,7 @@ Form Teachers
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Ms Tan Xinyi Cherlyn</td>
     <td class="tg-kveo">109</td>
-    <td class="tg-kveo">tan_xin_yi_cherlyn@moe.edu.sg</td>
+    <td class="tg-kveo">xinyi_cherlyn_tan@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">3F</span></td>

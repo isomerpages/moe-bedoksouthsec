@@ -13,7 +13,7 @@ Please click  the respective links below to find out more and register for the w
 
 
 
-| Webinar | Column 2 |
+| Webinar | Link |
 | -------- | -------- | 
 | How to Calm Down Using Mindfulness of Breath and Body    | Click [here](https://mailchi.mp/morningstar/webinar-mindfulness?e=f91eb6b78a)    |
 | The Art of Managing Stress | Click [here](https://www.morningstar.org.sg/triple-p/l2-sec-run-2/) |

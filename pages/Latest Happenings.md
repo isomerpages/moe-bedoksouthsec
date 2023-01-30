@@ -7,7 +7,7 @@ description: ""
 
 Dear parents/ guardians
 
-We would like to invite you to sign up for a series of online parenting webinars organised by the Parent Support Group and Morning Star Community Services
+We would like to invite you to sign up for a series of online parenting webinars organised by the Parent Support Group and Morning Star Community Services.
 
 Please click  the respective links below to find out more and register for the webinars. 
 

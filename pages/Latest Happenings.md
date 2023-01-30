@@ -7,7 +7,17 @@ description: ""
 
 Dear parents/ guardians
 
-We would like to invite you to an upcoming webinar on Mindfulness by Morning Star Community Services. Please click [here](https://mailchi.mp/morningstar/webinar-mindfulness?e=f91eb6b78a) to find out more and register for the webinars. 
+We would like to invite you to sign up for a series of online parenting webinars organised by the Parent Support Group and Morning Star Community Services
+
+Please click  the respective links below to find out more and register for the webinars. 
+
+
+
+| Webinar | Column 2 |
+| -------- | -------- | 
+| How to Calm Down Using Mindfulness of Breath and Body    | Click [here](https://mailchi.mp/morningstar/webinar-mindfulness?e=f91eb6b78a)    |
+| The Art of Managing Stress | Click [here](https://www.morningstar.org.sg/triple-p/l2-sec-run-2/) |
+
 
 
 #### Open Houses 2023

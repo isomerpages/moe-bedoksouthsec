@@ -311,7 +311,7 @@ Form Teachers
   <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Ms Soh Geok Lan</td>
-    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">120 </td>
     <td class="tg-kveo">soh_geok_lan@moe.edu.sg</td>
   </tr>
   <tr>
@@ -341,7 +341,7 @@ Form Teachers
   <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Mr Sng Kuo Wai Simon</td>
-    <td class="tg-kveo"> </td>
+    <td class="tg-kveo"> 162</td>
     <td class="tg-kveo">sng_kuo_wai_simon@moe.edu.sg</td>
   </tr>
   <tr>

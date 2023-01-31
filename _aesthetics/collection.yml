@@ -1,0 +1,15 @@
+collections:
+  aesthetics:
+    output: true
+    order:
+      - Aesthetics.md
+      - Design & Technology.md
+      - Music/.keep
+      - Music/Music.md
+      - Music/Programmes.md
+      - Art/.keep
+      - Art/Arts.md
+      - Art/Programmes.md
+      - F&N/.keep
+      - F&N/F & N.md
+      - F&N/Programmes.md

@@ -1,0 +1,16 @@
+collections:
+  information-and-links:
+    output: true
+    order:
+      - For Parents/.keep
+      - For Parents/For Parents.md
+      - For Parents/Financial Assistance Scheme (FAS).md
+      - For Students/.keep
+      - For Students/For Students.md
+      - For Students/Student Learning Space (SLS).md
+      - For Students/Rules and Regulations.md
+      - For Students/School Uniform and Tie.md
+      - For Students/2022 O Level Results Release.md
+      - For Students/Open House 2023.md
+      - For Students/Oasis@BDS.md
+      - For Teachers.md

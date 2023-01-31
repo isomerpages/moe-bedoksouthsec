@@ -1,0 +1,6 @@
+collections:
+  our-contact:
+    output: true
+    order:
+      - Contact Us.md
+      - Road Safety Guidelines For Drivers.md

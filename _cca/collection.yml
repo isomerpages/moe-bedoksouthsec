@@ -1,0 +1,36 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA.md
+      - CCA LEAPS and grading system.md
+      - CCA Recognition and Awards.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Clubs and Societies.md
+      - Clubs and Societies/Infocomm Club powered by IMDA (Infocomm and Media
+        Development Authority).md
+      - Clubs and Societies/Media Production Club.md
+      - Clubs and Societies/Science & Environment Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Symphonic Band.md
+      - Performing Arts/Dance Society.md
+      - Sports/.keep
+      - Sports/Sports.md
+      - Sports/Badminton.md
+      - Sports/Basketball.md
+      - Sports/Floorball.md
+      - Sports/Football.md
+      - Sports/Netball.md
+      - Sports/Swimming.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Cadet Corps.md
+      - Uniformed Groups/National Civil Defence Cadet Corps.md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/Scouts.md
+      - Student Initiated Activities.md

@@ -1,13 +1,75 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/bedok south logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: About Us
+    url: /about-us/Principals-Message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/Principals-Message/
+      - title: Our History
+        url: /about-us/our-history/
+      - title: Mission Vision Values & Motto
+        url: /about-us/our-mission-vision-values-and-motto/
+      - title: Our School Crest & School Song
+        url: /about-us/our-school-crest-and-school-song/
+      - title: Our People
+        url: /about-us/our-people/school-management-committee/
+      - title: Our School Facilities
+        url: /about-us/our-school-facilities/
+      - title: Our Contact
+        url: /about-us/Our-Contact/Our-Contact/
+      - title: Our Calendar of Events
+        url: /about-us/our-calendar-of-events/
+      - title: Admissions
+        url: /about-us/admissions
+  - title: Curriculum
+    url: /curriculum
+    sublinks:
+      - title: Applied Learning Programme
+        url: /curriculum/applied-learning-programme-alp-project-s-h-i-n-e
+      - title: Aesthetics
+        url: /curriculum/aesthetics
+      - title: Computer Applications
+        url: /curriculum/computer-applications
+      - title: English and English Literature
+        url: /curriculum/english-and-english-literature
+      - title: Elements of Business Skills
+        url: /curriculum/elements-of-business-skills
+      - title: Humanities
+        url: /curriculum/humanities
+      - title: Mathematics
+        url: /curriculum/mathematics
+      - title: Mother Tongue
+        url: /curriculum/mother-tongue
+      - title: Physical Education
+        url: /curriculum/physical-education
+      - title: Principles of Accounts
+        url: /curriculum/principles-of-accounts
+      - title: Science
+        url: /curriculum/science
+      - title: Full Subject-Based Banding
+        url: /curriculum/Full-Subject-Based-Banding-FSBB/
+  - title: Student Development
+    url: /student-development/learning-for-life-programme-llp-shape-at-bds/
+    sublinks:
+      - title: CCE
+        url: /student-development/character-and-citizenship-education/
+      - title: "Learning for Life Programme "
+        url: /student-development/learning-for-life-programme-llp-shape-at-bds/
+      - title: NDLP
+        url: /student-development/NDLP/
+      - title: Student Leadership
+        url: /student-development/student-leadership/
+      - title: Social, Emotional & Moral
+        url: /student-development/social-emotional-n-moral/
+      - title: Student Management
+        url: /student-development/student-management/
+      - title: Student Welfare
+        url: /student-development/student-welfare/
+      - title: Home Based Learning
+        url: /student-development/home-based-learning-hbl/
+  - title: CCA
+    collection: cca
+  - title: Prospectors
+    collection: prospectors
+  - title: Important Information
+    collection: information-and-links

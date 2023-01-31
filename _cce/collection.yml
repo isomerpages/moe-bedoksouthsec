@@ -1,0 +1,18 @@
+collections:
+  cce:
+    output: true
+    order:
+      - Character and Citizenship Education.md
+      - Education and Career Guidance.md
+      - National Education.md
+      - Sexuality Education.md
+      - Values in Action/.keep
+      - Values in Action/Values in Action.md
+      - Values in Action/BIND.md
+      - Values in Action/Coastal Clean Up by peer leaders.md
+      - Physical & Health/.keep
+      - Physical & Health/Physical & Health.md
+      - Physical & Health/Level Camps for Grow Week.md
+      - Physical & Health/CCA Fair and Aesthetics Showcase.md
+      - Physical & Health/Sports Fridays.md
+      - Contact Information.md

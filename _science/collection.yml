@@ -1,0 +1,7 @@
+collections:
+  science:
+    output: true
+    order:
+      - Science.md
+      - Programmes/.keep
+      - Programmes/Programmes.md

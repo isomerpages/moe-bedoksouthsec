@@ -568,11 +568,18 @@ Form Teachers
 </thead>
 <tbody>
   <tr>
+    <td class="tg-kveo">CAJT (Georgaphy)</td>
+    <td class="tg-kveo">Ms Koh Cin Dee, Sylvelin</td>
+    <td class="tg-kveo">160</td>
+    <td class="tg-kveo">koh_cin_dee_sylvelin@moe.edu.sg</td>
+  </tr>
+	<tr>
     <td class="tg-kveo">FAJT (English)</td>
     <td class="tg-kveo">Ms Amy Syed</td>
     <td class="tg-kveo">102</td>
     <td class="tg-kveo">amy_syed@moe.edu.sg</td>
   </tr>
+	
   <tr>
     <td class="tg-kveo">FAJT (Chinese Language)</td>
     <td class="tg-kveo">Mdm Chng Mei Li</td>

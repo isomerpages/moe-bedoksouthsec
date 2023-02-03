@@ -44,7 +44,8 @@ Hand</b>
 
 <b>Heart</b> 
 
-* It encompasses the ICARE values Integrity in carrying out our mission to serve 
+* It encompasses the ICARE values 
+* Integrity in carrying out our mission to serve 
 * Courage to serve with humility 
 * Accountable to ensure that the environment we live in continues to be taken care of for the future generations 
 * Respect the needs of others 

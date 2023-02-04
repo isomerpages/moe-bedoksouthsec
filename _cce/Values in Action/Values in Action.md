@@ -27,9 +27,9 @@ Our BDS VIA aims to:</b>
 * As part of VIA, students reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully. 
 * We adopt the BDS approach where we focus on three levels of students involvement: Baseline, Development and Stretch.
 
-<b>Representations:
+<b>Representations: </b>
 
-Hand</b>
+<b>Hand</b>
 
 * Our commitment to serve 
 * An imprint of our intend to leave a mark to serve the community and the environment 
@@ -44,7 +44,8 @@ Hand</b>
 
 <b>Heart</b> 
 
-* It encompasses the ICARE values Integrity in carrying out our mission to serve 
+* It encompasses the ICARE values 
+* Integrity in carrying out our mission to serve 
 * Courage to serve with humility 
 * Accountable to ensure that the environment we live in continues to be taken care of for the future generations 
 * Respect the needs of others 

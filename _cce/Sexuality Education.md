@@ -304,6 +304,4 @@ b. Character and Citizenship Education (CCE)
 
 12. Parents who wish to opt their children out of the <i><b>eTeens</i></b> <b>programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63dbdb04b9029d00116a649a).  The completed form is to be submitted by 13/02/2023.
 
-13. Parents can contact the school at <a href="mailto:bsss.moe.edu.sg _target=\_blank”_">bsss.moe.edu.sg</a> or 64414479 for discussion or to seek clarification about the school’s sexuality education programme.
-
-14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+13. Parents can contact the school at 6441 4479 for discussion with your child's Form Teachers or Mrs Elizabeth Ng, Subject Head Character Development to seek clarification about the school's Sexuality Education Programme.

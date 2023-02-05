@@ -35,7 +35,7 @@ Sexuality Education
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education. 
 
-### OVERVIEW OF BEDOK SOUTH SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022
+### OVERVIEW OF BEDOK SOUTH SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023
 
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -50,7 +50,7 @@ b. Character and Citizenship Education (CCE)
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
-#### At Bedok South Secondary School, the following lessons from Sexuality Education will be taught in 2022:
+#### At Bedok South Secondary School, the following lessons from Sexuality Education will be taught in 2023:
 
 [](/files/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021.pdf)
 <b>Secondary 1</b>

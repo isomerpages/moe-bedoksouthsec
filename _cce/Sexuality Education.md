@@ -248,7 +248,7 @@ b. Character and Citizenship Education (CCE)
     <td class="tg-y7qa">Respectful Relationships &amp; Safety</td>
     <td class="tg-y7qa">1<br>(60 mins)</td>
     <td class="tg-y7qa"><br>- Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>- Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>- Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
-    <td class="tg-y7qa">Term 3 Week 2</td>
+    <td class="tg-y7qa">Term 2 Week 1</td>
   </tr>
 </tbody>
 </table>

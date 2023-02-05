@@ -261,7 +261,7 @@ b. Character and Citizenship Education (CCE)
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.
 
-#### At Bedok South Secondary School, the <i>eTeens</i> programme will be implemented as follows in 2022:
+#### At Bedok South Secondary School, the <i>eTeens</i> programme will be implemented as follows in 2023:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -284,8 +284,9 @@ b. Character and Citizenship Education (CCE)
 <tbody>
   <tr>
     <td class="tg-ktyi">Mass Talk by HPB appointed vendor</td>
-    <td class="tg-ktyi">·  Awareness of the different STIs and HIV/AIDS<br><br>Modes of transmission<br>Modes of protection, specifically on how the condom is used <br>Consequences and impact of STIs/HIV<br></td>
-    <td class="tg-7yig">Term 3<br>Week: To Be Confirmed (TBC)</td>
+<td class="tg-ktyi">Awareness of the different STIs and HIV/AIDS<br><br>* Modes of transmission<br>
+		* Modes of protection, specifically on how the condom is used <br>Consequences and impact of STIs/HIV<br></td>
+    <td class="tg-7yig">Term 3<br>Week: 9</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Classroom-based Lesson</td>
@@ -297,12 +298,12 @@ b. Character and Citizenship Education (CCE)
 
 ### INFORMATION FOR PARENTS
 
-10. Parents may opt their children out of the <b>Sexuality Education lessons</b>, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+10. Parents may opt their children out of the <b>Sexuality Education lessons</b>, *eTeens* and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Signature%202022_Sexuality%20Education_Annex%20A_Parent%20Opt-out%20Form.pdf). The completed form is to be submitted by 28/02/2022.
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63dbc795dd5157001187c19f). The completed form is to be submitted by 13/02/2023.
 
-12. Parents who wish to opt their children out of the <i><b>eTeens</i></b> <b>programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2022_Sexuality%20Education_Annex%20B_eTeens%20Opt-out%20Form.pdf).  The completed form is to be submitted by 28/02/2022.
+12. Parents who wish to opt their children out of the <i><b>eTeens</i></b> <b>programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63dbdb04b9029d00116a649a).  The completed form is to be submitted by 13/02/2023.
 
-13. Parents can contact the school at <a href="mailto:bsss.moe.edu.sg">bsss.moe.edu.sg</a> or 64414479 for discussion or to seek clarification about the school’s sexuality education programme.
+13. Parents can contact the school at <a href="mailto:bsss.moe.edu.sg _target=\_blank”_">bsss.moe.edu.sg</a> or 64414479 for discussion or to seek clarification about the school’s sexuality education programme.
 
 14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.

@@ -284,14 +284,14 @@ b. Character and Citizenship Education (CCE)
 <tbody>
   <tr>
     <td class="tg-ktyi">Mass Talk by HPB appointed vendor</td>
-<td class="tg-ktyi">Awareness of the different STIs and HIV/AIDS<br><br>* Modes of transmission<br>
-		* Modes of protection, specifically on how the condom is used <br>Consequences and impact of STIs/HIV<br></td>
-    <td class="tg-7yig">Term 3<br>Week: 9</td>
+<td class="tg-ktyi">- Awareness of the different STIs and HIV/AIDS<br><br>- Modes of transmission<br>
+		- Modes of protection, specifically on how the condom is used <br>- Consequences and impact of STIs/HIV<br></td>
+    <td class="tg-7yig">Term 1<br>Week: 9</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Classroom-based Lesson</td>
-    <td class="tg-ktyi">·    Learn to negotiate their way out of a risky<br><span style="background-color:initial">   </span> <span style="background-color:initial">situation by applying skills of assertiveness and </span><br><span style="background-color:initial">    responsible decision-making</span></td>
-    <td class="tg-7yig"><br>Term 4 Week 1</td>
+    <td class="tg-ktyi">- Learn to negotiate their way out of a risky situation by applying skills of assertiveness and   responsible decision-making</span></td>
+    <td class="tg-7yig"><br>Term 2 Week 1</td>
   </tr>
 </tbody>
 </table>
@@ -300,7 +300,7 @@ b. Character and Citizenship Education (CCE)
 
 10. Parents may opt their children out of the <b>Sexuality Education lessons</b>, *eTeens* and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63dbc795dd5157001187c19f). The completed form is to be submitted by 13/02/2023.
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63dbc795dd5157001187c19f ). The completed form is to be submitted by 13/02/2023.
 
 12. Parents who wish to opt their children out of the <i><b>eTeens</i></b> <b>programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63dbdb04b9029d00116a649a).  The completed form is to be submitted by 13/02/2023.
 

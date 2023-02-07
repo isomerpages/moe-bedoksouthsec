@@ -39,17 +39,16 @@ Uniformed Groups
     <td class="tg-ktyi">2.30 pm – 5.30 pm</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mr Asraf</td>
+    <td class="tg-ktyi">Mr Asraf<br>Mr Hubert Song <br>Ms Mary Pai <br><br></td>
     <td class="tg-1547">(Area in front of General Office)</td>
     <td class="tg-1547">(Area in front of General Office)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mr Hubert Song</td>
+    
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Ms Mary Pai</td>
+  </tr
+  </td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi"> </td>
   </tr>
@@ -72,12 +71,6 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Sheena Seng</td>
-    <td class="tg-1547"> </td>
-    <td class="tg-1547"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mr John Chua</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi"> </td>
@@ -90,12 +83,12 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="3">Scouts (B)</td>
-    <td class="tg-ktyi">Mr Webster Lim (OIC)</td>
+    <td class="tg-ktyi">Mr Eric Lim(OIC)</td>
     <td class="tg-ktyi">3.30 pm  – 5.30 pm</td>
     <td class="tg-ktyi">2.30 pm – 5.30 pm</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mr Eric Choo<br>Mr Ng Tze Yang<br></td>
+    <td class="tg-ktyi">Mr Webster Lim</td>
     <td class="tg-1547">(Level 4 Lift Lobby)</td>
     <td class="tg-1547">(Level 1 Grass Patch Area beside Spiral Staircase)</td>
   </tr>
@@ -106,22 +99,19 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ktyi">NCDCC </td>
-    <td class="tg-ktyi">Miss Goh Jing Teng (OIC)</td>
+    <td class="tg-ktyi">Miss Corrinat Teo (OIC)</td>
     <td class="tg-ktyi">3.30 pm – 5.30 pm </td>
     <td class="tg-ktyi">2.30 pm – 5.30 pm</td>
   </tr>
   <tr>
     <td class="tg-ktyi">(B &amp; G)</td>
-    <td class="tg-ktyi">Miss Corrina Teo</td>
+    <td class="tg-ktyi">Miss Syafiqah Begum</td>
+		  <td class="tg-1547">(Level 4 outside NCDCC room)</td>
+    <td class="tg-1547">(Level 4 outside NCDCC room)</td>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi"> </td>
   </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Miss Jeanette Sim</td>
-    <td class="tg-1547">(Level 4 outside NCDCC room)</td>
-    <td class="tg-1547">(Level 4 outside NCDCC room)</td>
-  </tr>
+
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi"></td>
@@ -130,19 +120,18 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ktyi">Girl Guides (G)</td>
-    <td class="tg-ktyi">Ms Chua Hui Qi</td>
+    <td class="tg-ktyi">Ms Chua Hui Qi (OIC)</td>
     <td class="tg-ktyi">3.30 pm – 5.30 pm </td>
     <td class="tg-ktyi">1.30 pm – 5.30 pm </td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Eva Koh</td>
+    
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi"> </td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Nadia Ramli</td>
+    <td class="tg-ktyi">Mdm Nadia Ramli <br>Ms Eva Koh<br></td>
     <td class="tg-1547">(Old Basketball Court near Block G)</td>
     <td class="tg-1547">(Old Basketball Court near Block G)</td>
   </tr>

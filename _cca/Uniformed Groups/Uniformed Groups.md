@@ -120,19 +120,18 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ktyi">Girl Guides (G)</td>
-    <td class="tg-ktyi">Ms Chua Hui Qi</td>
+    <td class="tg-ktyi">Ms Chua Hui Qi (OIC)</td>
     <td class="tg-ktyi">3.30 pm – 5.30 pm </td>
     <td class="tg-ktyi">1.30 pm – 5.30 pm </td>
   </tr>
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Eva Koh</td>
+    
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi"> </td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Nadia Ramli</td>
+    <td class="tg-ktyi">Mdm Nadia Ramli <br>Ms Eva Koh<br></td>
     <td class="tg-1547">(Old Basketball Court near Block G)</td>
     <td class="tg-1547">(Old Basketball Court near Block G)</td>
   </tr>

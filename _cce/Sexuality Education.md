@@ -93,7 +93,7 @@ b. Character and Citizenship Education (CCE)
   </tr>
   <tr>
     <td class="tg-ktyi">Classroom-based Lesson</td>
-    <td class="tg-ktyi">- Learn to negotiate their way out of a risky situation by applying skills of assertiveness and   responsible decision-making</span></td>
+    <td class="tg-ktyi">- Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
     <td class="tg-7yig"><br>Term 2 Week 1</td>
   </tr>
 </tbody>

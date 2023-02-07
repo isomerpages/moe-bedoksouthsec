@@ -105,6 +105,6 @@ b. Character and Citizenship Education (CCE)
 
 11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63dbc795dd5157001187c19f ). The completed form is to be submitted by 13/02/2023.
 
-12. Parents who wish to opt their children out of the <i><b>eTeens</i></b> <b>programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63dbdb04b9029d00116a649a).  The completed form is to be submitted by 13/02/2023.
+12. Parents who wish to opt their children out of the <i><b>eTeens</b></i> <b>programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63dbdb04b9029d00116a649a).  The completed form is to be submitted by 13/02/2023.
 
 13. Parents can contact the school at 6441 4479 for discussion with your child's Form Teachers or Mrs Elizabeth Ng, Subject Head Character Development to seek clarification about the school's Sexuality Education Programme.

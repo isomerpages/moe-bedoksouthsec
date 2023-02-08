@@ -52,10 +52,7 @@ b. Character and Citizenship Education (CCE)
 
 #### At Bedok South Secondary School, the following lessons from Sexuality Education will be taught in 2023:
 
-[2023 Sexuality Education Lessons in CCE 2021](/files/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021.pdf)
-
-
-
+[2023 Sexuality Education Lessons in CCE 2021](/files/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20V2.pdf)
 
 
 ### eTeens Programme:
@@ -87,14 +84,15 @@ b. Character and Citizenship Education (CCE)
 <tbody>
   <tr>
     <td class="tg-ktyi">Mass Talk by HPB appointed vendor</td>
-<td class="tg-ktyi">- Awareness of the different STIs and HIV/AIDS<br><br>- Modes of transmission<br>
+<td class="tg-ktyi">- Awareness of the different STIs and HIV/AIDS<br>
+	<br>- Modes of transmission<br>
 		- Modes of protection, specifically on how the condom is used <br>- Consequences and impact of STIs/HIV<br></td>
-    <td class="tg-7yig">Term 1<br>Week: 9</td>
+    <td class="tg-7yig">Term 2<br>Week: 2</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Classroom-based Lesson</td>
     <td class="tg-ktyi">- Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
-    <td class="tg-7yig"><br>Term 2 Week 1</td>
+    <td class="tg-7yig"><br>Term 2 Week 4</td>
   </tr>
 </tbody>
 </table>

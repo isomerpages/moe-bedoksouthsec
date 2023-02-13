@@ -12,7 +12,6 @@ BDSS Malay Dance Cultural Club consists of an exuberant and exciting group of st
 
 
 ### Vision
-
 ‘Reach for the Sky’
 
 ### Motto

@@ -55,7 +55,7 @@ Media Production Club
 
 Mdm Suhaila (OIC)   
 Ms Irene Kwek   
-Mdm Faruzah (Advisor) 
+
 
 ### Leadership Positions
 

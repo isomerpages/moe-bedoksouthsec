@@ -4,7 +4,6 @@ permalink: /uniformed-groups/national-police-cadet-corp/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 National Police Cadet Corp (NPCC)
 =====================================
 
@@ -17,7 +16,6 @@ Mr Steve Kong (OIC)&nbsp;<br>
 Ms Joy Chia&nbsp;<br>
 Ms Sheena Seng <br>
 Mr John Chua <br>
-Mr Loh Jia Perng (Advisor)
 
 
 And&nbsp;**Volunteer Adult Leaders**

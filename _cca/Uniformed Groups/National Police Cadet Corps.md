@@ -27,11 +27,6 @@ And&nbsp;**Volunteer Adult Leaders**
 
 “To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world”.
 
-### Unit URL
-
-Click [here](https://go.gov.sg/bds-npcc-facebook) to visit our BDS NPCC Facebook.  
-Click [here](https://go.gov.sg/bds-npcc-instagram) to visit our BDS NPCC Instagram.
-
 
 ### Achievements
 

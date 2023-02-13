@@ -49,7 +49,7 @@ Sports
   </tr>
   <tr>
     <td class="tg-dgl5" rowspan="2">Floorball</td>
-    <td class="tg-dgl5" rowspan="2">Mr Joshua Tan (OIC)<br>Ms Gerardine Foo<br>Ms Shek Mee Keng<br>Mdm Raihana<br>Coach Priscilla</td>
+    <td class="tg-dgl5" rowspan="2">Mr Loy Pei Phoong (OIC)<br>Ms Gerardine Foo<br>Ms Sandra Teo<br>Coach Priscilla</td>
     <td class="tg-9hzb">Wednesday</td>
     <td class="tg-9hzb">2.30 pm – 4.30 pm<br>(<span style="font-style:italic">ISH</span>)</td>
   </tr>
@@ -59,7 +59,8 @@ Sports
   </tr>
   <tr>
     <td class="tg-dgl5" rowspan="2">Football</td>
-    <td class="tg-dgl5" rowspan="2">Mr Nordin Hassan (OIC) Ms Erdiah Bte Samad<br>Mr Imran Mawardi<br>Mr Zulhilmi<br>Coach Firdaus</td>
+    <td class="tg-dgl5" rowspan="2">Mr Nordin Hassan (OIC) 
+			<br>Mr Loi Chun Mun<br>Mr Imran Mawardi<br>Mr Zulhilmi<br>Coach Firdaus</td>
     <td class="tg-9hzb">Wednesday</td>
     <td class="tg-9hzb">2.30 pm – 4.00 pm<br>(<span style="font-style:italic">Field</span>)</td>
   </tr>
@@ -84,7 +85,7 @@ Sports
     <td class="tg-9hzb">1.30 – 3.00 pm<br>(<span style="font-style:italic">SUTD Pool</span>)</td>
   </tr>
   <tr>
-    <td class="tg-dgl5"> BDS Basketball Interest Group<br>(2nd CCA)</td>
+    <td class="tg-dgl5"> Basketball<br></td>
     <td class="tg-dgl5">Mr Tan Rong En Joshua (OIC)<br> </td>
     <td class="tg-9hzb">Tuesday</td>
     <td class="tg-9hzb">3.00 – 5.00 pm<br>(<span style="font-style:italic">Basketball Court</span>)</td>

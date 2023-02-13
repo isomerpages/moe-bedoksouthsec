@@ -27,7 +27,6 @@ To exhibit a high standard of Malay Dance performance while displaying graciousn
 
 Mdm Zalehah Bte Mohd Noor (OIC)   
 Ms Raudhah  
-Mrs Kow Yoke Ling (Advisor)
 
 
 ### Participation

@@ -107,9 +107,9 @@ Every floorballer, a skillful player, who plays with sportsmanship, and full of 
 
 ### Teachers-in-Charge  
 
-Mr. Joshua Tan (OIC)<br>
-Ms Gerardine Foo  <br>   Ms Shek Mee Keng <br>
-Mdm Raihana <br>
+Mr. Loy Pei Phoong (OIC)<br>
+Ms. Sandra Teo <br>
+Ms Gerardine Foo  <br>
 And <b>External Coach</b>
 
   

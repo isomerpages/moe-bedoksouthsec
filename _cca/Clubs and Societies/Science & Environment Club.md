@@ -112,10 +112,9 @@ Committee members were also given ample opportunities to organize various school
 ### Teachers-In-Charge
 
 
-Ms Nancy Sim (OIC) <br>
+Ms Joanne Ng (OIC) <br>
+Ms Nancy Sim   <br>
 Ms Nadia Begam   <br>
-Ms Joanne Ng    <br>
-Ms Denise Wong (Advisor)  
 
 ### Leadership Positions
 

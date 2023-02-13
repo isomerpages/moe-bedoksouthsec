@@ -13,8 +13,7 @@ National Police Cadet Corp (NPCC)
 
 
 Mr Steve Kong (OIC)&nbsp;<br>
-Ms Joy Chia&nbsp;<br>
-Ms Sheena Seng <br>
+Ms Joy Chia<br>
 Mr John Chua <br>
 
 

@@ -76,7 +76,7 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ryel">NCDCC</td>
-    <td class="tg-ryel">Miss Corrinat Teo (OIC)</td>
+    <td class="tg-ryel">Miss Corrina Teo (OIC)<br>Ms Syafiqah Begum <br></td>
     <td class="tg-ryel">3.30 pm – 5.30 pm</td>
     <td class="tg-ryel">2.30 pm – 5.30 pm</td>
   </tr>

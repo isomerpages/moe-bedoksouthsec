@@ -52,7 +52,7 @@ SYF 2021 – Certificate of Accomplishment (Team B)
 Miss Siti Fatimah (OIC)  
 Ms Cherlyn Tan  
 Ms Khoo Su Lin  
-Ms Dichen Grace Isaacs (Advisor)  
+Ms Jillian Chen
   
 And External Instructors
 

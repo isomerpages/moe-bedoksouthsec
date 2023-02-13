@@ -11,9 +11,7 @@ Programmes
 
 Our 2G students who participated in Bedok Community Centre's National Day Dinner 2018, welcoming the Guest of Honour, Mr Lim Swee Say and kicking off the celebrations with the thunderous sounds of Brazilian drums!
 
-![Performance in Bedok Community Centre](/images/Performance%20in%20Bedok%20Community%20Centre.jpeg)
 
-***-video to be embedded-***
 
 ### Arts Fiesta
 

@@ -16,8 +16,6 @@ Guiding is an international movement with over ten millions girls and young wome
 Ms Chua Hui Qi (OIC) <br>
 Ms Eva Koh <br>
 Mdm Nadia Ramli  <br>
-Mdm Surimah (Advisor) <br>
-
 
 And <b>Volunteer Adult Leaders</b>
 

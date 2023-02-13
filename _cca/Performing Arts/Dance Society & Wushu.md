@@ -1,10 +1,11 @@
 ---
-title: Dance Society
+title: Dance Society & Wushu
 permalink: /cca/performing-arts/dance-society/
 description: ""
 third_nav_title: Performing Arts
 ---
-Dance Society
+
+Dance Society/Wushu
 =============
 
 ![](/images/Dance1.jpg)
@@ -22,12 +23,14 @@ As members of the society, it is important to inculcate empathy and encourage st
 
 ### Teachers-in-Charge
 
-Mdm Sandra Teo (OIC)  
+Ms Low Mei Foong  (OIC)  
 Ms Zhao Xiumin  
-Mr Tan Han Yuen  
-Ms Low Mei Foong  
-Ms Pearl Lee (Advisor)  
-  
+Ms Tan Wan Ning
+
+Mr Tan Han Yuen (Wushu)
+
+
+
 <b>And External Instructors</b>
 
 

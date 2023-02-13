@@ -15,11 +15,6 @@ Kijang Scout Group is dedicated to the development of every Scout that joins us.
 
 Mr Webster Lim (OIC) <br>
 Mr Eric Choo  <br>
-Mr Ng Tze Yang <br>
-Mr Sum Tuck Mun (Advisor)
-
-  
-
 And <b>Volunteer Adult Leaders</b>
 
 ### Objectives of Scouting

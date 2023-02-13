@@ -4,7 +4,6 @@ permalink: /uniformed-groups/national-police-cadet-corp/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 National Police Cadet Corp (NPCC)
 =====================================
 
@@ -14,10 +13,8 @@ National Police Cadet Corp (NPCC)
 
 
 Mr Steve Kong (OIC)&nbsp;<br>
-Ms Joy Chia&nbsp;<br>
-Ms Sheena Seng <br>
+Ms Joy Chia<br>
 Mr John Chua <br>
-Mr Loh Jia Perng (Advisor)
 
 
 And&nbsp;**Volunteer Adult Leaders**
@@ -29,11 +26,6 @@ And&nbsp;**Volunteer Adult Leaders**
 ### VISION of the CCA
 
 “To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world”.
-
-### Unit URL
-
-Click [here](https://go.gov.sg/bds-npcc-facebook) to visit our BDS NPCC Facebook.  
-Click [here](https://go.gov.sg/bds-npcc-instagram) to visit our BDS NPCC Instagram.
 
 
 ### Achievements

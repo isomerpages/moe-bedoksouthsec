@@ -30,11 +30,7 @@ We inspire students to develop their appreciation and passion for music. We beli
 Ms Toh Qin Min (OIC)<br>
 Mdm Zhou Yun  
 Mdm Caroline Ho  
-Ms Chen Chao  
 Ms Poh Bee Yong  
-Mrs Adeline Yee (Advisor)  
-  
-
 <b>And External Instructors</b>
 
 

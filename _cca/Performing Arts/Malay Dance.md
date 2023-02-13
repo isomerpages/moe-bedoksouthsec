@@ -12,7 +12,6 @@ BDSS Malay Dance Cultural Club consists of an exuberant and exciting group of st
 
 
 ### Vision
-
 ‘Reach for the Sky’
 
 ### Motto
@@ -27,7 +26,6 @@ To exhibit a high standard of Malay Dance performance while displaying graciousn
 
 Mdm Zalehah Bte Mohd Noor (OIC)   
 Ms Raudhah  
-Mrs Kow Yoke Ling (Advisor)
 
 
 ### Participation

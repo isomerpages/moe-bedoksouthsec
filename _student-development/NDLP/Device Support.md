@@ -4,8 +4,6 @@ permalink: /student-development/ndlp/device-support/
 description: ""
 third_nav_title: NDLP
 ---
-
-
 Device Support
 ==============
 
@@ -69,21 +67,14 @@ Should there be a need to send the device for immediate repairs, below is the li
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mon – Fri: 1100 – 1800</span><br></td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">4.</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">A.LAB @ Plaza Singapura (260m from Dhoby Ghaut MRT)    </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">6784 1318 </span></td>
-    <td class="tg-9nj9"><a href="mailto:a.lab@alab.sg"><span style="text-decoration:none;color:#076C8E">a.lab@alab.sg</span></a><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mon – Sat: 1100 – 1930 Sun: 1000 – 1800 (Collection till 1930)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">5.</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"><span style="color:#222;background-color:#EAEAEA">4.</span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Apple Retail Store @ Orchard Road (400m from Orchard MRT)    </span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">1800 699 2824 </span></td>
     <td class="tg-9nj9"><a href="https://getsupport.apple.com/"><span style="text-decoration:none;color:#076C8E">https://getsupport.apple.com</span></a><br></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mon – Sun: 1000 – 2200</span><br></td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">6.</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">5.</span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Apple Retail Store @ Marina Bay Sands (220m from Bayfront MRT)    </span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">1800 407 4949</span><br></td>
     <td class="tg-9nj9"><a href="https://getsupport.apple.com/"><span style="text-decoration:none;color:#076C8E">https://getsupport.apple.com</span></a><br></td>

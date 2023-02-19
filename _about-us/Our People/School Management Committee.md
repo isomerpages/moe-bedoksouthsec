@@ -256,7 +256,7 @@ School Management Committee
     <td class="tg-y7qa"><span style="color:#222">2</span></td>
     <td class="tg-y7qa"><span style="color:#222">Mdm Hiryati Bte Jaafar</span></td>
     <td class="tg-y7qa"><span style="color:#222">Admin Manager </span></td>
-    <td class="tg-y7qa"><span style="color:#222">hiryati_jaafar@moe.edu.sg</span></td>
+    <td class="tg-y7qa"><span style="color:#222">hiryati_jaafar@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">3</span></td>

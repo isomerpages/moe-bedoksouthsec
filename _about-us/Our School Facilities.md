@@ -1,8 +1,9 @@
 ---
-title: School Facilities
+title: Our School Facilities
 permalink: /about-us/our-school-facilities/
 description: ""
 ---
+
 
 Our School Facilities
 =====================

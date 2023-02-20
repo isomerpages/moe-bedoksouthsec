@@ -601,12 +601,7 @@ Form Teachers
     <td class="tg-kveo">101</td>
     <td class="tg-kveo">norjanah_m_yusope@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-kveo">FAJT (Malay Language)</td>
-    <td class="tg-kveo">Ms Marinah Bte Mydin</td>
-    <td class="tg-kveo">115</td>
-    <td class="tg-kveo">marina_mydin@moe.edu.sg</td>
-  </tr>
+ 
   <tr>
     <td class="tg-kveo">FAJT (Science)</td>
     <td class="tg-kveo">Mrs Djie-Lim Say Aii</td>

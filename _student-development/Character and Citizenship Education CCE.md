@@ -78,7 +78,7 @@ Schoolbag.sg – Schoolbag.sg is an online publication by the Ministry of Educat
 
 
 
- [ECG Paent Guide](https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx). This microsite hosts an online copy of the recently published Education and Career Guidance (ECG) Parent Guide that has tips on how to support your child’s ECG journey.
+ [ECG Parent Guide](https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx). This microsite hosts an online copy of the recently published Education and Career Guidance (ECG) Parent Guide that has tips on how to support your child’s ECG journey.
 
 
 ### Recommended online resources

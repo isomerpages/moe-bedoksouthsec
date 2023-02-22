@@ -59,13 +59,12 @@ In line with the school's Teaching and Learning Framework, we seek to nurture cr
 * Core Geography
 * Core History
 
-Subjects Offered: 
-* [Secondary 1 Humanities Subjects](/files/sec%201.pdf)
-* [Secondary 2 Humanities Subjects](/files/Secondary%202%20Humanities%20Subjects.pdf)
-* [Secondary 3 Humanities Subjects](/files/Secondary%203%20Humanities%20Subjects.pdf)
-* [Secondary 4 Humanities Subjects](/files/Secondary%204%20Humanities%20Subjects.pdf)
-* [Secondary 5 Humanities Subjects](/files/Secondary%205%20Humanities%20Subjects.pdf)
 
-
+### Subjects Offered:
+* [Secondary 1 Humanities Subject](/files/Humanities/Secondary%201%20Humanities%20Subjects.pdf)
+* [Secondary 2 Humanities Subject](/files/Humanities/Secondary%202%20Humanities%20Subjects.pdf)
+* [Secondary 3 Humanities Subject](/files/Humanities/Secondary%203%20Humanities%20Subjects.pdf)
+* [Secondary 4 Humanities Subject](/files/Humanities/Secondary%204%20Humanities%20Subjects.pdf)
+* [Secondary 5 Humanities Subject](/files/Humanities/Secondary%205%20Humanities%20Subjects.pdf)
 
 [Photo Gallery](/files/Photo%20Gallery_v22-min.pdf)

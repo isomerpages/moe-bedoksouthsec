@@ -199,7 +199,7 @@ School Management Committee
     <td class="tg-y7qa"><span style="color:#222">7</span></td>
     <td class="tg-y7qa"><span style="color:#222">Ms Halimah Bte Rahmat</span></td>
     <td class="tg-y7qa"><span style="color:#222">SH / Malay Language</span></td>
-    <td class="tg-laxs"></td>
+    <td class="tg-y7qa"><span style="color:#222">halimah_rahmat@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">8</span></td>

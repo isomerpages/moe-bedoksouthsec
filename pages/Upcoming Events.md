@@ -11,11 +11,7 @@ description: ""
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td class="tg-0lax">1 Jan</td>
-      <td class="tg-0lax">New Year's Day</td>
-    </tr>
-    <tr>
+      <tr>
       <td class="tg-0lax">3 Jan</td>
       <td class="tg-0lax">Term 1 Starts</td>
     </tr>
@@ -34,6 +30,10 @@ description: ""
     <tr>
       <td class="tg-0lax">24 Jan</td>
       <td class="tg-0lax">Chinese New Year Holiday</td>
+    </tr>
+		   <tr>
+      <td class="tg-0lax">6 - 8 Mar</td>
+      <td class="tg-0lax">Level Camps</td>
     </tr>
     <tr>
       <td class="tg-0lax">11 - 19 Mar</td>

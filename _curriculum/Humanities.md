@@ -67,6 +67,5 @@ In line with the school's Teaching and Learning Framework, we seek to nurture cr
 * [Secondary 4 Humanities Subject](/files/Humanities/Secondary%204%20Humanities%20Subjects.pdf)
 * [Secondary 5 Humanities Subject](/files/Humanities/Secondary%205%20Humanities%20Subjects.pdf)
 
-[Photo Gallery](/files/Photo%20Gallery_v22-min.pdf)
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgH16kuNNTLkYY-OyluXuakUrrZqfPZ_K4-DOka3ycNklyNFggbg7PCRG9guxsoUYLitAXwN5zIyRn/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>

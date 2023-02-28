@@ -3,6 +3,10 @@ title: Latest Happenings
 permalink: /latest-happenings/
 description: ""
 ---
+#### Registration Information for GCE N(T)-, N(A)- and O-Level Examinations
+
+Please click [here](https://go.gov.sg/2023seabregistrationinformation) for the Registration Information for the School Candidates.
+
 #### Parenting Webinar
 
 Dear parents/ guardians,

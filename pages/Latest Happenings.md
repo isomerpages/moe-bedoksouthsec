@@ -3,6 +3,10 @@ title: Latest Happenings
 permalink: /latest-happenings/
 description: ""
 ---
+#### Registration Information for GCE N(T)-, N(A)- and O-Level Examinations
+
+Please click [here](https://go.gov.sg/2023seabregistrationinformation) for the Registration Information for the School Candidates.
+
 #### Parenting Webinar
 
 Dear parents/ guardians,
@@ -33,9 +37,6 @@ The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 20
 
 Please click [here](/files/2023%20Welcome_Sec%201.pdf) for the 2023 Sec 1 Webinar Briefing Notes.
 
-#### Sec 1 Appeal for Transfer in 2023
-
-Click [here](/information-for-sec-1-2023/Secondary-1-Appeal-for-Transfer-in-2023/) to access the Sec 1 appeal for transfer in 2023.
 
 
 
@@ -43,19 +44,7 @@ Click [here](/information-for-sec-1-2023/Secondary-1-Appeal-for-Transfer-in-202
 
 Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students. Click [here](/curriculum/Full-Subject-Based-Banding-FSBB/) to find out more.
 
-#### BDS Open House
 
-Received your PSLE results?
-
-Click [<b>here</b>](https://sites.google.com/moe.edu.sg/bds-eopen-house-2022/home) to visit us at our eOpen House website.
-
-You are warmly welcome to join us at our Physical Open House on Saturday, 26 November 2022 from 0830-1230!
-
-#### Open House
-
-Bedok South Secondary School is hosting an Open House to welcome prospective parents and students who wish to visit our campus and learn more about what we have to offer.
-
-Please click [here](/open-house/Open-House/) for more information.
 
 #### Online Parenting Webinars
 

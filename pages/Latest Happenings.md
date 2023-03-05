@@ -11,22 +11,7 @@ Please click [here](https://go.gov.sg/2023seabregistrationinformation) for the R
 
 Dear parents/ guardians,
 
-We would like to invite you to sign up for a series of online parenting webinars organised by the Parent Support Group and Morning Star Community Services.
-
-Please click  the respective links below to find out more and register for the webinars. 
-
-
-
-| Webinar | Link |
-| -------- | -------- | 
-| How to Calm Down Using Mindfulness of Breath and Body    | Click [here](https://mailchi.mp/morningstar/webinar-mindfulness?e=f91eb6b78a)    |
-| The Art of Managing Stress | Click [here](https://www.morningstar.org.sg/triple-p/l2-sec-run-2/) |
-
-
-
-#### Open Houses 2023
-
-Please click [here](/files/Open%20Houses%202023%20RI%20SJI%20and%20Eunoia.pdf) for information on Raffles Institution, SJI and Eunoia! JC Open Houses 2023 and [here](/files/2023%20Open%20House%20SchedulePolyJC.pdf) for other JC, Poly, LaSalle & NAFA and Other Institutions 2023 Open House Schedule. Click [here](/information-and-links/For-Students/Open-House-2023/) for more information.
+We would like to invite you to sign up for a series of online parenting webinars organised by the Parent Support Group and Morning Star Community Services, to help you learn strategies for your teens to maintain both online and offline connections to satisfy all their psycho-social needs. Please click [here](https://us06web.zoom.us/webinar/register/WN_NP7tAaGjQMmDSv4wXm_9pw) to register for the webinars. 
 
 
 #### Release of 2022 GCE O-Level Examination Results and 2023 Joint Admissions Exercise
@@ -38,28 +23,14 @@ The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 20
 Please click [here](/files/2023%20Welcome_Sec%201.pdf) for the 2023 Sec 1 Webinar Briefing Notes.
 
 
-
-
 #### Full Subject-Based Banding (FSBB) @ Bedok South Secondary School
 
 Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students. Click [here](/curriculum/Full-Subject-Based-Banding-FSBB/) to find out more.
 
 
-
-#### Online Parenting Webinars
-
-We would like to invite the parents and guardians to sign up for a series of online parenting webinars organised by Morning Star Community Services, to help you learn strategies to help your teens maintain both online and offline connections to meet all their psycho-social needs. Please click [here](https://bedoksouthsec-moe-edu-sg-admin.cwp.sg/information-and-links/for-parents/parents-in-education) to find out more. 
-
 #### Student Vaccination Exercise
 
 Please click on the following links to access [Infographic](/files/Infographic%20onStudent%20Vaccination%20Exercise.pdf) or [Parent Kit](/files/Parent%20Kit%20on%20StudentVaccinationExercise.pdf) on Student Vaccination Exercise.
-
-#### TraceTogether App
-
-Please click below to access information on the TraceTogether app for quicker detection and mitigate the spread of COVID-19.
-
-*   [Why Use TraceTogether](/files/Why%20Use%20TraceTogether.pdf)
-*   [TraceTogether Onboarding Guide](/files/TraceTogether%20Onboarding%20Guide%20for%20citizens%20(6%20June).pdf)
 
 #### FAQ for Online Learning and Zoom Meeting
 

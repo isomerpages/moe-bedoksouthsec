@@ -571,6 +571,12 @@ Form Teachers
 </thead>
 <tbody>
   <tr>
+    <td class="tg-kveo">AED (Teaching & Learninig)</td>
+    <td class="tg-kveo">Mr Muhammad Zulhilmi bin Jalil</td>
+    <td class="tg-kveo">109</td>
+    <td class="tg-kveo">muhammad_zulhilmi_jalil@moe.edu.sg</td>
+  </tr>
+	  <tr>
     <td class="tg-kveo">CAJT (Georgaphy)</td>
     <td class="tg-kveo">Ms Koh Cin Dee, Sylvelin</td>
     <td class="tg-kveo">160</td>

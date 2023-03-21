@@ -13,6 +13,8 @@ Dear parents/ guardians,
 
 We would like to invite you to sign up for a series of online parenting webinars organised by the Parent Support Group and Morning Star Community Services, to help you learn strategies for your teens to maintain both online and offline connections to satisfy all their psycho-social needs. Please click [here](https://us06web.zoom.us/webinar/register/WN_NP7tAaGjQMmDSv4wXm_9pw) to register for the webinars. 
 
+<a href="[https://us06webv.zoom.us/webinar/register/WN\_NP7tAaGjQMmDSv4wXm\_9pw](https://us06webv.zoom.us/webinar/register/WN_NP7tAaGjQMmDSv4wXm_9pw) target="\_blank">
+Click here</a>
 
 #### Release of 2022 GCE O-Level Examination Results and 2023 Joint Admissions Exercise
 

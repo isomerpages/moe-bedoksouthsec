@@ -11,43 +11,10 @@ description: ""
     </tr>
   </thead>
   <tbody>
-      <tr>
-      <td class="tg-0lax">3 Jan</td>
-      <td class="tg-0lax">Term 1 Starts</td>
-    </tr>
-    <tr>
-      <td class="tg-0lax">6 Jan</td>
-      <td class="tg-0lax">CCA Fair</td>
-    </tr>
-    <tr>
-      <td class="tg-0lax">12 Jan</td>
-      <td class="tg-0lax">Release of GCE O-Level Results</td>
-    </tr>
-    <tr>
-      <td class="tg-0lax">22 - 23 Jan</td>
-      <td class="tg-0lax">Chinese New Year</td>
-    </tr>
-    <tr>
-      <td class="tg-0lax">24 Jan</td>
-      <td class="tg-0lax">Chinese New Year Holiday</td>
-    </tr>
-		   <tr>
-      <td class="tg-0lax">6 - 8 Mar</td>
-      <td class="tg-0lax">Level Camps</td>
-    </tr>
-    <tr>
-      <td class="tg-0lax">11 - 19 Mar</td>
-      <td class="tg-0lax">Term 1 Holiday</td>
-    </tr>
-    <tr>
-      <td class="tg-0lax">20 Mar</td>
+         <td class="tg-0lax">20 Mar</td>
       <td class="tg-0lax">Term 2 Starts</td>
     </tr>
-    <tr>
-      <td class="tg-0lax">1 Jan</td>
-      <td class="tg-0lax">New Year's Day</td>
-    </tr>
-    <tr>
+        <tr>
       <td class="tg-0lax">27 Mar - 6 Apr</td>
       <td class="tg-0lax">Mother Tongue Fortnight</td>
     </tr>
@@ -60,7 +27,7 @@ description: ""
       <td class="tg-0lax">Hari Raya Puasa</td>
     </tr>
     <tr>
-      <td class="tg-0lax">25 Apr</td>
+      <td class="tg-0lax">24 Apr</td>
       <td class="tg-0lax">School Holiday</td>
     </tr>
     <tr>

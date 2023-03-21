@@ -60,7 +60,7 @@ description: ""
       <td class="tg-0lax">Hari Raya Puasa</td>
     </tr>
     <tr>
-      <td class="tg-0lax">25 Apr</td>
+      <td class="tg-0lax">24 Apr</td>
       <td class="tg-0lax">School Holiday</td>
     </tr>
     <tr>

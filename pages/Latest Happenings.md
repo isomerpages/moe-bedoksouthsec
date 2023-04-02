@@ -9,41 +9,39 @@ Please click [here](https://go.gov.sg/2023seabregistrationinformation) for the R
 
 #### Parenting Webinar
 
-Dear parents/ guardians,
+Dear parents/ guardians,  
 
-We would like to invite you to sign up for a series of online parenting webinars organised by the Parent Support Group and Morning Star Community Services, to help you learn strategies for your teens to maintain both online and offline connections to satisfy all their psycho-social needs. Please click [here](https://us06web.zoom.us/webinar/register/WN_NP7tAaGjQMmDSv4wXm_9pw) to register for the webinars. 
+We would like to invite you to sign up for a series of online parenting webinars organised by the Parent Support Group and Morning Star Community Services for the month of April, to help you equip your teenager to gain confidence, competence and resilience to cope with challenges in a positive and healthy manner. Please click [here](https://www.morningstar.org.sg/triple-p/l2-sec-run-4) to find out more and register for the webinars.
 
-<a href="[https://us06webv.zoom.us/webinar/register/WN\_NP7tAaGjQMmDSv4wXm\_9pw](https://us06webv.zoom.us/webinar/register/WN_NP7tAaGjQMmDSv4wXm_9pw) target="\_blank">
-Click here</a>
 
 #### Release of 2022 GCE O-Level Examination Results and 2023 Joint Admissions Exercise
 
-The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 2023. For more information, click [here](/information-and-links/For-Students/2022-O-Level-Results-Release/).
+The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 2023. For more information, click&nbsp;[here](/information-and-links/For-Students/2022-O-Level-Results-Release/).
 
 #### 2023 Sec 1 Webinar Briefing Notes
 
-Please click [here](/files/2023%20Welcome_Sec%201.pdf) for the 2023 Sec 1 Webinar Briefing Notes.
+Please click&nbsp;[here](/files/2023%20Welcome_Sec%201.pdf)&nbsp;for the 2023 Sec 1 Webinar Briefing Notes.
 
 
 #### Full Subject-Based Banding (FSBB) @ Bedok South Secondary School
 
-Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students. Click [here](/curriculum/Full-Subject-Based-Banding-FSBB/) to find out more.
+Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.&nbsp;Click&nbsp;[here](/curriculum/Full-Subject-Based-Banding-FSBB/) to find out more.
 
 
 #### Student Vaccination Exercise
 
-Please click on the following links to access [Infographic](/files/Infographic%20onStudent%20Vaccination%20Exercise.pdf) or [Parent Kit](/files/Parent%20Kit%20on%20StudentVaccinationExercise.pdf) on Student Vaccination Exercise.
+Please click on the following links to access&nbsp;[Infographic](/files/Infographic%20onStudent%20Vaccination%20Exercise.pdf)&nbsp;or&nbsp;[Parent Kit](/files/Parent%20Kit%20on%20StudentVaccinationExercise.pdf)&nbsp;on Student Vaccination Exercise.
 
 #### FAQ for Online Learning and Zoom Meeting
 
 Please click on the respective link to access
 
 *   [FAQ for online learning](/files/FAQforonlinelearning.pdf)
-*   [Students' guide](/files/Students'%20Guide%20to%20Video%20Conferencing%20with%20Teachers%20Using%20Zoom%20for%20HBL.pdf) for downloading Zoom and accessing a Zoom meeting.
+*   [Students' guide](/files/Students'%20Guide%20to%20Video%20Conferencing%20with%20Teachers%20Using%20Zoom%20for%20HBL.pdf)&nbsp;for downloading Zoom and accessing a Zoom meeting.
 
 #### Launch of Parents Gateway
 
-We would like to encourage all parents to sign up for the Parents Gateway app. A letter with instructions on how to sign up was given to students in Week 1. Alternatively, you may want to click [here](/files/Letter%20-%20Parents%20Gateway(BSSS).pdf) for the Step-by-Step Guide.
+We would like to encourage all parents to sign up for the Parents Gateway app. A letter with instructions on how to sign up was given to students in Week 1. Alternatively, you may want to click&nbsp;[here](/files/Letter%20-%20Parents%20Gateway(BSSS).pdf)&nbsp;for the Step-by-Step Guide.
 
 
 

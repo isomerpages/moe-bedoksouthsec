@@ -78,7 +78,7 @@ Form Teachers
   <tr>
     <td class="tg-kveo"> </td>
     <td class="tg-kveo">Ms Eva Koh (Mrs Eva Seah)</td>
-    <td class="tg-kveo">106</td>
+    <td class="tg-kveo">105</td>
     <td class="tg-kveo">koh_eva@moe.edu.sg</td>
   </tr>
   <tr>
@@ -571,7 +571,7 @@ Form Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-kveo">AED (Teaching & Learninig)</td>
+    <td class="tg-kveo">AED (Teaching &amp; Learninig)</td>
     <td class="tg-kveo">Mr Muhammad Zulhilmi bin Jalil</td>
     <td class="tg-kveo">109</td>
     <td class="tg-kveo">muhammad_zulhilmi_jalil@moe.edu.sg</td>

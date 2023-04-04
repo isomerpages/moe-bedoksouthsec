@@ -45,9 +45,7 @@ Please click [here](/about-us/our-school-facilities/oasis-at-bds) for more infor
 ![Science Laboratories](/images/science%20lab.png)
 <br>
 
-##### **NT Home Room**
-![NT Home Room](/images/NT%20Home%20Room%2001.jpg)
+
 
 ##### **Learning Space**
 ![Learning Space](/images/Learning%20Spaces%2001.jpg)
-

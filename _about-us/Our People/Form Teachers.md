@@ -78,7 +78,7 @@ Form Teachers
   <tr>
     <td class="tg-kveo"> </td>
     <td class="tg-kveo">Ms Eva Koh (Mrs Eva Seah)</td>
-    <td class="tg-kveo">106</td>
+    <td class="tg-kveo">105</td>
     <td class="tg-kveo">koh_eva@moe.edu.sg</td>
   </tr>
   <tr>
@@ -316,9 +316,9 @@ Form Teachers
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Ms Soh Geok Lan</td>
-    <td class="tg-kveo">120 </td>
-    <td class="tg-kveo">soh_geok_lan@moe.edu.sg</td>
+    <td class="tg-kveo">Ms Teo Wei Ling</td>
+    <td class="tg-kveo">113 </td>
+    <td class="tg-kveo">teo_wei_ling_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
@@ -452,6 +452,12 @@ Form Teachers
   </tr>
   <tr>
     <td class="tg-laxs"></td>
+    <td class="tg-kveo">Ms Nadia Begam</td>
+    <td class="tg-kveo">109</td>
+    <td class="tg-kveo">nadia_begum@moe.edu.sg</td>
+  </tr>
+	  <tr>
+    <td class="tg-laxs"></td>
     <td class="tg-kveo">Ms Joy Chia Yong Le</td>
     <td class="tg-kveo">108</td>
     <td class="tg-kveo">joy_chia_yong_le@moe.edu.sg</td>
@@ -468,12 +474,7 @@ Form Teachers
     <td class="tg-kveo">116</td>
     <td class="tg-kveo">suchandra_ghose@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Ms Nadia Begam</td>
-    <td class="tg-kveo">109</td>
-    <td class="tg-kveo">nadia_begum@moe.edu.sg</td>
-  </tr>
+  
   <tr>
     <td class="tg-y7qa"><span style="color:#222">4D</span></td>
     <td class="tg-kveo">Mrs Mah-Pow Lai Gim</td>
@@ -571,7 +572,7 @@ Form Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-kveo">AED (Teaching & Learninig)</td>
+    <td class="tg-kveo">AED (Teaching &amp; Learninig)</td>
     <td class="tg-kveo">Mr Muhammad Zulhilmi bin Jalil</td>
     <td class="tg-kveo">109</td>
     <td class="tg-kveo">muhammad_zulhilmi_jalil@moe.edu.sg</td>
@@ -603,9 +604,9 @@ Form Teachers
   </tr>
   <tr>
     <td class="tg-kveo">FAJT (Malay Language)</td>
-    <td class="tg-kveo">Ms Norjanah Bte Mohamed Yusope</td>
+    <td class="tg-kveo">Ms Molyyati Binte Syahwan</td>
     <td class="tg-kveo">101</td>
-    <td class="tg-kveo">norjanah_m_yusope@moe.edu.sg</td>
+    <td class="tg-kveo">molyyati_shahwan@moe.edu.sg</td>
   </tr>
  
   <tr>

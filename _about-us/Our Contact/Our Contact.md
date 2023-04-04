@@ -52,4 +52,6 @@ Map Location
 
 
 
-Please click [here](bsss@moe.edu.sg) if you have any feedback. Thank you!
+
+
+Please click _<a href="mailto:bsss@moe.edu.sg">here</a>_ if you have any feedback. Thank you!

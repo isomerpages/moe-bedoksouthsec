@@ -3,8 +3,6 @@ title: Our School Facilities
 permalink: /about-us/our-school-facilities/
 description: ""
 ---
-
-
 Our School Facilities
 =====================
 
@@ -53,5 +51,3 @@ Please click [here](/about-us/our-school-facilities/oasis-at-bds) for more infor
 ##### **Learning Space**
 ![Learning Space](/images/Learning%20Spaces%2001.jpg)
 
-##### **Think Tank**
-![Think Tank](/images/Think%20Tank.jpg)

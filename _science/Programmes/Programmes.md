@@ -45,16 +45,16 @@ Team Static Sisters with their exhibit to showcase tricks using concept of Stati
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ktyi" rowspan="7">Merit</td>
-    <td class="tg-ktyi" rowspan="7">Bedok South Secondary School</td>
-    <td class="tg-ktyi" rowspan="2">Newton</td>
+    <td rowspan="7" class="tg-ktyi">Merit</td>
+    <td rowspan="7" class="tg-ktyi">Bedok South Secondary School</td>
+    <td rowspan="2" class="tg-ktyi">Newton</td>
     <td class="tg-ktyi">Ng Yi Lin Elin</td>
   </tr>
   <tr>
     <td class="tg-ktyi">M Akshayaa</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="3">Sauce Based Question</td>
+    <td rowspan="3" class="tg-ktyi">Sauce Based Question</td>
     <td class="tg-ktyi">Micah Ng Herng Yeow</td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ Team Static Sisters with their exhibit to showcase tricks using concept of Stati
     <td class="tg-ktyi">Esther Ezekiel</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="2">Static Sisters</td>
+    <td rowspan="2" class="tg-ktyi">Static Sisters</td>
     <td class="tg-ktyi">Variel Tan</td>
   </tr>
   <tr>
@@ -84,3 +84,6 @@ On 30 July 2022, 2 teams of students participated in the MGS Farmathon 2022, an 
 ![](/images/Farm2.png)
 
 ![](/images/Farm3.png)
+
+### Singapore Science and Engineering Fair
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQDrQQO2_pvBtBYpkQS-bW_1zrt6Xql9Kkp1vCWE9ErMCb32G48r85DryOHJPOgmJaz_D4yg06RmkgC/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

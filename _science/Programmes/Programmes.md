@@ -45,16 +45,16 @@ Team Static Sisters with their exhibit to showcase tricks using concept of Stati
 </thead>
 <tbody>
   <tr>
-    <td rowspan="7" class="tg-ktyi">Merit</td>
-    <td rowspan="7" class="tg-ktyi">Bedok South Secondary School</td>
-    <td rowspan="2" class="tg-ktyi">Newton</td>
+    <td class="tg-ktyi" rowspan="7">Merit</td>
+    <td class="tg-ktyi" rowspan="7">Bedok South Secondary School</td>
+    <td class="tg-ktyi" rowspan="2">Newton</td>
     <td class="tg-ktyi">Ng Yi Lin Elin</td>
   </tr>
   <tr>
     <td class="tg-ktyi">M Akshayaa</td>
   </tr>
   <tr>
-    <td rowspan="3" class="tg-ktyi">Sauce Based Question</td>
+    <td class="tg-ktyi" rowspan="3">Sauce Based Question</td>
     <td class="tg-ktyi">Micah Ng Herng Yeow</td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ Team Static Sisters with their exhibit to showcase tricks using concept of Stati
     <td class="tg-ktyi">Esther Ezekiel</td>
   </tr>
   <tr>
-    <td rowspan="2" class="tg-ktyi">Static Sisters</td>
+    <td class="tg-ktyi" rowspan="2">Static Sisters</td>
     <td class="tg-ktyi">Variel Tan</td>
   </tr>
   <tr>
@@ -86,4 +86,13 @@ On 30 July 2022, 2 teams of students participated in the MGS Farmathon 2022, an 
 ![](/images/Farm3.png)
 
 ### Singapore Science and Engineering Fair
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQDrQQO2_pvBtBYpkQS-bW_1zrt6Xql9Kkp1vCWE9ErMCb32G48r85DryOHJPOgmJaz_D4yg06RmkgC/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDrQQO2_pvBtBYpkQS-bW_1zrt6Xql9Kkp1vCWE9ErMCb32G48r85DryOHJPOgmJaz_D4yg06RmkgC/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+
+### Visit to Yakult Factory 2023
+Did you know that our Yakult is manufactured locally?
+
+The Science Talent Management Programme BDSians went for a learning journey to the Yakult Factory today. They were each given a bottle of limited edition Yakult Light to enjoy, while listening to a presentation about Yakult - from its origins to the unique flavours of Yakult found only in Singapore. To sum up their learning, they even had a Kahoot quiz and three students walked away with prizes from Yakult!
+
+There was also a facility tour, where our BDSians got to understand the processes involved in manufacturing the Yakult we purchase from retail stores. It was such an interesting trip for our students!
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWWO61rL43JWXqt9NZAqdsVTAdJQlqx4db38_apMeZq7bSrISj5v_FBaDm5xRKS3huFZka3dWaMbMp/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

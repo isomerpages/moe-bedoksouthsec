@@ -6,7 +6,7 @@ description: ""
 Our History
 ===========
 
-The former Bedok South Secondary School campus was located in the Bedok South Housing Estate. The former school campus opened in January 1980 with a teaching staff of 50 teachers and 1022 students. At that time, the school shared its premises with Temasek Secondary School and Kong San Primary School. In June 1980, the school had the entire building to itself when students and staff of the other schools moved out. The staff strength then was 27 and the student enrolment was 575 students. It comprised 12 Secondary One classes and 2 Pre-University classes.
+The former Bedok South Secondary School campus was located in the Bedok South Housing Estate. The former school campus opened in January 1980 with a teaching staff of 50 teachers and 1022 students. At that time, the school shared its premises with Temasek Secondary School and Hong San Primary School. In June 1980, the school had the entire building to itself when students and staff of the other schools moved out. The staff strength then was 27 and the student enrolment was 575 students. It comprised 12 Secondary One classes and 2 Pre-University classes.
 
   
 

@@ -14,7 +14,7 @@ CCA
 #### Mission
 
 
-**_“To actively engage and challenge every student in CCA with the opportunity to develop into a responsible, confident and resilient student who aspires to excel and_** **_uphold the name and reputation of the school._**
+**_“To actively engage and challenge every student in CCA with the opportunity to develop into a responsible, confident and resilient student who aspires to excel and_** **_uphold the name and reputation of the school."_**
 
 Vision, Mission statements: Our goals and strategies intend to achieve the following outcomes:   
 

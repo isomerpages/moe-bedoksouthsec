@@ -44,7 +44,7 @@ Clubs and Societies
   </tr>
   <tr>
     <td class="tg-ktyi">Infocomm and Media Club</td>
-    <td class="tg-ktyi">Ms Sophia Yap<br><br>Mdm Suchandra <br>Ms Hoori</td>
+    <td class="tg-ktyi">Mdm Suchandra (OIC)<br>Ms Sophia Yap<br>Ms Hoori</td>
     <td class="tg-ktyi">Computer Lab 2</td>
     <td class="tg-7yig">3.00 – 4.30pm</td>
     <td class="tg-7yig">(Selected)</td>

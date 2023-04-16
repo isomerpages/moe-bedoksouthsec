@@ -9,7 +9,7 @@ Device Support
 
 Technical support will be provided to students through a form request using the following link:  
 
-*   BSSS ipad helpline: [https://go.gov.sg/bsss-pld-helpline](https://go.gov.sg/bsss-pld-helpline) or scan the QR Code:
+*   BSSS ipad helpline:&nbsp;[https://go.gov.sg/bsss-pld-helpline](https://go.gov.sg/bsss-pld-helpline)&nbsp;or scan the QR Code:
 
 
 <img style="width:30%" src="/images/qr.jpeg">
@@ -67,7 +67,7 @@ Should there be a need to send the device for immediate repairs, below is the li
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mon – Fri: 1100 – 1800</span><br></td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"><span style="color:#222;background-color:#EAEAEA">4.</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"><span style="color:#222;background-color:#EAEAEA">4.</span></span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Apple Retail Store @ Orchard Road (400m from Orchard MRT)    </span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">1800 699 2824 </span></td>
     <td class="tg-9nj9"><a href="https://getsupport.apple.com/"><span style="text-decoration:none;color:#076C8E">https://getsupport.apple.com</span></a><br></td>
@@ -83,7 +83,7 @@ Should there be a need to send the device for immediate repairs, below is the li
 </tbody>
 </table>
 
-Please note that devices sent by parents/students directly to the service centres will not be subjected to the same courier pickup services offered through the school’s service desk.   
+Please note that devices sent by parents/students directly to the service centres will not be subjected to the same courier pickup services offered through the school’s service desk.&nbsp;  
 
 ### Device Contractor Information
 
@@ -92,11 +92,11 @@ Should you have any queries about the device, insurance and warranty, you may co
 
 ### <u>AsiaPac</u>
 
-<b>Help Desk Number:</b> 6270 8281  
+<b>Help Desk Number:</b>&nbsp;6270 8281  
   
-<b>Help Desk Email:</b> pdlpapple@asiapac.com.sg  
+<b>Help Desk Email:</b>&nbsp;pdlpapple@asiapac.com.sg  
   
-<b>Help Desk Operating Hours:</b> <br>
+<b>Help Desk Operating Hours:</b>&nbsp;<br>
 Mon - Thu: 0830 - 1730  
 Fri: 0830 - 1700  
-Closed on Sat, Sun & Public Holidays
+Closed on Sat, Sun &amp; Public Holidays

@@ -62,7 +62,7 @@ Performing Arts
   </tr>
   <tr>
     <td class="tg-ktyi">Symphonic Band</td>
-    <td class="tg-ktyi">Ms Siti Fatimah (OIC)<br>Ms Cherlyn Tan<br>Ms Khoo Su-Lin<br>And external instructors</td>
+    <td class="tg-ktyi">Ms Siti Fatimah (OIC)<br>Ms Cherlyn Tan<br>Ms Khoo Su-Lin<br>Ms Jillian Chen<br>And external instructors</td>
     <td class="tg-ktyi">1430 – 1730<br><span style="font-style:italic">(Band Room)</span></td>
     <td class="tg-ktyi">1430 – 1730<br><span style="font-style:italic">(Band Room)</span></td>
   </tr>

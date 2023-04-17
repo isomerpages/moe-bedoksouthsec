@@ -45,7 +45,7 @@ Performing Arts
   </tr>
   <tr>
     <td class="tg-ktyi">Dance Society</td>
-    <td class="tg-ktyi" rowspan="2">Mdm Sandra Teo (OIC)<br>Ms Zhao Xiumin<br>Mr Tan Han Yuen<br>Ms Low Mei Foong<br>Ms Tan Wan Ning<br>And external instructors</td>
+    <td class="tg-ktyi" rowspan="2">Ms Low Mei Foong (OIC)<br>Ms Zhao Xiumin<br>Mr Tan Han Yuen<br>Ms Tan Wan Ning<br>And external instructors</td>
     <td class="tg-ktyi">1500 – 1700<br><span style="font-style:italic">(G1-05 / 06 classrooms)</span></td>
     <td class="tg-ktyi">1330 – 1630<br><span style="font-style:italic">(G1-05 / 06 classrooms)</span></td>
   </tr>
@@ -62,7 +62,7 @@ Performing Arts
   </tr>
   <tr>
     <td class="tg-ktyi">Symphonic Band</td>
-    <td class="tg-ktyi">Ms Siti Fatimah (OIC)<br>Ms Cherlyn Tan<br>Ms Khoo Su-Lin<br>And external instructors</td>
+    <td class="tg-ktyi">Ms Siti Fatimah (OIC)<br>Ms Cherlyn Tan<br>Ms Khoo Su-Lin<br>Ms Jillian Chen<br>And external instructors</td>
     <td class="tg-ktyi">1430 – 1730<br><span style="font-style:italic">(Band Room)</span></td>
     <td class="tg-ktyi">1430 – 1730<br><span style="font-style:italic">(Band Room)</span></td>
   </tr>

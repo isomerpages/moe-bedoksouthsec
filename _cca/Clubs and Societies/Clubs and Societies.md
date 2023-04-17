@@ -7,9 +7,9 @@ third_nav_title: Clubs and Societies
 Clubs and Societies
 ===================
 
-<img src="/images/infocomm1.jpg" style="width:65%" align = left>
+<img src="/images/infocomm1.jpg" style="width:65%" align="left">
 
-<br clear = left>
+<br clear="left">
 
 <br>
 
@@ -44,7 +44,7 @@ Clubs and Societies
   </tr>
   <tr>
     <td class="tg-ktyi">Infocomm and Media Club</td>
-    <td class="tg-ktyi">Ms Sophia Yap<br><br>Mdm Suchandra <br>Ms Hoori</td>
+    <td class="tg-ktyi">Mdm Suchandra (OIC)<br>Ms Sophia Yap<br>Ms Hoori</td>
     <td class="tg-ktyi">Computer Lab 2</td>
     <td class="tg-7yig">3.00 – 4.30pm</td>
     <td class="tg-7yig">(Selected)</td>
@@ -58,7 +58,7 @@ Clubs and Societies
   </tr>
   <tr>
     <td class="tg-ktyi">Science &amp; Environment Club</td>
-    <td class="tg-ktyi">Ms Nancy Sim (OIC)<br>Ms Nadia Begam <br>Ms Joanne Ng</td>
+    <td class="tg-ktyi">Ms Joanne Ng (OIC)<br>Ms Nadia Begam <br>Ms Nancy Sim</td>
     <td class="tg-ktyi">Physics Lab 2</td>
     <td class="tg-7yig">3.00 – 5.00pm</td>
     <td class="tg-7yig">(Selected)</td>

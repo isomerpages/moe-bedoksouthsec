@@ -1,10 +1,9 @@
 ---
-title: Dance Society & Wushu
+title: Dance Society &amp; Wushu
 permalink: /cca/performing-arts/dance-society/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 Dance Society/Wushu
 =============
 
@@ -26,19 +25,16 @@ As members of the society, it is important to inculcate empathy and encourage st
 Ms Low Mei Foong  (OIC)  
 Ms Zhao Xiumin  
 Ms Tan Wan Ning
-
 Mr Tan Han Yuen (Wushu)
-
-
 
 <b>And External Instructors</b>
 
 
 ### Our Vision
 
-4Es: Experience, Enrich, Engage and Explore   
+4Es: Experience, Enrich, Engage and Explore&nbsp;  
 
-### Achievements & Participation
+### Achievements &amp; Participation
 
 
 <b>Achievements:</b>
@@ -90,7 +86,7 @@ Mr Tan Han Yuen (Wushu)
 
 <b>Participation:</b>
 
-1\.  Secondary One CCA Fair & Orientation<br>
+1\.  Secondary One CCA Fair &amp; Orientation<br>
 2\.  Chinese New Year Celebration<br>
 3\.  Bedok Community Centre National Day Dinner Performance
 

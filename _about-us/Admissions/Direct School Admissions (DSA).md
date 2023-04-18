@@ -56,7 +56,7 @@ Students who enter our school through DSA-Sec will take on active roles in our d
 | Talent Area | Programmes and activities that students can expect to participate in  | 
 | -------- | -------- |
 | Sports &amp; Games     | 1)	Immediate enrolment in the sports CCA for the talent area <br>2)	Attend at least 1 external programme with the National Sports Association or with ActiveSG <br>3)	Participate in Sports Leaders Programme by ActiveSG <br>4)	Be involved in the planning and execution of the Annual Sports CCA Camp<br>5)	Participate in the National School Games for each talent area at the zonal/ national level | 
-| Outdoor Adventure     | 1)	Experience in the following activities <br> a.	Expedition-based activities: hiking and cycling <br>b.	Water activities: kayaking, stand-up paddle, sailing, swimming <br>c.	Height activities: climbing, abseiling and ropes courses <br> 2)	Courses in outdoor or adventure-based skills<br>a.	Technical certification courses in climbing and kayaking<br>b.	Campcraft course|
+| Outdoor Adventure     | 1)	Experience in the following activities <br>a.	Expedition-based activities: hiking and cycling <br>b.	Water activities: kayaking, stand-up paddle, sailing, swimming <br>c.	Height activities: climbing, abseiling and ropes courses <br><br> 2)	Courses in outdoor or adventure-based skills<br>a.	Technical certification courses in climbing and kayaking<br>b.	Campcraft course|
 
 ### 3. DSA-Sec Selection Criteria and Process
 ------------------------------------------------------

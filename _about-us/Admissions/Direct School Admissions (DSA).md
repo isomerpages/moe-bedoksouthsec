@@ -7,7 +7,7 @@ third_nav_title: Admissions
 Admissions
 ==========
 
-### Appeal for School Transfer After Secondary One Posting
+### 1. Direct School Admission (DSA)
 ------------------------------------------------------
 
 Application for Appeal to Transfer to Bedok South Secondary after Secondary One Posting 2022 is meant for Primary 6 students who have sat for the PSLE in 2021.

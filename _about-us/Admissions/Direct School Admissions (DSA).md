@@ -54,3 +54,11 @@ Students who enter our school through DSA-Sec will take on active roles in our d
 (i)	**Self-awareness and self-management** skills to achieve personal well-being physically, emotionally and mentally;
 (ii)	**Social awareness, interpersonal** and **leadership** skills to build positive **relationships** and lead others; and
 (iii)	**Skills** and **knowledge** of sports and the outdoors to lead themselves and others towards living a healthy and balanced life.
+
+
+
+| Talent Area | Programmes and activities that students can expect to participate in  | 
+| -------- | -------- |
+| Sports &amp; Games     | Text     | 
+| Outdoor Adventure     | Text     | 
+

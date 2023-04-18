@@ -15,14 +15,14 @@ Direct School Admission for secondary schools (DSA-Sec) allows students to apply
 For 2023, Bedok South Secondary School will offer Secondary One places to aspiring students with the desire to be developed under our key distinctive programmes via the DSA-Sec Exercise. We are looking for students who are passionate about these areas and are willing to contribute to the school and society. The key distinctive programmes are:
 
 (i)	Entrepreneurship and Innovation; and
-(ii)	Sports and Games: 
-a.	Badminton (Boys &amp; Girls)
-b.	Floorball (Boys &amp; Girls)
-c.	Football (Boys)
-d.	Netball (Girls)
-e.	Outdoor Adventure (Boys &amp; Girls)
-f.	Swimming (Boys &amp; Girls)
-g.	Basketball (Boys)
+<br>(ii)	Sports and Games: 
+<br>a.	Badminton (Boys &amp; Girls)
+<br>b.	Floorball (Boys &amp; Girls)
+<br>c.	Football (Boys)
+<br>d.	Netball (Girls)
+<br>e.	Outdoor Adventure (Boys &amp; Girls)
+<br>f.	Swimming (Boys &amp; Girls)
+<br>g.	Basketball (Boys)
 
 ### 2. Our Distinctive Programmes
 ------------------------------------------------------
@@ -35,11 +35,7 @@ Students who enter our school through DSA-Sec will take on active roles in our d
 
 **Key Objective:** To develop in our students’ **life-long values, skills** and **competencies** to lead themselves and others as: 
 
-(i)	**Creative and critical thinkers** who approach STEM-related problems and issues with an innovative mindset;
-
-(ii)	**Effective communicators and collaborators** who are confident in communication and able to work in teams or independently; and
-
-(iii)	**Citizens who serve with conviction and empathy** by contributing back to the community
+(i)	**Creative and critical thinkers** who approach STEM-related problems and issues with an innovative mindset; <br>(ii)	**Effective communicators and collaborators** who are confident in communication and able to work in teams or independently; and <br>(iii)	**Citizens who serve with conviction and empathy** by contributing back to the community
 
 
 
@@ -52,8 +48,8 @@ Students who enter our school through DSA-Sec will take on active roles in our d
 **Key Objective:** To develop in our students **life-long values, skills** and **competencies** to lead themselves and others in living an active, healthy and fulfilling life, including:
 
 (i)	**Self-awareness and self-management** skills to achieve personal well-being physically, emotionally and mentally;
-(ii)	**Social awareness, interpersonal** and **leadership** skills to build positive **relationships** and lead others; and
-(iii)	**Skills** and **knowledge** of sports and the outdoors to lead themselves and others towards living a healthy and balanced life.
+<br>(ii)	**Social awareness, interpersonal** and **leadership** skills to build positive **relationships** and lead others; and
+<br>(iii)	**Skills** and **knowledge** of sports and the outdoors to lead themselves and others towards living a healthy and balanced life.
 
 
 

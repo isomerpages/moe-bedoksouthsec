@@ -36,5 +36,7 @@ Students who enter our school through DSA-Sec will take on active roles in our d
 **Key Objective:** To develop in our students’ **life-long values, skills** and **competencies** to lead themselves and others as: 
 
 (i)	**Creative and critical thinkers** who approach STEM-related problems and issues with an innovative mindset;
+
 (ii)	**Effective communicators and collaborators** who are confident in communication and able to work in teams or independently; and
+
 (iii)	**Citizens who serve with conviction and empathy** by contributing back to the community

@@ -8,29 +8,25 @@ Direct School Admissions (DSA)
 
 ### 1. Direct School Admission (DSA)
 
+Direct School Admission for secondary schools (DSA-Sec) allows students to apply to some schools before taking the Primary School Leaving Examination (PSLE). Students may apply based on their talent in sports, CCAs and specific academic areas.
 
-Direct School Admission for secondary schools (DSA-Sec) allows students to apply to some schools before taking the PSLE. Students apply based on their talent in sports, CCAs and specific academic areas.  
-
-
-For 2022, Bedok South Secondary School will offer Secondary One places to aspiring students with the desire to be developed under our key distinctive programmes via the DSA-Sec Exercise. We are looking for students who are passionate about these areas and are willing to contribute to the school and society. The key distinctive programmes are:
-
+For 2023, Bedok South Secondary School will offer Secondary One places to aspiring students with the desire to be developed under our key distinctive programmes via the DSA-Sec Exercise. We are looking for students who are passionate about these areas and are willing to contribute to the school and society. The key distinctive programmes are:
 
 
 (i)      Entrepreneurship and Innovation: Innovation; and
 
 (ii)     Sports and Games:
 
-*    Badminton (Boys &amp; Girls)
+a.    Badminton (Boys &amp; Girls)
+b.    Floorball (Boys &amp; Girls)
+ 
+c.  Football (Boys)
+ 
+d.  Netball (Girls)
 
-*    Floorball (Boys &amp; Girls)
- 
-*    Football (Boys)
- 
-*    Netball (Girls)
- 
-*    Outdoor Adventure (Boys &amp; Girls)
- 
-*    Swimming (Boys &amp; Girls)
+e. Outdoor Adventure (Boys &amp; Girls)
+
+f. Swimming (Boys &amp; Girls)
 
 
 

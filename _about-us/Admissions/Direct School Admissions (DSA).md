@@ -46,3 +46,11 @@ Students who enter our school through DSA-Sec will take on active roles in our d
 |Talent Area| Programmes and activities that students can expect to participate in | 
 | -------- | -------- | 
 | Entrepreneurship &amp; Innovation     | 1)	Specialized STEM Workshop for Sec 1 &amp; 2 (App Development Workshop for 2023) <br>2)	Pitching workshops for Sec 1 &amp; 2 (with SUTD) <br> 3)	MOE Innovation Programme (Secondary) for selected students in Secondary 3  |
+
+**b)	Sports and Education Programme – Learning for Life Programme (LLP): SHAPE@BDS** (A **S**chool of **H**ealthy **A**nd **P**hysically Educated **E**nthusiasts at Bedok South Secondary) <b>through Sports and the Outdoors </b>
+
+**Key Objective:** To develop in our students **life-long values, skills** and **competencies** to lead themselves and others in living an active, healthy and fulfilling life, including:
+
+(i)	Self-awareness and self-management skills to achieve personal well-being physically, emotionally and mentally;
+(ii)	Social awareness, interpersonal and leadership skills to build positive relationships and lead others; and
+(iii)	Skills and knowledge of sports and the outdoors to lead themselves and others towards living a healthy and balanced life.

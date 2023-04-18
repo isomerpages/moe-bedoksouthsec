@@ -40,3 +40,10 @@ Students who enter our school through DSA-Sec will take on active roles in our d
 (ii)	**Effective communicators and collaborators** who are confident in communication and able to work in teams or independently; and
 
 (iii)	**Citizens who serve with conviction and empathy** by contributing back to the community
+
+
+
+|Talent Area| Programmes and activities that students can expect to participate in | 
+| -------- | -------- | 
+| Entrepreneurship &amp; Innovation     | Text     | 
+

@@ -3,7 +3,7 @@ title: Admissions
 permalink: /about-us/admissions/
 description: ""
 ---
-Admissions
+Direct School Admissions (DSA)
 ==========
 
 ### Appeal for School Transfer After Secondary One Posting

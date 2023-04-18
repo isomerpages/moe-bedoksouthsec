@@ -45,5 +45,4 @@ Students who enter our school through DSA-Sec will take on active roles in our d
 
 |Talent Area| Programmes and activities that students can expect to participate in | 
 | -------- | -------- | 
-| Entrepreneurship &amp; Innovation     | Text     | 
-
+| Entrepreneurship &amp; Innovation     | 1)	Specialized STEM Workshop for Sec 1 &amp; 2 (App Development Workshop for 2023) <br>2)	Pitching workshops for Sec 1 &amp; 2 (with SUTD) <br> 3)	MOE Innovation Programme (Secondary) for selected students in Secondary 3  |

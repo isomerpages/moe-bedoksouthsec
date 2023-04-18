@@ -51,6 +51,6 @@ Students who enter our school through DSA-Sec will take on active roles in our d
 
 **Key Objective:** To develop in our students **life-long values, skills** and **competencies** to lead themselves and others in living an active, healthy and fulfilling life, including:
 
-(i)	Self-awareness and self-management skills to achieve personal well-being physically, emotionally and mentally;
-(ii)	Social awareness, interpersonal and leadership skills to build positive relationships and lead others; and
-(iii)	Skills and knowledge of sports and the outdoors to lead themselves and others towards living a healthy and balanced life.
+(i)	**Self-awareness and self-management** skills to achieve personal well-being physically, emotionally and mentally;
+(ii)	**Social awareness, interpersonal** and **leadership** skills to build positive **relationships** and lead others; and
+(iii)	**Skills** and **knowledge** of sports and the outdoors to lead themselves and others towards living a healthy and balanced life.

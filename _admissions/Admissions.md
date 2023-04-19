@@ -29,6 +29,9 @@ e. Outdoor Adventure (Boys &amp; Girls)
 f. Swimming (Boys &amp; Girls)
 
 
+g. Basketball (Boys)
+
+
 
 
 ### 2. Our Distinctive Programmes

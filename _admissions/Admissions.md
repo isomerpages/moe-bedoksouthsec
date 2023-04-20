@@ -18,6 +18,7 @@ For 2023, Bedok South Secondary School will offer Secondary One places to aspiri
 (ii)     Sports and Games:
 
 a.    Badminton (Boys &amp; Girls)
+
 b.    Floorball (Boys &amp; Girls)
  
 c.  Football (Boys)

@@ -5,6 +5,8 @@ links:
   - title: Curriculum
     url: /curriculum
     sublinks:
+      - title: Full Subject-Based Banding
+        url: /curriculum/Full-Subject-Based-Banding-FSBB/
       - title: Applied Learning Programme
         url: /curriculum/applied-learning-programme-alp-project-s-h-i-n-e
       - title: Aesthetics
@@ -27,8 +29,6 @@ links:
         url: /curriculum/principles-of-accounts
       - title: Science
         url: /curriculum/science
-      - title: Full Subject-Based Banding
-        url: /curriculum/Full-Subject-Based-Banding-FSBB/
   - title: Student Development
     url: /student-development/learning-for-life-programme-llp-shape-at-bds/
     sublinks:

@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Admissions.md
-      - Direct School Admission (DSA)/.keep

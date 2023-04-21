@@ -112,7 +112,7 @@ lead themselves and others in living an active, healthy and fulfilling life, inc
 <thead>
   <tr>
     <th class="tg-6k70"><span style="color:#222;background-color:#B0B0B0">Talent Area</span></th>
-    <th class="tg-pll1">Programmes and activities that students can expect to participate in<br>(subject to Safe Management Measures and safety considerations)</th>
+    <th class="tg-pll1">Programmes and activities that students can expect to participate in<br></th>
   </tr>
 </thead>
 <tbody>

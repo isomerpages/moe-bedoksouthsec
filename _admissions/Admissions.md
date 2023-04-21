@@ -13,7 +13,7 @@ Direct School Admission for secondary schools (DSA-Sec) allows students to apply
 For 2023, Bedok South Secondary School will offer Secondary One places to aspiring students with the desire to be developed under our key distinctive programmes via the DSA-Sec Exercise. We are looking for students who are passionate about these areas and are willing to contribute to the school and society. The key distinctive programmes are:
 
 
-(i)      Entrepreneurship and Innovation: Innovation; and
+(i)      Entrepreneurship and Innovation; and
 
 (ii)     Sports and Games:
 
@@ -127,7 +127,7 @@ lead themselves and others in living an active, healthy and fulfilling life, inc
 </tbody>
 </table>
 
-### 3. Application Procedure
+### 3. DSA-Sec Selection Criteria and Process
 
 
 

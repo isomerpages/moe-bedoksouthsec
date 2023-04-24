@@ -2,4 +2,4 @@ collections:
   admissions:
     output: true
     order:
-      - Admissions.md
+      - Direct School Admission (DSA).md

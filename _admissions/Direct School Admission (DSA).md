@@ -1,5 +1,5 @@
 ---
-title: Admissions
+title: Direct School Admission (DSA)
 permalink: /about-us/admissions/
 description: ""
 ---

@@ -11,7 +11,7 @@ Please click [here](https://go.gov.sg/2023seabregistrationinformation) for the R
 
 Dear parents/ guardians,  
 
-We would like to invite you to sign up for a series of online parenting webinars organised by the Parent Support Group and Morning Star Community Services for the month of April, to help you equip your teenager to gain confidence, competence and resilience to cope with challenges in a positive and healthy manner. Please click [here](https://www.morningstar.org.sg/triple-p/l2-sec-run-4) to find out more and register for the webinars.
+We would like to invite you to sign up for a series of parenting webinars organised by the Parent Support Group and Morning Star Community Services for the month of May, to help you prepare your teenagers to manage school and peer pressures, as well as develop self-discipline and accountability while handling peer relationships. Please click [here](https://www.morningstar.org.sg/triple-p/l2-sec-run-5/) to find out more and register for the webinars.
 
 
 #### Release of 2022 GCE O-Level Examination Results and 2023 Joint Admissions Exercise

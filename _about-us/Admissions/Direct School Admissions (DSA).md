@@ -58,7 +58,20 @@ Students who enter our school through DSA-Sec will take on active roles in our d
 | Sports &amp; Games     | 1)	Immediate enrolment in the sports CCA for the talent area <br>2)	Attend at least 1 external programme with the National Sports Association or with ActiveSG <br>3)	Participate in Sports Leaders Programme by ActiveSG <br>4)	Be involved in the planning and execution of the Annual Sports CCA Camp<br>5)	Participate in the National School Games for each talent area at the zonal/ national level | 
 | Outdoor Adventure     | 1)	Experience in the following activities <br>a.	Expedition-based activities: hiking and cycling <br>b.	Water activities: kayaking, stand-up paddle, sailing, swimming <br>c.	Height activities: climbing, abseiling and ropes courses <br><br> 2)	Courses in outdoor or adventure-based skills<br>a.	Technical certification courses in climbing and kayaking<br>b.	Campcraft course|
 
-### 3. DSA-Sec Selection Criteria and Process
-------------------------------------------------------
+### 3. Application Procedure
 
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at **https://www.moe.gov.sg/dsa-sec.**
+**Bedok South Secondary School: Direct School Admission (DSA-SEC) to 2024 Secondary 1**
+
+Bedok South Secondary School endeavours to provide our students with many opportunities to develop their curricular and co-curricular interests. This exposure has led many of our students to discover their passion, strengths and potential, and fueled their desire to pursue a more advanced level of learning in the areas where they have displayed talent. The Direct School Admission (DSA-Sec) exercise provides us with the opportunity to admit students with strengths and talent in:
+
+**i)	Entrepreneurship and Innovation: Innovation – ALP Project SHINE**
+**<br>ii)	Sports and Games – LLP SHAPE@BDS
+<br>a.	Badminton (Boys &amp; Girls)
+<br>b.	Floorball (Boys &amp; Girls)
+<br>c.	Football (Boys)
+<br>d.	Netball (Girls)
+<br>e.	Outdoor Adventure (Boys &amp; Girls)
+<br>f.	Swimming (Boys &amp; Girls)
+<br>g.	Basketball (Boys)**
+
+Bedok South Secondary School invites Primary 6 students with **<u>any</u>** of the following attributes and achievements to apply through the DSA-Sec exercise:

@@ -98,3 +98,14 @@ All applicants will be informed of the outcome of their application by **<u>11 S
 **<i>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</i>** 
 
 **<u>The application timeline for 2023 is summarised as follows:</u>**
+
+
+| **Date** | **Event** | 
+| -------- | -------- | 
+| 4 May 2023, 11:00 am     | Application for DSA opens – **to be done online via the centralized DSA-Sec portal**    |
+| 31 May 2023, 3:00 pm     | Closing date for application     |
+| 7 July 2023     | Notification of short-listed candidates     |
+| 10 July to 26 August 2023     | •	School-based interview for short-listed applicants<br>•	Administration of Trials and Performance Task     |
+| **Stage 1: Selection Stage**<br><br>By 11 September 2023 | All applicants will receive a reply from the school on the outcome of their application informing them if:<br>(a) They have been given a Confirmed Offer (CO) <br>(b) They are placed on the Waiting List (WL) <br>(c) The school is unable to offer them a place |
+| **Stage 2: School Preference Submission** <br><br>23 – 27 October 2023| School Preference Form to be submitted physically at respective primary schools or online via the DSA-Sec Portal.|
+| **Stage 3: Results Release Stage**<br><br>Late November 2023| Release of DSA-Sec Results together with PSLE results     |

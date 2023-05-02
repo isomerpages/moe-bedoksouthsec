@@ -75,3 +75,26 @@ Bedok South Secondary School endeavours to provide our students with many opport
 <br>g.	Basketball (Boys)**
 
 Bedok South Secondary School invites Primary 6 students with **<u>any</u>** of the following attributes and achievements to apply through the DSA-Sec exercise:
+
+**<u>a)	Via Entrepreneurship and Innovation – Innovation</u>** 
+<br>(i)	Represented the school and achieved accolades in inter-disciplinary competitions or led/ served as a member of inter-/ intra-school projects or IP-related competitions which require participants to generate innovative solutions to problems and issues
+<br>(ii)	Held leadership position/s in inter-disciplinary clubs or societies that require participants to generate innovative solutions to problems and issues
+
+**<u>b)	Via Sports and Games</u>** 
+<br>(i)	Possesses strong aptitude and interest in sports and the outdoors
+<br>(ii)	Represented primary school at the zonal/ national level in a particular sport
+<br>(iii)	Held leadership position/s in their CCA in primary school e.g. CCA  captain/ chairman
+
+**<u>Important</u>** 
+<br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from **<u>4 May 2023 at 11:00 am</u>**  to **<u>31 May 2022 at 3:00 pm</u>** . For more details, please click here to access the MOE website at **<u>www.moe.gov.sg/dsa-sec</u>** .
+ 
+
+Please note that **<u>meeting all the criteria does not guarantee</u>**  that the student will be shortlisted/ given an offer.
+
+Only short-listed applicants are required to attend an interview by the Selection Panel from **<u>10 July to 26 August 2023.</u>** 
+
+All applicants will be informed of the outcome of their application by **<u>11 September 2023</u>** via email or post. Successful applicants’ primary schools will follow-up on other actions of the DSA exercise. Results of posting will be released on the day of the release of the PSLE results.
+
+**<i>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</i>** 
+
+**<u>The application timeline for 2023 is summarised as follows:</u>** 

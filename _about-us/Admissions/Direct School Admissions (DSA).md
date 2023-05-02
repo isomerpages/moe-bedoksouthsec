@@ -59,7 +59,7 @@ Students who enter our school through DSA-Sec will take on active roles in our d
 | Outdoor Adventure     | 1)	Experience in the following activities <br>a.	Expedition-based activities: hiking and cycling <br>b.	Water activities: kayaking, stand-up paddle, sailing, swimming <br>c.	Height activities: climbing, abseiling and ropes courses <br><br> 2)	Courses in outdoor or adventure-based skills<br>a.	Technical certification courses in climbing and kayaking<br>b.	Campcraft course|
 
 ### 3. Application Procedure
-
+------------------------------------------------------
 **Bedok South Secondary School: Direct School Admission (DSA-SEC) to 2024 Secondary 1**
 
 Bedok South Secondary School endeavours to provide our students with many opportunities to develop their curricular and co-curricular interests. This exposure has led many of our students to discover their passion, strengths and potential, and fueled their desire to pursue a more advanced level of learning in the areas where they have displayed talent. The Direct School Admission (DSA-Sec) exercise provides us with the opportunity to admit students with strengths and talent in:
@@ -111,7 +111,7 @@ All applicants will be informed of the outcome of their application by **<u>11 S
 | **Stage 3: Results Release Stage**<br><br>Late November 2023| Release of DSA-Sec Results together with PSLE results|
 
 ### 4.   Documentation
-      
+------------------------------------------------------      
 **MOE Mainstream School Applicants**
 <br><br>Applicants **<u>need not</u>** 
 <br>•	Submit any academic and non-academic achievements related to their primary school. Information such as their P5 and P6 academic results, CCA, school-based activities/ achievements/ awards, NAPFA results, etc. will be shared directly with the DSA-Sec secondary schools that they apply to. 
@@ -143,4 +143,3 @@ For more information about the DSA Exercise, you may:
 | -------- | -------- | -------- |
 | Entrepreneurship &amp; Innovation      | Ms Denise Wong     | [wong_ming_zhi_denise@schools.gov.sg ](wong_ming_zhi_denise@schools.gov.sg )     |
 | Sports &amp; Games     | Mr Edzra Iskandar     | [edzra_iskandar@schools.gov.sg](edzra_iskandar@schools.gov.sg)     |
-

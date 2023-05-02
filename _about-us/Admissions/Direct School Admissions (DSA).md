@@ -97,4 +97,4 @@ All applicants will be informed of the outcome of their application by **<u>11 S
 
 **<i>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</i>** 
 
-**<u>The application timeline for 2023 is summarised as follows:</u>** 
+**<u>The application timeline for 2023 is summarised as follows:</u>**

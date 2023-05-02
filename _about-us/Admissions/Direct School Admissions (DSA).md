@@ -108,4 +108,39 @@ All applicants will be informed of the outcome of their application by **<u>11 S
 | 10 July to 26 August 2023     | •	School-based interview for short-listed applicants<br>•	Administration of Trials and Performance Task     |
 | **Stage 1: Selection Stage**<br><br>By 11 September 2023 | All applicants will receive a reply from the school on the outcome of their application informing them if:<br>(a) They have been given a Confirmed Offer (CO) <br>(b) They are placed on the Waiting List (WL) <br>(c) The school is unable to offer them a place |
 | **Stage 2: School Preference Submission** <br><br>23 – 27 October 2023| School Preference Form to be submitted physically at respective primary schools or online via the DSA-Sec Portal.|
-| **Stage 3: Results Release Stage**<br><br>Late November 2023| Release of DSA-Sec Results together with PSLE results     |
+| **Stage 3: Results Release Stage**<br><br>Late November 2023| Release of DSA-Sec Results together with PSLE results|
+
+### 4.   Documentation
+      
+**MOE Mainstream School Applicants**
+<br><br>Applicants **<u>need not</u>** 
+<br>•	Submit any academic and non-academic achievements related to their primary school. Information such as their P5 and P6 academic results, CCA, school-based activities/ achievements/ awards, NAPFA results, etc. will be shared directly with the DSA-Sec secondary schools that they apply to. 
+<br><br>Applicants **<u>may need</u> to** 
+<br>•	Provide documentary proof of non-school based activities and achievements. This may include participation/ contribution in external competitions/ events, Values-in-Action programmes, other special talents, and contributions to school and the community, if any.
+<br><br>**Non-MOE Mainstream School Applicants**
+<br>**Applicants are required to**
+<br>•	Submit a portfolio of academic and non-academic awards and achievements, including leadership experiences, participation in Values-in-Action programmes, and evidence of other special talents and contributions to school and the community (if any), for verification against the data provided during application.
+<br><br><u>**Selection**</u>
+<br>Only shortlisted candidates will be contacted and applicants <u>will be required to visit our school</u> in person. Fully in-person selection will be held at Bedok South Secondary School for all talent areas.  This includes face-to-face interview session or trials or both.
+
+•	We will select candidates based on diverse academic and non-academic criteria such as the following:
+<br>a)	**Entrepreneurship and Innovation**: Problem-solving skills and clarity of purpose and values, as well as evidence of interest in innovation through participation in relevant projects and competitions. A situational task may be set during the interview with shortlisted candidates. 
+
+b)	**Sports and Games**: Game skills, passion, experience and clarity of purpose and values. Candidates may submit existing video footage (of not more than 10 mins) of them in action during CCA training, competitions and National School Games. 
+
+The school will get in touch with shortlisted candidates for an interview followed by sports trials. 
+
+Through this exercise, successful applicants via our distinctive programmes will gain admission into Bedok South Secondary School for the academic year beginning January 2024. 
+**Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected from years 1 – 4/ 5.**
+
+For more information about the DSA Exercise, you may:
+<br>o	Visit MOE DSA-Sec website at  **<u>www.moe.gov.sg/dsa-sec</u>**
+<br>o	Contact the following staff for further clarification:
+
+
+
+| **DSA** | **Contact Person** | **Email** |
+| -------- | -------- | -------- |
+| Entrepreneurship &amp; Innovation      | Ms Denise Wong     | [wong_ming_zhi_denise@schools.gov.sg ](wong_ming_zhi_denise@schools.gov.sg )     |
+| Sports &amp; Games     | Mr Edzra Iskandar     | [edzra_iskandar@schools.gov.sg](edzra_iskandar@schools.gov.sg)     |
+

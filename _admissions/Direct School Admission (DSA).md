@@ -204,7 +204,7 @@ Through this exercise, successful applicants via our distinctive programmes will
 **Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected from years 1 – 4/ 5.**
 
 For more information about the DSA Exercise, you may:
-<br>o	Visit MOE DSA-Sec website at  **<u>[www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec)</u>**
+<br>o	Visit MOE DSA-Sec website at  **<u>[www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec)</u>.**
 <br>o	Contact the following staff for further clarification:
 
 

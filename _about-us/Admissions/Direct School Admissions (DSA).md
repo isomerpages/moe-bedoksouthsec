@@ -134,12 +134,12 @@ Through this exercise, successful applicants via our distinctive programmes will
 **Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected from years 1 – 4/ 5.**
 
 For more information about the DSA Exercise, you may:
-<br>o	Visit MOE DSA-Sec website at  **<u>[www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec)</u>**.
+<br>o	Visit MOE DSA-Sec website at  [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 <br>o	Contact the following staff for further clarification:
 
 
 
 | **DSA** | **Contact Person** | **Email** |
 | -------- | -------- | -------- |
-| Entrepreneurship &amp; Innovation      | Ms Denise Wong     | [wong_ming_zhi_denise@schools.gov.sg ](wong_ming_zhi_denise@schools.gov.sg )     |
-| Sports &amp; Games     | Mr Edzra Iskandar     | [edzra_iskandar@schools.gov.sg](edzra_iskandar@schools.gov.sg)     |
+| Entrepreneurship &amp; Innovation      | Ms Denise Wong     | [wong_ming_zhi_denise@schools.gov.sg ](mailto:wong_ming_zhi_denise@schools.gov.sg )     |
+| Sports &amp; Games     | Mr Edzra Iskandar     | [edzra_iskandar@schools.gov.sg](mailto:edzra_iskandar@schools.gov.sg)     |

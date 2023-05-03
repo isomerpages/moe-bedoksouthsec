@@ -211,5 +211,5 @@ For more information about the DSA Exercise, you may:
 
 | **DSA** | **Contact Person** | **Email** |
 | -------- | -------- | -------- |
-| Entrepreneurship &amp; Innovation      | Ms Denise Wong     | [wong_ming_zhi_denise@schools.gov.sg ](wong_ming_zhi_denise@schools.gov.sg )     |
+| Entrepreneurship &amp; Innovation      | Ms Denise Wong     | [wong_ming_zhi_denise@schools.gov.sg](mailto="wong_ming_zhi_denise@schools.gov.sg")     |
 | Sports &amp; Games     | Mr Edzra Iskandar     | [edzra_iskandar@schools.gov.sg](edzra_iskandar@schools.gov.sg)     |

@@ -86,7 +86,7 @@ Bedok South Secondary School invites Primary 6 students with **<u>any</u>** of t
 <br>(iii)	Held leadership position/s in their CCA in primary school e.g. CCA  captain/ chairman
 
 **<u>Important</u>** 
-<br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from **<u>4 May 2023 at 11:00 am</u>**  to **<u>31 May 2022 at 3:00 pm</u>** . For more details, please click here to access the MOE website at **<u>[www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec)</u>** .
+<br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from **<u>4 May 2023 at 11:00 am</u>**  to **<u>31 May 2022 at 3:00 pm</u>** . For more details, please click here to access the MOE website at [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
  
 
 Please note that **<u>meeting all the criteria does not guarantee</u>**  that the student will be shortlisted/ given an offer.
@@ -120,7 +120,7 @@ All applicants will be informed of the outcome of their application by **<u>11 S
 <br><br>**Non-MOE Mainstream School Applicants**
 <br>**Applicants are required to**
 <br>•	Submit a portfolio of academic and non-academic awards and achievements, including leadership experiences, participation in Values-in-Action programmes, and evidence of other special talents and contributions to school and the community (if any), for verification against the data provided during application.
-<br><br><u>**Selection**</u>
+<br><u>**Selection**</u>
 <br>Only shortlisted candidates will be contacted and applicants <u>will be required to visit our school</u> in person. Fully in-person selection will be held at Bedok South Secondary School for all talent areas.  This includes face-to-face interview session or trials or both.
 
 •	We will select candidates based on diverse academic and non-academic criteria such as the following:

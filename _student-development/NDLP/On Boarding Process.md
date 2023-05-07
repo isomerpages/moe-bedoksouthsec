@@ -4,9 +4,6 @@ permalink: /student-development/nldp/on-boarding-process/
 description: ""
 third_nav_title: NDLP
 ---
-
-
-
 On-Boarding Process
 ===================
 
@@ -14,13 +11,14 @@ The PLD will be used in tandem with the national e-learning platform – the Sin
 
   
 
-As part of NDLP, the school has made arrangement for the purchase of personal learning device (PLD) for your child / ward. 
+As part of NDLP, the school has made arrangement for the purchase of personal learning device (PLD) for your child / ward.&nbsp;
 
   
 
 Every BDSian will be using the Apple iPad as their PLD. Every iPad will come bundled with the Apple pencil and keyboard to maximise the affordances of the iPad as a learning tool.
 
-![PLD](/images/Apple3.jpg)
+
+![](/images/apple0705.jpg)
 
 The enhanced device bundle includes 3-year AppleCare+ for the iPad, associated accessories, two repairs or one replacement claim within the 3-year insurance/warranty period and fortnightly courier service by Contractor to collect damaged devices from school. Alternatively, parents can choose to send the iPad directly to one of the Apple Service Centres located islandwide.
 

@@ -2,7 +2,7 @@
 title: Direct School Admissions (DSA)
 permalink: /about-us/admissions/
 description: ""
-third_nav_title: Admissions
+third_nav_title: Direct School Admission (DSA)
 ---
 Direct School Admissions (DSA)
 ==========

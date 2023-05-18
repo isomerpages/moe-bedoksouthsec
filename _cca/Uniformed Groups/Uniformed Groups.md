@@ -64,7 +64,7 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ryel">Scouts (B)</td>
-    <td class="tg-ryel">Mr Eric Lim(OIC)</td>
+    <td class="tg-ryel">Mr Eric Choo (OIC)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm</td>
     <td class="tg-ryel">2.30 pm – 5.30 pm</td>
   </tr>
@@ -75,13 +75,13 @@ Uniformed Groups
     <td class="tg-ryel">(Level 1 Grass Patch Area beside Spiral Staircase)</td>
   </tr>
   <tr>
-    <td class="tg-ryel">NCDCC</td>
+    <td class="tg-ryel">NCDCC (B &amp; G)</td>
     <td class="tg-ryel">Miss Corrina Teo (OIC)<br>Ms Syafiqah Begum <br></td>
     <td class="tg-ryel">3.30 pm – 5.30 pm</td>
     <td class="tg-ryel">2.30 pm – 5.30 pm</td>
   </tr>
   <tr>
-    <td class="tg-ryel">(B &amp; G)</td>
+    <td class="tg-ryel"></td>
     <td class="tg-ryel">Miss Syafiqah Begum</td>
     <td class="tg-ryel">(Level 4 outside NCDCC room)</td>
     <td class="tg-ryel">(Level 4 outside NCDCC room)</td>
@@ -104,5 +104,4 @@ Uniformed Groups
 <br>
 
 
-<img src="/images/UG.png"  
-style="width:75%">
+<img src="/images/UG.png" style="width:75%">

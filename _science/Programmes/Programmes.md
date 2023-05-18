@@ -100,3 +100,5 @@ There was also a facility tour, where our BDSians got to understand the processe
 ### Learning Journey to NUS Science Demo Lab
 
 On 30 Mar, 13, 25 and 27 Apr, our secondary four physics students were given the opportunity to visit the Wonders of Science at NUS Science Demo Lab. It was a guided tour and the students had the opportunity to witness various science demonstrations that were visually impressive. Through interactive and hands-on activities, the students were able to review and deepen their understanding of various Physics concepts, ranging from forces and energy to waves and electricity. The demonstrations were interesting and had been enjoyable and fruitful for the students. &nbsp;It is our hope that such learning journey will ignite greater interest and passion for Science among the students.
+
+![](/images/nus123.jpg)

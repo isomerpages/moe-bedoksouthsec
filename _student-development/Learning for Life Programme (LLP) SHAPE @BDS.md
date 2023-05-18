@@ -41,7 +41,7 @@ This LLP is aligned to the school’s mission of building character, producing l
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-cyh9" rowspan="6">Student Programmes (please add additional rows if necessary)</td>
+    <td class="tg-cyh9" rowspan="6">Student Programmes</td>
     <td class="tg-dakm">Title and Brief Description</td>
     <td class="tg-jego">Level(s) of students involved</td>
   </tr>

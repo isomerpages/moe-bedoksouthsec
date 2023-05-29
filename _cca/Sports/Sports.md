@@ -81,8 +81,8 @@ Sports
   <tr>
     <td class="tg-dgl5">Swimming</td>
     <td class="tg-dgl5">Ms Cindee Koh (OIC)</td>
-    <td class="tg-9hzb">Friday</td>
-    <td class="tg-9hzb">1.30 – 3.00 pm<br>(<span style="font-style:italic">SUTD Pool</span>)</td>
+    <td class="tg-9hzb">Wednesday</td>
+    <td class="tg-9hzb">4.00 – 6.00 pm<br>(<span style="font-style:italic">Bedok Heartbeat Pool</span>)</td>
   </tr>
   <tr>
     <td class="tg-dgl5"> Basketball<br></td>
@@ -93,4 +93,4 @@ Sports
 </tbody>
 </table>
 
-<b>Note:</b> Additional training sessions may be required during competition / performance season; CCA Teachers will inform students and parents of updates where necessary.
+<b>Note:</b>&nbsp;Additional training sessions may be required during competition / performance season; CCA Teachers will inform students and parents of updates where necessary.

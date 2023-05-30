@@ -45,7 +45,7 @@ Media Production Club
   </tr>
   <tr>
     <td class="tg-ktyi">Term 4</td>
-    <td class="tg-ktyi">•&nbsp;&nbsp;N’ level Release of Results<br>•&nbsp;&nbsp;Arts Fiesta<br>•&nbsp;&nbsp;Open House<br>•&nbsp;&nbsp;Sec 1 Orientation<br></td>
+    <td class="tg-ktyi">•&nbsp;&nbsp;N level Release of Results<br>•&nbsp;&nbsp;Arts Fiesta<br>•&nbsp;&nbsp;Open House<br>•&nbsp;&nbsp;Sec 1 Orientation<br></td>
   </tr>
 </tbody>
 </table>

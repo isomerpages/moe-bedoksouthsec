@@ -116,7 +116,7 @@ For the IT Applications (student iCON, Microsoft ProPlus and Zoom), the school w
   
 20.&nbsp;<b>Where will the data collected by DMA and IT Applications for NDLP be stored?</b>  
   
-All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies:&nbsp;[https://www.smartnation.gov.sg/why-Smart-Nation/securesmart-nation/personal-data-protection](https://www.smartnation.gov.sg/why-Smart-Nation/securesmart-nation/personal-data-protection)
+All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies:&nbsp;https://go.gov.sg/smartnationpersonaldataprotection
 
 <u><b>Questions about Edusave, Subsidies and Payment</b></u>
   

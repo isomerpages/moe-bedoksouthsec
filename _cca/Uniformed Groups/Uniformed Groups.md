@@ -35,8 +35,8 @@ Uniformed Groups
   <tr>
     <td class="tg-ryel">NCC Land (B)</td>
     <td class="tg-ryel">Mr Adrian Lim (OIC)</td>
-    <td class="tg-ryel">2.30 pm – 5.30 pm</td>
-    <td class="tg-ryel">2.30 pm – 5.30 pm</td>
+    <td class="tg-ryel">(Monday) <br>2.30 pm – 5.30 pm</td>
+    <td class="tg-ryel">(Wednesday) <br>2.30 pm – 5.30 pm</td>
   </tr>
   <tr>
     <td class="tg-ryel"></td>

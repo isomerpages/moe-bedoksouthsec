@@ -92,11 +92,10 @@ Should you have any queries about the device, insurance and warranty, you may co
 
 ### <u>AsiaPac</u>
 
-<b>Help Desk Number:</b>&nbsp;6270 8281  
-  
-<b>Help Desk Email:</b>&nbsp;pdlpapple@asiapac.com.sg  
-  
-<b>Help Desk Operating Hours:</b>&nbsp;<br>
-Mon - Thu: 0830 - 1730  
-Fri: 0830 - 1700  
-Closed on Sat, Sun &amp; Public Holidays
+
+| Contact |  |
+| -------- | -------- |
+|Help Desk Number   | 6270 8281    | 
+|Help Desk Email | pdlpapple@asiapac.com.sg   | 
+| Help Desk Operating Hours  | Mon - Thu: 0830 - 1730 <br> Fri: 0830 - 1700 <br>Closed on Sat, Sun &amp; Public Holidays | 
+

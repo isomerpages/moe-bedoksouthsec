@@ -40,7 +40,7 @@ To support you in keeping your child / ward safe online, you may refer to this a
   </tr>
   <tr>
     <td class="tg-qa5w"><span style="font-weight:bold">MOE Cyber Wellness Programme</span><br><br><span style="color:#222;background-color:#EAEAEA">This website shares more about MOE’s Cyber Wellness Programmes and Curriculum.</span><br><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Click</span> <a href="https://www.moe.gov.sg/programmes/cyber-wellness/%20"><span style="text-decoration:none;color:#076C8E">here</span></a><span style="color:#222;background-color:#EAEAEA">.</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Click</span> <a href="https://go.gov.sg/educationinsgcyberwellness"><span style="text-decoration:none;color:#076C8E">here</span></a><span style="color:#222;background-color:#EAEAEA">.</span></td>
   </tr>
   <tr>
     <td class="tg-qj4l"><span style="font-weight:bold;color:#000">SchoolBag - Keeping our teens safe online</span><br><br><span style="color:#222;background-color:#EAEAEA">From a senior specialist in MOE Guidance Branch, this article offers dos and don’ts for handling screen-related conversations with your teen.</span><br><br></td>

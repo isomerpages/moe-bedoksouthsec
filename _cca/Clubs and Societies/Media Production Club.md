@@ -31,21 +31,21 @@ Media Production Club
 <thead>
   <tr>
     <th class="tg-ktyi">Term 1</th>
-    <th class="tg-ktyi">•&nbsp;&nbsp;CNY Celebrations<br>•&nbsp;&nbsp;Total Defence Day<br></th>
+    <th class="tg-ktyi">•&nbsp;&nbsp;CCA Orientation<br>•&nbsp;&nbsp;O Level Release of Results<br>•&nbsp;&nbsp;Chinese New Year Celebrations<br>•&nbsp;&nbsp;Total Defence Day<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-ktyi">Term 2</td>
-    <td class="tg-ktyi">•&nbsp;&nbsp;Prefects’ Investiture<br>•&nbsp;&nbsp;International Friendship Day<br></td>
+    <td class="tg-ktyi">•&nbsp;&nbsp;Students Leaders Investiture<br>•&nbsp;&nbsp;International Friendship Day<br>•&nbsp;&nbsp;SYF Showcase<br>•&nbsp;&nbsp;Sports Carnival<br></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Term 3</td>
-    <td class="tg-ktyi">•&nbsp;&nbsp;National Day Observance Ceremony<br>•&nbsp;&nbsp;BDS Talent Show rehearsals &amp; Celebrations<br>•&nbsp;&nbsp;Teacher’s Day Rehearsals &amp; Celebrations<br></td>
+    <td class="tg-ktyi">•&nbsp;&nbsp;National Day Observance Ceremony<br>•&nbsp;&nbsp;BDS Got Talent rehearsal and showcase<br>•&nbsp;&nbsp;Teacher’s Day Rehearsals &amp; Celebration<br></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Term 4</td>
-    <td class="tg-ktyi">•&nbsp;&nbsp;N’ level release of results<br>•&nbsp;&nbsp;Sec 1 Orientation<br></td>
+    <td class="tg-ktyi">•&nbsp;&nbsp;N’ level Release of Results<br>•&nbsp;&nbsp;Arts Fiesta<br>•&nbsp;&nbsp;Open House<br>•&nbsp;&nbsp;Sec 1 Orientation<br></td>
   </tr>
 </tbody>
 </table>

@@ -4,8 +4,6 @@ permalink: /student-development/ndlp/resources-for-parents/
 description: ""
 third_nav_title: NDLP
 ---
-
-
 Resources for Parents
 =====================
 
@@ -34,7 +32,7 @@ To support you in keeping your child / ward safe online, you may refer to this a
 <tbody>
   <tr>
     <td class="tg-qa5w"><span style="font-weight:bold">Parent Handbook (I) and (II) on Learning with a Personal Learning Device (PLD)</span><br><br><span style="color:#222;background-color:#EAEAEA">For more digital parenting tips to help your child navigate the digital environment, please download and refer to the following handbooks.</span><br><br></td>
-    <td class="tg-9nj9"><a href="https://bedoksouthsec.moe.edu.sg/qql/slot/u755/PDLP/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_2023.pdf"><span style="text-decoration:none;color:#076C8E">Parent Handbook (I)</span></a><br><br><a href="https://bedoksouthsec.moe.edu.sg/qql/slot/u755/PDLP/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_2023.pdf"><span style="text-decoration:none;color:#076C8E">Parent Handbook (II)</span></a><br></td>
+    <td class="tg-9nj9"><a href="[Parent Handbook (I)](/files/NDLP/ip2%20-%20parent%20handbook%20(i)%20on%20learning%20with%20a%20pld_2023.pdf)"><span style="text-decoration:none;color:#076C8E">Parent Handbook (I)</span></a><br><br><a href="[Parent Handbook (II)](/files/NDLP/ip3%20-%20parent%20handbook%20(ii)%20on%20learning%20with%20a%20pld_2023.pdf)"><span style="text-decoration:none;color:#076C8E">Parent Handbook (II)</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8e6h"><span style="font-weight:bold">Parent Kit on Cyber Wellness for Your Child</span><br><br><span style="background-color:#EAEAEA">In this MOE Parent Kit, tips are provided to guide our children to use devices responsibly, and how parents can care for your child’s cyber wellness and digital literacy at home.</span><br><br></td>
@@ -42,7 +40,7 @@ To support you in keeping your child / ward safe online, you may refer to this a
   </tr>
   <tr>
     <td class="tg-qa5w"><span style="font-weight:bold">MOE Cyber Wellness Programme</span><br><br><span style="color:#222;background-color:#EAEAEA">This website shares more about MOE’s Cyber Wellness Programmes and Curriculum.</span><br><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Click</span> <a href="https://www.moe.gov.sg/programmes/cyber-wellness/%20"><span style="text-decoration:none;color:#076C8E">here</span></a><span style="color:#222;background-color:#EAEAEA">.</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Click</span> <a href="https://go.gov.sg/educationinsgcyberwellness"><span style="text-decoration:none;color:#076C8E">here</span></a><span style="color:#222;background-color:#EAEAEA">.</span></td>
   </tr>
   <tr>
     <td class="tg-qj4l"><span style="font-weight:bold;color:#000">SchoolBag - Keeping our teens safe online</span><br><br><span style="color:#222;background-color:#EAEAEA">From a senior specialist in MOE Guidance Branch, this article offers dos and don’ts for handling screen-related conversations with your teen.</span><br><br></td>

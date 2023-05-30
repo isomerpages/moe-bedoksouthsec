@@ -44,40 +44,40 @@ Contact Information
 <tbody>
   <tr>
     <td class="tg-ktyi">Sec 1 Level Discipline Teacher</td>
-    <td class="tg-ktyi">Ms Nadia Ramli</td>
-    <td class="tg-7yig">157</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mr Mohammed Imran Bin Mawardi</td>
-    <td class="tg-7yig">108</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi" rowspan="2">Sec 2 Level Discipline Teacher</td>
-    <td class="tg-ktyi">Mr Nordin Hassan</td>
+    <td class="tg-ktyi">Mr Nordin B Hassan</td>
     <td class="tg-7yig">162</td>
   </tr>
   <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Miss Syafiqah Begum Ismail Rahim</td>
+    <td class="tg-7yig">115</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="2">Sec 2 Level Discipline Teacher</td>
+    <td class="tg-ktyi">Ms Nadia Ramli </td>
+    <td class="tg-7yig">157</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Mr Mohamed Imran Mawardi  </td>
+    <td class="tg-7yig">108</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="2">Sec 3 Level Discipline Teacher</td>
+    <td class="tg-ktyi">Mr Wong Zi Heng</td>
+    <td class="tg-7yig">163</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Mr Loi Churn Mun</td>
+    <td class="tg-7yig">160</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="2">Sec 4/5 Level Discipline Teacher</td>
     <td class="tg-ktyi">Ms Low Mei Foong</td>
     <td class="tg-7yig">107</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="2">Sec 3 Level Discipline Teacher</td>
-    <td class="tg-ktyi">Mdm Suhaila Bte Mansor</td>
-    <td class="tg-7yig">116</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Mr Joshua Tan</td>
+    <td class="tg-ktyi">Mr Loy Pei Phoong</td>
     <td class="tg-7yig">164</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi" rowspan="2">Sec 4/5 Level Discipline Teacher</td>
-    <td class="tg-ktyi">Ms Erdiah Bte Samad</td>
-    <td class="tg-7yig">115</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Mr Wong Zi Heng</td>
-    <td class="tg-7yig">163</td>
   </tr>
 </tbody>
 </table>

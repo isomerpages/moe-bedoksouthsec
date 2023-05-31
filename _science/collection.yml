@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Programmes/.keep
-      - Programmes/Programmes.md

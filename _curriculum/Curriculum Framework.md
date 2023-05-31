@@ -1,9 +1,9 @@
 ---
-title: Curriculum
+title: Curriculum Framework
 permalink: /curriculum/
 description: ""
 ---
-Curriculum
+Curriculum Framework
 ==========
 
 

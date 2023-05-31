@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
+      - Curriculum.md
       - Full Subject Based Banding (FSBB).md
       - Applied Learning Programme.md
-      - Curriculum.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Design & Technology.md

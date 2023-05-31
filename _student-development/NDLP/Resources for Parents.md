@@ -32,7 +32,7 @@ To support you in keeping your child / ward safe online, you may refer to this a
 <tbody>
   <tr>
     <td class="tg-qa5w"><span style="font-weight:bold">Parent Handbook (I) and (II) on Learning with a Personal Learning Device (PLD)</span><br><br><span style="color:#222;background-color:#EAEAEA">For more digital parenting tips to help your child navigate the digital environment, please download and refer to the following handbooks.</span><br><br></td>
-    <td class="tg-9nj9"><a href="[Parent Handbook (I)](/files/NDLP/ip2%20-%20parent%20handbook%20(i)%20on%20learning%20with%20a%20pld_2023.pdf)"><span style="text-decoration:none;color:#076C8E">Parent Handbook (I)</span></a><br><br><a href="[Parent Handbook (II)](/files/NDLP/ip3%20-%20parent%20handbook%20(ii)%20on%20learning%20with%20a%20pld_2023.pdf)"><span style="text-decoration:none;color:#076C8E">Parent Handbook (II)</span></a><br></td>
+    <td class="tg-9nj9"><a href="[Parent Handbook (I)](/files/NDLP/ip2%20-%20parent%20handbook%20(i)%20on%20learning%20with%20a%20pld_2023.pdf"><span style="text-decoration:none;color:#076C8E">Parent Handbook (I)</span></a><br><br><a href="[Parent Handbook (II)](/files/NDLP/ip3%20-%20parent%20handbook%20(ii)%20on%20learning%20with%20a%20pld_2023.pdf"><span style="text-decoration:none;color:#076C8E">Parent Handbook (II)</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8e6h"><span style="font-weight:bold">Parent Kit on Cyber Wellness for Your Child</span><br><br><span style="background-color:#EAEAEA">In this MOE Parent Kit, tips are provided to guide our children to use devices responsibly, and how parents can care for your child’s cyber wellness and digital literacy at home.</span><br><br></td>

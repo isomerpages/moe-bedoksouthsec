@@ -2,8 +2,8 @@ collections:
   curriculum:
     output: true
     order:
-      - Applied Learning Programme (ALP) PROJECT S H I N E.md
       - Full Subject Based Banding (FSBB).md
+      - Applied Learning Programme (ALP) PROJECT S H I N E.md
       - Curriculum.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md

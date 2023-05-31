@@ -2,6 +2,7 @@
 title: Science
 permalink: /curriculum/science/
 description: ""
+third_nav_title: Science
 ---
 Science
 =======
@@ -15,23 +16,23 @@ BDS Science curriculum aims to provide every student with the opportunity to ign
 
 ### Student Outcomes
 
-Students will acquire and develop scientific knowledge, skills, values, ethics and attitudes that will allow them to 
+Students will acquire and develop scientific knowledge, skills, values, ethics and attitudes that will allow them to&nbsp;
 
-*   Be <b>Inspired</b> by Science and enjoy learning as they develop scientific literacy to explain phenomena in daily lives
-*   <b>Inquire</b> like scientists as they engage in the Practices of Science to learn inquiry and Science process skills
-*   <b>Innovate</b> using Science as they use their knowledge to solve real-world problems and show care for the local and global environment
+*   Be&nbsp;<b>Inspired</b>&nbsp;by Science and enjoy learning as they develop scientific literacy to explain phenomena in daily lives
+*   <b>Inquire</b>&nbsp;like scientists as they engage in the Practices of Science to learn inquiry and Science process skills
+*   <b>Innovate</b>&nbsp;using Science as they use their knowledge to solve real-world problems and show care for the local and global environment
 
 
 
-### Approach & Pedagogy
+### Approach &amp; Pedagogy
 
 Inquiry-based learning through e-Pedagogy, constructivist and cooperative learning strategies on platforms such as Student Learning Space (SLS) to
 
-*   <b>Engage</b> students’ curiosity
-*   <b>Explore</b> the practices of scientific inquiry through hands-on experiments, data loggers or simulations
-*   <b>Explain</b> and critically discuss scientific concepts in relation to experimental results
-*   <b>Elaborate</b> and connect scientific understanding to new experiences
-*   <b>Evaluate</b> and demonstrate their understanding in varied ways
+*   <b>Engage</b>&nbsp;students’ curiosity
+*   <b>Explore</b>&nbsp;the practices of scientific inquiry through hands-on experiments, data loggers or simulations
+*   <b>Explain</b>&nbsp;and critically discuss scientific concepts in relation to experimental results
+*   <b>Elaborate</b>&nbsp;and connect scientific understanding to new experiences
+*   <b>Evaluate</b>&nbsp;and demonstrate their understanding in varied ways
 
 
 ### Subjects Offered
@@ -237,7 +238,7 @@ Combined Science (Chemistry, Physics)
 
 To enjoy learning Science, it is important for you to encourage your child to:
 
-1\.   Be an <b>active and inquisitive learner</b> in the classroom to participate in activities and ask questions when in doubt. 
+1\. &nbsp; Be an <b>active and inquisitive learner</b> in the classroom to participate in activities and ask questions when in doubt.&nbsp;
 
 2\. <b>Understand the scientific concepts</b> instead of memorising them without understanding. This will help in <b>applying</b> these concepts to novel questions and in <b>interpreting</b> data such as graphs or tables.
 

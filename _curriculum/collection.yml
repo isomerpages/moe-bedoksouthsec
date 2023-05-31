@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Curriculum Framework.md
+      - Curriculum.md
       - Full Subject Based Banding (FSBB).md
       - Applied Learning Programme.md
       - Aesthetics/.keep
@@ -18,6 +18,9 @@ collections:
       - English and English Literature/Stretch Programme.md
       - English and English Literature/Reading Programme.md
       - Humanities.md
+      - Mathematics/Mathematics.md
+      - Mathematics/Programmes.md
+      - Mathematics/Stretch Programme.md
       - Mathematics/.keep
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
@@ -25,3 +28,5 @@ collections:
       - Physical Education.md
       - Principles of Accounts.md
       - Science/.keep
+      - Science/Science.md
+      - Science/Programmes.md

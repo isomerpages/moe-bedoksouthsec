@@ -2,7 +2,7 @@
 title: Programmes
 permalink: /curriculum/science/programmes/
 description: ""
-third_nav_title: Programmes
+third_nav_title: Science
 ---
 Programmes
 ==========

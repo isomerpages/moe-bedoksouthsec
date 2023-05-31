@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
+third_nav_title: Mathematics
 ---
 Mathematics
 ===========
@@ -12,34 +13,34 @@ The Mathematics Department aims to enthuse and empower students to learn and use
 
 ### Student Outcomes
 
-The <b>Additional Mathematics Syllabus</b> aims to enable students who have an aptitude and interest in mathematics to:
+The&nbsp;<b>Additional Mathematics Syllabus</b>&nbsp;aims to enable&nbsp;students who have an aptitude and interest in mathematics to:
 
-*   Acquire mathematical concepts and skills for higher studies in mathematics and to support learning in the other subjects, in particular, the sciences;  
+*   Acquire mathematical concepts and skills for higher studies in&nbsp;mathematics and to support learning in the other subjects, in&nbsp;particular, the sciences;  
     
-*   Develop thinking, reasoning and meta-cognitive skills through a mathematical approach to problem-solving;  
+*   Develop thinking, reasoning and meta-cognitive skills through a&nbsp;mathematical approach to problem-solving;  
     
-*   Connect ideas within mathematics and between mathematics and the sciences through applications of mathematics; and  
+*   Connect ideas within mathematics and between mathematics&nbsp;and the sciences through applications of mathematics; and  
     
 *   Appreciate the abstract nature and power of mathematics.  
     
 
   
 
-The <b>Mathematics Syllabus</b> aims to enable all students to:
+The&nbsp;<b>Mathematics Syllabus</b>&nbsp;aims to enable all students&nbsp;to:
 
-*   Acquire mathematical concepts and skills for continuous learning in mathematics and to support learning in other subjects;
-*   Develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving; 
-*   Connect ideas within mathematics and between mathematics and other subjects through applications of mathematics; 
+*   Acquire mathematical concepts and skills for continuous&nbsp;learning in mathematics and to support learning in other&nbsp;subjects;
+*   Develop thinking, reasoning, communication, application and&nbsp;metacognitive skills through a mathematical approach to&nbsp;problem-solving;&nbsp;
+*   Connect ideas within mathematics and between mathematics&nbsp;and other subjects through applications of mathematics;&nbsp;
 *   Build confidence and foster interest in mathematics.
 
   
 
-The <b>N(T) Mathematics Syllabus</b> aims to enable students who are bound for post-secondary vocational education to:  
+The&nbsp;<b>N(T) Mathematics Syllabus</b>&nbsp;aims to enable students who are bound&nbsp;for post-secondary vocational education&nbsp;to:  
 
-*   Acquire mathematical concepts and skills for real life, to support learning in other subjects, and to prepare for vocational education; 
-*   Develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem solving; and   
+*   Acquire mathematical concepts and&nbsp;skills for real life, to support learning&nbsp;in other subjects, and to prepare for&nbsp;vocational education;&nbsp;
+*   Develop thinking, reasoning,&nbsp;communication, application and&nbsp;metacognitive skills through a&nbsp;mathematical approach to problem&nbsp;solving; and&nbsp;  
     
-*   Build confidence in using mathematics and appreciate its value in making informed decisions in real life.
+*   Build confidence in using&nbsp;mathematics and appreciate its&nbsp;value in making informed decisions&nbsp;in real life.
 
 ### GCE Exam Format
 
@@ -91,19 +92,19 @@ In reaching out to the under-achievers in a Mathematics class, the ICAN principl
 
   
 
-Using the 8 Principles as a guide, the teacher carefully designs his/ her teaching package to deliver a more effective lesson. The lesson may comprise of good learning experiences such as the use of manipulatives and focus on a real-life context. 
+Using the 8 Principles as a guide, the teacher carefully designs his/ her teaching package to deliver a more effective lesson. The lesson may comprise of good learning experiences such as the use of manipulatives and focus on a real-life context.&nbsp;
 
   
 
-The unique feature of the ICAN framework is the mentoring aspect. The mentor who is assigned to the teacher will provide feedback on the lesson design, sits in for the lesson observation and conducts the post lesson conference. During the post lesson conference, students’ learning gaps or misconceptions that were observed would be discussed further. 
+The unique feature of the ICAN framework is the mentoring aspect. The mentor who is assigned to the teacher will provide feedback on the lesson design, sits in for the lesson observation and conducts the post lesson conference. During the post lesson conference, students’ learning gaps or misconceptions that were observed would be discussed further.&nbsp;
 
   
 
-Although this project requires massive manpower and careful deployment, it has been worthwhile as both the teachers and students have benefitted much from it. 
+Although this project requires massive manpower and careful deployment, it has been worthwhile as both the teachers and students have benefitted much from it.&nbsp;
 
   
 
-Students’ feedback on the lessons was encouraging while teachers felt that they became more reflective and effective in delivering a good lesson. 
+Students’ feedback on the lessons was encouraging while teachers felt that they became more reflective and effective in delivering a good lesson.&nbsp;
 
   
 
@@ -111,15 +112,15 @@ In reaching out to the under-achievers in a Mathematics class, the ICAN principl
 
   
 
-Using the 8 Principles as a guide, the teacher carefully designs his/ her teaching package to deliver a more effective lesson. The lesson may comprise of good learning experiences such as the use of manipulatives and focus on a real-life context. 
+Using the 8 Principles as a guide, the teacher carefully designs his/ her teaching package to deliver a more effective lesson. The lesson may comprise of good learning experiences such as the use of manipulatives and focus on a real-life context.&nbsp;
 
   
 
-The unique feature of the ICAN framework is the mentoring aspect. The mentor who is assigned to the teacher will provide feedback on the lesson design, sits in for the lesson observation and conducts the post lesson conference. During the post lesson conference, students’ learning gaps or misconceptions that were observed would be discussed further. 
+The unique feature of the ICAN framework is the mentoring aspect. The mentor who is assigned to the teacher will provide feedback on the lesson design, sits in for the lesson observation and conducts the post lesson conference. During the post lesson conference, students’ learning gaps or misconceptions that were observed would be discussed further.&nbsp;
 
   
 
-Although this project requires massive manpower and careful deployment, it has been worthwhile as both the teachers and students have benefitted much from it. 
+Although this project requires massive manpower and careful deployment, it has been worthwhile as both the teachers and students have benefitted much from it.&nbsp;
 
   
 

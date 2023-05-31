@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Mathematics.md
       - Curriculum.md
       - Full Subject Based Banding (FSBB).md
       - Applied Learning Programme.md

@@ -72,47 +72,15 @@ A Scout is to be trusted
 
 ### Achievements
 
+| Year | Type of Achievement | 
+| -------- | -------- | 
+| 2018  | FCSA - Gold     | 
+| 2019  | FCSA - Silver    | 
+| 2020  | Suspension of FCSA due to outbreak of COVID-19     | 
+| 2021  | Suspension of FCSA due to outbreak of COVID-19     | 
+| 2022  | Chief Commisioner's Well-Done Badge <br>Quarter 1 – DHARMIK S/O KANAGARAJAH: 4D <br>Quarter 2 – BRAYDEN TEO TZE JUN: 4D <br>Quarter 3 – LAM JUN YANG (LAN JUNYANG): 4B <br>Quarter 4 – SCOTT TAN KIAN YIU: 4C |
+| 2022  | FCSA - Gold    |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xxiv{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Year</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Activity</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2019</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Frank Cooper Sands Award </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Silver</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2018</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Frank Cooper Sands Award </span><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Silver</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2017</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Frank Cooper Sands Award </span><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Gold (7th consecutive in 2017) </span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2016</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Frank Cooper Sands Award </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Gold (6th consecutive in 2016) </span></td>
-  </tr>
-</tbody>
-</table>
 
 ### Leadership Positions
 

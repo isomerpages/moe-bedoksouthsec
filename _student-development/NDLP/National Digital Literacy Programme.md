@@ -20,11 +20,6 @@ The following provides important information about how you can purchase the PLD 
 
 ![Aims of PDLP](/images/pdlp1.jpg)
 
-### Introduction to PDLP
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7ef6jZfoMkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 ### Bedok South’s Vision for PDLP
 
 A positive, future-ready, digital learner.
@@ -39,13 +34,13 @@ The school aims to empower every BDSian to be a positive, future-ready, digital 
 
 As part of the NDLP, schools will progressively roll out IT applications that will be vital to students’ learning experience and educational journey. In the following months, MOE will roll out some or all of the following applications:
 
-(a) <b>Student iCON:</b> MOE will give every secondary school student an email address. This is a service provided by Google as part of Google Suite. Click [here](https://workspace.google.com/dashboard) to access the student iCON.
+(a)&nbsp;<b>Student iCON:</b>&nbsp;MOE will give every secondary school student an email address. This is a service provided by Google as part of Google Suite. Click&nbsp;[here](https://workspace.google.com/dashboard)&nbsp;to access the student iCON.
 
-(b) <b>Microsoft Pro Plus:</b> every secondary school will be granted a licence to use Microsoft Office tools that include Word, PowerPoint and Excel.
+(b)&nbsp;<b>Microsoft Pro Plus:</b>&nbsp;every secondary school will be granted a licence to use Microsoft Office tools that include Word, PowerPoint and Excel.
 
-(c) <b>Zoom:</b> MOE will set up Zoom free account with 40 mins time limit using Student iCON for the schools’ video conferencing needs.
+(c)&nbsp;<b>Zoom:</b>&nbsp;MOE will set up Zoom free account with 40 mins time limit using Student iCON for the schools’ video conferencing needs.
 
-You may click [here](/files/BSSS%20ZoomOnboarding%20for%20students.pdf) for Zoom Onboarding Guide for students.
+You may click&nbsp;[here](/files/BSSS%20ZoomOnboarding%20for%20students.pdf)&nbsp;for Zoom Onboarding Guide for students.
 
 The school will need to use your child/ward’s personal data such as his/her name and class to set up user accounts.
 
@@ -53,7 +48,7 @@ The school may also roll out applications other than those listed above. The sch
 
 ### PDLP Information For Parents
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/779SmuMicAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/779SmuMicAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
 ### Important Actions For Parents/Guardians
@@ -62,15 +57,15 @@ Parents/guardians will receive a letter from the school via Parents Gateway or h
 
   
 
-*    Intent to Purchase PLD
-*    Standing Order for Use of Edusave (for SC only)
-*    Authorisation to collect PLD
+*   &nbsp;Intent to Purchase PLD
+*   &nbsp;Standing Order for Use of Edusave (for SC only)
+*   &nbsp;Authorisation to collect PLD
 
   
 
-For parents/guardians <u>with Singpass</u>, please make an online submission at <b>[go.gov.sg/bsss-pdlp-admin](https://go.gov.sg/bsss-pdlp-admin)</b>. <br>
-For parents/guardians <u>without Singpass</u>, please submit the <b>hardcopy letter to your child’s/ward’s Form Teacher</b>.
+For parents/guardians&nbsp;<u>with Singpass</u>, please make an online submission at&nbsp;<b>[go.gov.sg/bsss-pdlp-admin](https://go.gov.sg/bsss-pdlp-admin)</b>. <br>
+For parents/guardians&nbsp;<u>without Singpass</u>, please submit the&nbsp;<b>hardcopy letter to your child’s/ward’s Form Teacher</b>.
 
 ### Further Queries
 
-Should there by any further queries or clarification, please email us at [<b>bsss@moe.edu.sg</b>](mailto:bsss@moe.edu.sg).
+Should there by any further queries or clarification, please email us at&nbsp;[<b>bsss@moe.edu.sg</b>](mailto:bsss@moe.edu.sg).

@@ -26,7 +26,7 @@ Please click on the [HBL@BDS + Student Initiated Learning Briefing Slides.](/fil
 | -------- | -------- | -------- | -------- |
 | [13 Jan](/files/13Jan.pdf) |  [31 Mar](/files/31Mar.pdf)   | [7 Jul](/files/HBL/jul72023.pdf)     | [22 Sep](/files/HBL/sep222023.pdf)     |
 | [27 Jan](/files/27Jan.pdf) |   [14 Apr](/files/14Apr.pdf)   | [14 Jul*](/files/HBL/jul142023.pdf)    |     |
-| [10 Feb](/files/10Feb.pdf) |  [28 Apr](/files/28aprhblupdated1.pdf)  | [4 Aug]()     |     |
+| [10 Feb](/files/10Feb.pdf) |  [28 Apr](/files/28aprhblupdated1.pdf)  | [4 Aug](/files/HBL/aug42023.pdf)     |     |
 | [24 Feb](/files/24Feb.pdf) | 12 May    | [18 Aug](/files/HBL/aug182023.pdf)   |      |
 | [10 Mar](/files/10Mar.pdf) |   [26 May](/files/26May.pdf)   |    |      |
 

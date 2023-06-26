@@ -1,7 +1,0 @@
-collections:
-  home-based-learning-hbl:
-    output: true
-    order:
-      - Home Based Learning (HBL).md
-      - Student Learning Space.md
-      - SLS Support For Home Based Learning.md

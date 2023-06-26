@@ -591,10 +591,10 @@ Form Teachers
   </tr>
 	
   <tr>
-    <td class="tg-kveo">FAJT (Chinese Language)</td>
-    <td class="tg-kveo">Mdm Chng Mei Li</td>
+    <td class="tg-kveo">FAJT (Science)</td>
+    <td class="tg-kveo">Mdm Lim Choon Lye</td>
     <td class="tg-kveo">102 </td>
-    <td class="tg-kveo">chng_mei_li@moe.edu.sg</td>
+    <td class="tg-kveo">lim_choon_lye@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">FAJT (Chinese Language)</td>

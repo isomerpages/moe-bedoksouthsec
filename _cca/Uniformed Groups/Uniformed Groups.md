@@ -22,21 +22,21 @@ Uniformed Groups
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-b5tn" colspan="4"><span style="color:#323232">UG Coordinator: Mr Mohd Azman</span></th>
+    <th colspan="4" class="tg-b5tn"><span style="color:#323232">UG Coordinator: Mr Mohd Azman</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-pkve">CCA</td>
     <td class="tg-pkve">Teachers-In-Charge</td>
+    <td class="tg-pkve">Monday</td>
     <td class="tg-pkve">Wednesday</td>
-    <td class="tg-pkve">Friday</td>
   </tr>
   <tr>
     <td class="tg-ryel">NCC Land (B)</td>
     <td class="tg-ryel">Mr Adrian Lim (OIC)</td>
-    <td class="tg-ryel">(Monday) <br>2.30 pm – 5.30 pm</td>
-    <td class="tg-ryel">(Wednesday) <br>2.30 pm – 5.30 pm</td>
+    <td class="tg-ryel">3.15 pm – 5.30 pm</td>
+    <td class="tg-ryel">3.15 pm – 5.30 pm</td>
   </tr>
   <tr>
     <td class="tg-ryel"></td>
@@ -47,8 +47,8 @@ Uniformed Groups
   <tr>
     <td class="tg-ryel">NPCC</td>
     <td class="tg-ryel">Mr Steve Kong (OIC)</td>
-    <td class="tg-ryel">3.00 pm – 5.00 pm</td>
-    <td class="tg-ryel">1.30 pm – 4.30 pm</td>
+    <td class="tg-ryel">3.30 pm – 5.30 pm</td>
+    <td class="tg-ryel">3.30 pm – 5.30 pm</td>
   </tr>
   <tr>
     <td class="tg-ryel">(B &amp; G)</td>
@@ -104,4 +104,4 @@ Uniformed Groups
 <br>
 
 
-<img src="/images/UG.png" style="width:75%">
+<img style="width:75%" src="/images/UG.png">

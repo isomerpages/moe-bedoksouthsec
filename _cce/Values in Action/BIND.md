@@ -23,6 +23,8 @@ Students will also be doing their Community Involvement Programme (CIP) with/for
 
 Students involvement in Community & Environment Programmes
 
+### BIND 2014 - 2018
+
 ![BIND](/images/BIND2018.png)
 
 ![VIA](/images/VIA.png)

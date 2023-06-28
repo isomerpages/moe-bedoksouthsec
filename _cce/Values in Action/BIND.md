@@ -12,7 +12,7 @@ BIND
 
 BDS Internationalisation and National Education Development Programme (BIND) includes twinning programmes with overseas educational institutions, Community Involvement Programmes (OCIP), and learning journeys to various countries. This programme has provided our students with opportunities to interact with people from various parts of the world so that they will be more culturally savvy and attuned to the fast-changing global environment. At the same time, students also enhance interpersonal relationships with their own classmates, peers and teachers.
 
-Please click on PDF link for more information on BIND 2023 (Bangkok). Registration for BIND 2023 (Bangkok) will close on 12 July (Wed).
+Please click [here](https://for.edu.sg/bindbkkbriefing280623) for more information on BIND 2023 (Bangkok). Registration for BIND 2023 (Bangkok) will close on 12 July (Wed).
 
 
 Students involvement in Community & Environment Programmes

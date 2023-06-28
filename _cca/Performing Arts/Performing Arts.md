@@ -58,7 +58,7 @@ Performing Arts
     <td class="tg-ktyi">Malay Dance</td>
     <td class="tg-ktyi">Mdm Zaleha (OIC)<br>Ms Raudhah<br>And external instructors</td>
     <td class="tg-ktyi">1500 – 1700<br><span style="font-style:italic">(Dance Studio)</span></td>
-    <td class="tg-ktyi">1300 – 1500<br><span style="font-style:italic">(Dance Studio)</span></td>
+    <td class="tg-ktyi"><br><span style="font-style:italic"></span></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Symphonic Band</td>

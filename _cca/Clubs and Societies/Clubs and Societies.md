@@ -53,14 +53,14 @@ Clubs and Societies
     <td class="tg-ktyi">Media Production Club</td>
     <td class="tg-ktyi">Mdm Suhaila (OIC)<br>Ms Irene Kwek </td>
     <td class="tg-ktyi">Gallery (Hall 2nd Level)</td>
-    <td class="tg-7yig">Odd Week:<br>3.15 – 5.00pm<br>Even Week:<br>2.45 – 5.00pm</td>
-    <td class="tg-7yig">–</td>
+    <td class="tg-7yig">Wednesday<br>3.00 – 5.00pm<br>
+    </td><td class="tg-7yig">–</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Science &amp; Environment Club</td>
     <td class="tg-ktyi">Ms Joanne Ng (OIC)<br>Ms Nadia Begam <br>Ms Nancy Sim</td>
     <td class="tg-ktyi">Physics Lab 2</td>
-    <td class="tg-7yig">3.00 – 5.00pm</td>
+    <td class="tg-7yig">3.00 – 5.00 pm</td>
     <td class="tg-7yig">(Selected)</td>
   </tr>
 </tbody>

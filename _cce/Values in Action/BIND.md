@@ -7,21 +7,17 @@ third_nav_title: Values in Action
 BIND
 ====
 
-### BDS INTERNATIONALISATION AND NATIONAL EDUCATION DEVELOPMENT (BIND) PROGRAMME: SECONDARY 3 OVERSEAS LEARNING JOURNEY
+###  BDS Internationalisation and National Education Development Programme (BIND)**
 
-The objectives of our BIND-West Malaysia Programme are to: 
 
-*   develop in our students a global outlook
-*   appreciate and better understand other cultures
-*   enhance students’ interpersonal relationships with their own classmates, peers and teachers
+BDS Internationalisation and National Education Development Programme (BIND) includes twinning programmes with overseas educational institutions, Community Involvement Programmes (OCIP), and learning journeys to various countries. This programme has provided our students with opportunities to interact with people from various parts of the world so that they will be more culturally savvy and attuned to the fast-changing global environment. At the same time, students also enhance interpersonal relationships with their own classmates, peers and teachers.
 
-  
+Please click [here](https://for.edu.sg/bindbkkbriefing280623) for more information on BIND 2023 (Bangkok). Registration for BIND 2023 (Bangkok) will close on 12 July (Wed).
 
-Students will also be doing their Community Involvement Programme (CIP) with/for our overseas partners developing them a deeper empathy for others. And helping them see how fortunate we are in Singapore and that help is not just restricted to within our borders. 
-
-  
 
 Students involvement in Community & Environment Programmes
+
+### BIND 2014 - 2018
 
 ![BIND](/images/BIND2018.png)
 

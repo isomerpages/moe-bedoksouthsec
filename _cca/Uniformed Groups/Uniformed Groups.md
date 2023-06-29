@@ -66,7 +66,7 @@ Uniformed Groups
     <td class="tg-ryel">Scouts (B)</td>
     <td class="tg-ryel">Mr Eric Choo (OIC)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm</td>
-    <td class="tg-ryel">2.30 pm – 5.30 pm</td>
+    <td class="tg-ryel">3.30 pm – 5.30 pm</td>
   </tr>
   <tr>
     <td class="tg-ryel"></td>

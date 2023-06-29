@@ -86,7 +86,7 @@ Sports
   <tr>
     <td class="tg-dgl5"> Basketball<br></td>
     <td class="tg-dgl5">Mr Tan Rong En Joshua (OIC)<br> </td>
-    <td class="tg-9hzb">Monday &amp; Thursday</td>
+    <td class="tg-9hzb">Monday &amp; Wednesday</td>
     <td class="tg-9hzb">3.30 – 5.30 pm<br>(<span style="font-style:italic">Basketball Court</span>)</td>
   </tr>
 </tbody>

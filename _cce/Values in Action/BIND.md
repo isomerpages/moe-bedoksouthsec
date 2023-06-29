@@ -15,8 +15,6 @@ BDS Internationalisation and National Education Development Programme (BIND) inc
 Please click [here](https://for.edu.sg/bindbkkbriefing280623) for more information on BIND 2023 (Bangkok). Registration for BIND 2023 (Bangkok) will close on 12 July (Wed).
 
 
-Students involvement in Community & Environment Programmes
-
 ### BIND 2014 - 2018
 
 ![BIND](/images/BIND2018.png)

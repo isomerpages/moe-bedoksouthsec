@@ -72,7 +72,7 @@ Uniformed Groups
     <td class="tg-ryel"></td>
     <td class="tg-ryel">Mr Webster Lim</td>
     <td class="tg-ryel">(Level 4 Lift Lobby)</td>
-    <td class="tg-ryel">(Level 1 Grass Patch Area beside Spiral Staircase)</td>
+    <td class="tg-ryel">(Level 4 Lift Lobby)</td>
   </tr>
   <tr>
     <td class="tg-ryel">NCDCC (B &amp; G)</td>

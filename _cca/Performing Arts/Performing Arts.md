@@ -46,8 +46,8 @@ Performing Arts
   <tr>
     <td class="tg-ktyi">Dance Society</td>
     <td class="tg-ktyi" rowspan="2">Ms Low Mei Foong (OIC)<br>Ms Zhao Xiumin<br>Mr Tan Han Yuen<br>Ms Tan Wan Ning<br>And external instructors</td>
-    <td class="tg-ktyi">1500 – 1700<br><span style="font-style:italic">(G1-05 / 06 classrooms)</span></td>
-    <td class="tg-ktyi">1330 – 1630<br><span style="font-style:italic">(G1-05 / 06 classrooms)</span></td>
+    <td class="tg-ktyi">Wednesday 3.00 - 5.00 pm<br><span style="font-style:italic">(G1-05 / 06 classrooms)</span></td>
+    <td class="tg-ktyi">Non-HBL Friday 1.30 - 3.30 pm<br><span style="font-style:italic">(G1-05 / 06 classrooms)</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Wushu</td>
@@ -57,7 +57,7 @@ Performing Arts
   <tr>
     <td class="tg-ktyi">Malay Dance</td>
     <td class="tg-ktyi">Mdm Zaleha (OIC)<br>Ms Raudhah<br>And external instructors</td>
-    <td class="tg-ktyi">1500 – 1700<br><span style="font-style:italic">(Dance Studio)</span></td>
+    <td class="tg-ktyi">Wednesday 3.00 - 5.00 pm<br><span style="font-style:italic">(Dance Studio)</span></td>
     <td class="tg-ktyi"><br><span style="font-style:italic"></span></td>
   </tr>
   <tr>

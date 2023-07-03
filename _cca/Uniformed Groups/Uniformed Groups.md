@@ -82,7 +82,7 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ryel"></td>
-    <td class="tg-ryel">Miss Syafiqah Begum</td>
+    <td class="tg-ryel"></td>
     <td class="tg-ryel">(Level 4 outside NCDCC room)</td>
     <td class="tg-ryel">(Level 4 outside NCDCC room)</td>
   </tr>
@@ -90,7 +90,7 @@ Uniformed Groups
     <td class="tg-ryel">Girl Guides (G)</td>
     <td class="tg-ryel">Ms Chua Hui Qi (OIC)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm</td>
-    <td class="tg-ryel">1.30 pm – 5.30 pm</td>
+    <td class="tg-ryel">3.30 pm – 5.30 pm</td>
   </tr>
   <tr>
     <td class="tg-ryel"></td>

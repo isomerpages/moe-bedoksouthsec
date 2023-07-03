@@ -60,12 +60,12 @@ Sports
     <td rowspan="2" class="tg-dgl5">Football</td>
     <td rowspan="2" class="tg-dgl5">Mr Nordin Hassan (OIC) 
 			<br>Mr Loi Chun Mun<br>Mr Imran Mawardi<br>Mr Zulhilmi<br>Coach Firdaus</td>
-    <td class="tg-9hzb">Wednesday</td>
-    <td class="tg-9hzb">2.30 pm – 4.00 pm<br>(<span style="font-style:italic">Field</span>)</td>
+    <td class="tg-9hzb">Monday</td>
+    <td class="tg-9hzb">3.00 pm – 5.00 pm<br>(<span style="font-style:italic">Field</span>)</td>
   </tr>
   <tr>
     <td class="tg-9hzb">Friday</td>
-    <td class="tg-9hzb">4.00 pm – 5.30 pm<br>(<span style="font-style:italic">Field</span>)</td>
+    <td class="tg-9hzb">3.00 pm – 5.00 pm<br>(<span style="font-style:italic">Field</span>)</td>
   </tr>
   <tr>
     <td rowspan="2" class="tg-dgl5">Netball</td>

@@ -66,13 +66,13 @@ Uniformed Groups
     <td class="tg-ryel">Scouts (B)</td>
     <td class="tg-ryel">Mr Eric Choo (OIC)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm</td>
-    <td class="tg-ryel">2.30 pm – 5.30 pm</td>
+    <td class="tg-ryel">3.30 pm – 5.30 pm</td>
   </tr>
   <tr>
     <td class="tg-ryel"></td>
     <td class="tg-ryel">Mr Webster Lim</td>
     <td class="tg-ryel">(Level 4 Lift Lobby)</td>
-    <td class="tg-ryel">(Level 1 Grass Patch Area beside Spiral Staircase)</td>
+    <td class="tg-ryel">(Level 4 Lift Lobby)</td>
   </tr>
   <tr>
     <td class="tg-ryel">NCDCC (B &amp; G)</td>

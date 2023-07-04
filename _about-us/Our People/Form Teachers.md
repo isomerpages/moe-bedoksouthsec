@@ -627,17 +627,16 @@ Form Teachers
     <td class="tg-kveo">163</td>
     <td class="tg-kveo">ng_wee_loon@moe.edu.sg</td>
   </tr>
-  <tr>
+   <tr>
+    <td class="tg-kveo">FAJT (Gear-up)</td>
+    <td class="tg-kveo">Mr Pradeep Radhakrishnan</td>
+    <td class="tg-kveo">103</td>
+    <td class="tg-kveo">pradeep_radhakrishnan@moe.edu.sg</td>
+  </tr><tr>
     <td class="tg-kveo">FAJT (Mathematics)</td>
     <td class="tg-kveo">Mr Ow Tai Pang Jeremy</td>
     <td class="tg-kveo">157</td>
     <td class="tg-kveo">ow_tai_pang@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-kveo">FAJT (Music)</td>
-    <td class="tg-kveo">Mr Pradeep Radhakrishnan</td>
-    <td class="tg-kveo">103</td>
-    <td class="tg-kveo">pradeep_radhakrishnan@moe.edu.sg</td>
-  </tr>
-</tbody>
+  </tbody>
 </table>

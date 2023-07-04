@@ -34,37 +34,37 @@ Performing Arts
   <tr>
     <td class="tg-ktyi">Chinese Orchestra</td>
     <td class="tg-ktyi">Ms Toh Qin Min (OIC)<br>Mdm Zhou Yun<br>Mdm Caroline Ho<br>Ms Poh Bee Yong<br>And external instructors</td>
-    <td class="tg-ktyi">Wednesday 3.00 - 5.00 pm<br><span style="font-style:italic">(Level 4 Classrooms)</span></td>
+    <td class="tg-ktyi">3.00 - 5.00 pm<br><span style="font-style:italic">(Level 4 Classrooms)</span></td>
     <td class="tg-ktyi">Non-HBL Friday 1.30 – 4.30 pm<br><span style="font-style:italic">(Level 4 Classrooms)</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Choir</td>
     <td class="tg-ktyi">Ms Lam Yen Ping (OIC)<br>Mrs Adeline Yee<br>Ms Chia Suat Huang<br>And external instructors</td>
-    <td class="tg-ktyi">Wednesday 3.15 - 5.45 pm<br><span style="font-style:italic">(Music Room)</span></td>
-    <td class="tg-ktyi">Friday 1.00 - 3.45 pm<br><span style="font-style:italic">(Music Room)</span></td>
+    <td class="tg-ktyi">3.15 - 5.45 pm<br><span style="font-style:italic">(Music Room)</span></td>
+    <td class="tg-ktyi">1.00 - 3.45 pm<br><span style="font-style:italic">(Music Room)</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Dance Society</td>
     <td class="tg-ktyi" rowspan="2">Ms Low Mei Foong (OIC)<br>Ms Zhao Xiumin<br>Mr Tan Han Yuen<br>Ms Tan Wan Ning<br>And external instructors</td>
-    <td class="tg-ktyi">Wednesday 3.00 - 5.00 pm<br><span style="font-style:italic">(G1-05 / 06 classrooms)</span></td>
+    <td class="tg-ktyi">3.00 - 5.00 pm<br><span style="font-style:italic">(G1-05 / 06 classrooms)</span></td>
     <td class="tg-ktyi">Non-HBL Friday 1.30 - 3.30 pm<br><span style="font-style:italic">(G1-05 / 06 classrooms)</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Wushu</td>
-    <td class="tg-ktyi">1500 – 1700<br><span style="font-style:italic">(Hall)</span></td>
-    <td class="tg-ktyi">1330 – 1530<br><span style="font-style:italic">(Hall)</span></td>
+    <td class="tg-ktyi">3.00 – 5.00<br><span style="font-style:italic">(Hall)</span></td>
+    <td class="tg-ktyi">Non-HBL Friday 1.30 – 3.30<br><span style="font-style:italic">(Hall)</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Malay Dance</td>
     <td class="tg-ktyi">Mdm Zaleha (OIC)<br>Ms Raudhah<br>And external instructors</td>
-    <td class="tg-ktyi">Wednesday 3.00 - 5.00 pm<br><span style="font-style:italic">(Dance Studio)</span></td>
+    <td class="tg-ktyi">3.00 - 5.00 pm<br><span style="font-style:italic">(Dance Studio)</span></td>
     <td class="tg-ktyi"><br><span style="font-style:italic"></span></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Symphonic Band</td>
     <td class="tg-ktyi">Ms Siti Fatimah (OIC)<br>Ms Cherlyn Tan<br>Ms Khoo Su-Lin<br>Ms Jillian Chen<br>And external instructors</td>
-    <td class="tg-ktyi">1430 – 1730<br><span style="font-style:italic">(Band Room)</span></td>
-    <td class="tg-ktyi">1430 – 1730<br><span style="font-style:italic">(Band Room)</span></td>
+    <td class="tg-ktyi">3.00 - 5.30 pm<br><span style="font-style:italic">(Band Room)</span></td>
+    <td class="tg-ktyi">2.30 – 5.30<br><span style="font-style:italic">(Band Room)</span></td>
   </tr>
 </tbody>
 </table>

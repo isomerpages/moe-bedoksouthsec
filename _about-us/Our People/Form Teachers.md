@@ -583,31 +583,36 @@ Form Teachers
     <td class="tg-kveo">160</td>
     <td class="tg-kveo">koh_cin_dee_sylvelin@moe.edu.sg</td>
   </tr>
-	<tr>
+	  <tr>
+    <td class="tg-kveo">FAJT (Chinese Language)</td>
+    <td class="tg-kveo">Mdm Wong Siew Har</td>
+    <td class="tg-kveo">101</td>
+    <td class="tg-kveo">wong_siew_har@moe.edu.sg</td>
+  </tr><tr>
     <td class="tg-kveo">FAJT (English)</td>
     <td class="tg-kveo">Ms Amy Syed</td>
     <td class="tg-kveo">102</td>
     <td class="tg-kveo">amy_syed@moe.edu.sg</td>
   </tr>
-	
-  <tr>
-    <td class="tg-kveo">FAJT (Science)</td>
-    <td class="tg-kveo">Mdm Lim Choon Lye</td>
-    <td class="tg-kveo">102 </td>
-    <td class="tg-kveo">lim_choon_lye@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-kveo">FAJT (Chinese Language)</td>
-    <td class="tg-kveo">Mdm Wong Siew Har</td>
-    <td class="tg-kveo">101</td>
-    <td class="tg-kveo">wong_siew_har@moe.edu.sg</td>
-  </tr>
-  <tr>
+	  <tr>
     <td class="tg-kveo">FAJT (Malay Language)</td>
     <td class="tg-kveo">Ms Molyyati Binte Syahwan</td>
     <td class="tg-kveo">101</td>
     <td class="tg-kveo">molyyati_shahwan@moe.edu.sg</td>
   </tr>
+  <tr>
+    <td class="tg-kveo">FAJT (Mathematics)</td>
+    <td class="tg-kveo">Mr Ow Tai Pang Jeremy</td>
+    <td class="tg-kveo">157</td>
+    <td class="tg-kveo">ow_tai_pang@moe.edu.sg</td>
+  </tr><tr>
+    <td class="tg-kveo">FAJT (Science)</td>
+    <td class="tg-kveo">Mdm Lim Choon Lye</td>
+    <td class="tg-kveo">102 </td>
+    <td class="tg-kveo">lim_choon_lye@moe.edu.sg</td>
+  </tr>
+
+
  
   <tr>
     <td class="tg-kveo">FAJT (Science)</td>
@@ -632,11 +637,6 @@ Form Teachers
     <td class="tg-kveo">Mr Pradeep Radhakrishnan</td>
     <td class="tg-kveo">103</td>
     <td class="tg-kveo">pradeep_radhakrishnan@moe.edu.sg</td>
-  </tr><tr>
-    <td class="tg-kveo">FAJT (Mathematics)</td>
-    <td class="tg-kveo">Mr Ow Tai Pang Jeremy</td>
-    <td class="tg-kveo">157</td>
-    <td class="tg-kveo">ow_tai_pang@moe.edu.sg</td>
   </tr>
   </tbody>
 </table>

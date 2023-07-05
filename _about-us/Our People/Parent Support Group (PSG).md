@@ -4,22 +4,20 @@ permalink: /about-us/our-people/parent-support-group-psg/
 description: ""
 third_nav_title: Our People
 ---
-
-
 Parent Support Group (PSG)
 ==========================
 
 ### Introduction
 
 
-The BDS Parents’ Support Group (PSG) comprises like-minded parents from diverse backgrounds but all sharing a common goal to support and advocate the school’s mission, vision and values.
+The&nbsp;BDS Parents’ Support Group (PSG)&nbsp;comprises like-minded parents from diverse backgrounds but all sharing a common goal to support and advocate the school’s mission, vision and values.
 
 ### Objectives
 
-*   To support the school’s programmes through close working relationship with the school
+*   To support&nbsp;the school’s programmes&nbsp;through close working relationship with the school
 *   To enhance communication between the school and parents to work towards a better school-home partnership
 *   To engage parents to nurture positive family relationships
-*   To establish a platform for parents to network and to share parenting tips
+*   To establish&nbsp;a platform for parents to network and&nbsp;to share parenting tips
 
 ### Our Working Teams
 
@@ -74,13 +72,13 @@ The activities that the PSG are generally involved in:
 ### Instagram
 
 
-Follow us on Instagram @ [https://go.gov.sg/bds-psg](https://go.gov.sg/bds-psg)
+Follow us on Instagram @&nbsp;[https://go.gov.sg/bds-psg](https://go.gov.sg/bds-psg)
 
 ![](/images/PSG4.jpg)
 
 ### Registration
 
-We welcome all parents to join us in the PSG. If you are interested in serving and supporting the school and students, please register via this [link](https://go.gov.sg/bds-2022-psg), or scan the QR Code:
+We welcome all parents to join us in the PSG. If you are interested in serving and supporting the school and students, please register via this&nbsp;[link](https://go.gov.sg/psgappliction2023), or scan the QR Code:
 
 
 <img style="width:35%" src="/images/PSG5.jpg">

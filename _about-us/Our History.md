@@ -10,7 +10,7 @@ The former Bedok South Secondary School campus was located in the Bedok South Ho
 
   
 
-Bedok South Secondary School was declared open by the late Dr Lee Chiaw Meng, then the Member of Parliament for Tanah Merah on 29 April 1982. Mr Too Ming Ting was the first Principal. He was succeeded by Mr G Amoganathan, the late Mr Lau Woon Chung, Miss Koh Sauk Keow, Mr Goh Lay Guan, Mdm Koh Teck Siew and Mr Krishnan Aravinthan. Ms Pauline Fun Kar Whye. Mr Teoh Teik Hoe  assumed duties on 15 Dec 2018.
+Bedok South Secondary School was declared open by the late Dr Lee Chiaw Meng, then the Member of Parliament for Tanah Merah on 29 April 1982. Mr Too Ming Ting was the first Principal. He was succeeded by Mr G Amoganathan, the late Mr Lau Woon Chung, Miss Koh Sauk Keow, Mr Goh Lay Guan, Mdm Koh Teck Siew, Mr Krishnan Aravinthan, Ms Pauline Fun Kar Whye and Mr Teoh Teik Hoe. Mr Koh Yong Hwee Daryl assumed duties on 15 Dec 2022.
 
   
 

@@ -28,7 +28,7 @@ Our School Facilities
 
 ##### **School Library (Oasis@BDS)**
 ![School Library (Oasis@BDS)](/images/Library%201.jpg)
-Please click [here](/about-us/our-school-facilities/oasis-at-bds) for more information about Oasis@BDS.
+
 
 ##### **Study Room**
 ![Study Room](/images/Study%20room%202.jpeg)

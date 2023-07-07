@@ -7,11 +7,11 @@ third_nav_title: For Parents
 Financial Assistance Scheme (FAS)
 =================================
 
-Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses. This applies to government, government-aided, specialised and some independent schools. [Learn](/files/MOE_FAS_pamphlet_2021_compressed.pdf) if your child is eligible. 
+Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses. This applies to government, government-aided, specialised and some independent schools. Click [here](https://www.moe.gov.sg/financial-matters/financial-assistance) to find out if your child is eligible.
 
   
 
-Parents who wish to apply can choose to apply FAS online ([EFAS](https://go.gov.sg/moe-efas)), download the [FAS application form](/files/MOE%20FAS%20Application%20Form%202023%20updated.pdf) or collect the hardcopy at the General Office. Upon completion, please submit the application form and the required supporting documents to the General Office. If your documents are in order, we will be able to process your application between 7 to 10 working days and we will notify you of the status accordingly. The relevant documents are as follow:
+Parents who wish to apply can choose to apply FAS online ([EFAS](https://go.gov.sg/moe-efas)), download the&nbsp;[FAS application form](/files/MOE%20FAS%20Application%20Form%202023%20updated.pdf) or collect the hardcopy at the General Office. Upon completion, please submit the application form and the required supporting documents to the General Office. If your documents are in order, we will be able to process your application between 7 to 10 working days and we will notify you of the status accordingly. The relevant documents are as follow:
 
 a. CPF Transaction Statement or Contribution History for past 12 months.  
 
@@ -37,6 +37,4 @@ Students or their parents may submit the completed form along with all the neces
 
 P6 parents or students who have applied for FAS from their primary school will receive a notification via Parents’ Gateway from Bedok South Secondary after the release of Sec 1 posting. Thus, parents are highly encouraged to download the Parents’ Gateway app on their phone.
 
-Those who are successful in their FAS application, may also consider applying for a new computer under the NEU PC Plus programme. They can download the [M1-IMDA Fibre Broadband Service Application Form](https://bedoksouthsec.moe.edu.sg/qql/slot/u755/Useful%20Links/For%20Parents/NEU_PC_Plus_IMDA%20FBB_service_application_form(9%20Apr2020)%20-%20If%20applying%20wifi,%20please%20submit%20this%20form%20with%20Parent/'s%20NRIC.pdf) and [PC-Bundle Application Form](/files/NPP%20PC-Bundle%20Application%20Form%20v5%203%20(2%20Sep%202020)%20for%20MOE%20FAS.pdf). However, please note that each eligible household may apply for one subsidized computer once every 3 years, regardless of the number of school-going children or household members with permanent disabilities.
-
-Note: M1-IMDA Fibre Broadband Service Application Form pdf not found. 
+FAS students for secondary schools are no longer eligible to apply for a new computer under the NEU PC Plus programme as the students will be required to purchase a Personal Learning Device under MOE's Personalised Digital Learning Programme (PDLP).

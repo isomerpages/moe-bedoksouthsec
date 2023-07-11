@@ -46,12 +46,3 @@ Our Contact
 </table>
 
 
-Map Location
-------------
-
-
-
-
-
-
-Please click _<a href="mailto:bsss@moe.edu.sg">here</a>_ if you have any feedback. Thank you!

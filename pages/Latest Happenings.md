@@ -3,8 +3,6 @@ title: Latest Happenings
 permalink: /latest-happenings/
 description: ""
 ---
-
-
 #### Parenting Webinar
 
 Dear parents/ guardians,  

@@ -3,24 +3,21 @@ title: Latest Happenings
 permalink: /latest-happenings/
 description: ""
 ---
-#### Registration Information for GCE N(T)-, N(A)- and O-Level Examinations
-
-Please click [here](https://go.gov.sg/2023seabregistrationinformation) for the Registration Information for the School Candidates.
-
 #### Parenting Webinar
 
 Dear parents/ guardians,  
 
-We would like to invite you to sign up for a series of parenting webinars organised by the Parent Support Group and Morning Star Community Services for the month of May, to help you prepare your teenagers to manage school and peer pressures, as well as develop self-discipline and accountability while handling peer relationships. Please click [here](https://www.morningstar.org.sg/triple-p/l2-sec-run-5/) to find out more and register for the webinars.
+We would like to invite you to sign up for a series of parenting webinars organised by the Parent Support Group and Morning Star Community Services for the month of August, to help you learn strategies to advise your teens on how to keep a balance between online life and real life. Please click [here](https://www.morningstar.org.sg/triple-p/triple-p-level-2-secondary-run-7/) to find out more and register for the webinars.
 
+#### Registration Information for GCE N(T)-, N(A)- and O-Level Examinations
+
+Please click [here](https://go.gov.sg/2023seabregistrationinformation) for the Registration Information for the School Candidates.
 
 #### Release of 2022 GCE O-Level Examination Results and 2023 Joint Admissions Exercise
 
 The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 2023. For more information, click&nbsp;[here](/information-and-links/For-Students/2022-O-Level-Results-Release/).
 
-#### 2023 Sec 1 Webinar Briefing Notes
 
-Please click&nbsp;[here](/files/2023%20Welcome_Sec%201.pdf)&nbsp;for the 2023 Sec 1 Webinar Briefing Notes.
 
 
 #### Full Subject-Based Banding (FSBB) @ Bedok South Secondary School

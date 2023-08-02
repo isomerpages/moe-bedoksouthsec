@@ -39,3 +39,5 @@ For Students
   </tr>
 </tbody>
 </table>
+
+Click [here](/files/Useful%20Links/mims%20student%20self-service%20password%20reset%20guide.pdf) for MIMS Student Self-Service Password Reset Guide. 

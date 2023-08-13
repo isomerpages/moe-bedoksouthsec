@@ -594,12 +594,7 @@ Form Teachers
     <td class="tg-kveo">102</td>
     <td class="tg-kveo">amy_syed@moe.edu.sg</td>
   </tr>
-	  <tr>
-    <td class="tg-kveo">FAJT (Malay Language)</td>
-    <td class="tg-kveo">Ms Molyyati Binte Syahwan</td>
-    <td class="tg-kveo">101</td>
-    <td class="tg-kveo">molyyati_shahwan@moe.edu.sg</td>
-  </tr>
+	 
   <tr>
     <td class="tg-kveo">FAJT (Mathematics)</td>
     <td class="tg-kveo">Mr Ow Tai Pang Jeremy</td>

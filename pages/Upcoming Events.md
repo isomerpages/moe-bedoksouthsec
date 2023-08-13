@@ -3,7 +3,6 @@ title: Upcoming Events
 permalink: /upcoming-events/
 description: ""
 ---
-
 | Date | Events |
 | -------- | -------- |
 | 27 May - 25 Jun     | Term 2 Holidays  |
@@ -17,9 +16,9 @@ description: ""
 |25 - 28 Jul | GCE 'O' Level English Oral Examination |
 | 9 Aug | National Day |
 | 10 Aug | School Holiday |
-| 1 Sep| Teachers' Day| 
+| 1 Sep| Polling Day (Public Holiday)| 
 | 2 - 10 Sep | Term 3 Holidays |
-| 11 Sep | Term 4 Starts |
+| 11 Sep | Term 4 Starts / Teachers' Day |
 
 
 

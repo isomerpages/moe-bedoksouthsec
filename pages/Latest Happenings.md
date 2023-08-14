@@ -11,7 +11,8 @@ a) Change of Teachers’ Day 2023 school holiday previously scheduled on Friday,
   
 b) Changes in date for GCE N(A)-, N(T)-Level examinations that had been scheduled on Monday, 11 September 2023.
 
-Click [here](https://www.seab.gov.sg/home/news/press-releases/presidential-election-2023---changes-to-teachers'-day-holiday-and-gce-n(a)--n(t)-level-examinations) to find out more.
+Click [here](https://go.gov.sg/seabpresidentialelection2023changes) to find out more.
+
 #### Parenting Webinar
 
 Dear parents/ guardians,  

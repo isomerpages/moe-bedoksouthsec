@@ -3,7 +3,7 @@ title: Latest Happenings
 permalink: /latest-happenings/
 description: ""
 ---
-####### Presidential Election 2023 - Changes to Teachers ' Day Holiday and GCE N(A)-, N(T)-Level Examinations
+#### Presidential Election 2023 - Changes to Teachers ' Day Holiday and GCE N(A)-, N(T)-Level Examinations
 
 In view of the Writ of Election for Presidential Election 2023, MOE and the Singapore Examinations and Assessment Board (SEAB) will make the following adjustments:
 

@@ -3,25 +3,17 @@ title: Latest Happenings
 permalink: /latest-happenings/
 description: ""
 ---
-#### Presidential Election 2023 - Changes to Teachers ' Day Holiday and GCE N(A)-, N(T)-Level Examinations
-
-In view of the Writ of Election for Presidential Election 2023, MOE and the Singapore Examinations and Assessment Board (SEAB) will make the following adjustments:
-
-a) Change of Teachers’ Day 2023 school holiday previously scheduled on Friday, 1 September to Monday, 11 September 2023; and  
-  
-b) Changes in date for GCE N(A)-, N(T)-Level examinations that had been scheduled on Monday, 11 September 2023.
-
-Click [here](https://go.gov.sg/seabpresidentialelection2023changes) to find out more.
-
 #### Parenting Webinar
+
+       
 
 Dear parents/ guardians,  
 
-We would like to invite you to sign up for a series of parenting webinars organised by the Parent Support Group and Morning Star Community Services for the month of August, to help you learn strategies to advise your teens on how to keep a balance between online life and real life. Please click [here](https://www.morningstar.org.sg/triple-p/triple-p-level-2-secondary-run-7/) to find out more and register for the webinars.
+We would like to invite you to sign up for a series of parenting webinars organised by the Parent Support Group and Morning Star Community Services for the month of September, to equip you with skills to guide your teen to develop a healthy mindset to cope with challenges in a positive manner. Please click [here](https://www.morningstar.org.sg/triple-p/l2-sec-run-8/) to find out more and register for the webinars.
 
-#### Registration Information for GCE N(T)-, N(A)- and O-Level Examinations
 
-Please click [here](https://go.gov.sg/2023seabregistrationinformation) for the Registration Information for the School Candidates.
+
+
 
 #### Release of 2022 GCE O-Level Examination Results and 2023 Joint Admissions Exercise
 

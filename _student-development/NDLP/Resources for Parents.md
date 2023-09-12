@@ -64,6 +64,9 @@ To support you in keeping your child / ward safe online, you may refer to this a
 
 ### DMA Guide for Parents
 
-*   [DMA Guide - Default Option](/files/DMA%20Parent%20Guide%20v2%200%20-%20Default%20iPadOS.pdf)
-*   [DMA Guide - Option A](/files/DMA%20Parent%20Guide%20v2%200%20-%20Option%20A%20iPadOS.pdf)
-*   [DMA Guide - Option B](/files/DMA%20Parent%20Guide%20v2%200%20-%20Option%20B%20iPadOS.pdf)
+*    [DMA Parent Guide Default Option](https://go.gov.sg/dmaparentguidedefaultopt)
+*   [DMA Parent Guide - Option A](https://go.gov.sg/dmsparentguideoptiona)
+*   [DMA Parent Guide - Option B](https://go.gov.sg/dmaparentguideoptionb)
+
+*   [Parent Account Password Reset](https://go.gov.sg/parentaccountpwdreset)
+*   [Setting Rules to Restrict Usage](https://go.gov.sg/settingrulestorestrictusage)

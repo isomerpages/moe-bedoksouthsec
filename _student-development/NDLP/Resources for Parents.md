@@ -67,5 +67,6 @@ To support you in keeping your child / ward safe online, you may refer to this a
 *    [DMA Parent Guide Default Option](https://go.gov.sg/dmaparentguidedefaultopt)
 *   [DMA Parent Guide - Option A](https://go.gov.sg/dmsparentguideoptiona)
 *   [DMA Parent Guide - Option B](https://go.gov.sg/dmaparentguideoptionb)
-*   Setting Rules to Restrict Usage
-*   Parent Account Password Reset
+
+*   [Parent Account Password Reset](https://go.gov.sg/parentaccountpwdreset)
+*   [Setting Rules to Restrict Usage](https://go.gov.sg/settingrulestorestrictusage)

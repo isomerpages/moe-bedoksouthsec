@@ -571,12 +571,6 @@ Form Teachers
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-kveo">AED (Teaching &amp; Learninig)</td>
-    <td class="tg-kveo">Mr Muhammad Zulhilmi bin Jalil</td>
-    <td class="tg-kveo">109</td>
-    <td class="tg-kveo">muhammad_zulhilmi_jalil@moe.edu.sg</td>
-  </tr>
 	  <tr>
     <td class="tg-kveo">CAJT (Georgaphy)</td>
     <td class="tg-kveo">Ms Koh Cin Dee, Sylvelin</td>
@@ -600,14 +594,13 @@ Form Teachers
     <td class="tg-kveo">Mr Ow Tai Pang Jeremy</td>
     <td class="tg-kveo">157</td>
     <td class="tg-kveo">ow_tai_pang@moe.edu.sg</td>
-  </tr><tr>
-    <td class="tg-kveo">FAJT (Science)</td>
-    <td class="tg-kveo">Mdm Lim Choon Lye</td>
-    <td class="tg-kveo">102 </td>
-    <td class="tg-kveo">lim_choon_lye@moe.edu.sg</td>
   </tr>
-
-
+  <tr>
+    <td class="tg-kveo">FAJT (PE)</td>
+    <td class="tg-kveo">Mr Rayson Soh Li Sen</td>
+    <td class="tg-kveo">164</td>
+    <td class="tg-kveo">rayson_soh_li_sen_a@moe.edu.sg</td>
+  </tr>
  
   <tr>
     <td class="tg-kveo">FAJT (Science)</td>
@@ -618,7 +611,7 @@ Form Teachers
   <tr>
     <td class="tg-kveo">FAJT (Special Needs)</td>
     <td class="tg-kveo">Ms Lim Yih</td>
-    <td class="tg-kveo">-</td>
+    <td class="tg-kveo">104</td>
     <td class="tg-kveo">lim_yih@moe.edu.sg</td>
   </tr>
   <tr>

@@ -134,24 +134,18 @@ School Management Committee
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">7</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Edzra Bin Iskandar</span></td>
-    <td class="tg-y7qa"><span style="color:#222">HOD / PE &amp; CCA</span></td>
-    <td class="tg-y7qa"><span style="color:#222">edzra_iskandar@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">8</span></td>
     <td class="tg-y7qa"><span style="color:#222">Ms Wong Ming Zhi Denise</span></td>
     <td class="tg-y7qa"><span style="color:#222">HOD / Science</span></td>
     <td class="tg-y7qa"><span style="color:#222">wong_ming_zhi_denise@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-y7qa"><span style="color:#222">9</span></td>
+    <td class="tg-y7qa"><span style="color:#222">8</span></td>
     <td class="tg-y7qa"><span style="color:#222">Mrs Kow Yoke Ling (Kwang Yoke Ling)</span></td>
     <td class="tg-y7qa"><span style="color:#222">School Staff Developer (SSD)</span></td>
     <td class="tg-y7qa"><span style="color:#222">kwang_yoke_ling@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-y7qa"><span style="color:#222">10</span></td>
+    <td class="tg-y7qa"><span style="color:#222">9</span></td>
     <td class="tg-y7qa"><span style="color:#222">Mr Sum Tuck Mun</span></td>
     <td class="tg-y7qa"><span style="color:#222">HOD / Student Management</span></td>
     <td class="tg-y7qa"><span style="color:#222">sum_tuck_mun@moe.edu.sg</span></td>

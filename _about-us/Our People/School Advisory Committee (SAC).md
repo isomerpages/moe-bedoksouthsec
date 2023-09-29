@@ -4,8 +4,6 @@ permalink: /about-us/our-people/school-advisory-committee-sac/
 description: ""
 third_nav_title: Our People
 ---
-
-
 School Advisory Committee (SAC)
 ===============================
 
@@ -25,13 +23,13 @@ School Advisory Committee (SAC)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ii8k"><span style="font-weight:bold">Mr Pelvin Choo Chong Lek</span><br><br>Member</td>
+    <td class="tg-ii8k"><span style="font-weight:bold">Mr Kung Teong Wah</span><br><br>Member</td>
   </tr>
   <tr>
     <td class="tg-ii8k"><span style="font-weight:bold">Mr Tio Phooi Siang</span><br><br>Member</td>
   </tr>
   <tr>
-    <td class="tg-ii8k"><span style="font-weight:bold">Mr Teoh Teik Hoe</span><br><br>Member</td>
+    <td class="tg-ii8k"><span style="font-weight:bold">Mr Daryl Koh</span><br><br>Member</td>
   </tr>
   <tr>
     <td class="tg-ii8k"><span style="font-weight:bold">Dr Faisal Bin Abdul Aziz</span><br><br>Member</td>

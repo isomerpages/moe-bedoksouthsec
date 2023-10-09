@@ -9,7 +9,7 @@ description: ""
 
 Dear parents/ guardians,  
 
-We would like to invite you to sign up for a series of parenting webinars organised by the Parent Support Group and Morning Star Community Services for the month of September, to equip you with skills to guide your teen to develop a healthy mindset to cope with challenges in a positive manner. Please click [here](https://go.gov.sg/morningstartripleprun9) to find out more and register for the webinars.
+We would like to invite you to sign up for a series of parenting webinars organised by the Parent Support Group and Morning Star Community Services for the month of October, to equip you with strategies to nurture mental resilience in your teens and manage stress. Please click [here](https://go.gov.sg/morningstartripleprun9) to find out more and register for the webinars.
 
 
 

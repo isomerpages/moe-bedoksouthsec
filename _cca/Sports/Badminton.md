@@ -7,7 +7,7 @@ third_nav_title: Sports
 Badminton
 =========
 
-![Badminton](/images/Badminton.jpg)
+![Badminton](/images/CCA/badminton2023.jpg)
 
 ### Overview
 
@@ -37,84 +37,24 @@ Our members also learn to assist in line-judging and umpiring of the game in fri
 
 ### Achievements
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-1xc9{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-laxs{background-color:#EAEAEA;text-align:left;vertical-align:middle}
-.tg .tg-cduw{background-color:#B0B0B0;color:#222;text-align:left;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1xc9"><span style="color:#222">Year</span></th>
-    <th class="tg-1xc9"><span style="color:#222">Activity</span></th>
-    <th class="tg-cduw"><span style="color:#222">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rj1p"><span style="color:#222"> 2018</span></td>
-    <td class="tg-y7qa"><span style="color:#222">East Zone Badminton Championship 'C' Division Girls</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Second Round – Top 8</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p"> </td>
-    <td class="tg-y7qa"><span style="color:#222">East Zone Badminton Championship 'C' Division Boys</span></td>
-    <td class="tg-y7qa"><span style="color:#222">First Round</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p"> </td>
-    <td class="tg-y7qa"><span style="color:#222">East Zone Badminton Championship 'B' Division Girls</span></td>
-    <td class="tg-y7qa"><span style="color:#222">First Round</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p"> </td>
-    <td class="tg-y7qa"><span style="color:#222">East Zone Badminton Championship 'B' Division Boys</span></td>
-    <td class="tg-y7qa"><span style="color:#222">First Round</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p"> </td>
-    <td class="tg-y7qa"><span style="color:#222">Chinese Swimming Club Age Group Tournament (U17 Boys Doubles) </span></td>
-    <td class="tg-y7qa"><span style="color:#222">3</span>rd Place</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span>2017</td>
-    <td class="tg-y7qa"><span style="color:#222">National School Games (NSG East Zone) - C Girls</span></td>
-    <td class="tg-y7qa"><span style="color:#222">2nd Round</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-y7qa"><span style="color:#222">National School Games (NSG East Zone) - B and C Boys</span></td>
-    <td class="tg-y7qa"><span style="color:#222">2nd Round</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span>2016</td>
-    <td class="tg-y7qa"><span style="color:#222">National School Games (NSG East Zone) - C Girls</span></td>
-    <td class="tg-y7qa"><span style="color:#222">2nd Round</span></td>
-  </tr>
-  <tr>
-    <td class="tg-laxs"></td>
-    <td class="tg-y7qa"><span style="color:#222">National School Games (NSG East Zone) B and C Boys and Girls, C Girls</span></td>
-    <td class="tg-y7qa"><span style="color:#222">1st Round</span><br><span style="color:#222">C Girls 2nd Round (Top 8)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span>2015</td>
-    <td class="tg-y7qa"><span style="color:#222">National School Games (NSG East Zone) - C Boys</span></td>
-    <td class="tg-y7qa"><span style="color:#222">2nd Round </span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-y7qa"><span style="color:#222">National School Games (NSG East Zone) B Boys and Girls, C Girls</span></td>
-    <td class="tg-y7qa"><span style="color:#222">1st Round </span></td>
-  </tr>
-</tbody>
-</table>
+
+
+
+| Year | Activity | Achievement |
+| -------- | -------- | -------- |
+| 2023   |   National School Games East Zone - B Boys, B Girls, C Boys, C Girls  | 1st Round    |
+|     |   East Badminton Academy Age Group Series (U15 Boys Doubles)  | 3rd Place     |
+|      |  East Badminton Academy Age Group Series (U15 Girls Doubles)    | Quarter Finals    |
+|      |   East Badminton Academy Age Group Series (U15 Boys Singles, Girls Singles)   | 2nd Round     |
+| 2022     |   National School Games East Zone - C Girls | Quarter Finals     |
+|      | National School Games East Zone - B Boys, B Girls, C Boys     | First Round     |
+| 2021    |  National School Games East Zone - B Boys    | Quarter Finals   |
+|     |  National School Games East Zone - B Girls   | First Round     |
+| 2020    | National School Games East Zone - B Boys, B Girls     |  1st Round – COVID suspension   |
+
+
+
+
 
 
 ### Teachers-in-Charge  

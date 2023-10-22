@@ -11,29 +11,25 @@ Badminton
 
 ### Overview
 
-Our members undergo basic game training and learn the skills and techniques of badminton playing through individual and mass training. Regular physical training sessions and runs are also conducted in the School Gymnasium and Indoor Sports Hall to keep the members fit for the sport.&nbsp;
+The aim of the badminton team is to develop character, mental and physical well-being in our students. Through the learning of badminton skills, discipline and desirable social attitudes may be instilled into the students so that they become self-motivated and responsible individuals in all their undertaking. It is our vision to scale the heights to achieve in the top four positions among the schools in the East-Zone.
+
+Our players undergo basic game training and learn the skills and techniques of badminton playing through individual and mass training. Regular physical training sessions and runs are also conducted to keep the players fit for the sport. Mental skills training is also conducted to enable our players to self-regulate and enhance their performance. 
+
+Our players also learn to assist in line-judging and umpiring of the game in friendly matches. In addition, their skills are further enhanced through inter-school and other external organisation badminton tournaments. Badminton camp and learning journey to Singapore Badminton Open are also organised to foster team spirit as players create meaningful memories together.
+
 
   
 
-Our members also learn to assist in line-judging and umpiring of the game in friendly matches. In addition, their skills are further enhanced through inter-school and other external organisation badminton tournaments.
+### Key Events
 
-  
+1. National School Games Badminton Championships
+2. Badminton Camp 
+3. Singapore Badminton Open
+4. Bedok Challenge Shield (Badminton) – Interschool competition organised by BDS
+5. Friendly Matches 
+6. External Tournaments 
 
-### Objectives
-
-The aim of the badminton club is to develop character, mental and physical well-being in our students. Through the learning of badminton skills, discipline and desirable social attitudes may be instilled into the students so that they become self-motivated and responsible individuals in all their undertaking. It is our vision to scale the heights to achieve in the top four positions among the schools in the East-Zone.  
-
-  
-
-### Scope of Activities
-
-Our members undergo basic game training and learn the skills and techniques of badminton playing through individual and mass training. Regular physical training sessions and runs are also conducted in the School Gymnasium and Indoor Sports Hall to keep the members fit for the sport.
-
-  
-
-Our members also learn to assist in line-judging and umpiring of the game in friendly matches. In addition, their skills are further enhanced through inter-school and other external organisation badminton tournaments.
-
-  
+ 
 
 ### Achievements
 
@@ -127,7 +123,4 @@ And&nbsp;<b>External Coach</b>
 
 ### Leadership Positions
 
-1\.  Captains, vice-captains cooperate with the teachers IC to maintain discipline within the teams <br>
-2\.  Publicity chairperson, vice chairperson – plan games and events <br>
-3\.  Official photographers (1 boy, 1 girl) <br>
-4\.  Welfare officers (1 boy, 1 girls per division) – to make sure the juniors transit to the next phase of student life smoothly in both sports and studies
+Captains and vice-captains 

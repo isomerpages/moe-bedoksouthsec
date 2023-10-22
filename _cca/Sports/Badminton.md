@@ -7,7 +7,7 @@ third_nav_title: Sports
 Badminton
 =========
 
-![Badminton](/images/Badminton.jpg)
+![Badminton](/images/CCA/badminton2023.jpg)
 
 ### Overview
 

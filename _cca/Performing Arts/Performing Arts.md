@@ -28,14 +28,14 @@ Performing Arts
   <tr>
     <td class="tg-0043">CCA</td>
     <td class="tg-0043">Teachers-in-Charge</td>
+    <td class="tg-0043">Monday</td>
     <td class="tg-0043">Wednesday</td>
-    <td class="tg-0043">Friday</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Chinese Orchestra</td>
     <td class="tg-ktyi">Ms Toh Qin Min (OIC)<br>Mdm Zhou Yun<br>Mdm Caroline Ho<br>Ms Poh Bee Yong<br>And external instructors</td>
-    <td class="tg-ktyi">3.00 – 5.00 pm<br><span style="font-style:italic">(Level 4 Classrooms)</span></td>
-    <td class="tg-ktyi">Non-HBL Friday 1.30 – 4.30 pm<br><span style="font-style:italic">(Level 4 Classrooms)</span></td>
+    <td class="tg-ktyi">3.00 – 6.00 pm<br><span style="font-style:italic">(Level 4 Classrooms)</span></td>
+    <td class="tg-ktyi">3.00 – 6.00 pm<br><span style="font-style:italic">(AVA room)</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Choir</td>

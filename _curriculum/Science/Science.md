@@ -130,9 +130,9 @@ Combined Science (Chemistry, Physics)
     <td class="tg-ktyi"></td>
   </tr><tr>
     <td class="tg-ktyi">Sec 3 Express</td>
-    <td class="tg-ktyi">5076 <br>Science <br>(Chemistry /Physics)</td>
-    <td class="tg-ktyi">1½ h<br>(Chemistry) <br>1½ h (Physics)</td>
-    <td class="tg-ktyi">Section A: M.C.Q. <br>Section B: Structured questions <br>Section C: Essay questions</td>
+    <td class="tg-ktyi">5086 <br>Science <br>(Chemistry /Physics)<br><br><br><br><br><br>5088<br>Science<br>(Chemistry,Biology)</td>
+    <td class="tg-ktyi">1 h 30 min<br>(Chemistry) <br>1 h 30 min (Physics)<br><br><br><br><br>1 h 30 min<br>(Chemistry) <br>1 h 30 min (Biology)</td>
+    <td class="tg-ktyi">Section A: Multiple Choice <br>Section B: Structured questions <br>Section C: Free Response Questions</td>
     <td class="tg-ktyi"></td>
   </tr>
   <tr>

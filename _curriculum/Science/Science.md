@@ -131,7 +131,7 @@ Combined Science (Chemistry, Physics)
   </tr><tr>
     <td class="tg-ktyi">Sec 3 Express</td>
     <td class="tg-ktyi">5086 <br>Science <br>(Chemistry /Physics)<br><br><br><br><br><br>5088<br>Science<br>(Chemistry,Biology)</td>
-    <td class="tg-ktyi">1 h 30 min<br>(Chemistry) <br>1 h 30 min (Physics)<br><br><br><br><br>1 h 30 min<br>(Chemistry) <br>1 h 30 min (Biology)</td>
+    <td class="tg-ktyi">1 h 30 min<br>(Chemistry) <br>1 h 30 min (Physics)<br><br><br><br><br><br>1 h 30 min<br>(Chemistry) <br>1 h 30 min (Biology)</td>
     <td class="tg-ktyi">Section A: Multiple Choice <br>Section B: Structured questions <br>Section C: Free Response Questions</td>
     <td class="tg-ktyi"></td>
   </tr>
@@ -145,7 +145,7 @@ Combined Science (Chemistry, Physics)
   <tr>
     <td class="tg-ktyi">Sec 3 Normal Technical</td>
     <td class="tg-ktyi">5148 <br>Science</td>
-    <td class="tg-ktyi">1 h 15 min<br><br> 1 hr </td>
+    <td class="tg-ktyi">1 h 15 min<br><br> 1 h </td>
     <td class="tg-ktyi">Paper 1: e-Assessment<br>Paper 2: Structured questions </td>
     <td class="tg-ktyi"></td>
   </tr>
@@ -164,61 +164,28 @@ Combined Science (Chemistry, Physics)
     <td class="tg-ktyi"></td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Sec 3 Normal (Academic)</td>
-    <td class="tg-ktyi">5105 <br>Science <br>(Chemistry/Physics) </td>
-    <td class="tg-ktyi">1¼ h <br>(Chemistry) <br>1¼ h<br>(Physics) </td>
-    <td class="tg-ktyi">Section A: M.C.Q. <br>Section B: Structured questions <br>Section C: Essay questions</td>
+    <td class="tg-ktyi">Sec 4 Express</td>
+    <td class="tg-ktyi">5088 <br>Science <br>(Chemistry, Biology) </td>
+    <td class="tg-ktyi">1h <br><br><br>1 h 15 min<br><br><br><br><br><br>1 h 15 min<br><br><br><br><br><br>1 h 30 min</td>
+    <td class="tg-ktyi">Paper 1: Multiple Choice<br> <br>Paper 3 (Chemistry): Structured and free response questions <br><br> Paper 4 (Biology): Structured and free response questions<br><br>Paper 5: Chemistry and Biology Practical</td>
     <td class="tg-ktyi"></td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Sec 4 Express*</td>
-    <td class="tg-ktyi">5107<br>Science <br>(Chemistry/Biology) </td>
-    <td class="tg-ktyi">1¼ h <br>(Chemistry) <br>1¼ h<br>(Biology) </td>
-    <td class="tg-ktyi">Section A: M.C.Q. <br>Section B: Structured questions <br>Section C: Essay questions</td>
+    <td class="tg-ktyi">Sec 4 Normal (Academic)</td>
+    <td class="tg-ktyi">5105<br>Science <br>(Chemistry, Physics) </td>
+    <td class="tg-ktyi">1 h 15 min <br>(Chemistry) <br>1 h 15 min<br> (Physics) </td>
+    <td class="tg-ktyi">Section A: Multiple Choice <br>Section B: Structured questions <br>Section C: Free response questions</td>
     <td class="tg-ktyi"></td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Sec 3 Normal (Technical)</td>
+    <td class="tg-ktyi">Sec 4 Normal (Technical)</td>
     <td class="tg-ktyi">5148 <br>Science </td>
-    <td class="tg-ktyi">1 h <br>1 h </td>
-    <td class="tg-ktyi">Paper 1: M.C.Q. <br>Paper 2 : Structured questions</td>
+    <td class="tg-ktyi">1 h 15 min<br><br><br>1 h </td>
+    <td class="tg-ktyi">Paper 1: e-Assessment <br><br>Paper 2: Structured questions</td>
     <td class="tg-ktyi"><br></td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">Sec 4 Express <br><br><br><br><br>Sec 5 Normal <br>(Academic) </td>
-    <td class="tg-ktyi">5076 <br>Science (Chemistry/Physics) <br><br><br><br><br><br></td>
-    <td class="tg-ktyi">1 h <br>1¼ h <br><br><br><br><br>1¼ h <br><br><br>1½ h </td>
-    <td class="tg-ktyi">Paper 1: M.C.Q. <br>Paper 2 (Physics): <br>Section A - Structured questions <br>Section B - Essay <br>Paper 3 (Chemistry): <br>Section A - Structured questions <br>Section B - Essay <br>Paper 5: Physics &amp; Chemistry Practical </td>
-    <td class="tg-ktyi"><br><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Sec 4 Express </td>
-    <td class="tg-ktyi">5078 <br>Science <br>(Chemistry/ Biology) </td>
-    <td class="tg-ktyi">1 h <br>1¼ h <br><br><br><br><br>1¼ h <br><br><br>1½ h</td>
-    <td class="tg-ktyi">Paper 1: M.C.Q. <br>Paper 3 (Chemistry): <br>Section A - Structured questions <br>Section B - Essay <br>Paper 4 (Biology): <br>Section A - Structured questions <br>Section B - Essay <br>Paper 5: Biology &amp; Chemistry Practical</td>
-    <td class="tg-ktyi"></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Sec 4 Express</td>
-    <td class="tg-ktyi">6091<br>Physics<br><br>6092<br>Chemistry<br><br>6093<br>Biology</td>
-    <td class="tg-ktyi">1 h<br>1 ¾ h <br> <br>1h 50m</td>
-    <td class="tg-ktyi">Paper 1: M.C.Q.<br>Paper 2: <br>Section A - Structural<br>Section B - Essay<br>Paper 3:<br>Practical</td>
-    <td class="tg-ktyi"></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Sec 4 Normal <br>(Academic)</td>
-    <td class="tg-ktyi">5105<br>Science<br>(Chemistry/Physics) </td>
-    <td class="tg-ktyi">1¼ h <br>(Chemistry)<br>1¼ h <br>(Physics)</td>
-    <td class="tg-ktyi">Section A: M.C.Q.<br>Section B: Structured questions<br>Section C: Essay questions<br><br><br></td>
-    <td class="tg-ktyi"></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Sec 4 Normal <br>(Technical)</td>
-    <td class="tg-ktyi">5148<br>Science</td>
-    <td class="tg-ktyi">1 h<br>1¼ h </td>
-    <td class="tg-ktyi">Paper 1: M.C.Q.<br>Paper 2 : Structured questions</td>
-    <td class="tg-ktyi"></td>
-  </tr>
+ 
+  
 </tbody>
 </table>
 

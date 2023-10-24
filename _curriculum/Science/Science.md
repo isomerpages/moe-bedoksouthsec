@@ -130,8 +130,8 @@ Combined Science (Chemistry, Physics)
     <td class="tg-ktyi"></td>
   </tr><tr>
     <td class="tg-ktyi">Sec 3 Express</td>
-    <td class="tg-ktyi">5086 <br>Science <br>(Chemistry /Physics)<br><br><br><br><br><br>5088<br>Science<br>(Chemistry,Biology)</td>
-    <td class="tg-ktyi">1 h 30 min<br>(Chemistry) <br>1 h 30 min (Physics)<br><br><br><br><br><br>1 h 30 min<br>(Chemistry) <br>1 h 30 min (Biology)</td>
+    <td class="tg-ktyi">5086 <br>Science <br>(Chemistry /Physics)<br><br><br><br><br>5088<br>Science<br>(Chemistry,Biology)</td>
+    <td class="tg-ktyi">1 h 30 min<br>(Chemistry) <br>1 h 30 min (Physics)<br><br><br><br><br>1 h 30 min<br>(Chemistry) <br>1 h 30 min (Biology)</td>
     <td class="tg-ktyi">Section A: Multiple Choice <br>Section B: Structured questions <br>Section C: Free Response Questions</td>
     <td class="tg-ktyi"></td>
   </tr>
@@ -157,7 +157,7 @@ Combined Science (Chemistry, Physics)
     <td class="tg-ktyi"></td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Sec 4 Express<br><br><br><br><br><br><br> Sec 5 Normal (Academic)</td>
+    <td class="tg-ktyi">Sec 4 Express<br><br> Sec 5 Normal (Academic)</td>
     <td class="tg-ktyi">5086 <br>Science (Chemistry, Physics) </td>
     <td class="tg-ktyi">1h <br><br><br>1 h 15 min<br><br><br><br><br><br>1 h 15 min<br><br><br><br><br><br>1 h 30 min</td>
     <td class="tg-ktyi">Paper 1: Multiple Choice<br> <br>Paper 2 (Physics): Structured and free response questions <br><br> Paper 3 (Chemistry): Structured and free response questions<br><br>Paper 5: Physics and Chemistry Practical</td>
@@ -166,7 +166,7 @@ Combined Science (Chemistry, Physics)
   <tr>
     <td class="tg-ktyi">Sec 4 Express</td>
     <td class="tg-ktyi">5088 <br>Science <br>(Chemistry, Biology) </td>
-    <td class="tg-ktyi">1h <br><br><br>1 h 15 min<br><br><br><br><br><br>1 h 15 min<br><br><br><br><br><br>1 h 30 min</td>
+    <td class="tg-ktyi">1h <br><br>1 h 15 min<br><br><br><br><br><br>1 h 15 min<br><br><br><br><br>1 h 30 min</td>
     <td class="tg-ktyi">Paper 1: Multiple Choice<br> <br>Paper 3 (Chemistry): Structured and free response questions <br><br> Paper 4 (Biology): Structured and free response questions<br><br>Paper 5: Chemistry and Biology Practical</td>
     <td class="tg-ktyi"></td>
   </tr>
@@ -180,7 +180,7 @@ Combined Science (Chemistry, Physics)
   <tr>
     <td class="tg-ktyi">Sec 4 Normal (Technical)</td>
     <td class="tg-ktyi">5148 <br>Science </td>
-    <td class="tg-ktyi">1 h 15 min<br><br><br>1 h </td>
+    <td class="tg-ktyi">1 h 15 min<br><br>1 h </td>
     <td class="tg-ktyi">Paper 1: e-Assessment <br><br>Paper 2: Structured questions</td>
     <td class="tg-ktyi"><br></td>
   </tr>

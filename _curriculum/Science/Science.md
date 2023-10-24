@@ -65,45 +65,36 @@ Combined Science (Chemistry, Physics)
     <th class="tg-e14l"><span style="font-weight:700;color:#666;background-color:transparent">Level / Stream </span></th>
     <th class="tg-e14l"><span style="font-weight:700;color:#666;background-color:transparent">Duration</span></th>
     <th class="tg-e14l"><span style="font-weight:700;color:#666;background-color:transparent">Format</span></th>
-    <th class="tg-e14l"><span style="font-weight:700;color:#666;background-color:transparent">Marks Allocation</span></th>
+    <th class="tg-e14l"><span style="font-weight:700;color:#666;background-color:transparent"></span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:transparent">Sec 1 Express</span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Sec 1 G3 / G2</span></td>
     <td class="tg-ktyi"><span style="background-color:transparent">2 h</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Section A: M.C.Q. </span><br><span style="background-color:transparent">Section B: Structured questions </span><br><span style="background-color:transparent">Section C: Free response questions </span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">30 </span><br><span style="background-color:transparent">30 </span><br><span style="background-color:transparent">40 </span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Section A: Multiple Choice </span><br><span style="background-color:transparent">Section B: Structured questions </span><br><span style="background-color:transparent">Section C: Free response questions </span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent"> </span><br><span style="background-color:transparent"> </span><br><span style="background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:transparent">Sec 1 Normal (Academic)</span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Sec 1 G1</span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">1 h 30 min</span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Section A: Multiple Choice </span><br><span style="background-color:transparent">Section B: Structured questions </span><br><span style="background-color:transparent"> </span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent"> </span><br><span style="background-color:transparent"> </span><br><span style="background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="background-color:transparent">Sec 2 Express / Normal (Academic)</span></td>
     <td class="tg-ktyi"><span style="background-color:transparent">2 h</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Section A: M.C.Q. </span><br><span style="background-color:transparent">Section B: Structured questions </span><br><span style="background-color:transparent">Section C: Free response questions </span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">40 </span><br><span style="background-color:transparent">30 </span><br><span style="background-color:transparent">30 </span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Section A: Multiple Choice </span><br><span style="background-color:transparent">Section B: Structured questions <br>Section C: Free Response Questions</span>
+		</td>
+    <td class="tg-ktyi"><span style="background-color:transparent"></span><br><span style="background-color:transparent"></span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:transparent">Sec 1 Normal (Technical)</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">1½ h</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Section A: M.C.Q. </span><br><span style="background-color:transparent">Section B: Structured questions </span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">40</span><br><span style="background-color:transparent">60</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="background-color:transparent">Sec 2 Express</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">2 h</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Section A: M.C.Q. </span><br><span style="background-color:transparent">Section B: Structured questions </span><br><span style="background-color:transparent">Section C: Free response questions </span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">30 </span><br><span style="background-color:transparent">30 </span><br><span style="background-color:transparent">40 </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="background-color:transparent">Sec 2 Normal (Academic)</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">2 h</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Section A: M.C.Q. </span><br><span style="background-color:transparent">Section B: Structured questions </span><br><span style="background-color:transparent">Section C: Free response questions </span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">40 </span><br><span style="background-color:transparent">30 </span><br><span style="background-color:transparent">30 </span></td>
-  </tr>
-  <tr>
+    
+  </tr><tr>
     <td class="tg-ktyi"><span style="background-color:transparent">Sec 2 Normal (Technical)</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">1½ h</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Section A: M.C.Q. </span><br><span style="background-color:transparent">Section B: Structured questions </span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">40</span><br><span style="background-color:transparent">60</span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">1 h 30 min</span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Section A: Multiple Choice </span><br><span style="background-color:transparent">Section B: Structured questions </span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent"></span><br><span style="background-color:transparent"></span></td>
   </tr>
 </tbody>
 </table>

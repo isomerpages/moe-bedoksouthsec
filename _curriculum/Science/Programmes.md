@@ -30,70 +30,18 @@ During a 2-hour hands-on lab session at the Science Centre, Secondary Four Biolo
 ### **Science Talent Management Programme**
 
 The Science Talent Management Programme is a two-year programme that provides students with opportunities to be exposed to science-related challenges beyond the main curriculum. The programme aims to stretch and develop passionate students with an aptitude in Science. Students work independently on Science projects under teachers’ mentorship to earn badges under the Questa Club Scheme by the Science Center, to gain a deeper appreciation for the discipline of Science and the ways of thinking and doing as a scientist. They also actively participate in workshops organized by Temasek Polytechnic, NUS and the Science Center and in competitions such as the Singapore Science Buskers Festival to grow and strengthen their research and communication skills.  
+![](/images/Curriculum/Science/singapore%20science%20buskers%20festival%20masterclass.jpg)
+
+### Visit to Yakult Factory 2023
+Did you know that our Yakult is manufactured locally?
+
+The Science Talent Management Programme BDSians went for a learning journey to the Yakult Factory today. They were each given a bottle of limited edition Yakult Light to enjoy, while listening to a presentation about Yakult - from its origins to the unique flavours of Yakult found only in Singapore. To sum up their learning, they even had a Kahoot quiz and three students walked away with prizes from Yakult!
+
+There was also a facility tour, where our BDSians got to understand the processes involved in manufacturing the Yakult we purchase from retail stores. It was such an interesting trip for our students!
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWWO61rL43JWXqt9NZAqdsVTAdJQlqx4db38_apMeZq7bSrISj5v_FBaDm5xRKS3huFZka3dWaMbMp/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
-![](/images/SCE.png)
-
-#### NUS Illustratum 2021
-
-7 of our Upper Secondary Physics students joined the inaugural NUS Illustratum Competition where they showcased and explained Physics in an interesting and engaging manner. The 3 teams managed to obtain Certificates of Merit with 1 of the teams clinching Special Mention for Craftsmanship.
-
-![](/images/Team%20Newton.png)
-Team Newton explaining gravity using Einstein concept of spacetime.
-
-![](/images/Team%20Sauce%20Based.png)
-Team Sauce Based Question with their magnetic train exhibit using the concept of electromagnetism.
-
-![](/images/Team%20Static.png)
-Team Static Sisters with their exhibit to showcase tricks using concept of Static Electricity.
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">Special Mention (Craftmanship)</th>
-    <th class="tg-ktyi">School</th>
-    <th class="tg-ktyi">Team</th>
-    <th class="tg-ktyi">Name of students</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi" rowspan="7">Merit</td>
-    <td class="tg-ktyi" rowspan="7">Bedok South Secondary School</td>
-    <td class="tg-ktyi" rowspan="2">Newton</td>
-    <td class="tg-ktyi">Ng Yi Lin Elin</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">M Akshayaa</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi" rowspan="3">Sauce Based Question</td>
-    <td class="tg-ktyi">Micah Ng Herng Yeow</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Liau Chee Hian</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Esther Ezekiel</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi" rowspan="2">Static Sisters</td>
-    <td class="tg-ktyi">Variel Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Hannal Lizel</td>
-  </tr>
-</tbody>
-</table>
 
 
 ### Farmathon 2022
@@ -107,14 +55,6 @@ On 30 July 2022, 2 teams of students participated in the MGS Farmathon 2022, an 
 
 ![](/images/Farm3.png)
 
-### Singapore Science and Engineering Fair
 
 
-### Visit to Yakult Factory 2023
-Did you know that our Yakult is manufactured locally?
 
-The Science Talent Management Programme BDSians went for a learning journey to the Yakult Factory today. They were each given a bottle of limited edition Yakult Light to enjoy, while listening to a presentation about Yakult - from its origins to the unique flavours of Yakult found only in Singapore. To sum up their learning, they even had a Kahoot quiz and three students walked away with prizes from Yakult!
-
-There was also a facility tour, where our BDSians got to understand the processes involved in manufacturing the Yakult we purchase from retail stores. It was such an interesting trip for our students!
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWWO61rL43JWXqt9NZAqdsVTAdJQlqx4db38_apMeZq7bSrISj5v_FBaDm5xRKS3huFZka3dWaMbMp/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

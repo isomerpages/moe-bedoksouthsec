@@ -9,11 +9,23 @@ Programmes
 
 ### **Learning Journeys / Competitions**
 
-### Learning Journey to NUS Science Demo Lab
+### 1. Learning Journey to NUS Science Demo Lab
 
 On 30 Mar, 13, 25 and 27 Apr, our secondary four physics students were given the opportunity to visit the Wonders of Science at NUS Science Demo Lab. It was a guided tour and the students had the opportunity to witness various science demonstrations that were visually impressive. Through interactive and hands-on activities, the students were able to review and deepen their understanding of various Physics concepts, ranging from forces and energy to waves and electricity. The demonstrations were interesting and had been enjoyable and fruitful for the students. &nbsp;It is our hope that such learning journey will ignite greater interest and passion for Science among the students.
 
 ![](/images/nus123.jpg)
+
+
+### 2. F1 Tech Talk on "Performance and Environmental Sustainability in F1 Racing"
+Upper Secondary students attended an enriching talk to learn about the current practices of Science, sustainability and engineering in F1 racing. They students had an eye-opening experience to learn about its research and development processes and how F1 cars represent advanced technologies and adaptive engineering in machines, which sparked their curiosity and interest to learn more. 
+
+### 3. Singapore Science and Engineering Fair Public Visit Day
+To spark their interest and curiosity in STEM industrial applications and STEM careers and STEM careers in the future, Secondary Three students spent an afternoon viewing student finalists’ exhibits at the annual fair and participated in hands-on fringe activities hosted by industry partners such as Rolls-Royce, SUTD and Dyson. 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDrQQO2_pvBtBYpkQS-bW_1zrt6Xql9Kkp1vCWE9ErMCb32G48r85DryOHJPOgmJaz_D4yg06RmkgC/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+
+### 4. Science Centre Biology Workshop
+During a 2-hour hands-on lab session at the Science Centre, Secondary Four Biology students donned on their lab coats and were introduced to micropipetting techniques and agarose gel electrophoresis, a DNA analysis technique. They created transgenic bacteria that could glow under UV light or investigated genetic diseases such as chromosomal disorders and single gene disorders. 
+
 
 ### **Science Talent Management Programme**
 
@@ -94,7 +106,7 @@ On 30 July 2022, 2 teams of students participated in the MGS Farmathon 2022, an 
 ![](/images/Farm3.png)
 
 ### Singapore Science and Engineering Fair
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDrQQO2_pvBtBYpkQS-bW_1zrt6Xql9Kkp1vCWE9ErMCb32G48r85DryOHJPOgmJaz_D4yg06RmkgC/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+
 
 ### Visit to Yakult Factory 2023
 Did you know that our Yakult is manufactured locally?
@@ -104,4 +116,3 @@ The Science Talent Management Programme BDSians went for a learning journey to t
 There was also a facility tour, where our BDSians got to understand the processes involved in manufacturing the Yakult we purchase from retail stores. It was such an interesting trip for our students!
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWWO61rL43JWXqt9NZAqdsVTAdJQlqx4db38_apMeZq7bSrISj5v_FBaDm5xRKS3huFZka3dWaMbMp/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-

@@ -25,11 +25,13 @@ To spark their interest and curiosity in STEM industrial applications and STEM c
 
 ### 4. Science Centre Biology Workshop
 During a 2-hour hands-on lab session at the Science Centre, Secondary Four Biology students donned on their lab coats and were introduced to micropipetting techniques and agarose gel electrophoresis, a DNA analysis technique. They created transgenic bacteria that could glow under UV light or investigated genetic diseases such as chromosomal disorders and single gene disorders. 
-
+![](/images/Curriculum/Science/biologyworkshop2023.JPG)
 
 ### **Science Talent Management Programme**
 
-The Science Talent Management Programme is a two-year programme that provides students with opportunities to be exposed to science-related challenges beyond the main curriculum. The programme aims to stretch and develop passionate students with an aptitude in science through various activities ranging from workshops to competitions. Students work independently on Science projects under teachers’ mentorship to earn badges under the Questa Club Scheme by the Science Center, to gain a deeper appreciation for the discipline of Science and the ways of thinking and doing as a scientist.They also actively participate in workshops organized by NUS Demo Lab and the Science Center to competitions such as the Singapore Science Buskers Festival, where students grow and strengthen their research and communication skills as they acquire new knowledge and gain a deeper appreciation and passion for the various disciplines of Science.
+The Science Talent Management Programme is a two-year programme that provides students with opportunities to be exposed to science-related challenges beyond the main curriculum. The programme aims to stretch and develop passionate students with an aptitude in Science. Students work independently on Science projects under teachers’ mentorship to earn badges under the Questa Club Scheme by the Science Center, to gain a deeper appreciation for the discipline of Science and the ways of thinking and doing as a scientist. They also actively participate in workshops organized by Temasek Polytechnic, NUS and the Science Center and in competitions such as the Singapore Science Buskers Festival to grow and strengthen their research and communication skills.  
+
+
 ![](/images/SCE.png)
 
 #### NUS Illustratum 2021

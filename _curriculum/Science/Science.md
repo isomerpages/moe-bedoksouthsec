@@ -190,13 +190,14 @@ Combined Science (Chemistry, Physics)
 </table>
 
 
-### Examination Syllabuses
-
-[GCE N(A)-Level Syllabuses Examined in 2023](https://www.seab.gov.sg/home/examinations/gce-n(a)-level/n(a)-level-syllabuses-examined-for-school-candidates-2023)  
-[GCE N(T)-Level Syllabuses Examined in 2023](https://www.seab.gov.sg/home/examinations/gce-n(t)-level/n(t)-level-syllabuses-examined-for-school-candidates-2023)  
-[GCE O-Level Syllabuses Examined in 2023](https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2023)
+### Examination Syllabuses (Examined in 2024)
 
 
+[GCE O-Level Syllabuses](https://go.gov.sg/olvlsyllabusesexaminedin2024)
+
+[GCE N(A)-Level Syllabuses](https://go.gov.sg/nalvlsyllabusesexaminedin2024)
+
+[GCE N(T)-Level Syllabuses](https://go.gov.sg/ntsyllabusesexaminedin2024)
 
 ### Tips for Parents
 

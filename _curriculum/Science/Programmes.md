@@ -32,7 +32,7 @@ During a 2-hour hands-on lab session at the Science Centre, Secondary Four Biolo
 The Science Talent Management Programme is a two-year programme that provides students with opportunities to be exposed to science-related challenges beyond the main curriculum. The programme aims to stretch and develop passionate students with an aptitude in Science. Students work independently on Science projects under teachers’ mentorship to earn badges under the Questa Club Scheme by the Science Center, to gain a deeper appreciation for the discipline of Science and the ways of thinking and doing as a scientist. They also actively participate in workshops organized by Temasek Polytechnic, NUS and the Science Center and in competitions such as the Singapore Science Buskers Festival to grow and strengthen their research and communication skills.  
 ![](/images/Curriculum/Science/singapore%20science%20buskers%20festival%20masterclass.jpg)
 
-### Visit to Yakult Factory 2023
+### 1. Visit to Yakult Factory 2023
 Did you know that our Yakult is manufactured locally?
 
 The Science Talent Management Programme BDSians went for a learning journey to the Yakult Factory today. They were each given a bottle of limited edition Yakult Light to enjoy, while listening to a presentation about Yakult - from its origins to the unique flavours of Yakult found only in Singapore. To sum up their learning, they even had a Kahoot quiz and three students walked away with prizes from Yakult!
@@ -44,7 +44,7 @@ There was also a facility tour, where our BDSians got to understand the processe
 
 
 
-### Farmathon 2022
+### 2. Farmathon 2022
 
 On 30 July 2022, 2 teams of students participated in the MGS Farmathon 2022, an inter-school entrepreneurship competition organised by Methodist Girls’ School. This competition focuses on solving problems faced by Singapore’s farms and exposes students to business idea on increasing Singapore’s demand for locally produced food or on strengthening Singapore’s food security. Prior to this competition, the students even went on a learning journey to Singapore Indoor Farms which introduced them to farming in controlled environments. They visited a farm and were exposed to different types of hydroponic systems and also got to learn about seed germination. One group obtained the Certificate of Participation while the other clinched the Most Innovative Award.
 

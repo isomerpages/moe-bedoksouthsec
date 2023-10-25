@@ -7,7 +7,15 @@ third_nav_title: Science
 Programmes
 ==========
 
-##### **Science Talent Management Programme**
+### **Learning Journeys / Competitions**
+
+### Learning Journey to NUS Science Demo Lab
+
+On 30 Mar, 13, 25 and 27 Apr, our secondary four physics students were given the opportunity to visit the Wonders of Science at NUS Science Demo Lab. It was a guided tour and the students had the opportunity to witness various science demonstrations that were visually impressive. Through interactive and hands-on activities, the students were able to review and deepen their understanding of various Physics concepts, ranging from forces and energy to waves and electricity. The demonstrations were interesting and had been enjoyable and fruitful for the students. &nbsp;It is our hope that such learning journey will ignite greater interest and passion for Science among the students.
+
+![](/images/nus123.jpg)
+
+### **Science Talent Management Programme**
 
 The Science Talent Management Programme is a two-year programme that provides students with opportunities to be exposed to science-related challenges beyond the main curriculum. The programme aims to stretch and develop passionate students with an aptitude in science through various activities ranging from workshops to competitions. Students work independently on Science projects under teachers’ mentorship to earn badges under the Questa Club Scheme by the Science Center, to gain a deeper appreciation for the discipline of Science and the ways of thinking and doing as a scientist.They also actively participate in workshops organized by NUS Demo Lab and the Science Center to competitions such as the Singapore Science Buskers Festival, where students grow and strengthen their research and communication skills as they acquire new knowledge and gain a deeper appreciation and passion for the various disciplines of Science.
 ![](/images/SCE.png)
@@ -97,8 +105,3 @@ There was also a facility tour, where our BDSians got to understand the processe
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWWO61rL43JWXqt9NZAqdsVTAdJQlqx4db38_apMeZq7bSrISj5v_FBaDm5xRKS3huFZka3dWaMbMp/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-### Learning Journey to NUS Science Demo Lab
-
-On 30 Mar, 13, 25 and 27 Apr, our secondary four physics students were given the opportunity to visit the Wonders of Science at NUS Science Demo Lab. It was a guided tour and the students had the opportunity to witness various science demonstrations that were visually impressive. Through interactive and hands-on activities, the students were able to review and deepen their understanding of various Physics concepts, ranging from forces and energy to waves and electricity. The demonstrations were interesting and had been enjoyable and fruitful for the students. &nbsp;It is our hope that such learning journey will ignite greater interest and passion for Science among the students.
-
-![](/images/nus123.jpg)

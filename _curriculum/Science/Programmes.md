@@ -54,7 +54,3 @@ On 30 July 2022, 2 teams of students participated in the MGS Farmathon 2022, an 
 ![](/images/Farm2.png)
 
 ![](/images/Farm3.png)
-
-
-
-

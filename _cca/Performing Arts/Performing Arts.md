@@ -21,7 +21,7 @@ Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0043" colspan="4">Performing Arts Coordinator: Ms Chia Suat Huang</th>
+    <th colspan="4" class="tg-0043">Performing Arts Coordinator: Ms Chia Suat Huang</th>
   </tr>
 </thead>
 <tbody>
@@ -45,16 +45,14 @@ Performing Arts
   </tr>
   <tr>
     <td class="tg-ktyi">Dance Society</td>
-    <td class="tg-ktyi" rowspan="2">Ms Low Mei Foong (OIC)<br>Ms Zhao Xiumin<br>Mr Tan Han Yuen<br>Ms Tan Wan Ning<br>And external instructors</td>
+    <td rowspan="2" class="tg-ktyi">Ms Low Mei Foong (OIC)<br>Ms Zhao Xiumin<br>Ms Tan Wan Ning<br>And external instructors</td>
     <td class="tg-ktyi">3.00 – 5.00 pm<br><span style="font-style:italic">(G1-05 / 06 classrooms)</span></td>
     <td class="tg-ktyi">Non-HBL Friday 1.30 – 3.30 pm<br><span style="font-style:italic">(G1-05 / 06 classrooms)</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Wushu</td>
-    <td class="tg-ktyi">3.00 – 5.00<br><span style="font-style:italic">(Hall)</span></td>
-    <td class="tg-ktyi">Non-HBL Friday 1.30 – 3.30<br><span style="font-style:italic">(Hall)</span></td>
-  </tr>
-  <tr>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi"><br></td>
+    <td class="tg-ktyi"></td></tr><tr>
     <td class="tg-ktyi">Malay Dance</td>
     <td class="tg-ktyi">Mdm Zaleha (OIC)<br>Ms Raudhah<br>And external instructors</td>
     <td class="tg-ktyi">3.00 – 5.00 pm<br><span style="font-style:italic">(Dance Studio)</span></td>

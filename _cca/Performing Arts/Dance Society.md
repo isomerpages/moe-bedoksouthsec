@@ -1,10 +1,10 @@
 ---
-title: Dance Society &amp; Wushu
+title: Dance Society
 permalink: /cca/performing-arts/dance-society/
 description: ""
 third_nav_title: Performing Arts
 ---
-Dance Society/Wushu
+Dance Society
 =============
 
 ![](/images/Dance1.jpg)
@@ -25,7 +25,7 @@ As members of the society, it is important to inculcate empathy and encourage st
 Ms Low Mei Foong  (OIC)  
 Ms Zhao Xiumin  
 Ms Tan Wan Ning
-Mr Tan Han Yuen (Wushu)
+
 
 <b>And External Instructors</b>
 

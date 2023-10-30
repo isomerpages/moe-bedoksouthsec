@@ -24,12 +24,12 @@ third_nav_title: Our Contact
 
 * Address: 1 Jalan Langgar Bedok, Singapore 468585
 * Contact No: 6441 4479
-* Email: bsss@moe.edu.sg
+* Email: ang_teng_lai@moe.edu.sg
 * Contact Person: Mr Ang Teng Lai
 
 **How to get there?**
 * Nearest MRT: Tanah Merah MRT (EW4/CG line) – 10 minutes walking distance
-* Bus Services to New Upper Changi Road: 2, 9, 12,14, 24, 31, 35, 35M, 38, 45, 48
+* Bus Services to New Upper Changi Road: 2, 9, 12, 14, 24, 31, 35, 35M, 38, 45, 48
 * Bus Services to Bedok Road: 10, 14, 45
 
 **Interest applicants must meet the following criteria:**

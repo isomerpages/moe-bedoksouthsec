@@ -28,15 +28,11 @@ Our Contact
 <tbody>
   <tr>
     <td class="tg-dgl5">Getting Here</td>
-    <td class="tg-ktyi">Nearest MRT Station is Tanah Merah<br><span style="font-weight:bold">Bus Services to New Upper Changi Road: </span><br>2, 9, 12,14, 24, 31, 35, 35M, 38, 45, 48 <br><br><span style="font-weight:bold">Bus Services to Bedok Road: </span><br><span style="background-color:transparent">10, 14, 45 </span></td>
+    <td class="tg-ktyi"><span style="font-weight:bold">Nearest MRT Station: Tanah Merah MRT Station (EW4/CG)<br><br><span style="font-weight:bold">Bus Services to New Upper Changi Road: </span><br>2, 9, 12,14, 24, 31, 35, 35M, 38, 45, 48 <br><br><span style="font-weight:bold">Bus Services to Bedok Road: </span><br><span style="background-color:transparent">10, 14, 45 </span></span></td>
   </tr>
   <tr>
     <td class="tg-dgl5">Telephone:</td>
     <td class="tg-zr06">6441 4479 <br></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Fax:</td>
-    <td class="tg-zr06">6449 1314 <br></td>
   </tr>
   <tr>
     <td class="tg-dgl5">E-mail Address:</td>
@@ -44,5 +40,3 @@ Our Contact
   </tr>
 </tbody>
 </table>
-
-

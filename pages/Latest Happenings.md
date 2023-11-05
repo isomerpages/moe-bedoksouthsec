@@ -12,6 +12,10 @@ Dear parents/ guardians,  
 
 We would like to invite you to sign up for a series of parenting webinars organised by the Parent Support Group and Morning Star Community Services for the month of November, to help you guide your teen to foster closer sibling and peer relationships. Please click [here](https://for.edu.sg/morningstartriplepsecrun10) to find out more and register for the webinars. 
 
+#### Open House 2023
+
+Bedok South Secondary School is hosting an Open House to welcome prospective parents and students who wish to visit our campus and learn more about what we have to offer. Click [here](https://www.bedoksouthsec.moe.edu.sg/prospectors/Open-House/) to find out more!
+
 
 
 #### Full Subject-Based Banding (FSBB) @ Bedok South Secondary School

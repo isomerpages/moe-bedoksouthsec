@@ -2,6 +2,7 @@
 title: Latest Happenings
 permalink: /latest-happenings/
 description: ""
+variant: markdown
 ---
 #### Parenting Webinar
 
@@ -9,16 +10,11 @@ description: ""
 
 Dear parents/ guardians,  
 
-We would like to invite you to sign up for a series of parenting webinars organised by the Parent Support Group and Morning Star Community Services for the month of October, to equip you with strategies to nurture mental resilience in your teens and manage stress. Please click [here](https://go.gov.sg/morningstartripleprun9) to find out more and register for the webinars.
+We would like to invite you to sign up for a series of parenting webinars organised by the Parent Support Group and Morning Star Community Services for the month of November, to help you guide your teen to foster closer sibling and peer relationships. Please click [here](https://for.edu.sg/morningstartriplepsecrun10) to find out more and register for the webinars. 
 
+#### Open House 2023
 
-
-
-
-#### Release of 2022 GCE O-Level Examination Results and 2023 Joint Admissions Exercise
-
-The 2022 GCE O-Level Examination results will be released on Thursday, 12 Jan 2023. For more information, click&nbsp;[here](/information-and-links/For-Students/2022-O-Level-Results-Release/).
-
+Bedok South Secondary School is hosting an Open House to welcome prospective parents and students who wish to visit our campus and learn more about what we have to offer. Click [here](https://www.bedoksouthsec.moe.edu.sg/prospectors/Open-House/) to find out more!
 
 
 

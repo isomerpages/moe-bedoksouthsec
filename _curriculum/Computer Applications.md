@@ -7,6 +7,8 @@ variant: markdown
 Computer Applications
 =====================
 
+![](/images/Curriculum/Computer%20Applications/spreadsheet%20and%20video%20making%20-%20students%20working%20in%20collaboration.jpeg)
+
 ### Introduction
 
 Computer Applications syllabus aims to prepare students to be technologically adept citizens, and to function and contribute effectively in an increasingly technologically-driven world. The syllabus emphasises fundamental knowledge and skills, and includes the appreciation and use of several software application packages for word processing, computer drawing and image editing, video editing, multimedia presentations and documents, spreadsheet calculations and charts, game design, programming; as well as, applications on the Internet. It is a compulsory subject for all Normal Technical (NT) students from Secondary 1 to 4. Selected Sec 2 and 3 students have the chance to submit their lesson-based animations and game designs for inter-school level competitions.
@@ -56,6 +58,9 @@ The central pedagogical approaches adopted for CPA are the ‘learning through d
   </tr>
 </tbody>
 </table>
+
+![](/images/Curriculum/Computer%20Applications/media%20elements%20-%20students%20working%20collaboratively%20to%20create%20the%20same%20image%20as%20teacher.jpeg)
+
 
 ### Computing Curriculum Framework
 

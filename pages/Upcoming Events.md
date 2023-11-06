@@ -8,7 +8,7 @@ variant: markdown
 | -------- | -------- |
 | 12 Nov | Deepavali |
 | 19 Nov - 23 Nov | S3 Bangkok Cultural Immersion Programme (Selected S3 students) |
-| 26 Nov | [Open House](https://www.bedoksouthsec.moe.edu.sg/prospectors/Open-House/) |
+| 25 Nov | [Open House](https://www.bedoksouthsec.moe.edu.sg/prospectors/Open-House/) |
 | 18 Nov - 31 Dec | Term 4 Holidays |
 
 

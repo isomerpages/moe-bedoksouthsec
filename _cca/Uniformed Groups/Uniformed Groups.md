@@ -3,6 +3,7 @@ title: Uniformed Groups
 permalink: /cca/uniformed-groups/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 Uniformed Groups
 ================
@@ -85,18 +86,6 @@ Uniformed Groups
     <td class="tg-ryel"></td>
     <td class="tg-ryel">(Level 4 outside NCDCC room)</td>
     <td class="tg-ryel">(Level 4 outside NCDCC room)</td>
-  </tr>
-  <tr>
-    <td class="tg-ryel">Girl Guides (G)</td>
-    <td class="tg-ryel">Ms Chua Hui Qi (OIC)</td>
-    <td class="tg-ryel">3.30 pm – 5.30 pm</td>
-    <td class="tg-ryel">3.30 pm – 5.30 pm</td>
-  </tr>
-  <tr>
-    <td class="tg-ryel"></td>
-    <td class="tg-ryel">Mdm Nadia Ramli<br>Ms Eva Koh<br></td>
-    <td class="tg-ryel">(Old Basketball Court near Block G)</td>
-    <td class="tg-ryel">(Old Basketball Court near Block G)</td>
   </tr>
 </tbody>
 </table>

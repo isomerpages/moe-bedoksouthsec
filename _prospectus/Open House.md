@@ -13,6 +13,8 @@ This upcoming Open House will be a great opportunity for prospective parents and
 
 We hope that you will have an enjoyable experience exploring our school and we look forward to having you join us at our Open House on 25 November 2023!
 
+![](/images/Open%20House/open%20house%20brochure%202023.png)
+
 ![](/images/Open%20House/open%20house%20page%201.jpg)
 
 ![](/images/Open%20House/open%20house%20page%202.jpg)

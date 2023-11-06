@@ -3,6 +3,7 @@ title: Our Contact
 permalink: /about-us/Our-Contact/Our-Contact/
 description: ""
 third_nav_title: Our Contact
+variant: markdown
 ---
 Our Contact
 ===========
@@ -40,3 +41,10 @@ Our Contact
   </tr>
 </tbody>
 </table>
+
+Map Location
+------------
+
+ <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.750546866685!2d103.94927791470793!3d1.3255933620222706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da22d2c8e88d01%3A0xa2d1fd79557c04f5!2sBedok%20South%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1662736800020!5m2!1sen!2ssg"></iframe>
+  
+Please click&nbsp;**[here](mailto:bsss@moe.edu.sg)**&nbsp;if you have any feedback. Thank you!

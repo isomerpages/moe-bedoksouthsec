@@ -2,22 +2,26 @@
 title: Computer Applications
 permalink: /curriculum/computer-applications/
 description: ""
+variant: markdown
 ---
 Computer Applications
 =====================
 
+![](/images/Curriculum/Computer%20Applications/spreadsheet%20and%20video%20making%20-%20students%20working%20in%20collaboration.jpeg)
+
 ### Introduction
 
-Computer Applications syllabus aims to prepare students to be technologically adept citizens, and to function and contribute effectively in an increasingly technologically-driven world. The syllabus emphasises fundamental knowledge and skills, and includes the appreciation and use of several software application packages for word processing, computer drawing and image editing, video editing, multimedia presentations and documents, spreadsheet calculations and charts, game design, programming; as well as, applications on the Internet. It is a compulsory subject for all Normal Technical (NT) students from Secondary one to four.
+Computer Applications syllabus aims to prepare students to be technologically adept citizens, and to function and contribute effectively in an increasingly technologically-driven world. The syllabus emphasises fundamental knowledge and skills, and includes the appreciation and use of several software application packages for word processing, computer drawing and image editing, video editing, multimedia presentations and documents, spreadsheet calculations and charts, game design, programming; as well as, applications on the Internet. It is a compulsory subject for all Normal Technical (NT) students from Secondary 1 to 4. Selected Sec 2 and 3 students have the chance to submit their lesson-based animations and game designs for inter-school level competitions.
 
 ### Student Outcomes
 
 Students will  
 
-1.  acquire skills in using a variety of application software and associated computer hardware to accomplish tasks, communicate, and facilitate activities;
-2.  develop an awareness of how computing technology are used in the home, school, workplace and community;
-3.  appreciate the role computers play in everyday life and recognise the impact computers have on society and people;
-4.  develop critical thinking and problem-solving skills.
+1.   acquire skills in using a variety of application software and associated computer hardware to accomplish tasks, communicate, and facilitate activities;
+2.   develop an awareness of how computing technology are used in the home, school, workplace and community;
+3.   appreciate the role computers play in everyday life
+4.   recognise the impact computers have on society and people
+5.   develop critical thinking and problem-solving skills
 
 ### Pedagogy Approaches
 
@@ -55,6 +59,9 @@ The central pedagogical approaches adopted for CPA are the ‘learning through d
 </tbody>
 </table>
 
+![](/images/Curriculum/Computer%20Applications/media%20elements%20-%20students%20working%20collaboratively%20to%20create%20the%20same%20image%20as%20teacher.jpeg)
+
+
 ### Computing Curriculum Framework
 
 ![Computing Framework ](/images/Computing%20Framework%202017.jpg)
@@ -83,9 +90,8 @@ This paper will assess knowledge, understanding and application of concepts and 
 •  Spreadsheets (SST) <br>
 •  Interactive Multimedia Communication (IMC) <br>
 •  Media Computing (MEC) <br>
-Refer to the link for further information.
 
-<b>Paper 2 (Lab-based) - 1 hour 30 minutes</b>
+<u><b>Paper 2 (Lab-based) - 1 hour 30 minutes</b></u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -133,7 +139,7 @@ Refer to the link for further information.
 </tbody>
 </table>
 
-<b>Paper 3 (Lab-based) - 1 hour 30 minutes</b>
+<u><b>Paper 3 (Lab-based) - 1 hour 30 minutes</b></u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -170,7 +176,7 @@ Refer to the link for further information.
   </tr>
   <tr>
     <td class="tg-y7qa">Media Elements<br>(MEL)</td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Candidates will use video editing software to create a video file with given still images and videos with text, transitions and sounds according to specifications described in the question paper; and submit the exported video.</span></td>
+    <td class="tg-y7qa">Candidates will use video editing software to create a video file with given still images and videos with text, transitions and sounds according to specifications described in the question paper; and submit the exported video.</td>
     <td class="tg-y7qa">20%</td>
     <td class="tg-y7qa">14</td>
   </tr>

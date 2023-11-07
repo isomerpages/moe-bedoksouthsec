@@ -17,7 +17,7 @@ Ms Chua Hui Qi (OIC) <br>
 Ms Eva Koh <br>
 Mdm Nadia Ramli  <br>
 
-And <b>Volunteer Adult Leaders</b>
+And&nbsp;<b>Volunteer Adult Leaders</b>
 
 ### Mission  
 

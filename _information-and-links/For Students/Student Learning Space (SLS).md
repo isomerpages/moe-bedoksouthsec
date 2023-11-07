@@ -68,7 +68,7 @@ During school operating hours, students should contact the School-based Helpline
 
   
 
-• Click&nbsp;[here](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/school-based-helpline.html)&nbsp;for School-based Helpline (BDS SLS password reset form is in page 3) <br>
+• Click [here](https://go.gov.sg/bsss-ict-assistance-and-equipment-service-request)for School-based Helpline (SLS password reset) <br>
 • Mondays - Fridays: 8:00 am - 4:00 pm
 
   

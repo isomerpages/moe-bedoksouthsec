@@ -86,7 +86,7 @@ Sports
   </tr>
   <tr>
     <td class="tg-9hzb">Wednesday</td>
-    <td class="tg-9hzb">3.00 pm – 5.30 pm <br>(<span style="font-style:italic">Bedok Heartbeat</span>)</td>
+    <td class="tg-9hzb">4.00 pm – 6.00 pm <br>(<span style="font-style:italic">Bedok Heartbeat Pool</span>)</td>
   </tr>
 </tbody>
 </table>

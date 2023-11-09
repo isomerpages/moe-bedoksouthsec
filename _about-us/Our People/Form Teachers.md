@@ -3,6 +3,7 @@ title: Form Teachers
 permalink: /about-us/our-people/form-teachers/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 Form Teachers
 =============
@@ -577,26 +578,20 @@ Form Teachers
     <td class="tg-kveo">160</td>
     <td class="tg-kveo">koh_cin_dee_sylvelin@moe.edu.sg</td>
   </tr>
-	  <tr>
-    <td class="tg-kveo">FAJT (Chinese Language)</td>
-    <td class="tg-kveo">Mdm Wong Siew Har</td>
-    <td class="tg-kveo">101</td>
-    <td class="tg-kveo">wong_siew_har@moe.edu.sg</td>
-  </tr><tr>
-    <td class="tg-kveo">FAJT (English)</td>
-    <td class="tg-kveo">Ms Amy Syed</td>
-    <td class="tg-kveo">102</td>
-    <td class="tg-kveo">amy_syed@moe.edu.sg</td>
-  </tr>
-	 
   <tr>
     <td class="tg-kveo">FAJT (Mathematics)</td>
     <td class="tg-kveo">Mr Ow Tai Pang Jeremy</td>
     <td class="tg-kveo">157</td>
     <td class="tg-kveo">ow_tai_pang@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-kveo">FAJT (PE)</td>
+   <tr>
+    <td class="tg-kveo">FAJT (Mathematics)</td>
+    <td class="tg-kveo">Mr Chong Gim Po, Vincent</td>
+    <td class="tg-kveo">101</td>
+    <td class="tg-kveo">chong_gim_po@moe.edu.sg</td>
+  </tr> 
+	<tr>
+    <td class="tg-kveo">FAJT (Gear-up)</td>
     <td class="tg-kveo">Mr Rayson Soh Li Sen</td>
     <td class="tg-kveo">164</td>
     <td class="tg-kveo">rayson_soh_li_sen_a@moe.edu.sg</td>
@@ -613,18 +608,6 @@ Form Teachers
     <td class="tg-kveo">Ms Lim Yih</td>
     <td class="tg-kveo">104</td>
     <td class="tg-kveo">lim_yih@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">FAJT (Gear-up)</span></td>
-    <td class="tg-kveo">Mr Ng Wee Loon</td>
-    <td class="tg-kveo">163</td>
-    <td class="tg-kveo">ng_wee_loon@moe.edu.sg</td>
-  </tr>
-   <tr>
-    <td class="tg-kveo">FAJT (Gear-up)</td>
-    <td class="tg-kveo">Mr Pradeep Radhakrishnan</td>
-    <td class="tg-kveo">103</td>
-    <td class="tg-kveo">pradeep_radhakrishnan@moe.edu.sg</td>
   </tr>
   </tbody>
 </table>

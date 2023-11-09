@@ -1,8 +1,9 @@
 ---
-title: Girl Guides
+title: Girl Guides (No more intake from 2024)
 permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: tiptap
 ---
 Girl Guides
 ===========

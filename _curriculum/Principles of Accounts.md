@@ -21,7 +21,7 @@ The syllabus then aims to help students to become users of accounting informatio
 ### Examples of POA Learning Experiences in BDS
 
 **National Accounting Challenge**
-
+![](/images/Curriculum/Principles%20of%20Accounts/national%20accounting%20challenge.png)
 <br>**FedEx Express/JA International Trade Challenge**
 ![](/images/Curriculum/Principles%20of%20Accounts/fedex%20express%20ja%20international%20trade%20challenge.png)
 <br>**Financial Literacy for Youth Competition**
@@ -71,7 +71,7 @@ There are two compulsory papers.
   </tr>
   <tr>
     <td class="tg-dgl5">Paper 2</td>
-    <td class="tg-zr06">Answer 4 compulsory structured questions. (60 marks)<br><br><br>· One question requires the preparation of financial statements for a business for one financial year. (20 marks)<br>· A scenario-based question (7 marks) will be part of one of the 3 remaining questions.</td>
+    <td class="tg-zr06">Answer 4 compulsory structured questions. (60 marks)<br><br><br>• One question requires the preparation of financial statements for a business for one financial year. (20 marks)<br>• A scenario-based question (7 marks) will be part of one of the 3 remaining questions.</td>
     <td class="tg-7yig">60%</td>
     <td class="tg-7yig">2 hours</td>
   </tr>

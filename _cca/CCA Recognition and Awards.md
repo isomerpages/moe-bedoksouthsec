@@ -2,6 +2,7 @@
 title: CCA Recognition and Awards
 permalink: /cca/cca-recognition-and-awards/
 description: ""
+variant: markdown
 ---
 CCA Recognition and Awards
 ==========================
@@ -10,24 +11,7 @@ CCA Recognition and Awards
 This is given on Speech Day for pupils who satisfy the criteria of excellence defined&nbsp;by the School in their CCAs. <br>
 1\.  Consistent attendance in CCA sessions; <br>
 2\.  Positive learning attitude; <br>
-3\.  Consistently demonstrates the ICARE values
-
-  
-
-*   <b>CCA Merit Award and Certificate of Appreciation</b> <br>
-This is given out during our National Day Celebrations for pupils who have  
-contributed significantly to their CCAs.
-
-  
-
-*   <b>BDS Sports Boy / Girl Award (Pinnacle Outstanding Sports Individual Award)</b> <br>
-This Award is given to an outstanding individual with exemplary conduct and  
-sportsmanship in each CCA. <br>
-1\. Outstanding attendance in CCA sessions; <br>
-2\. Positive and humble learning attitude; <br>
-3\. Exemplifies the ICARE values
-
-  
+3\.  Consistently demonstrates the ICARE values 
 
 *   <b>Edusave Award for Achievement, Good Leadership and Service (EAGLES)&nbsp;Award</b> <br>
 The Edusave award is given to a maximum of 10% of Singapore students who

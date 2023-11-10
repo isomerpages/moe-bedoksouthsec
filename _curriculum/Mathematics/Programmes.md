@@ -47,7 +47,7 @@ Through these learning experiences, our students learn realise the relevance of 
 <br>**Learning Journey to Giant Hypermart**
 ![](/images/Curriculum/Mathematics/lj%20to%20giant.jpg)
 <br>**Learning Journey to NTUC Xtra**
-
+![](/images/Curriculum/Mathematics/learning%20journey%20to%20ntuc%20xtra.png)
 
 ### Integrated Learning Journey (ILJ) 2015
 

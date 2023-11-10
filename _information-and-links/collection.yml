@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/BDS Parent Support Group (PSG).md
+      - For Parents/For Parents.md
       - For Parents/BDS Parent Support Group (PSG)2.md
       - For Parents/Financial Assistance Scheme (FAS).md
       - For Students/.keep

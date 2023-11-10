@@ -39,6 +39,7 @@ Through these learning experiences, our students learn realise the relevance of 
 ![Mathematics Learning Journeys](/images/Curriculum/Mathematics/LJ%20Process%20Framework2.jpg)
 
 **Learning Journey to URA**
+![](/images/Curriculum/Mathematics/LJ_to_URA_1.jpeg)![](/images/Curriculum/Mathematics/LJ_to_URA_2.jpeg)
 <br>**Learning Journey to Changi Airport**
 ![](/images/Curriculum/Mathematics/lj%20to%20changi%20airport.jpg)
 <br>**Learning Journey to Universal Studio Singapore**

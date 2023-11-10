@@ -3,6 +3,7 @@ title: Programmes
 permalink: /curriculum/mathematics/programmes/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
 Programmes
 ==========
@@ -13,11 +14,10 @@ Bedok South came into the programme with the aim of improving students’ learni
 
 For example, Algebra seem to be a collection of rules and procedures with little link to numbers and arithmetic. Mathematics in mensuration, profit and loss, rate, ratio and portion seem to stand alone as a series of formulae that needs to be applied in the appropriate contexts instead of an extension of proportional reasoning. While a minority of students may be able to see the links between some of these concepts, the majority lack the habits of the mind nor the motivation to seek these underlying links. Hence, MProSE’s emphasis on the mathematical problem-solving process aligns itself well with enhancing students:&nbsp;
 
-1.  Knowledge of the mathematical problem-solving process, making it possible for them to have greater metacognitive awareness of their own thought processes during mathematical problem-solving;
-2.  Appreciation of mathematical problem solving and building their sense of self-efficacy in engaging with mathematical problem solving by engaging in successful problem solving; and
-3.  Developing habits of the mind and the motivation to seek links between the ideas that they come across
+1.   Knowledge of the mathematical problem-solving process, making it possible for them to have greater metacognitive awareness of their own thought processes during mathematical problem-solving;
+2.   Appreciation of mathematical problem solving and building their sense of self-efficacy in engaging with mathematical problem solving by engaging in successful problem solving; and
+3.   Developing habits of the mind and the motivation to seek links between the ideas that they come across
 
-  
 
 While solving mathematical puzzles have been associated with students who are high-achievers in mathematics, it is precisely because the under-performing students lack the skills and motivation to seek links between mathematical ideas and to engage effectively in mathematical problem solving that we are seeking to help them develop their capacity and motivation to do so to help improve their academic performances.&nbsp;
 
@@ -25,22 +25,28 @@ While solving mathematical puzzles have been associated with students who are hi
 ### Subject-Based Banding
 
 We believe in differentiating our curriculum so that our students who excel in Mathematics are provided with the opportunity to push themselves. Since 2008, students in the Normal (Academic) stream with strength in Mathematics are offered the opportunity to study the subject at the Express level. These students would be studying the subject at a more challenging level and be assessed together with their peers in the Express stream.
-
-![Subject-Based Banding](/images/Subject-Based%20Banding.png)
+![Subject-Based Banding](/images/Curriculum/Mathematics/Subject-Based%20Banding.png)
 
 ### Mathematics Learning Journeys
 
 In our effort towards student-centric, values-driven education, we want to nurture engaged learners who are motivated and enjoy learning. One of the areas to make every student an engaged learner is to ignite the joy of learning. This can be achieved in many means. We chose Experiential Learning.
 
-  
-
 Learning Journeys are designed for students to have the opportunities to apply knowledge and skills learnt in class in real-life contexts. We have evolved to integrate more subjects into these learning journeys.
-
   
-
 Through these learning experiences, our students learn realise the relevance of their lessons in school and have developed renewed enthusiasm and drive to greater achievement in school.
 
-![Mathematics Learning Journeys](/images/LJ%20Process%20Framework2.jpg)
+![Mathematics Learning Journeys](/images/Curriculum/Mathematics/LJ%20Process%20Framework2.jpg)
+
+**Learning Journey to URA**
+![](/images/Curriculum/Mathematics/LJ_to_URA_1.jpeg)![](/images/Curriculum/Mathematics/LJ_to_URA_2.jpeg)
+<br>**Learning Journey to Changi Airport**
+![](/images/Curriculum/Mathematics/lj%20to%20changi%20airport.jpg)
+<br>**Learning Journey to Universal Studio Singapore**
+![](/images/Curriculum/Mathematics/students%20in%20action.jpg)![](/images/Curriculum/Mathematics/lj%20to%20uss.jpg)![](/images/Curriculum/Mathematics/symmetrical%20or%20not%20symmetrical.jpg)
+<br>**Learning Journey to Giant Hypermart**
+![](/images/Curriculum/Mathematics/lj%20to%20giant.jpg)
+<br>**Learning Journey to NTUC Xtra**
+![](/images/Curriculum/Mathematics/learning%20journey%20to%20ntuc%20xtra.png)
 
 ### Integrated Learning Journey (ILJ) 2015
 
@@ -100,5 +106,4 @@ Through these learning experiences, our students learn realise the relevance of 
 </table>
 
 ### Sample Tasks
-
-![Sample Tasks](/images/Math%203.jpg)
+![Sample Tasks](/images/Curriculum/Mathematics/sample%20tasks.jpg)

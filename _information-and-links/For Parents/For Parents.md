@@ -8,9 +8,6 @@ variant: markdown
 BDS Parent Support Group (PSG)
 ===========
 
-### Introduction
-
-
 The BDS Parent Support Group (PSG) comprises like-minded parents from diverse backgrounds but all sharing a common goal to support and advocate the school’s mission, vision and values through the school’s programmes to improve children’s well-being and learning and help them in their education journey.
 
 ### Objectives

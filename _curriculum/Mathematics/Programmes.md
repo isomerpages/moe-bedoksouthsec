@@ -25,8 +25,7 @@ While solving mathematical puzzles have been associated with students who are hi
 ### Subject-Based Banding
 
 We believe in differentiating our curriculum so that our students who excel in Mathematics are provided with the opportunity to push themselves. Since 2008, students in the Normal (Academic) stream with strength in Mathematics are offered the opportunity to study the subject at the Express level. These students would be studying the subject at a more challenging level and be assessed together with their peers in the Express stream.
-
-![Subject-Based Banding](/images/Subject-Based%20Banding.png)
+![Subject-Based Banding](/images/Curriculum/Mathematics/Subject-Based%20Banding.png)
 
 ### Mathematics Learning Journeys
 

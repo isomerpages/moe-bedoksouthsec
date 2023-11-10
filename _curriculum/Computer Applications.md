@@ -11,7 +11,7 @@ Computer Applications
 
 ### Introduction
 
-Computer Applications syllabus aims to prepare students to be technologically adept citizens, and to function and contribute effectively in an increasingly technologically-driven world. The syllabus emphasises fundamental knowledge and skills, and includes the appreciation and use of several software application packages for word processing, computer drawing and image editing, video editing, multimedia presentations and documents, spreadsheet calculations and charts, game design, programming; as well as, applications on the Internet. It is a compulsory subject for all Normal Technical (NT) students from Secondary 1 to 4. Selected Sec 2 and 3 students have the chance to submit their lesson-based animations and game designs for inter-school level competitions.
+Computer Applications syllabus aims to prepare students to be technologically adept citizens, and to function and contribute effectively in an increasingly technologically-driven world. The syllabus emphasises fundamental knowledge and skills, and includes the appreciation and use of several software application packages for word processing, computer drawing and image editing, video editing, multimedia presentations and documents, spreadsheet calculations and charts, game design, programming; as well as, applications on the Internet. Selected Sec 2 N(T)  and 3 N(T) students have the chance to submit their lesson-based animations and game designs for inter-school level competitions.
 
 ### Student Outcomes
 

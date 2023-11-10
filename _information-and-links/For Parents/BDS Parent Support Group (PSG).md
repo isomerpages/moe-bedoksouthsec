@@ -43,7 +43,7 @@ The BDS Parent Support Group (PSG) comprises like-minded parents from diverse ba
 <tbody>
   <tr>
     <td class="tg-ktyi"><span style="background-color:transparent">Sports / Recreational Activities</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Bowling, Nagomi art workshop, Craft workshops</span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Bowling, Soccer, Nagomi Art Workshop, Craft Workshops, Balloon Sculpting Workshop</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="background-color:transparent">Social Activities</span></td>
@@ -51,7 +51,7 @@ The BDS Parent Support Group (PSG) comprises like-minded parents from diverse ba
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="background-color:transparent">Personal Enrichment Talks / Workshops</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Parenting Talks, Education and Career Guidance Talks</span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Parenting Talks, Education and Career Guidance Talks, Parenting Teens etc</span></td>
   </tr>
 </tbody>
 </table>

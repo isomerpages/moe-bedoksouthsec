@@ -1,8 +1,9 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /about-us/our-people/parent-support-group-psg/
+permalink: /information-and-links/for-parents/
 description: ""
 third_nav_title: Our People
+variant: tiptap
 ---
 Parent Support Group (PSG)
 ==========================

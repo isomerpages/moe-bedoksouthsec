@@ -1,9 +1,8 @@
 ---
-title: For Parents
-permalink: /information-and-links/for-parents/
-description: ""
-third_nav_title: For Parents
+title: BDS Parent Support Group (PSG)
+permalink: /information-and-links/for-parents/psg/
 variant: markdown
+description: ""
 ---
 BDS Parent Support Group (PSG)
 ===========

@@ -9,6 +9,7 @@ Symphonic Band
 ==============
 
 ![Symphonic Band](/images/CCA/Symphonic%20Band/Symphonic_Band.png)
+
 The BDS Symphonic Band prides itself in being an energetic and passionate group of music lovers who knows the value of cooperation and hard work in creating beautiful music. In the capable hands of professional conductors and tutors, students learn how to play a woodwind, brass or percussion instrument built on a strong foundation of music theory. Regardless of starting point, all band members will be given many opportunities to showcase their talents and hard work through a variety of performances in school and in the community, such as the BDS CCA Fair, Red Dot SG @ The Esplanade and Musical Escapades @ Changi Airport in 2023, to name a few.
 
 In line with the school motto, Success through Endeavour, BDS Symphonic Band strives to develop its members’ musical talents through discipline and dedication to the craft. The band aims to foster strong bonds amongst its band members and the community while pursuing excellence in their musicality, thus staying true to the band’s conviction - <i>In Music We Believe</i>.
@@ -20,7 +21,6 @@ To inculcate disciplined and empathetic students who are both passionate and com
 ### Motto
 
 In Music, We Believe
-
 
 ### Key Events
 
@@ -50,19 +50,18 @@ Youth Arts Leaders Conference
 
 ### Achievements
 
-<br>SYF 2023 – Certificate of Distinction<br>
-<br>SYF 2021 – Certificate of Distinction (Team A)<br>
+SYF 2023 – Certificate of Distinction
+<br>SYF 2021 – Certificate of Distinction (Team A)
 <br>SYF 2021 – Certificate of Accomplishment (Team B)
 
 
 ### Teachers-in-Charge
 
-<br>Miss Siti Fatimah (OIC)  
-<br>Ms Cherlyn Tan  
-<br>Ms Khoo Su Lin  
-<br>Ms Jillian Chen
-  
-<b>And External Instructors</b>
+Miss Siti Fatimah (OIC)  
+Ms Cherlyn Tan  
+Ms Khoo Su Lin  
+Ms Jillian Chen
+<br><b>And External Instructors</b>
 
 ### Leadership Positions
 

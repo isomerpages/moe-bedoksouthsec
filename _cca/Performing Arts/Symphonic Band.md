@@ -26,12 +26,12 @@ In Music, We Believe
 
 <b>2023</b>
 <br>Singapore Youth Festival
-School Events (CCA Fair, CNY Celebrations, National Day Celebrations, Teachers’ Day concert)
-Young Stars: A Junior Band Showcase
-Red Dot @ Esplanade Outdoor Theatre
-Musical Escapades @ Changi Airport
-Band Camp &amp; Band Exchanges
-Learning Journeys to SSO SYF Demonstration Concert &amp; SSOpops: The Music of Hans Zimmer 
+<br>School Events (CCA Fair, CNY Celebrations, National Day Celebrations, Teachers’ Day concert)
+<br>Young Stars: A Junior Band Showcase
+<br>Red Dot @ Esplanade Outdoor Theatre
+<br>Musical Escapades @ Changi Airport
+<br>Band Camp &amp; Band Exchanges
+<br>Learning Journeys to SSO SYF Demonstration Concert &amp; SSOpops: The Music of Hans Zimmer 
 
 
 <b>2022</b>  
@@ -50,17 +50,17 @@ Youth Arts Leaders Conference
 
 ### Achievements
 
-SYF 2023 – Certificate of Distinction<br>
-SYF 2021 – Certificate of Distinction (Team A)<br>
-SYF 2021 – Certificate of Accomplishment (Team B)
+<br>SYF 2023 – Certificate of Distinction<br>
+<br>SYF 2021 – Certificate of Distinction (Team A)<br>
+<br>SYF 2021 – Certificate of Accomplishment (Team B)
 
 
 ### Teachers-in-Charge
 
-Miss Siti Fatimah (OIC)  
-Ms Cherlyn Tan  
-Ms Khoo Su Lin  
-Ms Jillian Chen
+<br>Miss Siti Fatimah (OIC)  
+<br>Ms Cherlyn Tan  
+<br>Ms Khoo Su Lin  
+<br>Ms Jillian Chen
   
 <b>And External Instructors</b>
 

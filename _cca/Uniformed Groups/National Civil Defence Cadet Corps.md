@@ -55,7 +55,31 @@ In the light of the rising threat of terrorism, Singapore has launched the SGSec
   </tr>
 </thead>
 <tbody>
-	<tr>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2023</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Best Cadet (2023)</span><br></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">SSG Soh Chia Wei</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">SCDF-NCDCC Pinnacle Award </span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">WO Ho Rui Zhi </span></td>
+  </tr>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">SCDF-NCDCC Pinnacle Award</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">WO Lee Jordan</span></td>
+  </tr>	  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2022</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Overall Proficiency Award</span><br></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Distinction</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Best Cadet (2022) </span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">WO Nur Zahirah Binte Ahmadzahid </span></td>
+  </tr>
+  <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2021</span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Overall Proficiency Award </span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Gold </span><br></td>

@@ -8,8 +8,7 @@ variant: markdown
 Swimming
 ========
 
-![Swimming](/images/swimming.jpg)
-
+![Swimming](/images/CCA/Swimming/Swimming.PNG)
 ### Overview
 
 The Bedok South Swim Team comprises swimmers from diverse backgrounds and experiences who have come together to help one another achieve their personal best. The team has represented the school in the National School Games competitions since 2017 and the swimmers’ hard work and dedication have earned them places in the finals for both freestyle and medley relays. &nbsp;
@@ -228,4 +227,4 @@ and&nbsp;<b>External Coach</b>
 2\. Team Captain (Girls) <br>
 3\. Team Vice-Captain (Boys) <br>
 4\. Team Vice-Captain (Girls) <br>
-5\. Logistics IC 
+5\. Logistics IC

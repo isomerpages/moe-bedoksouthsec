@@ -28,7 +28,6 @@ Vision, Mission statements: Our goals and strategies intend to achieve the follo
 ### CCA Policy
 
 * It is compulsory for all medically fit students to take up **only** ONE CORE CCA, which can be a physical sport, a uniformed group, a visual and performing arts group, or a club. 
-* CCA days will be only on Mondays and Wednesday from 3 – 6 pm. 
 * Attendance rate is based on their core CCA, and students are expected to obtain at least a 75% attendance rate. Absence from CCA is taken seriously, for which a Medical Certificate or a Letter from parents/guardians is required.
 * As the School Band and the National Uniformed Groups (NCC, NCDCC and NPCC) are national **CCAs**. Students are strongly encouraged to remain in these CCAs for all their years in secondary school. **One change in these CCAs, either at the beginning of Secondary 1 or Secondary 2, is allowed on a case-by-case basis.**
 * For **other CCAs**, students who are keen to experience a different CCA in school may opt for a change at the beginning of each academic year but not during the academic year, unless permission is given by the KPs in charge of CCA. In such cases, the recognition level awarded for the previous CCA will still be credited to the student.

@@ -3,6 +3,7 @@ title: Direct School Admissions (DSA)
 permalink: /about-us/admissions/
 description: ""
 third_nav_title: Direct School Admission (DSA)
+variant: markdown
 ---
 Direct School Admissions (DSA)
 ==========
@@ -139,7 +140,7 @@ For more information about the DSA Exercise, you may:
 
 
 
-| **DSA** | **Contact Person** | **Email** |
-| -------- | -------- | -------- |
-| Entrepreneurship &amp; Innovation      | Ms Denise Wong     | [wong_ming_zhi_denise@schools.gov.sg ](mailto:wong_ming_zhi_denise@schools.gov.sg )     |
-| Sports &amp; Games     | Mr Edzra Iskandar     | [edzra_iskandar@schools.gov.sg](mailto:edzra_iskandar@schools.gov.sg)     |
+| **Contact Person** | **Email** |
+| -------- | -------- |
+| Mr Lim Chern Cheung Webster     | [lim_chern_cheung_webster@moe.edu.sg ](mailto:lim_chern_cheung_webster@moe.edu.sg )     |
+| Mr Mohamed Azman Bin Mohamed Selamat     | [mohd_azman_mohd@moe.edu.sg](mailto:mohd_azman_mohd@moe.edu.sg)     |

@@ -125,10 +125,6 @@ In the light of the rising threat of terrorism, Singapore has launched the SGSec
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unit Overall Proficiency Award</span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Silver</span></td>
   </tr>
-  
-  
- 
-
 </tbody>
 </table>
 

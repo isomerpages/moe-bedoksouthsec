@@ -2,9 +2,9 @@ collections:
   information-and-links:
     output: true
     order:
-      - For Parents/For Parents.md
       - For Parents/.keep
       - For Parents/BDS Parent Support Group (PSG).md
+      - For Parents/For Parents.md
       - For Parents/Financial Assistance Scheme (FAS).md
       - For Students/.keep
       - For Students/For Students.md

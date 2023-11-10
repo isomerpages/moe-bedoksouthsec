@@ -3,6 +3,7 @@ title: For Parents
 permalink: /information-and-links/for-parents/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 For Parents
 ===========
@@ -61,30 +62,33 @@ The BDS Parent Support Group (PSG) comprises like-minded parents from diverse ba
 
 ### Photos of Various Programmes
 
-##### **Parent-Child Bonding Over Bonding**
-![](/images/For%20Parents1.jpg)
+##### **Parent-Child Bonding Over Bowling**
+![](/images/Partnerships/PSG/parent-child%20bonding%20over%20bonding.jpg)
 
 ##### **Racial Harmony Day**
-![](/images/For%20Parents2.jpg)
+![](/images/Partnerships/PSG/racial%20harmony%20day.jpg)
 
 ##### **Nagomi Art workshop**
-![](/images/For%20Parents3.jpg)
+![](/images/Partnerships/PSG/nagomi%20art%20workshop.jpg)
 
 ##### **Packing of Motivation Packs for our Graduating Students**
-![](/images/For%20Parents4.jpg)
+![](/images/Partnerships/PSG/packing%20of%20motivation%20packs%20for%20our%20graduating%20students.jpg)
 
 ##### **Motivation Booster Booth For Graduating Students**
-![](/images/For%20Parents5.jpg)
+![](/images/Partnerships/PSG/motivation%20booster%20booth%20for%20graduating%20students.jpg)
 
 ##### **National Day Dinner**
-![](/images/For%20Parents7.jpg)
+![](/images/Partnerships/PSG/national%20day%20dinner.jpg)
 
 ##### **Parent-Child Cupcake Baking Competition**
-![](/images/For%20Parents8.jpg)
+![](/images/Partnerships/PSG/parent-child%20cupcake%20baking%20competition.jpg)
 
+##### **Enrichment Talks/Workshops**
+![](/images/Partnerships/PSG/PSG1.jpg)
+![](/images/Partnerships/PSG/PSG2.jpg)![](/images/Partnerships/PSG/psg%203A.jpg)
 ### Instagram
 
-Follow us on Instagram [here](https://go.gov.sg/bds-psg).
+Follow us on Instagram&nbsp;[here](https://go.gov.sg/bds-psg).
 
 ### Registration
 

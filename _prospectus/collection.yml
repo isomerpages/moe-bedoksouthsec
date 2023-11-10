@@ -2,7 +2,6 @@ collections:
   prospectus:
     output: true
     order:
-      - BDS Parent Support Group (PSG).md
       - Information for Sec 1 (2023).md
       - Open House.md
       - Reporting Time on First Day of School.md
@@ -17,6 +16,7 @@ collections:
       - Information on Subject Based Banding and Full Subject Based Banding.md
       - Information on Mother Tongue Languages.md
       - Information on PDLP Onboarding.md
+      - BDS Parent Support Group (PSG).md
       - Art Elective Programme (AEP) and Music Elective Programme (MEP).md
       - Secondary 1 Appeal for Transfer in 2023.md
       - Purchase of PLD (For 2023 Sec 1).md

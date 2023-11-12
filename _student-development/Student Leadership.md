@@ -56,63 +56,7 @@ The Class Leaders play an important part in the school. They are the first touch
 <b>CCA Leaders</b> <br> 
 The CCA leaders are managed by the CCA teachers in-charge. They include Captains of Sports, Sergeant Majors of Uniform Groups and President and Chairpersons of Performing Arts and Clubs/Societies. EXCOs of each CCA also play a part in the CCA Leadership. Each CCA group is led by its teachers and respective CCA Coordinators.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-y7qa">CCA Coordinator</td>
-    <td class="tg-y7qa">Mr Edzra Iskandar (HOD PE/CCA)</td>
-  </tr>
-</thead>
-</table>
-
-
+CCA Coordinator: Mr. Mohd. Azman (SH CCA) 
 
 <b>The Student Leadership Committee (Teachers)</b>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0043{background-color:#D0CECE;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0043">Designation</th>
-    <th class="tg-0043">Name</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">OIC: (Student Leadership):</td>
-    <td class="tg-ktyi">Ms Dichen Grace Isaacs (HOD EL)</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Key Personnel</td>
-    <td class="tg-ktyi">Mr Mohd Azman (VIA)<br>Mr Simon Sng (PSL)</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Class Committee Teacher IC:</td>
-    <td class="tg-ktyi">Mdm Surimah Selamat (ST)<br>Mdm Sandra Teo</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Prefect Teachers ICs:</td>
-    <td class="tg-ktyi">Mr Adrian Lim<br>Ms Cherlyn Tan<br>Mr Joshua Tan<br>Mdm Sandra Teo<br>Ms Siti Fatimah</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Peer Support Leader Teachers ICs:</td>
-    <td class="tg-ktyi">Ms Joanne Ng<br><span style="color:#222">Mdm Surimah Selamat</span><br><span style="color:#222">Ms Tan Wan Ning</span><br><span style="color:#222">Mr Zulhilmi (AED) </span></td>
-  </tr>
-</tbody>
-</table>
+![](/images/Student%20Development/stdt_leadership_committee_teachers.JPG)

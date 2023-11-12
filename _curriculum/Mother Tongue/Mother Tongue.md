@@ -100,8 +100,6 @@ PHOTOS Here
 As part of our BDS Mother Tongue Talent Development programme, selected students who display interest and aptitude in learning Mother Tongue are given opportunities to participate in activities with authentic settings. These exposures deepen the learning of Mother Tongue Language and provide students with stronger greater understanding and appreciation of their cultural roots. As shown in the photo above, as part of our Mother Tongue Fortnight activities, our Sec 3 Higher Chinese students went through the Student Docent Training program (Photo 1) and facilitated the learning journey of their Sec 3 school peers when they visited Sun Yat Sen Nanyang Memorial Hall (Photo 2) in March. 
 
 ### Assessment Matters
-         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-font-kerning:0pt; mso-ligatures:none; mso-ansi-language:EN;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-
 Weighted Assessment (WA): Term 1 to 3
 
 WA1 - Functional Writing
@@ -114,5 +112,32 @@ Paper 2: Language Application
 Paper 3: Oral and Listening Comprehension
 
 For more information with regards to National Exam syllabus, please refer to the following links:
-[Syllabus for GCE 'O' Level](https://go.gov.sg/syllabusforolevel)
-[Syllabus for GCE 'N(A)' Level](https://go.gov.sg/syllabusfornalevel)
+<br>[Syllabus for GCE 'O' Level](https://go.gov.sg/syllabusforolevel)
+<br>[Syllabus for GCE 'N(A)' Level](https://go.gov.sg/syllabusfornalevel)
+<br>[Syllabus for GCE 'N(T)' Level](https://go.gov.sg/syllabusforgcentlevel)
+<br>[Approved Dictionary List](https://go.gov.sg/approveddictionarylist)
+<br>[Examination Timetable](https://go.gov.sg/examinationtimetable)
+
+### Parents' Corner
+
+<b>Supporting your child in learning and loving his/her MTL, is as easy as A, B, C.  </b>
+
+<br><b>Active partnership with the school</b>
+* Your child will set a clear goal for assessments in consultation with his/her MTL teacher. Regular check-ins and encouragement from parents will motivate your child to stay on track.
+*	On-going communication with teachers ensures you remain updated on your child’s progress. Besides scheduled Parent-Teacher Meetings, do drop your child’s MTL teachers an email if you require additional information regarding your child’s learning of MTL.
+
+<br><b>Balanced approach in home-support </b>
+* As MTL is an examinable subject, it is natural for parents to feel anxious if your child has not yet achieved his/her targets. It is important to build up the frequency of language exposure at home, at the same time, ensure your child continues to feel supported and motivated to learn MTL to the best of his/her ability. 
+* There are some home routines and expectations you may wish to have in place, when your child spends his/her time at home, some examples include:
+1. Carve out time to read books / articles in MTL
+2. Tune in to the respective TV channels to listen to news updates in MTL
+3. Download a dictionary app in your child’s and/or your own mobile phone to expand your child’s vocabulary knowledge.
+4.	Encourage your child to make conscious efforts to speak in complete sentences, using his/her MTL. This would greatly help in language acquisition and build your child’s confidence in using the language.
+* Here are some other tips to provide the supportive and balanced environment for your child to learn MTL with joy:
+-	Celebrate your community’s festivals and learn about the culture, traditions and practices related to them. This will allow your child to gain knowledge and awareness of his/her own cultural roots and be proud of their own identity.
+-	Allow your child to indulge in watching their favourite or chosen TV programmes in MTL at appropriate timings, if the programmes are meaningful and if he/she shows keen interest in watching them. 
+
+<br><b>Celebrate every little progress and success </b>
+*	Be the ever-supportive cheer leader of your child. Learning a language is never easy and it will always be a work-in-progress. When your child makes progress, be generous in your affirmation and motivate them to strive for constant improvement. 
+*	
+<br>There are no last-minute study tips when it comes to learning a language. The key to ensuring positive learning outcomes is consistency of language exposure and a supportive home environment for language development. With a strong partnership between school and parents, your child will experience the joy of learning MTL. 

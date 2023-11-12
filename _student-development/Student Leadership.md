@@ -2,6 +2,7 @@
 title: Student Leadership
 permalink: /student-development/student-leadership/
 description: ""
+variant: markdown
 ---
 Student Leadership
 ==================
@@ -24,13 +25,12 @@ The Student Leadership Framework sets a hierarchy for all Student Leaders in the
 
 The school has different themes for different Tiers and Levels. The Tiers framework sets a way to map their achievements and chart their leadership progress as the advance from level to level.
 
-![Student Leadership Tiers (Recognition)](/images/Bedok%20South%20Secondary%20School%20Student%20Leadership%20Tiers.jpg)
 
 ### The Four Leadership Roles
 
 The Student Leaders comprises of the Prefects, Peer Support Leaders, Class Committee Leaders and CCA Leaders.
 
-![](/images/The%20Four%20Leadership%20Roles.jpeg)
+
 
 
 <b>The Prefectorial Board</b> <br> 

@@ -23,14 +23,15 @@ Student Outcomes and Approach to BDS MTL Education
  ‒ Ministry of Education (MOE)
 
 Taking guidance from MOE’s bilingualism policy and the [2021 MTL Syllabus (Secondary)](https://www.moe.gov.sg/-/media/files/secondary/syllabuses/mtl/2021-secondary-mtl-syllabus.pdf), Bedok South’s MTL Curriculum aims to develop students to be active learners, confident communicators and proud ambassadors of their own Mother Tongue Languages and cultures, through:
-●	Authentic
-●	Interactive and 
-●	Quality learning experiences [Quality entails well-designed lessons with rigour and elements of fun and engagement]
-Learning MTL effectively requires the support of stakeholders. To support our students, BDS is committed to work closely with parents and communities to create an authentic and conducive environment where students can see meaning, as well as experience joy and success in learning their MTL. 
+* Authentic
+* Interactive and 
+* Quality learning experiences [Quality entails well-designed lessons with rigour and elements of fun and engagement]
+
+<br> Learning MTL effectively requires the support of stakeholders. To support our students, BDS is committed to work closely with parents and communities to create an authentic and conducive environment where students can see meaning, as well as experience joy and success in learning their MTL. 
 Some Pedagogies and Strategies we adopt to improve lesson designs and build strong language foundations for students:
-●	Differentiated Teaching with banded groups, to cater to students’ various needs.
-●	Infusion of ICT in teaching and learning, to achieve higher engagement levels.
-●	Emphasis on Formative Assessment, to provide regular feedback.
+* Differentiated Teaching with banded groups, to cater to students’ various needs.
+* Infusion of ICT in teaching and learning, to achieve higher engagement levels.
+* Emphasis on Formative Assessment, to provide regular feedback.
 BDS MTL Programmes
 
 Mother Tongue Fortnight 2023

@@ -36,136 +36,20 @@ The Student Leaders comprises of the Prefects, Peer Support Leaders, Class Commi
 <b>The Prefectorial Board</b> <br> 
 The prefectorial board strives to develop the school culture anchored by the school’s ICARE values. As the bridge of communication for the student body to the school leaders and teachers, they assist in the planning and execution of key programmes that develop the school identity and sense of pride amongst the students. The prefectorial board also works very closely with the school management team in fostering a disciplined Bedok South community that is rooted by the school core values.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-y7qa" rowspan="9"><br><br><br><br><br><br><br><br>Prefect EXCO</td>
-    <td class="tg-y7qa">Head Prefect</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Vice-Head Prefect (Internal Affairs)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Vice-Head Prefect (External Affairs)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Head of Programmes</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Head of Training &amp; Mentorship</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Head of Deployment</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Head of Communications &amp; Engagement</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Head of Welfare</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Sec 1 - 4/5 Level Heads</td>
-  </tr>
-</thead>
-</table>
-
+![](/images/Student%20Development/prefect_exco.JPG)
 
 <b>The Peer Support Leaders</b> <br>
-The Peer Support Leaders (PSLs) lead in peer bonding, helping, and influencing their peers to prosocial behaviours and contribute to a caring and enabling school environment. They oversee, initiate class bonding activities, and share on tips and strategies that promote mental health and cyber wellness, to help students to feel connected and be accepted by their classmates.
+The Peer Support Leaders (PSLs) play an important leading role in creating an inclusive schooling environment to help their peers feel safe, accepted, connected, and empowered through strong peer relationships. They strive to build and strengthen positive peer relationships through peer bonding, peer helping, and peer influencing.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-y7qa" rowspan="10"><br><br><br><br><br><br><br><br>Peer Leaders EXCO</td>
-    <td class="tg-y7qa">Chairperson</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Vice-Chairperson (CCE)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Vice-Chairperson (Student Leadership)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Head of Deployment (CCE)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Head of Deployment (Student Leadership)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Head of Events (CCE)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Head of Events (Student Leadership)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Head of Level (CCE)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Head of Level (Student Leadership)</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Head of Communications &amp; Engagement</td>
-  </tr>
-</thead>
-</table>
+![](/images/Student%20Development/peer_support_leaders_exco.JPG)
 
 
 
 
 
 <b>The Class Leaders</b> <br> 
-The Class Leaders play an important part in the school. They are the first touchpoint the Student Leaders have with the students.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-y7qa" rowspan="7"><br><br><br><br><br><br>Class Leaders</td>
-    <td class="tg-y7qa">Class Chairperson</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Vice Chairperson</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">ICT Leader</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Safety and Environment Leader</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">PE Leader</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">CCE Leader</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">VIA Leader</td>
-  </tr>
-</thead>
-</table>
+The Class Leaders play an important part in the school. They are the first touchpoint the Student Leaders have with the students. Class leaders often serve as a bridge of communication between students and teachers. They are role models for their peers, demonstrating good behavior, responsibility, and a strong work ethic. They also oversee some initiatives to help students manage stress and maintain good mental health. In the digital age, class leaders also play a role in educating their peers about online safety, responsible internet use, and cyberbullying prevention. 
+![](/images/Student%20Development/class_leaders.JPG)
 
 
 

@@ -101,15 +101,14 @@ As part of our BDS Mother Tongue Talent Development programme, selected students
 
 ### Assessment Matters
 Weighted Assessment (WA): Term 1 to 3
+<br>WA1 - Functional Writing
+<br>WA2 - Language Application (Reading Comprehension and Vocabulary)
+<br>WA3 - Alternative Assessment
 
-WA1 - Functional Writing
-WA2 - Language Application (Reading Comprehension and Vocabulary)
-WA3 - Alternative Assessment
-
-Semestral Assessment (SA): Term 4
-Paper 1: Functional and Essay writing
-Paper 2: Language Application
-Paper 3: Oral and Listening Comprehension
+<br>Semestral Assessment (SA): Term 4
+<br>Paper 1: Functional and Essay writing
+<br>Paper 2: Language Application
+<br>Paper 3: Oral and Listening Comprehension
 
 For more information with regards to National Exam syllabus, please refer to the following links:
 <br>[Syllabus for GCE 'O' Level](https://go.gov.sg/syllabusforolevel)

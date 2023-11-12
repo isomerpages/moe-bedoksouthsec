@@ -37,7 +37,20 @@ Mother Tongue Fortnight 2023
 
 In support of MOE's efforts to promote student learning and appreciation of Mother Tongue Languages and cultures, our BDS MT Department has organized our Mother Tongue Fortnight (MTFN) in Term 2 Week 2 and Week 3 (27 March – 6 April 2023). Our students participated in various fun and meaningful activities within and outside curriculum time to encourage them to use their MTL and deepen their sense of belonging and rootedness.
 
-PHOTOS Here
+![](/images/Curriculum/Mother%20Tongue/mtl1.JPG)
+<br>Top: Peking Opera Mask Drawing Activity for Secondary 1 students 
+<br>Bottom Left: Tea Appreciation Session at Tea Chapter for Secondary 2 students 
+<br>Bottom Right: Chinese Drumming Experience for Secondary 3 students 
+
+![](/images/Curriculum/Mother%20Tongue/mtl2.JPG)
+<br>Left: Silat Workshop for Secondary 3 students            
+<br>Centre and Right: Traditional Games for Secondary 1 students
+
+![](/images/Curriculum/Mother%20Tongue/mtl3.JPG)
+Tanjak Making for Secondary Two students
+
+![](/images/Curriculum/Mother%20Tongue/mtl4.JPG)
+MTL Tongue Talent Management Program 2023
 
 As part of our BDS Mother Tongue Talent Development programme, selected students who display interest and aptitude in learning Mother Tongue are given opportunities to participate in activities with authentic settings. These exposures deepen the learning of Mother Tongue Language and provide students with stronger greater understanding and appreciation of their cultural roots. As shown in the photo above, as part of our Mother Tongue Fortnight activities, our Sec 3 Higher Chinese students went through the Student Docent Training program (Photo 1) and facilitated the learning journey of their Sec 3 school peers when they visited Sun Yat Sen Nanyang Memorial Hall (Photo 2) in March. 
 

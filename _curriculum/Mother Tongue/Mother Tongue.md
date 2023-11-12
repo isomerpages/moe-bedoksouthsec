@@ -129,15 +129,15 @@ For more information with regards to National Exam syllabus, please refer to the
 <br><b>Balanced approach in home-support </b>
 * As MTL is an examinable subject, it is natural for parents to feel anxious if your child has not yet achieved his/her targets. It is important to build up the frequency of language exposure at home, at the same time, ensure your child continues to feel supported and motivated to learn MTL to the best of his/her ability. 
 * There are some home routines and expectations you may wish to have in place, when your child spends his/her time at home, some examples include:
-1. Carve out time to read books / articles in MTL
-2. Tune in to the respective TV channels to listen to news updates in MTL
-3. Download a dictionary app in your child’s and/or your own mobile phone to expand your child’s vocabulary knowledge.
-4.	Encourage your child to make conscious efforts to speak in complete sentences, using his/her MTL. This would greatly help in language acquisition and build your child’s confidence in using the language.
+<br>(a) Carve out time to read books / articles in MTL
+<br>(b) Tune in to the respective TV channels to listen to news updates in MTL
+<br>(c) Download a dictionary app in your child’s and/or your own mobile phone to expand your child’s vocabulary knowledge.
+<br>(d)	Encourage your child to make conscious efforts to speak in complete sentences, using his/her MTL. This would greatly help in language acquisition and build your child’s confidence in using the language.
 * Here are some other tips to provide the supportive and balanced environment for your child to learn MTL with joy:
--	Celebrate your community’s festivals and learn about the culture, traditions and practices related to them. This will allow your child to gain knowledge and awareness of his/her own cultural roots and be proud of their own identity.
--	Allow your child to indulge in watching their favourite or chosen TV programmes in MTL at appropriate timings, if the programmes are meaningful and if he/she shows keen interest in watching them. 
+<br>(a) Celebrate your community’s festivals and learn about the culture, traditions and practices related to them. This will allow your child to gain knowledge and awareness of his/her own cultural roots and be proud of their own identity.
+<br> (b) Allow your child to indulge in watching their favourite or chosen TV programmes in MTL at appropriate timings, if the programmes are meaningful and if he/she shows keen interest in watching them. 
 
 <br><b>Celebrate every little progress and success </b>
-*	Be the ever-supportive cheer leader of your child. Learning a language is never easy and it will always be a work-in-progress. When your child makes progress, be generous in your affirmation and motivate them to strive for constant improvement. 
-*	
+<br>*	Be the ever-supportive cheer leader of your child. Learning a language is never easy and it will always be a work-in-progress. When your child makes progress, be generous in your affirmation and motivate them to strive for constant improvement. 
+
 <br>There are no last-minute study tips when it comes to learning a language. The key to ensuring positive learning outcomes is consistency of language exposure and a supportive home environment for language development. With a strong partnership between school and parents, your child will experience the joy of learning MTL. 

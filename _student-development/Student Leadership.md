@@ -24,13 +24,13 @@ The Student Leadership Framework sets a hierarchy for all Student Leaders in the
 ### Student Leadership Tiers (Recognition)
 
 The school has different themes for different Tiers and Levels. The Tiers framework sets a way to map their achievements and chart their leadership progress as the advance from level to level.
-
+![](/images/Student%20Development/Student%20Leadership/stdtleadership3.JPG)
 
 ### The Four Leadership Roles
 
 The Student Leaders comprises of the Prefects, Peer Support Leaders, Class Committee Leaders and CCA Leaders.
 
-
+![](/images/Student%20Development/Student%20Leadership/stdtleadership2.jpg)
 
 
 <b>The Prefectorial Board</b> <br> 

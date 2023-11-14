@@ -22,9 +22,19 @@ Student will
 *   find opportunities in class to be creative and innovative
 *   be introduced to media literacy
 
-### Student Outcomes
+### Approach &amp; Pedagogy
 
-The BDS English Language and Literature programme approaches the teaching of texts thematically in alignment with the Instructional Materials from Curriculum Planning &amp; Development Division (CPDD), with the intentional use of CLEARR pedagogical strategies to encourage exploration of ideas, reflection, and greater focus on the writing journey rather than just the end product. Our lessons are designed based on the principles of e-pedagogy and blended learning and the principles and processes of EL teaching and learning. Teachers facilitate Assessment for Learning (AfL) in classrooms to identify students’ readiness, interests and learning profiles and check their progress. Our teachers adapt the instructional strategies to develop students with different strengths and needs.
+The BDS English Language and Literature programme approaches the teaching of texts thematically in alignment with the Instructional Materials from Curriculum Planning &amp; Development Division (CPDD), with the intentional use of CLEARR pedagogical strategies to encourage exploration of ideas, reflection, and greater focus on the writing journey rather than just the end product. Our lessons are designed based on the principles of e-pedagogy and blended learning and the principles and processes of EL teaching and learning. Teachers facilitate Assessment for Learning (AfL) in classrooms to identify students’ readiness, interests and learning profiles and check their progress. Our teachers adapt the instructional strategies to develop students with different strengths and needs. 
+
+What the BDS English Language classroom looks like:
+
+
+PHOTO
+
+What the BDS Literature classroom looks like:
+
+PHOTO
+
 
 ### Assessment Criteria
 

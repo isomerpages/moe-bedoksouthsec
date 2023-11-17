@@ -63,5 +63,5 @@ Ms Joanne Ng (OIC) <br>
 Ms Nadia Begam <br>
 
 ### Leadership Positions
-Student Executive Committee for 2023
+
 ![SEC6](/images/CCA/Clubs%20and%20Societies/exco_committee.JPG)

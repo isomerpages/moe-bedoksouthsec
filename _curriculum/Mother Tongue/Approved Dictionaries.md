@@ -5,3 +5,4 @@ variant: markdown
 description: ""
 third_nav_title: Mother Tongue
 ---
+<br>[Approved Dictionary List](https://go.gov.sg/approveddictionarylist)

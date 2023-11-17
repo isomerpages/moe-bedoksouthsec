@@ -10,7 +10,7 @@ Music
 
 ### Introduction
 In the music programme at BDS, students listen to, compose and perform music from a broad range of styles, traditions and contexts. They create, shape and share sounds in time and space and critically analyze music they listen to, make and perform. Music practice is aurally based and focuses on acquiring and using knowledge, to understand music and musicians from their own experience and from other times and places.
- 
+ ![Music1](/images/Curriculum/Craft%20&amp;%20Technology/Music1.JPG)
 #### Student Outcomes
 The General Music Programme aims to: <br>
 * Develop awareness and appreciation of music in local and global cultures<br>
@@ -32,4 +32,3 @@ Upper secondary students with formal training and background are encouraged to p
 
 
 #### Assessment
-

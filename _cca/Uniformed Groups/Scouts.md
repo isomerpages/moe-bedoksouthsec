@@ -76,13 +76,12 @@ A Scout is to be trusted
 
 | Year | Type of Achievement | 
 | -------- | -------- | 
-| 2018  | FCSA - Gold     | 
-| 2019  | FCSA - Silver    | 
 | 2020  | Suspension of FCSA due to outbreak of COVID-19     | 
 | 2021  | Suspension of FCSA due to outbreak of COVID-19     | 
 | 2022  | Chief Commisioner's Well-Done Badge <br>Quarter 1 – DHARMIK S/O KANAGARAJAH: 4D <br>Quarter 2 – BRAYDEN TEO TZE JUN: 4D <br>Quarter 3 – LAM JUN YANG (LAN JUNYANG): 4B <br>Quarter 4 – SCOTT TAN KIAN YIU: 4C |
 | 2022  | FCSA - Gold    |
-
+|2023|Chief Commissioner’s Award  <br>DHARMIK S/O KANAGARAJAH: 4D <br>LAM JUN YANG (LAN JUNYANG): 4B <br>NICOLAS KWEK YU CHENG: 4C <br>ANG ZHEN XIANG: 4D
+|
 
 ### Leadership Positions
 
@@ -92,3 +91,10 @@ A Scout is to be trusted
 4\.  Asst. Patrol Leader<br>
 5\.  Quartermaster<br>
 6\.  Council Secretary
+
+### Progress Badges
+1.	Scout Badge
+2.	Discoverer Award
+3.	Explorer Award
+4.	Voyager Award
+5.	Chief Commissioner’s Award

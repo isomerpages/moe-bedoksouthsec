@@ -50,29 +50,8 @@ Literature in English Assessment (End of year only)
 ![ENG3](/images/Curriculum/English%20and%20English%20Literature/ENG3.JPG)
 
 
-
-
-
-
 #### Literature in English
 
 Literature in English (2065) <br>
 [GCE O Syllabus](https://go.gov.sg/gceoliteng)
 
-### Tips for Parents
-
-We would like to suggest to parents to spend time looking through the specially selected readers/periodicals with your child as these can help build your child’s vocabulary. This word bank will be useful for their writing.
-
-  
-
-We hope we will be able to work in partnership to help heighten your child’s love for the language and mould them to be proficient and confident users of the English Language.
-
-### Recommended Reading Lists Compiled by National Library Board (NLB)
-
-Click [here](https://childrenandteens.nlb.gov.sg/) for Recommended Reading Lists.
-
-### Recommended English Language Resources Online
-
-[Grammar and Vocabulary Games British Council’s Listen &amp; Watch Activities](https://learnenglish.britishcouncil.org/skills/listening) <br>
-[Dictionary and Thesaurus – Merriam-Webster Online](https://www.merriam-webster.com/) <br>
-[DiscoveRead by NLB](https://childrenandteens.nlb.gov.sg/)

@@ -11,7 +11,7 @@ Art
 ### Introduction
 In BDS, students engage with the concepts of artists, artworks and audience. Art practice involves experiences, practical and critical thinking, conceptual and spatial inquiry and the analysis of artworks from a range of viewpoints as artists and audience. Students make individual and collaborative artworks that communicate their artistic intentions and use skills of observation, interpretation and analysis to critically evaluate their own and others’ artworks. 
 
-PHOTO1
+![Art1](/images/Curriculum/Craft%20&amp;%20Technology/Art1.JPG)
 #### Student Outcomes
 The Art Programme aims to :
 * Develop a keen perception in observing and analysing visual stimuli <br>
@@ -24,7 +24,7 @@ The Art Programme aims to :
 In BDS, the general art programme is conducted throughout the year.
 Students are exposed to different aspects of visual arts, including drawing, painting, sculpture, digital media and  explore a range of artistic techniques and mediums. They will also learn to apply the elements and principles of art through thoughtful art making projects each term. Students are also given opportunities to visit art museums and public art sites to provide them with real-world exposure to the art scene, making learning authentic and relevant. 
 
-PHOTO 2
+![Art2](/images/Curriculum/Craft%20&amp;%20Technology/Art2.JPG)
 
 Students who have an interest and demonstrated aptitude in art are encouraged to elect for the upper secondary art programme. This is a rigorous and disciplined area of study that will equip them with the requisite knowledge, skills and values to pursue higher education in art and design in their chosen career paths.
 
@@ -38,4 +38,4 @@ Inquiry-based learning is a key pedagogical approach applied in the BDS Art prog
 
 
 #### Assessment
-Assessment in the BDS Art Programme is aligned closely with the MOE Art syllabus objectives, content and pedagogy. Through portfolios, graded task assignments and reflections, students are assessed on their knowledge, skills and competencies as well as their achievement of learning outcomes. 
+Assessment in the BDS Art Programme is aligned closely with the MOE Art syllabus objectives, content and pedagogy. Through portfolios, graded task assignments and reflections, students are assessed on their knowledge, skills and competencies as well as their achievement of learning outcomes.

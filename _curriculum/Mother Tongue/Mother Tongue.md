@@ -70,7 +70,6 @@ For more information with regards to National Exam syllabus, please refer to the
 <br>[Syllabus for GCE 'O' Level](https://go.gov.sg/syllabusforolevel)
 <br>[Syllabus for GCE 'N(A)' Level](https://go.gov.sg/syllabusfornalevel)
 <br>[Syllabus for GCE 'N(T)' Level](https://go.gov.sg/syllabusforgcentlevel)
-<br>[Approved Dictionary List](https://go.gov.sg/approveddictionarylist)
 <br>[Examination Timetable](https://go.gov.sg/examinationtimetable)
 
 ### Parents' Corner

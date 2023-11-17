@@ -3,6 +3,7 @@ title: Scouts
 permalink: /cca/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 Scouts
 ======
@@ -50,9 +51,10 @@ A Scout is to be trusted
 “Try and leave this world a little better than you found it, and when your turn comes to die, you can die happy in feeling that at any rate, you have not wasted your time but have done your best.” – Lord Baden Powell, the founder of the Scout movement.
 <br>It is our aspiration that the life skills taught will prepare our Scouts for the future and to become useful individuals to society. The quest for continuous learning is evident in Kijang Scout Group as our Scouts expand their knowledge through a wide range of programmes each year. The highlight comprises the East Area Scout Leadership Course (SLC), whereby Scouts from Secondary Three hone their leadership skills through a series of activities at East Spring Secondary School. The youths treasured the bond that has been forged with members of various troops in the East Area.
 <br>To strengthen the message of a non-formal, value-based educational youth programme, our Scouts have embarked on a four-year project starting in 2022 and culminating in the celebration of Singapore’s Diamond Jubilee in 2025. The Diamond Jubilee Challenge (DJC) is a youth-led and adult-supported initiative where our Scouts will be immersed in meaningful learning journeys and community engagement activities.
-<br>In addition, Job Week 2022 was a key educational experience for all Scouts. The main purpose of the Job Week, an annual fund-raising event, is to inculcate in Scouts the dignity of labour, the value of honest work and to help others, which will enable the Scouts to be better leaders and citizens of tomorrow. The concept of service before self; service to the community and the nation is an important aspect of the Scout Programme. Our Scouts performed jobs such as cleaning the corridor, taking away food, sorting out recyclables and watering the plants, which have helped them to appreciate the relentless efforts of our frontline workers such as town council cleaners and food delivery riders when our Scouts stayed home during the phases of circuit breaker.
-<br>The Frank Cooper Sands Award (FCSA) for 2020 and 2021 was suspended due to the outbreak of Coronavirus Disease 2019 (COVID-19). Nevertheless, the Senior Patrol Leaders played their integral roles steadfastly in enabling our troop to attain the FCSA – Gold for 2022. Equipped with a solid platform for its pursuit of excellence, Kijang Scout Group will strive to groom the next batch of tenderfoots in the true spirit of Scouting.
+<br>In addition, Job Week 2023 was a key educational experience for all Scouts. The main purpose of the Job Week, an annual fund-raising event, is to inculcate in Scouts the dignity of labour, the value of honest work and to help others, which will enable the Scouts to be better leaders and citizens of tomorrow. The concept of service before self; service to the community and the nation is an important aspect of the Scout Programme. Our Scouts performed jobs such as cleaning the corridor, taking away food, sorting out recyclables and watering the plants, which have helped them to appreciate the relentless efforts of our frontline workers such as town council cleaners and food delivery riders when our Scouts stayed home during the phases of circuit breaker.
+<br>The Frank Cooper Sands Award (FCSA) for 2020 and 2021 was suspended due to the outbreak of Coronavirus in 2019 (COVID-19). Nevertheless, the Senior Patrol Leaders played their integral roles steadfastly in enabling our troop to attain the FCSA – Gold for 2022. Equipped with a solid platform for its pursuit of excellence, Kijang Scout Group will strive to groom the next batch of tenderfoots in the true spirit of Scouting.
 
+![](/images/CCA/Uniformed%20Groups/Scouts/scouts202303.jpg)
 
 
 ### Main Activities
@@ -74,19 +76,26 @@ A Scout is to be trusted
 
 | Year | Type of Achievement | 
 | -------- | -------- | 
-| 2018  | FCSA - Gold     | 
-| 2019  | FCSA - Silver    | 
 | 2020  | Suspension of FCSA due to outbreak of COVID-19     | 
 | 2021  | Suspension of FCSA due to outbreak of COVID-19     | 
 | 2022  | Chief Commisioner's Well-Done Badge <br>Quarter 1 – DHARMIK S/O KANAGARAJAH: 4D <br>Quarter 2 – BRAYDEN TEO TZE JUN: 4D <br>Quarter 3 – LAM JUN YANG (LAN JUNYANG): 4B <br>Quarter 4 – SCOTT TAN KIAN YIU: 4C |
 | 2022  | FCSA - Gold    |
+|2023|Chief Commissioner’s Award  <br>DHARMIK S/O KANAGARAJAH: 4D <br>LAM JUN YANG (LAN JUNYANG): 4B <br>NICOLAS KWEK YU CHENG: 4C <br>ANG ZHEN XIANG: 4D
+|
 
+### Leadership Positions and Roles
 
-### Leadership Positions
+1.  Troop Leader<br>
+2.  Assistant Troop Leader<br>
+3.  Patrol Leader<br>
+4.  Senior Patrol Leader <br>
+5.  Assistant Patrol Leader<br>
+6.  Quartermaster<br>
+7.  Council Secretary
 
-1\.  Troop Leader<br>
-2\.  Asst. Troop Leader<br>
-3\.  Patrol Leader<br>
-4\.  Asst. Patrol Leader<br>
-5\.  Quartermaster<br>
-6\.  Council Secretary
+### Progress Badges
+1.	Scout Badge
+2.	Discoverer Award
+3.	Explorer Award
+4.	Voyager Award
+5.	Chief Commissioner’s Award

@@ -14,7 +14,7 @@ This subject is a compulsory project-based subject in the lower secondary school
 
 ### Student Outcomes
 
-**Lower Secondary**
+**Lower Secondary**<br>
 GENERAL OBJECTIVES
  Students will be able to :
 *  a) Understand the importance of nutrition for long-term health
@@ -30,8 +30,8 @@ Consumer studies equip students with basic money management and to prepare stude
 Elective Module provides an opportunity for the students to undertake project through which they are required to do planning (analytical &amp; critical thinking and research), problem solving and evaluation. The school focus on Nutrition and Food Science aspect.
 
 
-**Upper Secondary**
-GENERAL OBJECTIVES
+**Upper Secondary**<br>
+GENERAL OBJECTIVES<br>
  Students will be able to:
  a) understand of the concepts of nutrition and meal planning
  b) understand of the link between diet and health
@@ -45,7 +45,7 @@ ASSESSMENT OBJECTIVES
 3. Making informed food choices regarding a healthy diet.
 4. The scientific principles underlying food preparation, processing, and safety.
 
-(II) Analysis, Planning, Application and Evaluation in each Coursework (Paper 2) Students should be able to demonstrate the following process skills in a given coursework task:
+(II) Analysis, Planning, Application and Evaluation in each Coursework (Paper 2) Students should be able to demonstrate the following process skills in a given coursework task: <br>
 1. Define and analyse task question / problem situation.
 2. Gather, manage and process information.
 3. Investigate and develop ideas towards a solution.
@@ -58,27 +58,29 @@ ASSESSMENT OBJECTIVES
 10. Demonstrate proficient use of equipment and good management of resources in food preparation.
 11. Demonstrate the ability to evaluate and draw conclusions.
 
-Inquiry-based learning lends itself well in FCE as the syllabus is experiential in nature. The school focus on three main domains – Engage, Explore and Apply.
-Pedagogy Approach
- Inquiry-based learning lends itself well in FCE as the syllabus is experiential in nature. The school focus on three main domains – Engage, Explore and Apply.
+Inquiry-based learning lends itself well in FCE as the syllabus is experiential in nature. The school focus on three main domains – Engage, Explore and Apply.<br>
 
-Engage
+Pedagogy Approach<br>
+Inquiry-based learning lends itself well in FCE as the syllabus is experiential in nature. The school focus on three main domains – Engage, Explore and Apply.<br>
+
+**Engage**
 * Being provided an interesting context
 * Carry out analytical &amp; critical thinking research work
 
-Explore
+**Explore**
 * Students collaborate/ record thoughts
 * Students ideate on possibilities
 
-Apply
+**Apply**
 * Demonstrate knowledge/skills gain
 * Evaluate own knowledge gain<br>
 
-Assessment Format (Upper Secondary)<br>
+**Assessment Format (Upper Secondary)**<br>
 The assessment objectives for this subject are classified into two main areas:<br>
  Paper 1 : 40 % (100 marks)<br>
  Paper 2 : 60 % (100 marks)<br>
-Paper 1 ( 2 Hours) – Written Paper<br>
+
+Paper 1 (2 Hours) – Written Paper<br>
  This will test the candidates’ knowledge of theory and practice in response to the assessment objectives. Candidates are to answer all questions in Sections A and B. Candidates are to answer three essay questions in Section C.<br>
  Section A: consisting of multiple-choice questions (15 marks)<br>
  Section B: consisting of short-answer-questions and data -response-type questions (55 marks)<br>

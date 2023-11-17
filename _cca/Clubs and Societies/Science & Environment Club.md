@@ -3,35 +3,35 @@ title: Science & Environment Club
 permalink: /cca/clubs-and-societies/science-n-environment-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
-Science & Environment Club
+Science &amp; Environment Club
 ==========================
 
 
-![Science & Environment Club](/images/Science-and-Environment.jpg)
-
 ### Overview
 
-The Science Society comprises 4 main sub-groups:   
-(i) Robotics   
-(ii) PET Rockets   
-(iii) Environment   
-(iv) Visits  
-  
+The Science and Environment Club nurtures students' knowledge and thinking about scientific and environmental issues. It aims to develop students' interest in Science, Technology, Engineering, and Mathematics (STEM) and equip them with baseline skills necessary to pursue a career in STEM. 
 
-The first 3 sub-groups devote their activities to their members’ enrichment and excellence in that particular field. They also provide opportunities for members to take part and be engaged in various competitions (zonal, national and international level) held throughout the year. 
+The club seeks student opinions and feedback, and tailors programmes to cater to their learning needs each year. In the course of 2023, the club has run the following science modules for the students:
 
-  
+* Introduction to Microscopy Using Leaves from the Garden
+* Introduction to Titration Using Vitamin C and Iodine
+* Making Plastic Out of Milk
+* Introduction to Nature-journaling of Plants in the Garden
+* Party Science: Balloon-sculpting and the Reaction of Mentos with Coke
+* Chemistry of Chocolate @ Science Centre
+* Molecular Gastronomy @ Science Centre
+* Learning Journey @ NEWater Visitor Centre
+* Intermediate Nature-journaling of Birds @ Bird Paradise
+* Inter-Pentangular Competition @ St Hilda's Secondary School
+* Visit and Experience @ The Gem Museum
 
-The Visits sub-group engages themselves in organising field-trips and visits for the members to various attractions in Singapore that allow members to enrich themselves in scientific knowledge and discovery. These attractions include Sungei Buloh Wetland Reserve, Marina Barrage, The Southern Ridges (forest walk) and visits to the Science Centre. These learning journeys not only enable students to appreciate nature and science better through first-hand discovery, they also serve as an eye-opener for many students. 
+Photo 1: Members of the club outside the NEWater Visitor Centre
 
-  
+Photo 2: Members of the club on their learning journey to the Bird Paradise
 
-A highlight of this year would be the students’ visit to the Science Centre for an iMax Movie about The Panda Adventure. A group of Science Society students also participated in the EduRace 2013 organised by Tampines Junior College to complete en-route tasks to raise awareness among the students on the scarcity of water in Singapore. 
-
-  
-
-The Environment sub-group has been engaged in activities to better appreciate the Earth and raise awareness on the need to save the Earth from Man’s harmful activities. Our members have organised workshops for neighbouring secondary schools to engage them in fun-filled and hands-on ‘green’ activities. They have also visited the ABC Water Trail @ Lorong Halus and the Alpha Biodiesel Plant and Incineration Plant as part of their learning journeys.
+Photo 3: A group of students viewing gems with special characteristics at The Gem Museum.
 
 ### Key Events
 
@@ -40,7 +40,7 @@ The Science Society has/ will be participating in the following events:<br>
 1\.  International and National PET Rocket Competition<br>
 2.  APRSAF-23 Water Rocket Event<br>
 3.  Robofest<br>
-4.  Underwater Robotics Olympiad<br> 
+4.  Underwater Robotics Olympiad<br>&nbsp;
 5.  Bull's Eye Competition<br>
 6.  VJC Robotics Challenge<br>
 7.  ITE RoboChallenge<br>
@@ -113,8 +113,8 @@ Committee members were also given ample opportunities to organize various school
 
 
 Ms Joanne Ng (OIC) <br>
-Ms Nancy Sim   <br>
-Ms Nadia Begam   <br>
+Ms Nancy Sim&nbsp;  <br>
+Ms Nadia Begam&nbsp;  <br>
 
 ### Leadership Positions
 

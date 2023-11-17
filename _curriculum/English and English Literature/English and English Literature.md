@@ -46,12 +46,8 @@ English Language Syllabus A (1190) <br>
 English Language Syllabus T (1195)<br>
 [GCE N(T) Syllabus](https://go.gov.sg/gcentsyllabus)
 
-
-
-
-
 Literature in English Assessment (End of year only)
-
+![ENG3](/images/Curriculum/English%20and%20English%20Literature/ENG3.JPG)
 
 
 
@@ -60,13 +56,8 @@ Literature in English Assessment (End of year only)
 
 #### Literature in English
 
-<b>Literature in English (2065)</b> <br>
-[GCE O Syllabus](/files/2065_y22_sy.pdf)
-
-
-<b>Literature in English NA Syllabus (2022)</b> <br>
-[GCE N(A) Syllabus](/files/2022_y22_sy.pdf)
-
+Literature in English (2065) <br>
+[GCE O Syllabus](https://go.gov.sg/gceoliteng)
 
 ### Tips for Parents
 

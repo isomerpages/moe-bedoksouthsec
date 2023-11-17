@@ -35,18 +35,28 @@ What the BDS Literature classroom looks like:
 
 ### Assessment Criteria
 
+For more information, refer to links below <br>
+English Language (1184) <br>
+[GCE O Syllabus](https://go.gov.sg/gceosyllabus)
 
-For more information, refer to links below
 
-<b>English Language (1128)</b> <br>
-[GCE O Syllabus](/files/1128_y22_sy.pdf)
+English Language Syllabus A (1190) <br>
+[GCE N(A) Syllabus](https://go.gov.sg/gcenasyllabus) 
+ 
+English Language Syllabus T (1195)<br>
+[GCE N(T) Syllabus](https://go.gov.sg/gcentsyllabus)
 
-<b>English Language Syllabus A (1190)</b> <br>
-[GCE N(A) Syllabus](/files/1190_y22_sy.pdf) 
 
-                            
-<b>English Language Syllabus T (1195)</b> <br>
-[GCE N(T) Syllabus](/files/1195_y22_sy.pdf)
+
+
+
+Literature in English Assessment (End of year only)
+
+
+
+
+
+
 
 #### Literature in English
 

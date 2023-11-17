@@ -83,14 +83,15 @@ A Scout is to be trusted
 |2023|Chief Commissioner’s Award  <br>DHARMIK S/O KANAGARAJAH: 4D <br>LAM JUN YANG (LAN JUNYANG): 4B <br>NICOLAS KWEK YU CHENG: 4C <br>ANG ZHEN XIANG: 4D
 |
 
-### Leadership Positions
+### Leadership Positions and Roles
 
 1.  Troop Leader<br>
-2.  Asst. Troop Leader<br>
+2.  Assistant Troop Leader<br>
 3.  Patrol Leader<br>
-4.  Asst. Patrol Leader<br>
-5.  Quartermaster<br>
-6.  Council Secretary
+4.  Senior Patrol Leader <br>
+5.  Assistant Patrol Leader<br>
+6.  Quartermaster<br>
+7.  Council Secretary
 
 ### Progress Badges
 1.	Scout Badge

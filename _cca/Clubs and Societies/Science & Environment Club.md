@@ -27,11 +27,13 @@ The club seeks student opinions and feedback, and tailors programmes to cater to
 * Inter-Pentangular Competition @ St Hilda's Secondary School
 * Visit and Experience @ The Gem Museum
 
-Photo 1: Members of the club outside the NEWater Visitor Centre
+![SEC1](/images/CCA/Clubs%20and%20Societies/SEC1.jpg)
+Members of the club outside the NEWater Visitor Centre
+![SEC2](/images/CCA/Clubs%20and%20Societies/SEC2.jpg)
+Members of the club on their learning journey to the Bird Paradise
 
-Photo 2: Members of the club on their learning journey to the Bird Paradise
-
-Photo 3: A group of students viewing gems with special characteristics at The Gem Museum.
+![SEC3](/images/CCA/Clubs%20and%20Societies/SEC3.jpg)
+A group of students viewing gems with special characteristics at The Gem Museum.
 
 The club continued its third year of work with the World Wildlife Fund (WWF) Eco-Schools Programme this year. Students in the Executive Committee (EXCO) have used the Seven Steps Approach from UNESCO's Education for Sustainable Development framework in their project to Change the Way You Think About Waste. The EXCO has led its members to run the following programmes to reduce the plastic waste in school:
 * Introduction to Circular Economy via Assembly Talk
@@ -42,7 +44,7 @@ The club continued its third year of work with the World Wildlife Fund (WWF) Eco
 * School-Wide Design Thinking Competition to Generate Ideas on Reducing, Reusing, and Recycling Plastic
 * Reflections and Learning on Activating Changes
 
-Photo 4
+![SEC4](/images/CCA/Clubs%20and%20Societies/SEC4.jpg)
 Students making beeswax sandwich wraps to replace plastic bags.
 
 
@@ -50,22 +52,16 @@ Students making beeswax sandwich wraps to replace plastic bags.
 Gabrielle Angelica Pereira of Class 4A and Conrad Yeah of Class represented the school to receive the Eco-Schools Bronze Award from WWF this year as they had led a consistent group of students to contribute meaningfully and significantly to the whole school's efforts to cultivate an understanding of food waste and to take actions to tackle the corresponding issues in 2022.
 
 
-Photo 5
+![SEC5](/images/CCA/Clubs%20and%20Societies/SEC5.jpg)
 Gabrielle (left) and Conrad (center) took photos with the WWF personnel at the Awards Ceremony.
 
 
 
 
 ### Teachers-In-Charge
-
-
 Ms Joanne Ng (OIC) <br>
 Ms Nadia Begam <br>
 
 ### Leadership Positions
-
-1\.  President<br>
-2.  Vice President<br>
-3.  Head of Robotics<br>
-4.  Head of PET Rocket<br>
-5.  Head of Environment
+Student Executive Committee for 2023
+![SEC6](/images/CCA/Clubs%20and%20Societies/exco_committee.JPG)

@@ -85,12 +85,12 @@ A Scout is to be trusted
 
 ### Leadership Positions
 
-1\.  Troop Leader<br>
-2\.  Asst. Troop Leader<br>
-3\.  Patrol Leader<br>
-4\.  Asst. Patrol Leader<br>
-5\.  Quartermaster<br>
-6\.  Council Secretary
+1.  Troop Leader<br>
+2.  Asst. Troop Leader<br>
+3.  Patrol Leader<br>
+4.  Asst. Patrol Leader<br>
+5.  Quartermaster<br>
+6.  Council Secretary
 
 ### Progress Badges
 1.	Scout Badge

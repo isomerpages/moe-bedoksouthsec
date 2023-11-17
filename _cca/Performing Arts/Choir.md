@@ -67,25 +67,23 @@ In BDS Choir, students from different levels come together and bond to create ne
 </table>
 
 
-##### **Key events 2022**  
+##### **Key events 2023**  
 
 1\. CCA Fair<br>
-2\. Virtual Choral Exchange (March)<br>
-3\. Choir Camp (June)<br>
-4\. Choir VIA (August)<br>
-5\. National Day Celebration Sing-A-Long<br>
-6\. Teachers' Day Celebration<br>
-7\. Voices of Singapore (September)<br>
-8\. Voices in Harmony (November)
+2\. NUSS Singathon<br>
+3\. Singapore Youth Festival Arts Presentation<br>
+4\.SYF Showcase <br>
+5\.Voices of Singapore Festival performance <br>
+6\.Choral workshops/masterclasses with Mr. Keven Steven and Mr. Sanders Lau
 
 
-##### **Upcoming events in 2023**
 
-1\. Singapore Youth Festival Arts Presentation<br>
-2\. Colours of BDS<br>
-3\. School and public performances<br>
-4\. Choir exchanges<br>
-5\. VIA
+##### **Upcoming events in 2024**
+
+1\. School Performances<br>
+2\. Public Performances<br>
+3\. Choir exchanges<br>
+4\. Choral workshops<br>
 
 
 ### Leadership Positions

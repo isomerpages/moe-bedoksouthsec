@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /curriculum/humanities/
 description: ""
+variant: markdown
 ---
 Humanities
 ==========
@@ -61,11 +62,11 @@ In line with the school's Teaching and Learning Framework, we seek to nurture cr
 
 
 ### Subjects Offered:
-* [Secondary 1 Humanities Subject](/files/Humanities/Secondary%201%20Humanities%20Subjects.pdf)
-* [Secondary 2 Humanities Subject](/files/Humanities/Secondary%202%20Humanities%20Subjects.pdf)
-* [Secondary 3 Humanities Subject](/files/Humanities/Secondary%203%20Humanities%20Subjects.pdf)
-* [Secondary 4 Humanities Subject](/files/Humanities/Secondary%204%20Humanities%20Subjects.pdf)
-* [Secondary 5 Humanities Subject](/files/Humanities/Secondary%205%20Humanities%20Subjects.pdf)
+[Secondary 1 Humanities Subjects](https://go.gov.sg/secondary1humanitiessubjects) <br>
+[Secondary 2 Humanities Subjects](https://go.gov.sg/secondary2humanitiessubjects) <br>
+[Secondary 3 Humanities Subjects](https://go.gov.sg/secondary3humanitiessubjects) <br>
+[Secondary 4 Humanities Subjects](https://go.gov.sg/secondary4humanitiessubjects) <br>
+[Secondary 5 Humanities Subjects](https://go.gov.sg/secondary5humanitiessubjects)
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgH16kuNNTLkYY-OyluXuakUrrZqfPZ_K4-DOka3ycNklyNFggbg7PCRG9guxsoUYLitAXwN5zIyRn/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>

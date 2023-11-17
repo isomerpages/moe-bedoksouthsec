@@ -15,11 +15,10 @@ Design and Technology, often referred to as D&amp;T, is a multifaceted, whole-br
 In the lower secondary years, D&amp;T is a compulsory subject, and it's a gateway to fostering creativity, problem-solving, and hands-on skills. It is an integral part of the curriculum designed to provide students with a solid foundation in various aspects of design and technology. Our aim is to empower young minds with the knowledge and skills necessary to tackle real-world challenges while also kindling a passion for innovation. <br>
 Students in Secondary 1 and 2 will embark on an exciting journey in D&amp;T, where they will explore:<br>
 *  (1) Ideation: Overcome having ‘no idea’ by generating creative ideas from lines and circles, shape borrowing, pushing the limits of possibilities in out-of-the-box definitions of problems and solutions and bring these ideas to life. <br>
-Photo1
-
+![](/images/Curriculum/Craft%20&amp;%20Technology/DnT1.JPG)
+![](/images/Curriculum/Craft%20&amp;%20Technology/DnT2.JPG)
 * (2)   Sketch Communication and Digital Skills: Communicate design in 2D and 3D, on paper and pencil and on digital platform.  Make it look good and sell your idea! <br>
-
-Photo 2
+![](/images/Curriculum/Craft%20&amp;%20Technology/DnT3.JPG)
 * (3) Mock-up: Learn to test ideas using quick and dirty mock-ups. Without even knowing it, acquire useful life skills such as critical analytical thinking, problem solving, incisive decision-making, improvising and researching to find good solutions. Make mock-ups using suitable mock-up materials and find a working solution first before devoting effort and time to using more permanent materials for a prototype. <br>
 * (4) Prototyping: Turning concepts and tested mock-ups into tangible, working prototypes using various materials, tools and processes. These skills are crucial to your final year coursework project, which forms 60%-70% of your national examination D&amp;T grades! <br>
 D&amp;T in lower secondary is an essential stepping stone in building a strong foundation for the subject, enabling students to make informed decisions when choosing their electives in the upper secondary years.
@@ -27,11 +26,10 @@ D&amp;T in lower secondary is an essential stepping stone in building a strong f
 
 **Upper Secondary Curriculum**
 In the upper secondary years, students can continue their journey with Design and Technology (D&amp;T) as an elective subject, allowing them to work on projects in their areas of interest. This phase delves deeper into the subject, allowing students to gain practical experience and develop soft skills. In Secondary 3 and 4/5, students can work on real-world projects, design thinking, project-driven knowledge and skills, 3D manipulation, taking ownership of learning, and sustainability.
-
-Photo3
+![](/images/Curriculum/Craft%20&amp;%20Technology/DnT4.JPG)
 Real-world projects account for 60%-70% of national examination grades, preparing students for tertiary education skewed towards industry application. Design thinking involves identifying problems, generating creative solutions, and bringing ideas to life. Project-driven knowledge and skills encourage students to take on learning beyond syllabus content and become experts in their chosen topic.
 
-Photo 4
+![](/images/Curriculum/Craft%20&amp;%20Technology/DnT5.JPG)
 
 D&amp;T is suitable for kinesthetic students and others, as it involves concrete, non-abstract physical items. Working on a coursework project helps students transition from only being able to learn from a teacher into being able to learn on their own, preparing them for self-directed, lifelong learning. Sustainability is also emphasised in D&amp;T, as students explore how their designs can be environmentally friendly and make a positive impact on the world.
 
@@ -80,4 +78,3 @@ One important pedagogical strategy used in the BDS D&amp;T programme to encourag
   </tr>
 </tbody>
 </table>
-

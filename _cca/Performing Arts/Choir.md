@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 Choir
 =====
@@ -13,16 +14,13 @@ Choir
 
 Ms Lam Yen Ping (OIC)<br>
 Ms Chia Suat Huang<br>
-Mrs Adeline Yee
-
+Mrs Adeline Yee <br>
 <b>And External Instructors</b>
 
 
 ### Our Vision
 
 “We sing as one!”
-
-  
 
 In BDS Choir, students from different levels come together and bond to create new experiences in their secondary school life. Their participation in performances and various activities with the choir develop members into well-rounded youths who appreciate music in their daily lives, and provides numerous opportunities for students to grow, step up and excel in a nurturing environment. Through song, fellowship and fun, values such as leadership, resilience, responsibility and confidence are imbued in our students.
 
@@ -50,6 +48,11 @@ In BDS Choir, students from different levels come together and bond to create ne
 </thead>
 <tbody>
   <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> 2023</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> Singapore Youth Festival Arts Presentation</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Certficate of Dictinction </span></td>
+  </tr>
+	<tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> 2021</span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">World Youth Choral Festival &amp; Competition in Jeju </span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Gold Prize </span></td>
@@ -59,39 +62,28 @@ In BDS Choir, students from different levels come together and bond to create ne
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Festival Arts Presentation</span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Certificate of Distinction</span></td>
   </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2017</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Festival Arts Presentation</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Certificate of Accomplishment</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2015</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Singapore Youth Festival Arts Presentation</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Certificate of Distinction</span></td>
-  </tr>
+ 
 </tbody>
 </table>
 
 
-##### **Key events 2022**  
+##### **Key events 2023**  
 
 1\. CCA Fair<br>
-2\. Virtual Choral Exchange (March)<br>
-3\. Choir Camp (June)<br>
-4\. Choir VIA (August)<br>
-5\. National Day Celebration Sing-A-Long<br>
-6\. Teachers' Day Celebration<br>
-7\. Voices of Singapore (September)<br>
-8\. Voices in Harmony (November)
+2\. NUSS Singathon<br>
+3\. Singapore Youth Festival Arts Presentation<br>
+4\.SYF Showcase <br>
+5\.Voices of Singapore Festival performance <br>
+6\.Choral workshops/masterclasses with Mr. Keven Steven and Mr. Sanders Lau
 
 
-##### **Upcoming events in 2023**
 
-1\. Singapore Youth Festival Arts Presentation<br>
-2\. Colours of BDS<br>
-3\. School and public performances<br>
-4\. Choir exchanges<br>
-5\. VIA
+##### **Upcoming events in 2024**
+
+1\. School Performances<br>
+2\. Public Performances<br>
+3\. Choir exchanges<br>
+4\. Choral workshops<br>
 
 
 ### Leadership Positions

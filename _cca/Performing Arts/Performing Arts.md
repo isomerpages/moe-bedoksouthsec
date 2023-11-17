@@ -3,6 +3,7 @@ title: Performing Arts
 permalink: /cca/performing-arts/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 Performing Arts
 ===============
@@ -34,20 +35,20 @@ Performing Arts
   <tr>
     <td class="tg-ktyi">Chinese Orchestra</td>
     <td class="tg-ktyi">Ms Toh Qin Min (OIC)<br>Mdm Zhou Yun<br>Mdm Caroline Ho<br>Ms Poh Bee Yong<br>And external instructors</td>
-    <td class="tg-ktyi">3.00 – 6.00 pm<br><span style="font-style:italic">(Level 4 Classrooms)</span></td>
-    <td class="tg-ktyi">3.00 – 6.00 pm<br><span style="font-style:italic">(AVA room)</span></td>
+    <td class="tg-ktyi">1500 – 1800<br><span style="font-style:italic">(AVA Room &amp; Classrooms)</span></td>
+    <td class="tg-ktyi">1500 – 1800 <br><span style="font-style:italic">(AVA room)</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Choir</td>
     <td class="tg-ktyi">Ms Lam Yen Ping (OIC)<br>Mrs Adeline Yee<br>Ms Chia Suat Huang<br>And external instructors</td>
-    <td class="tg-ktyi">3.15 – 5.45 pm<br><span style="font-style:italic">(Music Room)</span></td>
-    <td class="tg-ktyi">1.00 – 3.45 pm<br><span style="font-style:italic">(Music Room)</span></td>
+    <td class="tg-ktyi">1515 – 1730 <br><span style="font-style:italic">(Music Room)</span></td>
+    <td class="tg-ktyi">1515 – 1730 <br><span style="font-style:italic">(Music Room)</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Dance Society</td>
     <td rowspan="2" class="tg-ktyi">Ms Low Mei Foong (OIC)<br>Ms Zhao Xiumin<br>Ms Tan Wan Ning<br>And external instructors</td>
-    <td class="tg-ktyi">3.00 – 5.00 pm<br><span style="font-style:italic">(G1-05 / 06 classrooms)</span></td>
-    <td class="tg-ktyi">Non-HBL Friday 1.30 – 3.30 pm<br><span style="font-style:italic">(G1-05 / 06 classrooms)</span></td>
+    <td class="tg-ktyi">1500 – 1700 <br><span style="font-style:italic">(G1-05/06)</span></td>
+    <td class="tg-ktyi">1500 – 1700 <br><span style="font-style:italic">(G1-05/06)</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"></td>
@@ -55,14 +56,15 @@ Performing Arts
     <td class="tg-ktyi"></td></tr><tr>
     <td class="tg-ktyi">Malay Dance</td>
     <td class="tg-ktyi">Mdm Zaleha (OIC)<br>Ms Raudhah<br>And external instructors</td>
-    <td class="tg-ktyi">3.00 – 5.00 pm<br><span style="font-style:italic">(Dance Studio)</span></td>
+    <td class="tg-ktyi">1500 – 1700 <br><span style="font-style:italic">(Dance Studio)</span></td>
+	<td class="tg-ktyi">1500 – 1700 <br><span style="font-style:italic">(Dance Studio)</span></td>
     <td class="tg-ktyi"><br><span style="font-style:italic"></span></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Symphonic Band</td>
     <td class="tg-ktyi">Ms Siti Fatimah (OIC)<br>Ms Cherlyn Tan<br>Ms Khoo Su-Lin<br>Ms Jillian Chen<br>And external instructors</td>
-    <td class="tg-ktyi">3.00 – 5.30 pm<br><span style="font-style:italic">(Band Room)</span></td>
-    <td class="tg-ktyi">2.30 – 5.30<br><span style="font-style:italic">(Band Room)</span></td>
+    <td class="tg-ktyi">1500 – 1730 <br><span style="font-style:italic">(Band Room)</span></td>
+    <td class="tg-ktyi">1500 – 1730<br><span style="font-style:italic">(Band Room)</span></td>
   </tr>
 </tbody>
 </table>

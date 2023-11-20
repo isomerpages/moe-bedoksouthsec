@@ -35,31 +35,31 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ryel">NCC Land (B)</td>
-    <td class="tg-ryel">Mr Adrian Lim (OIC)<br>Mr Asraf<br>Mr Hubert Song<br>Ms Mary Pai</td>
+    <td class="tg-ryel">Mr Hubert Song (OIC)<br>Mr Asraf<br>Ms Mary Pai<br>Mr Joseph Lim<br>Mr Stephan Gan</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Area in front of General Office)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Area in front of General Office)</td>
   </tr>
   <tr>
     <td class="tg-ryel">NPCC <br>(B &amp; G)</td>
-    <td class="tg-ryel">Mr Steve Kong (OIC)<br> Ms Joy Chia <br> Mr John Chua</td>
+    <td class="tg-ryel">Mr Steve Kong (OIC)<br> Mr John Chua</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Carpark Area in front of Foyer)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Carpark Area in front of Foyer)</td>
   </tr>
   <tr>
     <td class="tg-ryel">Scouts (B)</td>
-    <td class="tg-ryel">Mr Eric Choo (OIC)<br>Mr Webster Lim</td>
+    <td class="tg-ryel">Mr Eric Choo (OIC)<br>Mr Adrian Lim</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Level 4 Lift Lobby)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Level 4 Lift Lobby)</td>
   </tr>
   <tr>
     <td class="tg-ryel">NCDCC <br>(B &amp; G)</td>
-    <td class="tg-ryel">Miss Corrina Teo (OIC)<br>Ms Syafiqah Begum <br></td>
+    <td class="tg-ryel">Ms Syafiqah Begum (OIC)<br>Ms Teo Wei Ling<br>Mr Soh Wei Keong<br></td>
     <td class="tg-ryel">3.00 pm – 5.30 pm<br>(Level 4 outside NCDCC room)</td>
     <td class="tg-ryel">3.00 pm – 5.30 pm<br>(Level 4 outside NCDCC room)</td>
   </tr>
   <tr>
     <td class="tg-ryel">Girl Guides (G)<br>(No more intake from 2024) </td>
-    <td class="tg-ryel">Ms Chua Hui Qi (OIC)<br>Mdm Nadia Ramli <br> Ms Eva Koh <br></td>
+    <td class="tg-ryel">Ms Eva Koh (covering OIC)<br>Mdm Nadia Ramli <br> </td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Old Basketball Court near Block G)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Old Basketball Court near Block G)</td>
   </tr>

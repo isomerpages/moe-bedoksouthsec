@@ -3,12 +3,14 @@ title: School Canteen
 permalink: /about-us/our-contact/schoolcanteen/
 description: ""
 third_nav_title: Our Contact
+variant: markdown
 ---
 #### School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Halal Cuisine | 30 Nov 2023     | Halal Nasi Padang and Noodles - Mee Rebus, Mee Siam, Mee Goreng, Lotong, Nasi Lemak & etc.    |
+| Snack and Drink | 5 Dec 2023     | Hot and Cold drinks only (No snack).    |
 
 **Application Procedure**
 

@@ -23,7 +23,7 @@ Uniformed Groups
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="4" class="tg-b5tn"><span style="color:#323232">UG Coordinator: Mr Mohd Azman</span></th>
+    <th colspan="4" class="tg-b5tn"><span style="color:#323232">UG Coordinator: Mr Webster Lim</span></th>
   </tr>
 </thead>
 <tbody>

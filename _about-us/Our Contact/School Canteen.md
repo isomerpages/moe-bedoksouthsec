@@ -10,7 +10,7 @@ variant: markdown
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Halal Cuisine | 30 Nov 2023     | Halal Nasi Padang and Noodles - Mee Rebus, Mee Siam, Mee Goreng, Lotong, Nasi Lemak & etc.    |
-| Snack and Drink | 5 Dec 2023     | Hot and Cold drinks only (No snack).    |
+| Snack and Drink | 5 Dec 2023     | Hot and Cold drinks only (No snack and food).    |
 
 **Application Procedure**
 

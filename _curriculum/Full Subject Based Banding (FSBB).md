@@ -2,62 +2,34 @@
 title: Full Subject Based Banding (FSBB)
 permalink: /curriculum/Full-Subject-Based-Banding-FSBB/
 description: ""
+variant: markdown
 ---
 Full Subject-Based Banding (FSBB)
 =================================
 
-Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.
+Full Subject-Based Banding (Full SBB) is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.
 
-  
+With Full SBB, we are moving towards a secondary school education where students learn each subject at the level that best caters to their overall strengths, interests and learning needs.
 
-With Full SBB, what will a Secondary One BDSian’s school experience be like?
+Full SBB aims for students to:
+1. Have greater ownership of their learning according to their strengths, interests, abilities, talents and learning needs
+2. Develop a **growth mindset and an intrinsic motivation** to learn for life
+3. Have **more opportunities to interact with friends** of different strengths, interests, abilities and talents
+4. Have **more options for post-secondary pathways**, while ensuring they have strong fundamentals and can thrive in their chosen pathway
 
+Thus, students who go through Full SBB will experience:
+* Mixed form classes upon entering secondary school
+* Greater flexibility to offer subjects at various subject levels
+* Shift away from stream-based subject offerings     
 
-### 1)     Mixed form classes at lower secondary
---------------------------------------------
+**Common Curriculum Subjects**
 
-Secondary 1 students will be grouped into mixed form classes, with each form class comprising students taking different courses. Mixed form classes present more opportunities for students to interact with other students taking different subject combinations, and with different strengths and interests.
+Students will take **six common curriculum subjects** with peers from their form class. These subjects are Art, Character &amp; Citizenship Education, Design &amp; Technology, Food &amp; Consumer Education, Music and Physical Education. These subjects take up approximately one-third of curriculum time, giving students time to interact with classmates of different strengths and interests.
 
-### 2)     Common Curriculum Subjects
----------------------------------
+For other subjects, students can take them at **different subject levels (i.e. G1/ NT, G2/ NA or G3/ Express)** according to their strengths, interests and learning needs.
 
-In their mixed form classes, students will take a set of subjects at a common level, amounting to about one-third of curriculum time. This would allow students in mixed form classes to spend curriculum time together in these subjects. Secondary One (2023) students from all courses will take six common curriculum subjects.  
+Eligible students can take some subjects at a **more or less demanding level** at appropriate junctures. School will advise students accordingly based on holistic considerations.
 
-  
+For more information on Full SBB, visit&nbsp;[www.moe.gov.sg/microsites/psle-fsbb](https://www.moe.gov.sg/microsites/psle-fsbb/index.html). <br>
 
-These subjects are:
-
-  
-
-*   Art - examinable
-*   Character and Citizenship Education - non-examinable
-*   Design and Technology - examinable
-*   Food and Consumer Education - examinable
-*   Music - non-examinable
-*   Physical Education - non-examinable
-
-  
-
-Teachers will adopt a range of teaching approaches to meet the different learning needs and pace of their students in the same form class.
-
-  
-
-English Language, Mother Tongue Languages, Mathematics, and Science will continue to be offered at Express Level, N(A) Level, and N(T) Level. The criteria for taking these subjects at a more demanding level from the start of Secondary One is based on students’ PSLE AL Score for each subject. Students will be grouped in different classes based on their subject level for each subject.
-
-### 3)     Offering Humanities subjects at a more demanding level from Secondary 2
-------------------------------------------------------------------------------
-
-Currently, secondary school students can offer English Language, Mother Tongue Languages, Mathematics and Science at a more demanding level from the start of Secondary One based on students’ PSLE Achievement Level (AL) for each subject. Beyond the start of Secondary 1, students may also offer these subjects at a more demanding level based on their performance in secondary school.
-
-  
-
-Our school will also provide Secondary 2 students the opportunity to take Humanities subjects at a more demanding level, if they meet subject-specific criteria. This is applicable to students who are in the Secondary 2 Normal (Academic) course from 2023, and students who are in the Normal (Technical) course from 2024.
-
-  
-
-The criteria for taking Humanities at a more demanding level will be based on students’ aptitude for and interest in these subjects at Secondary 1. They should also possess positive attitude towards learning and strong commitment to offer the subject at a more demanding level.
-
-  
-
-For more information on Full SBB, visit [www.moe.gov.sg/microsites/psle-fsbb](https://www.moe.gov.sg/microsites/psle-fsbb/index.html). <br>
-For more information on how our school will be implementing Full SBB, you can contact us at bsss@moe.edu.sg.
+For more information on how our school will be implementing Full SBB, you can contact us at [bsss@moe.edu.sg](bsss@moe.edu.sg).

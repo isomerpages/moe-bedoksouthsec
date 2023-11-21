@@ -286,7 +286,7 @@ Form Teachers
 </table>
 
 
-### Sec 3
+### Sec 3 OLD
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -321,12 +321,7 @@ Form Teachers
     <td class="tg-kveo">113 </td>
     <td class="tg-kveo">teo_wei_ling_a@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Ms Srividya Nair DO Rajakumaran Nair</td>
-    <td class="tg-kveo">112</td>
-    <td class="tg-kveo">srividya_nair@moe.edu.sg</td>
-  </tr>
+ 
   <tr>
     <td class="tg-y7qa"><span style="color:#222">3B</span></td>
     <td class="tg-kveo">Ms Wan Yee Ling Jacquelyn</td>
@@ -393,12 +388,7 @@ Form Teachers
     <td class="tg-kveo">108</td>
     <td class="tg-kveo">sharifah_hana_h_alhaddad@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-laxs"></td>
-    <td class="tg-kveo">Ms Siti Fatimah Bte Muhammad Tahir</td>
-    <td class="tg-kveo">114</td>
-    <td class="tg-kveo">siti_fatimah_muhammad_tahir@moe.edu.sg</td>
-  </tr>
+  
   <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Mr Chua Lian Wee John</td>
@@ -408,9 +398,7 @@ Form Teachers
 </tbody>
 </table>
 
-
-
-### Sec 4 and 5
+### Sec 4 and 5 (2024)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -434,116 +422,111 @@ Form Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-kveo">4A</td>
-    <td class="tg-kveo">Mdm Surimah Binte Selamat</td>
-    <td class="tg-kveo">110</td>
-    <td class="tg-kveo">surimah_selamat@moe.edu.sg</td>
+    <td class="tg-y7qa"><span style="color:#222">4A</span></td>
+    <td class="tg-kveo">Ms Lam Yen Ping</td>
+    <td class="tg-kveo">104</td>
+    <td class="tg-kveo">lam_yen_ping@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Ms Cheng Wan Li</td>
-    <td class="tg-kveo">102</td>
-    <td class="tg-kveo">cheng_wan_li@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">4B</span></td>
-    <td class="tg-kveo">Mr Mohd Azman Bin Mohd Selamat</td>
-    <td class="tg-kveo">163</td>
-    <td class="tg-kveo">mohd_azman_mohd@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-laxs"></td>
-    <td class="tg-kveo">Ms Nadia Begam</td>
-    <td class="tg-kveo">109</td>
-    <td class="tg-kveo">nadia_begum@moe.edu.sg</td>
-  </tr>
-	  <tr>
-    <td class="tg-laxs"></td>
-    <td class="tg-kveo">Ms Joy Chia Yong Le</td>
-    <td class="tg-kveo">108</td>
-    <td class="tg-kveo">joy_chia_yong_le@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">4C </span></td>
-    <td class="tg-kveo">Mr Goh Shong Heng Sean</td>
-    <td class="tg-kveo">104</td>
-    <td class="tg-kveo">goh_shong_heng@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-laxs"></td>
-    <td class="tg-kveo">Mdm Suchandra Ghose</td>
-    <td class="tg-kveo">116</td>
-    <td class="tg-kveo">suchandra_ghose@moe.edu.sg</td>
+    <td class="tg-kveo">Mdm Zhou Yun</td>
+    <td class="tg-kveo">103 </td>
+    <td class="tg-kveo">zhou_yun@moe.edu.sg</td>
   </tr>
   
   <tr>
-    <td class="tg-y7qa"><span style="color:#222">4D</span></td>
-    <td class="tg-kveo">Mrs Mah-Pow Lai Gim</td>
-    <td class="tg-kveo">113</td>
-    <td class="tg-kveo">pow_lai_gim@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Ms Low Mei Foong</td>
-    <td class="tg-kveo">107</td>
-    <td class="tg-kveo">low_mei_foong@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">4E</span></td>
-    <td class="tg-kveo">Mr Song Wei Chiek Hubert</td>
-    <td class="tg-kveo">105</td>
-    <td class="tg-kveo">song_wei_chiek_hubert@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Mdm Suhaila Bte Mansor</td>
-    <td class="tg-kveo">116</td>
-    <td class="tg-kveo">suhaila_mansor@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-laxs"></td>
+    <td class="tg-y7qa"><span style="color:#222">4B</span></td>
     <td class="tg-kveo">Mr Choo Chee Mian Eric</td>
     <td class="tg-kveo">160</td>
     <td class="tg-kveo">choo_chee_mian_eric@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">4F </span></td>
-    <td class="tg-kveo">Ms Yap Cheng Cheng Sophia</td>
+	 <tr>
+    <td class="tg-y7qa"><span style="color:#222"> </span></td>
+    <td class="tg-kveo">Ms Srividya Nair DO Rajakumaran Nair</td>
     <td class="tg-kveo">112</td>
-    <td class="tg-kveo">yap_cheng_cheng_sophia@moe.edu.sg</td>
+    <td class="tg-kveo">srividya_nair@moe.edu.sg</td>
+  </tr>
+
+  <tr>
+    <td class="tg-y7qa"><span style="color:#222">4C</span></td>
+    <td class="tg-kveo">Ms Chua Hui Qi</td>
+    <td class="tg-kveo">114</td>
+    <td class="tg-kveo">chua_hui_qi@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Mr Tan Han Yuen</td>
-    <td class="tg-kveo">103</td>
-    <td class="tg-kveo">tan_han_yuen@moe.edu.sg</td>
+    <td class="tg-laxs"></td>
+    <td class="tg-kveo">Ms Siti Fatimah Bte Muhammad Tahir</td>
+    <td class="tg-kveo">114</td>
+    <td class="tg-kveo">siti_fatimah_muhammad_tahir@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-kveo">4G</td>
-    <td class="tg-kveo">Mdm Raihana Bte Mohamed Ihsan</td>
+    <td class="tg-y7qa"><span style="color:#222">4D</span></td>
+    <td class="tg-kveo">Ms Toh Qin Min</td>
     <td class="tg-kveo">102</td>
-    <td class="tg-kveo">raihana_mohamed_ihsan@moe.edu.sg</td>
+    <td class="tg-kveo">toh_qin_min@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Mr Tan Rong'En Joshua</td>
-    <td class="tg-kveo">164</td>
-    <td class="tg-kveo">tan_rongen_joshua@moe.edu.sg</td>
+    <td class="tg-kveo">Ms Kwek Ee Hui Irene</td>
+    <td class="tg-kveo">115</td>
+    <td class="tg-kveo">kwek_ee_hui_irene@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-y7qa"><span style="color:#222">5A</span></td>
-    <td class="tg-kveo">Mdm Ho Lee Ling Caroline</td>
+    <td class="tg-y7qa"><span style="color:#222">4E</span></td>
+    <td class="tg-kveo">Ms Tan Wan Ning</td>
+    <td class="tg-kveo">115</td>
+    <td class="tg-kveo">tan_wan_ning@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"><span style="color:#222"> </span></td>
+    <td class="tg-kveo">Ms Tan Xinyi Cherlyn</td>
+    <td class="tg-kveo">109</td>
+    <td class="tg-kveo">xinyi_cherlyn_tan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"><span style="color:#222">4F</span></td>
+    <td class="tg-kveo">Mr Wong Zi Heng</td>
+    <td class="tg-kveo">163</td>
+    <td class="tg-kveo">wong_zi_heng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"><span style="color:#222"> </span></td>
+    <td class="tg-kveo">Ms Goh Jing Teng</td>
+    <td class="tg-kveo">158</td>
+    <td class="tg-kveo">goh_jing_teng@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td class="tg-y7qa"><span style="color:#222"> </span></td>
+    <td class="tg-kveo">Mr Soh Wei Keong</td>
+    <td class="tg-kveo">TBC</td>
+    <td class="tg-kveo">soh_wei_keong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"><span style="color:#222">4G </span></td>
+    <td class="tg-kveo">Ms Sharifah Hana Bte H A Alhaddad</td>
+    <td class="tg-kveo">108</td>
+    <td class="tg-kveo">sharifah_hana_h_alhaddad@moe.edu.sg</td>
+  </tr>
+    <tr>
+    <td class="tg-y7qa"><span style="color:#222"> </span></td>
+    <td class="tg-kveo">Mr Chua Lian Wee John</td>
     <td class="tg-kveo">110</td>
-    <td class="tg-kveo">ho_lee_ling_caroline@moe.edu.sg</td>
+    <td class="tg-kveo">chua_lian_wee@moe.edu.sg</td>
+  </tr>
+<tr>
+    <td class="tg-y7qa"><span style="color:#222">5A</span></td>
+    <td class="tg-kveo">Ms Halimah Rahmat</td>
+    <td class="tg-kveo">115</td>
+    <td class="tg-kveo">halimah_rahmat@moe.edu.sg</td>
   </tr>
   <tr>
   
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Mr Yip Kim San</td>
-    <td class="tg-kveo">101</td>
-    <td class="tg-kveo">yip_kim_san@moe.edu.sg</td>
+    <td class="tg-kveo">Mr Nordin B Hassan</td>
+    <td class="tg-kveo">162</td>
+    <td class="tg-kveo">nordin_bin_hassan@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

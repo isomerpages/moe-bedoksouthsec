@@ -187,9 +187,9 @@ Form Teachers
   </tr>
   <tr>
     <td class="tg-kveo">2 Accountability</td>
-    <td class="tg-kveo">Ms Lee Wei Ling Joanne</td>
-    <td class="tg-kveo">111</td>
-    <td class="tg-kveo">lee_wei_ling_a@moe.edu.sg</td>
+    <td class="tg-kveo">Mdm Suhaila Bte Mansor</td>
+    <td class="tg-kveo">116</td>
+    <td class="tg-kveo">suhaila_mansor@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo"> </td>
@@ -197,8 +197,14 @@ Form Teachers
     <td class="tg-kveo">105</td>
     <td class="tg-kveo">koh_eva@moe.edu.sg</td>
   </tr>
+	  <tr>
+    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">Ms Lee Wei Ling Joanne</td>
+    <td class="tg-kveo">111</td>
+    <td class="tg-kveo">lee_wei_ling_a@moe.edu.sg</td>
+  </tr>
   <tr>
-    <td class="tg-kveo">1 Respect</td>
+    <td class="tg-kveo">2 Respect</td>
     <td class="tg-kveo">Ms Chia Suat Huang</td>
     <td class="tg-kveo">104</td>
     <td class="tg-kveo">chia_suat_huang@moe.edu.sg</td>
@@ -210,19 +216,19 @@ Form Teachers
     <td class="tg-kveo">faruzah_osman@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-kveo">1 Excellence</td>
-    <td class="tg-kveo">Ms Halimah Rahmat</td>
-    <td class="tg-kveo">115</td>
-    <td class="tg-kveo">halimah_rahmat@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">2 Excellence</td>
     <td class="tg-kveo">Mr Lim Ching Yang Adrian</td>
-    <td class="tg-kveo">163</td>
+    <td class="tg-kveo">104</td>
     <td class="tg-kveo">lim_ching_yang@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-kveo">1 Care</td>
+    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">Ms Nadia Begam</td>
+    <td class="tg-kveo">109</td>
+    <td class="tg-kveo">nadia_begam@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-kveo">2 Care</td>
     <td class="tg-kveo">Ms Wong Wah Jong (Mrs Joan Yang)</td>
     <td class="tg-kveo">107</td>
     <td class="tg-kveo">wong_wah_jong_joan@moe.edu.sg</td>
@@ -234,10 +240,10 @@ Form Teachers
     <td class="tg-kveo">chen_huimin_jillian@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-kveo">1 Gratitude</td>
-    <td class="tg-kveo">Mr Nordin B Hassan</td>
-    <td class="tg-kveo">162</td>
-    <td class="tg-kveo">nordin_b_hassan@moe.edu.sg</td>
+    <td class="tg-kveo">2 Gratitude</td>
+    <td class="tg-kveo">Ms Raudhah Md Khirruden</td>
+    <td class="tg-kveo">116</td>
+    <td class="tg-kveo">raudhah_bte_mohd_khirruden@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo"> </td>
@@ -245,12 +251,7 @@ Form Teachers
     <td class="tg-kveo">157</td>
     <td class="tg-kveo">seng_mei_hui_sheena@moe.edu.sg</td>
   </tr>
-	<tr>
-    <td class="tg-kveo"> </td>
-    <td class="tg-kveo">Ms Raudhah Md Khirruden</td>
-    <td class="tg-kveo">116</td>
-    <td class="tg-kveo">raudhah_bte_mohd_khirruden@moe.edu.sg</td>
-  </tr>
+
 </tbody>
 </table>
 

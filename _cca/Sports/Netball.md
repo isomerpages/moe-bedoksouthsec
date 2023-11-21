@@ -118,14 +118,14 @@ And&nbsp;<b>External Coach</b>
 
 ### Leadership Positions
 
-*   Team Captain (B Division)
-*   Team Captain (C Division)
-*   Team Vice-Captain (B Division)
-*   Team Vice-Captain (C Division)
-*   Logistics Head
-*   Welfare Head
-*   Events Head
-*   Publicity Head
-*   Physical Training Instructors
-*   Sec 1 Level Mentors
-
+1.   Team Captain (B Division)
+2.   Team Captain (C Division)
+3.   Team Vice-Captain (B Division)
+4.   Team Vice-Captain (C Division)
+5.   Logistics Head
+6.   Welfare Head
+7.   Events Head
+8.   Publicity Head
+9.   Physical Training Instructors
+10.   Sec 1 Level Mentors
+11. 

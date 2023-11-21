@@ -8,8 +8,7 @@ variant: markdown
 Floorball
 =========
 ![](/images/CCA/Floorball/Floorball_0.jpg)
-![](/images/CCA/Floorball/Floorball_Collage_2.PNG)
-![](/images/CCA/Floorball/Floorball_Collage_1.PNG)
+
 
 ### Overview
 
@@ -20,7 +19,7 @@ Our players train at least twice a week. They start off by learning the basic sk
 ### Vision
 
 Every floorballer, a skillful player, who plays with sportsmanship, and is full of character.
-
+<br>![](/images/CCA/Floorball/Floorball_Collage_2.PNG)
 ### Achievement
 
 The 2022 and 2023 National School Games (NSG) seasons post-Covid restrictions proved to be challenging but yet fulfilling for BDS Floorball.  The C Division Boys team emerged 4th in the 2023 National School Games and our C Division Girls emerged 1st runner up in the same competition in 2022. Our teams all played with a seamless blend of skill, strategy, and unwavering determination. Their outstanding teamwork and relentless drive, even in the face of adversity, exemplified their resilience. Their passion for the sport truly set them apart, with every player displaying an infectious enthusiasm for the game. These wins are a testament to their dedication, unity, and unwavering spirit, making them true champions in every aspect of the game.
@@ -158,3 +157,5 @@ And&nbsp;<b>External Coach</b>
 1\.  Captains and Vice Captains for each division <br>
 2\.  Quartermaster <br>
 3\.  Welfare Leader
+
+<br>![](/images/CCA/Floorball/Floorball_Collage_1.PNG)

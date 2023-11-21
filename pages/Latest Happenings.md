@@ -4,9 +4,11 @@ permalink: /latest-happenings/
 description: ""
 variant: markdown
 ---
-#### Parenting Webinar
+#### SLS Release 20 System Downtime
 
-       
+Please note that SLS will be unavailable from 6 Dec 2023 (Wed) until the evening of 7 Dec 2023 (Thu) due to system upgrade (Release 20).
+
+#### Parenting Webinar     
 
 Dear parents/ guardians,  
 

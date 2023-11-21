@@ -25,7 +25,7 @@ Form Teachers
 </table>
 
 
-### Sec 1
+### Sec 1 (2024)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -48,75 +48,81 @@ Form Teachers
 <tbody>
   <tr>
     <td class="tg-kveo">1 Integrity</td>
-    <td class="tg-kveo">Ms Ng Li Min Joanne</td>
-    <td class="tg-kveo">102</td>
-    <td class="tg-kveo">ng_li_min_joanne@moe.edu.sg</td>
+    <td class="tg-kveo">Mdm Ho Lee Ling Caroline</td>
+    <td class="tg-kveo">110</td>
+    <td class="tg-kveo">ho_lee_ling_caroline@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo"> </td>
-    <td class="tg-kveo">Ms Tania Chong</td>
-    <td class="tg-kveo">116</td>
-    <td class="tg-kveo">chong_tania@moe.edu.sg</td>
+    <td class="tg-kveo">Mdm Teo Kah Hui Sandra</td>
+    <td class="tg-kveo">113</td>
+    <td class="tg-kveo">teo_kah_hui_sandra@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">1 Courage</td>
-    <td class="tg-kveo">Ms Tan Huay Meen Elizabeth (Mrs Elizabeth Ng)</td>
-    <td class="tg-kveo">114</td>
-    <td class="tg-kveo">tan_huay_meen@moe.edu.sg</td>
+    <td class="tg-kveo">Mdm Zalehah Bte Mohd Noor</td>
+    <td class="tg-kveo">101</td>
+    <td class="tg-kveo">zalehah_mohd_noor@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo"> </td>
-    <td class="tg-kveo">Ms Mary Pai</td>
-    <td class="tg-kveo">115</td>
-    <td class="tg-kveo">pai_mary@moe.edu.sg</td>
+    <td class="tg-kveo">Ms Khoo Su Lin</td>
+    <td class="tg-kveo">111</td>
+    <td class="tg-kveo">khoo_su-lin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">1 Accountability</td>
-    <td class="tg-kveo">Ms Lee Wei Ling Joanne</td>
-    <td class="tg-kveo">111</td>
-    <td class="tg-kveo">lee_wei_ling_a@moe.edu.sg</td>
+    <td class="tg-kveo">Ms Foo Su Lian Gerardine</td>
+    <td class="tg-kveo">108</td>
+    <td class="tg-kveo">foo_su_lian_gerardine@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo"> </td>
-    <td class="tg-kveo">Ms Eva Koh (Mrs Eva Seah)</td>
-    <td class="tg-kveo">105</td>
-    <td class="tg-kveo">koh_eva@moe.edu.sg</td>
+    <td class="tg-kveo">Ms Poh Bee Yong</td>
+    <td class="tg-kveo">108</td>
+    <td class="tg-kveo">poh_bee_yong@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">1 Respect</td>
-    <td class="tg-kveo">Ms Chia Suat Huang</td>
-    <td class="tg-kveo">104</td>
-    <td class="tg-kveo">chia_suat_huang@moe.edu.sg</td>
+    <td class="tg-kveo">Ms Cheng Wan Li</td>
+    <td class="tg-kveo">102</td>
+    <td class="tg-kveo">cheng_wan_li@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo"> </td>
-    <td class="tg-kveo">Mdm Faruzah Bte Osman</td>
-    <td class="tg-kveo">112</td>
-    <td class="tg-kveo">faruzah_osman@moe.edu.sg</td>
+    <td class="tg-kveo">Mdm Zhao Xiumin</td>
+    <td class="tg-kveo">110</td>
+    <td class="tg-kveo">zhao_xiumin@moe.edu.sg</td>
+  </tr>
+	  <tr>
+    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">Mr Gan Chun Seng</td>
+    <td class="tg-kveo">TBC</td>
+    <td class="tg-kveo">gan_chun_seng@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">1 Excellence</td>
-    <td class="tg-kveo">Ms Halimah Rahmat</td>
-    <td class="tg-kveo">115</td>
-    <td class="tg-kveo">halimah_rahmat@moe.edu.sg</td>
+    <td class="tg-kveo">Ms Mahtani Hoori Vikram</td>
+    <td class="tg-kveo">113</td>
+    <td class="tg-kveo">mahtani_hoori_vikram@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo"> </td>
-    <td class="tg-kveo">Mr Lim Ching Yang Adrian</td>
-    <td class="tg-kveo">163</td>
-    <td class="tg-kveo">lim_ching_yang@moe.edu.sg</td>
+    <td class="tg-kveo">Ms Lim Ming Ming (Mrs Cher-Lim Ming Ming)</td>
+    <td class="tg-kveo">105</td>
+    <td class="tg-kveo">lim_ming_ming@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">1 Care</td>
-    <td class="tg-kveo">Ms Wong Wah Jong (Mrs Joan Yang)</td>
-    <td class="tg-kveo">107</td>
-    <td class="tg-kveo">wong_wah_jong_joan@moe.edu.sg</td>
+    <td class="tg-kveo">Mdm Surimah Binte Selamat</td>
+    <td class="tg-kveo">110</td>
+    <td class="tg-kveo">surimah_selamat@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo"> </td>
-    <td class="tg-kveo">Ms Chen Huimin Jillian</td>
+    <td class="tg-kveo">Ms Teo Wei Ling</td>
     <td class="tg-kveo">111</td>
-    <td class="tg-kveo">chen_huimin_jillian@moe.edu.sg</td>
+    <td class="tg-kveo">teo_wei_ling@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">1 Gratitude</td>

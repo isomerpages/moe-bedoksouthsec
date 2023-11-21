@@ -3,19 +3,19 @@ title: Netball
 permalink: /cca/sports/netball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 Netball
 =======
 
 
-![](/images/netballmin.png)
-
+![](/images/CCA/Netball/Netball_Collage.PNG)
 
 ### Vision  
 
 To provide training for students to play the game competitively <br>
 To develop their skills to raise the level of competency of students <br> 
-To develop qualities of sportsmanship, leadership, confidence teamwork and fair play  
+To develop qualities of sportsmanship, leadership, confidence, teamwork and fair play  
 
   
 
@@ -47,6 +47,31 @@ To develop qualities of sportsmanship, leadership, confidence teamwork and fair 
 </thead>
 <tbody>
   <tr>
+    <td class="tg-y7qa">2023</td>
+    <td class="tg-y7qa">NSG Netball Championships B Division Girls (East Zone)</td>
+    <td class="tg-y7qa">First Round</td>
+  </tr>  
+	<tr>
+    <td class="tg-y7qa">2023</td>
+    <td class="tg-y7qa">NSG Netball Championships C Division Girls (East Zone)</td>
+    <td class="tg-y7qa">First Round</td>
+  </tr> 
+	<tr>
+    <td class="tg-y7qa">2023</td>
+    <td class="tg-y7qa">Deloitte Pesta Sukan</td>
+    <td class="tg-y7qa">First Round</td>
+  </tr> 
+	<tr>
+    <td class="tg-y7qa">2023</td>
+    <td class="tg-y7qa">Springfield Netball Carnival (B &amp; C Divisions)</td>
+    <td class="tg-y7qa">Participation</td>
+  </tr>   
+	<tr>
+    <td class="tg-y7qa">2023</td>
+    <td class="tg-y7qa">SGNA Secondary School Carnival</td>
+    <td class="tg-y7qa">Participation</td>
+  </tr> 
+	<tr>
     <td class="tg-y7qa">2022</td>
     <td class="tg-y7qa">NSG Netball Championships B Division Girls (East Zone)</td>
     <td class="tg-y7qa">First Round</td>
@@ -84,13 +109,23 @@ To develop qualities of sportsmanship, leadership, confidence teamwork and fair 
 ### Teachers-in-Charge  
 
 Ms Joanne Lee (OIC) <br>Ms Srividya <br>
-Ms Cheng Wan Li <br>
+Ms Cheng Wan Li&nbsp;<br>
 Ms Nadia Lamri  
 
   
 
-And <b>External Coach</b>
+And&nbsp;<b>External Coach</b>
 
 ### Leadership Positions
 
-Captains and Vice-Captains
+*   Team Captain (B Division)
+*   Team Captain (C Division)
+*   Team Vice-Captain (B Division)
+*   Team Vice-Captain (C Division)
+*   Logistics Head
+*   Welfare Head
+*   Events Head
+*   Publicity Head
+*   Physical Training Instructors
+*   Sec 1 Level Mentors
+

@@ -7,8 +7,9 @@ variant: markdown
 ---
 Floorball
 =========
-
-![Floorball](/images/floorball-copy.jpg)
+![](/images/CCA/Floorball/Floorball_0.jpg)
+![](/images/CCA/Floorball/Floorball_Collage_2.PNG)
+![](/images/CCA/Floorball/Floorball_Collage_1.PNG)
 
 ### Overview
 

@@ -391,18 +391,11 @@ Form Teachers
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">3G </span></td>
-    <td class="tg-kveo">Ms Sharifah Hana Bte H A Alhaddad</td>
-    <td class="tg-kveo">108</td>
-    <td class="tg-kveo">sharifah_hana_h_alhaddad@moe.edu.sg</td>
-  </tr>
-  
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Mdm Raihana Bte Md Ihsan</td>
     <td class="tg-kveo">102</td>
     <td class="tg-kveo">raihana_mohamed_ihsan@moe.edu.sg</td>
   </tr>
-	  <tr>
+    <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Mr Mohammed Imran Bin Mawardi</td>
     <td class="tg-kveo">108</td>

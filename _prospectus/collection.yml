@@ -2,5 +2,4 @@ collections:
   prospectus:
     output: true
     order:
-      - Information for Sec 1 (2023).md
       - Open House.md

@@ -4,7 +4,7 @@ permalink: /prospectus/open-house/
 description: ""
 variant: markdown
 ---
-Open House 
+Open House (2023)
 ==========
 
 Bedok South Secondary School is hosting an Open House to welcome prospective parents and students who wish to visit our campus and learn more about what we have to offer.  

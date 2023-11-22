@@ -24,7 +24,7 @@ Sports
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="4" class="tg-xqm4">Sports Coordinator: Mr Loi Churn Mun</th>
+    <th colspan="4" class="tg-xqm4">Sports Coordinator: Mr Mohd Azman Md Selamat</th>
   </tr>
 </thead>
 <tbody>
@@ -36,7 +36,7 @@ Sports
   </tr>
   <tr>
     <td rowspan="3" class="tg-dgl5">Badminton</td>
-    <td rowspan="3" class="tg-dgl5">Mr Wong Zi Heng (OIC)<br>Mr Yip Kim San<br>Mrs Mah-Pow Lai Ghim<br>Ms Tan Wan Chin<br>Coach Darren</td>
+    <td rowspan="3" class="tg-dgl5">Mr Wong Zi Heng (OIC)<br>Mr Yip Kim San<br>Mrs Mah-Pow Lai Ghim<br>Mr Kenneth<br>Coach Darren</td>
     <td class="tg-9hzb">Monday</td>
     <td class="tg-9hzb">3.00 – 6.00 pm <span style="font-style:italic"><br>(ISH/Hall</span>)</td>
   </tr>
@@ -49,7 +49,7 @@ Sports
   </tr>
   <tr>
     <td rowspan="2" class="tg-dgl5">Floorball</td>
-    <td rowspan="2" class="tg-dgl5">Mr Loy Pei Phoong (OIC)<br>Ms Gerardine Foo<br>Ms Sandra Teo<br>Coach Priscilla</td>
+    <td rowspan="2" class="tg-dgl5">Mr Loy Pei Phoong (OIC)<br>Ms Gerardine Foo<br>Ms Sandra Teo<br>Mdm Suhaila Bte Mansor<br>Coach Priscilla</td>
     <td class="tg-9hzb">Monday &amp; Tuesday</td>
     <td class="tg-9hzb">3.00 pm – 6.00 pm<br>(<span style="font-style:italic">ISH</span>)</td>
   </tr>
@@ -70,7 +70,7 @@ Sports
   </tr>
   <tr>
     <td rowspan="2" class="tg-dgl5">Netball</td>
-    <td rowspan="2" class="tg-dgl5">Ms Joanne Lee (OIC)<br>Ms Cheng Wan Li<br>Ms Srividya<br>Ms Nadia Lamri<br>Coach Wee Ling</td>
+    <td rowspan="2" class="tg-dgl5">Ms Srividya Nair (OIC)<br>Ms Nadia Lamri<br>Ms Joanne Lee<br>Coach Wee Ling</td>
     <td class="tg-9hzb">Monday</td>
     <td class="tg-9hzb">3.00 pm – 5.30 pm <br>(<span style="font-style:italic">Basketball Court</span>)</td>
   </tr>
@@ -80,7 +80,7 @@ Sports
   </tr>
 	<tr>
     <td rowspan="2" class="tg-dgl5">Swimming</td>
-    <td rowspan="2" class="tg-dgl5">Ms Cindee Koh (OIC)</td>
+    <td rowspan="2" class="tg-dgl5">Ms Cindee Koh (OIC)<br>Mdm Mahtani Hoori Vikram</td>
     <td class="tg-9hzb">Monday</td>
     <td class="tg-9hzb">3.00 pm – 4.30 pm <br>(<span style="font-style:italic">School Quadrangle</span>)</td>
   </tr>

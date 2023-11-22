@@ -3,6 +3,7 @@ title: Clubs and Societies
 permalink: /cca/clubs-and-societies/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 Clubs and Societies
 ===================
@@ -28,7 +29,7 @@ Clubs and Societies
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-xqm4" colspan="5">Clubs Coordinator: Ms Sophia Yap</th>
+    <th class="tg-xqm4" colspan="5">Clubs Coordinator: Ms Wan Yee Ling Jacquelyn</th>
   </tr>
 </thead>
 <tbody>
@@ -44,21 +45,21 @@ Clubs and Societies
   </tr>
   <tr>
     <td class="tg-ktyi">Infocomm and Media Club</td>
-    <td class="tg-ktyi">Mdm Suchandra (OIC)<br>Ms Sophia Yap<br>Ms Hoori</td>
+    <td class="tg-ktyi">Mdm Suchandra (OIC)<br>Ms Nadia Begam</td>
     <td class="tg-ktyi">Computer Lab 2</td>
     <td class="tg-7yig">3.00 – 4.30pm</td>
     <td class="tg-7yig">(Selected)</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Media Production Club</td>
-    <td class="tg-ktyi">Mdm Suhaila (OIC)<br>Ms Irene Kwek </td>
+    <td class="tg-ktyi">Ms Irene Kwek<br>Ms Sophia Yap</td>
     <td class="tg-ktyi">Gallery (Hall 2nd Level)</td>
     <td class="tg-7yig">Wednesday<br>3.00 – 5.00pm<br>
     </td><td class="tg-7yig">–</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Science &amp; Environment Club</td>
-    <td class="tg-ktyi">Ms Joanne Ng (OIC)<br>Ms Nadia Begam <br>Ms Nancy Sim</td>
+    <td class="tg-ktyi">Ms Joanne Ng (OIC)<br>Mdm Ho Lee Ling Caroline</td>
     <td class="tg-ktyi">Physics Lab 2</td>
     <td class="tg-7yig">3.00 – 5.00 pm</td>
     <td class="tg-7yig">(Selected)</td>

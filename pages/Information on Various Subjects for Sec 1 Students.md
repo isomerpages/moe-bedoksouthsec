@@ -3,11 +3,10 @@ title: Information on Various Subjects for Sec 1 Students
 permalink: /prospectors/Information-on-Various-Subjects-for-Sec-1-Students/
 description: ""
 ---
-
 Information on Various Subjects for Sec 1 Students
 ==================================================
 
-Compared to taking only 4 examinable subjects in primary schools, a lower secondary school student will be taking <u>10 examinable subjects</u>.  
+Compared to taking only 4 examinable subjects in primary schools, a lower secondary school student will be taking&nbsp;<u>10 examinable subjects</u>.  
   
 
 #### **Non-Common Curriculum Subjects**
@@ -20,7 +19,7 @@ Compared to taking only 4 examinable subjects in primary schools, a lower second
 
 #### **Common Curriculum Subjects:**
 
-8\. Design & Technology (D&T)  
+8\. Design &amp; Technology (D&amp;T)  
 9\. Food and Consumer Education (FCE)  
 10\. Art  
   

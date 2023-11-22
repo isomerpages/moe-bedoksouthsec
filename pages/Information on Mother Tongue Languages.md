@@ -3,7 +3,6 @@ title: Information on Mother Tongue Languages
 permalink: /prospectors/Information-on-Mother-Tongue-Languages/
 description: ""
 ---
-
 Information on Mother Tongue Languages
 ======================================
 

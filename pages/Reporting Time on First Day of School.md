@@ -3,11 +3,10 @@ title: Reporting Time on First Day of School
 permalink: /prospectors/Reporting-Time-on-First-Day-of-School/
 description: ""
 ---
-
 Reporting Time on First Day of School
 =====================================
 
-Our Secondary One students’ <b>reporting time for Day 1 (3 Jan 2023) is 8.50 am. Students are to report to the School Hall for morning assembly.</b> There will be student leaders on standby to chaperone the students to the school hall.
+Our Secondary One students’&nbsp;<b>reporting time for Day 1 (3 Jan 2023) is 8.50 am. Students are to report to the School Hall for morning assembly.</b>&nbsp;There will be student leaders on standby to chaperone the students to the school hall.
 
   
 

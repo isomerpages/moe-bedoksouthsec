@@ -3,7 +3,6 @@ title: Information on PDLP Onboarding
 permalink: /prospectors/Information-on-PDLP-Onboarding/
 description: ""
 ---
-
 Information on PDLP Onboarding
 ==============================
 
@@ -47,4 +46,4 @@ Financial assistance is also available for Permanent residents (PR) and internat
 
 #### **Supporting Students in the Responsible Use of the Devices**
 
-The school has in place some measures <b>to enable a safe and seamless learning environment for students</b>. The role of the parent is also key in partnering the school to support your child.
+The school has in place some measures&nbsp;<b>to enable a safe and seamless learning environment for students</b>. The role of the parent is also key in partnering the school to support your child.

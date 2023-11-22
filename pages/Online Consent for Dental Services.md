@@ -3,7 +3,6 @@ title: Online Consent for Dental Services
 permalink: /prospectors/Online-Consent-for-Dental-Services/
 description: ""
 ---
-
 Online Consent for Dental Services
 ==================================
 
@@ -19,11 +18,11 @@ To make it more convenient and secure, HPB have launched the Child Consent Porta
 
   
 
- 1. Log on to [https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/) or scan the QR code below to access the child consent portal.
+ 1.&nbsp;Log on to&nbsp;[https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)&nbsp;or scan the QR code below to access the child consent portal.
 
 <img src="/images/Image4.jpg" style="width:25%">
 
-2\. Login using your Singpass with 2-factor authentication (2FA). (You may register for Singpass by visiting [https://www.singpass.gov.sg](https://www.singpass.gov.sg/) OR any SingPass counter. The location of Singpass counters and instructions for @FA activation are available on  [https://www.singpass.gov.sg](https://www.singpass.gov.sg/).
+2\. Login using your Singpass with 2-factor authentication (2FA). (You may register for Singpass by visiting&nbsp;[https://www.singpass.gov.sg](https://www.singpass.gov.sg/)&nbsp;OR any SingPass counter. The location of Singpass counters and instructions for @FA activation are available on&nbsp;&nbsp;[https://www.singpass.gov.sg](https://www.singpass.gov.sg/).
 
 3\. Type in your child's UIN/ BC/ FIN number.
 

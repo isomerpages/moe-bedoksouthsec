@@ -3,11 +3,10 @@ title: Orientation Programme and CCA Fair 2023
 permalink: /prospectors/Orientation-Programme-and-CCA-Fair-2023/
 description: ""
 ---
-
 Orientation Programme and CCA Fair 2023
 =======================================
 
-The transition to a secondary school can be an overwhelming experience for many Secondary One students but the experience can be made rewarding when students familiarise themselves with the rules, expectations and basic information of the school. 
+The transition to a secondary school can be an overwhelming experience for many Secondary One students but the experience can be made rewarding when students familiarise themselves with the rules, expectations and basic information of the school.&nbsp;
 
 To assist the students in making this transition, we have organised the following:
 
@@ -67,7 +66,7 @@ To assist the students in making this transition, we have organised the followin
 
 <i>\- Students pending to transfer out may be in their primary school uniform.</i>
 
-<i>\-</i> <i><b>Note: Students are required to bring along an old T-shirt on Day 3 (Thurs, 5 Jan 2023) of the Orientation Programme as they will be involved in a painting activity.</b></i>
+<i>\-</i>&nbsp;<i><b>Note: Students are required to bring along an old T-shirt on Day 3 (Thurs, 5 Jan 2023) of the Orientation Programme as they will be involved in a painting activity.</b></i>
 
 
 ### CCA Fair
@@ -85,7 +84,7 @@ Friday, 6 January 2023 (2.00 pm to 5.30 pm)
   
 
 <b>Attire</b>: <br>
-Students will <u><b>change to your PE attire after lunch</b></u> for comfort and ease. You are strongly advised to have a water bottle with you so that you can hydrate yourself.
+Students will&nbsp;<u><b>change to your PE attire after lunch</b></u>&nbsp;for comfort and ease. You are strongly advised to have a water bottle with you so that you can hydrate yourself.
 
 
 <style type="text/css">

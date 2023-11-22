@@ -101,6 +101,17 @@ Through this all, our students see meaningful learning of Mathematics and Proble
 
 ![](/images/Curriculum/Mathematics/LJ_to_URA_2.jpeg)
 
+**Learning Experience on Probability**
+![](/images/Curriculum/Mathematics/Math_Collage_1.PNG)
+
+**Learning Journey to Sports Museum**
+![](/images/Curriculum/Mathematics/Math_Collage_2.PNG)
+
+![](/images/Curriculum/Mathematics/Math_Collage_3.PNG)
+
+**Learning Experience on Surface Area of Sphere**
+![](/images/Curriculum/Mathematics/Math_Collage_4.PNG)
+
 ### ICAN
 
 In reaching out to the under-achievers in a Mathematics class, the ICAN principles were adopted this year in the Normal Technical and Normal Academic classes to better meet these students’ needs.

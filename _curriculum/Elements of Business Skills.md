@@ -2,6 +2,7 @@
 title: Elements of Business Skills
 permalink: /curriculum/elements-of-business-skills/
 description: ""
+variant: markdown
 ---
 Elements of Business Skills
 ===========================
@@ -22,17 +23,16 @@ It is offered as an elective subject at Secondary Three and examinable at the GC
 
 It is hoped that every student will embody the Desired Outcomes of Education (DOE) attributes by becoming:  
 
-*   a confident person who has a strong sense of right and wrong, is adaptable and resilient, knows himself, is discerning in judgment, thinks independently and critically, and communicates effectively;
-*   a self-directed learner who takes responsibility for his own learning, who questions, reflects 
-*   and perseveres in the pursuit of learning; 
-*   an active contributor who is able to work effectively in teams, exercises initiative, take calculated risks, is innovative and strives for excellence; and
-*   a concerned citizen rooted in Singapore, with a strong civic consciousness, is informed, and takes an active part in bettering the lives of others around him.
+* confident persons who have a zest for life, have a strong sense of right and wrong, are adaptable and resilient, know themselves, are discerning in judgment, think independently and critically, and communicate effectively.
+* self-directed learners who take responsibility for their own learning, are curious, reflective, and persevering in the lifelong pursuit of learning, driven by their passion and purpose.
+* active contributors who are empathetic and open-minded to collaborate effectively in teams, exercise initiative, have courage to take risks responsibly, are innovative and strive for excellence.
+* concerned citizens who are rooted to Singapore, have a strong civic consciousness, are responsible to their family, community and nation and take active roles in improving the lives of others.
 
 ### Curriculum
 
 <u><b>Approach and Pedagogy</b></u>
 
-*   Adoption of Mixed Mode Delivery (MMD) such as demonstration, explicit teaching, games, inquiry, mind-mapping, pair work, role-play and think-pair-share
+*   Adoption of Mixed Mode Delivery (MMD) such as demonstration, explicit teaching, games,&nbsp;inquiry, mind-mapping, pair work, role-play and think-pair-share
 *   Infusion of Information and Communication Technology (ICT)
 *   Linkage of concepts that students learn in the classroom to authentic businesses
 *   Practice of Assessment for Learning through relevant toolkits
@@ -49,4 +49,4 @@ Refer to the link below for further information. <br>
 ![](/images/ebs2.jpg)
 
 
-Source: [https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/humanities/2020elementsofbusinessskillsnormaltechnicalsyllabus.ashx?la=en&hash=DF3145382A9A2778E958427EE8B7F7EBFD11D861](/files/2020elementsofbusinessskillsnormaltechnicalsyllabus.pdf)
+Source:&nbsp;[https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/humanities/2020elementsofbusinessskillsnormaltechnicalsyllabus.ashx?la=en&amp;hash=DF3145382A9A2778E958427EE8B7F7EBFD11D861](/files/2020elementsofbusinessskillsnormaltechnicalsyllabus.pdf)

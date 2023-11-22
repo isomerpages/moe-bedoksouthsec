@@ -87,6 +87,20 @@ The&nbsp;<b>N(T) Mathematics Syllabus</b>&nbsp;aims to enable students who are b
 </tbody>
 </table>
 
+
+### Mathematics Learning Journeys &amp; Learning Experiences
+
+In our effort towards student-centric, values-driven education, we want to nurture engaged learners who are motivated and enjoy learning. One of the areas to make every student an engaged learner is to ignite the joy of learning. This can be achieved in many means. We chose Experiential Learning.
+
+Learning Journeys and Learning Experiences are designed for students to have the opportunities to apply knowledge and skills learnt in class in real-life contexts. We have evolved to integrate more subjects into these learning journeys.
+
+Through these learning experiences, our students learn to realise the relevance of their lessons in school and have developed renewed enthusiasm and drive to greater achievement in school.
+Through this all, our students see meaningful learning of Mathematics and Problem solving in the real world.
+
+**Learning Journey to URA Centre**
+
+![](/images/Curriculum/Mathematics/LJ_to_URA_2.jpeg)
+
 ### ICAN
 
 In reaching out to the under-achievers in a Mathematics class, the ICAN principles were adopted this year in the Normal Technical and Normal Academic classes to better meet these students’ needs.

@@ -98,6 +98,7 @@ Through these learning experiences, our students learn to realise the relevance 
 Through this all, our students see meaningful learning of Mathematics and Problem solving in the real world.
 
 **Learning Journey to URA Centre**
+![](/images/Curriculum/Mathematics/LJ_to_URA_1.jpeg)
 
 ![](/images/Curriculum/Mathematics/LJ_to_URA_2.jpeg)
 

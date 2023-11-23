@@ -8,7 +8,7 @@ variant: markdown
 Infocomm Club powered by IMDA (Infocomm and Media Development Authority) 
 =========================================================================
 
-![Infocomm Media Club](/images/Infocomm.jpg)
+![](/images/CCA/Infocomm%20Club/Infocomm_Club.jpeg)
 
 
 To actively engage and challenge every member with the opportunity to develop into a responsible, confident and resilient student by further inculcating interest and enhancing competencies in infocomm communication technology (ICT) space

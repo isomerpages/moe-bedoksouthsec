@@ -3,6 +3,7 @@ title: Infocomm Club powered by IMDA (Infocomm and Media Development Authority)
 permalink: /cca/clubs-and-societies/Infocomm-Club-powered-by-IMDA-Infocomm-and-Media-Development-Authority/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 Infocomm Club powered by IMDA (Infocomm and Media Development Authority) 
 =========================================================================
@@ -39,11 +40,6 @@ To actively engage and challenge every member with the opportunity to develop in
 
 ### Teachers-in-Charge
 
-Mdm Suchandra (OIC)  
-Ms Sophia Yap  
-Ms Hoori  
-
-
-### Links
-
-InfoComm Google Site: [https://sites.google.com/a/moe.edu.sg/infocomclub/](https://sites.google.com/a/moe.edu.sg/infocomclub/)
+Mdm Suchandra Ghose (OIC)  
+Ms Yap Cheng Cheng Sophia  
+Ms Mahtani Hoori Vikram

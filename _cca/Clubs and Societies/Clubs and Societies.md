@@ -43,21 +43,21 @@ Clubs and Societies
   </tr>
   <tr>
     <td class="tg-ktyi">Infocomm Club</td>
-    <td class="tg-ktyi">Mdm Suchandra (OIC)<br>Ms Nadia Begam</td>
+    <td class="tg-ktyi">Mdm Suchandra Ghose (OIC)<br>Ms Nadia Begam</td>
     <td class="tg-ktyi">Computer Lab 2</td>
     <td class="tg-7yig">3.00 – 4.30pm</td>
     <td class="tg-7yig">(Selected)</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Media Production Club</td>
-    <td class="tg-ktyi">Ms Irene Kwek<br>Ms Sophia Yap</td>
+    <td class="tg-ktyi">Ms Kwek Ee Hui Irene<br>Ms Yap Cheng Cheng Sophia</td>
     <td class="tg-ktyi">Gallery (Hall 2nd Level)</td>
     <td class="tg-7yig">3.00 – 5.00pm<br>
     </td><td class="tg-7yig">–</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Science &amp; Environment Club</td>
-    <td class="tg-ktyi">Ms Joanne Ng (OIC)<br>Mdm Ho Lee Ling Caroline</td>
+    <td class="tg-ktyi">Ms Ng Li Min Joanne (OIC)<br>Mdm Ho Lee Ling Caroline</td>
     <td class="tg-ktyi">Physics Lab 2</td>
     <td class="tg-7yig">3.00 – 5.00 pm</td>
     <td class="tg-7yig">(Selected)</td>

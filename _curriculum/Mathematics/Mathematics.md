@@ -103,12 +103,18 @@ Through this all, our students see meaningful learning of Mathematics and Proble
 ![](/images/Curriculum/Mathematics/LJ_to_URA_2.jpeg)
 
 **Learning Experience on Probability**
-![](/images/Curriculum/Mathematics/Math_Collage_1.PNG)
+![](/images/Curriculum/Mathematics/Learning_Probability.PNG)
 
 **Learning Journey to Sports Museum**
 ![](/images/Curriculum/Mathematics/Math_Collage_2.PNG)
 
 ![](/images/Curriculum/Mathematics/Math_Collage_3.PNG)
+
+**Learning Experience on Pythagoras Theorem using Digital Escape Room**
+![](/images/Curriculum/Mathematics/Escape_Room_on_Pythagoras_Theorem.PNG)
+
+**Learning Experience on Nets of Solid Shapes using CoSpaces Edu**
+![](/images/Curriculum/Mathematics/Learning_Net_Shape.PNG)
 
 **Learning Experience on Surface Area of Sphere**
 ![](/images/Curriculum/Mathematics/Math_Collage_4.PNG)
@@ -136,4 +142,4 @@ Although this project requires massive manpower and careful deployment, it has b
 
 Students’ feedback on the lessons was encouraging while teachers felt that they became more reflective and effective in delivering a good lesson.
 
-![](/images/Curriculum/Mathematics/Maths%201.jpg)![](/images/Curriculum/Mathematics/Math%202.jpg)
+![](/images/Curriculum/Mathematics/ICAN.PNG)

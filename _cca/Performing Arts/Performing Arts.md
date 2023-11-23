@@ -34,7 +34,7 @@ Performing Arts
   </tr>
   <tr>
     <td class="tg-ktyi">Chinese Orchestra</td>
-    <td class="tg-ktyi">Ms Toh Qin Min (OIC)<br>Mdm Zhou Yun<br>Ms Joy Chia Yong Le<br>Ms Poh Bee Yong</td>
+    <td class="tg-ktyi">Ms Toh Qin Min (OIC)<br>Mdm Zhou Yun<br>Ms Joy Chia Yong Le<br>Miss Poh Bee Yong</td>
     <td class="tg-ktyi">1500 – 1800<br><span style="font-style:italic">(AVA Room &amp; Classrooms)</span></td>
     <td class="tg-ktyi">1500 – 1800 <br><span style="font-style:italic">(AVA room)</span></td>
   </tr>
@@ -62,7 +62,7 @@ Performing Arts
   </tr>
   <tr>
     <td class="tg-ktyi">Symphonic Band</td>
-    <td class="tg-ktyi">Ms Siti Fatimah Bte Muhammad Tahir (OIC)<br>Ms Tan Xinyi Cherlyn<br>Ms Khoo Su Lin<br>Ms Chen Huimin Jillian</td>
+    <td class="tg-ktyi">Miss Siti Fatimah Bte Muhammad Tahir (OIC)<br>Ms Tan Xinyi Cherlyn<br>Ms Khoo Su-Lin (Mrs Teo)<br>Ms Chen Huimin Jillian</td>
     <td class="tg-ktyi">1500 – 1730 <br><span style="font-style:italic">(Band Room)</span></td>
     <td class="tg-ktyi">1500 – 1730<br><span style="font-style:italic">(Band Room)</span></td>
   </tr>

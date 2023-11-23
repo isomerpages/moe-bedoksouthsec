@@ -3,6 +3,7 @@ title: National Cadet Corps
 permalink: /cca/uniformed-groups/national-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 National Cadet Corp (Land)
 ==========================
@@ -18,12 +19,12 @@ The National Cadet Corps is a CCA which nurtures responsible, resilient and reso
 ### Teachers-in-Charge
 
 
-Mr Adrian Lim (OIC) <br>
-Mr Asraf <br>
-Mr Hubert Song <br>  Ms Mary Pai <br>
-
-
-And <b>Volunteer Adult Leaders</b>
+Mr Song Wei Chiek Hubert (OIC)&nbsp;<br>
+Mr Asraf Ali S/O A.A.Anverdeen <br>
+Ms Mary Pai <br>
+Mr Lim Tuan Zheng Joseph <br> 
+Mr Gan Chun Seng<br>
+And&nbsp;<b>Volunteer Adult Leaders</b>
 
   
 

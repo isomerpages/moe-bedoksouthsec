@@ -3,6 +3,7 @@ title: Dance Society
 permalink: /cca/performing-arts/dance-society/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 Dance Society
 =============
@@ -23,7 +24,7 @@ As members of the society, it is important to inculcate empathy and encourage st
 ### Teachers-in-Charge
 
 Ms Low Mei Foong  (OIC)  
-Ms Zhao Xiumin  
+Mdm Zhao Xiumin  
 Ms Tan Wan Ning
 
 

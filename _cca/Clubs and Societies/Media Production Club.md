@@ -3,6 +3,7 @@ title: Media Production Club
 permalink: /cca/clubs-and-societies/Media-Production-Club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 Media Production Club
 =====================
@@ -53,8 +54,8 @@ Media Production Club
 
 ### Teachers-in-Charge:
 
-Mdm Suhaila (OIC)&nbsp;  
-Ms Irene Kwek&nbsp;  
+Ms Kwek Ee Hui Irene​ (OIC)&nbsp;  
+Ms Yap Cheng Cheng Sophia 
 
 
 ### Leadership Positions

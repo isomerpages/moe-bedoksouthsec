@@ -145,9 +145,10 @@ The 2022 and 2023 National School Games (NSG) seasons post-Covid restrictions pr
 
 ### Teachers-in-Charge  
 
-Mr. Loy Pei Phoong (OIC)<br>
-Ms. Sandra Teo <br>
-Ms Gerardine Foo&nbsp; <br>
+Mr Loy Pei Phoong (OIC)<br>
+Ms Foo Su Lian Gerardine<br>
+Mdm Teo Kah Hui Sandra <br>
+Mdm Suhaila Bte Mansor <br>
 And&nbsp;<b>External Coach</b>
 
   

@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /about-us/our-people/school-management-committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 School Management Committee
 ===========================
@@ -231,13 +232,11 @@ School Management Committee
   <tr>
     <td class="tg-y7qa" rowspan="2"><span style="color:#222">3</span></td>
     <td class="tg-y7qa" rowspan="2"><span style="color:#222">Mdm Surimah Selamat</span></td>
-    <td class="tg-y7qa"><span style="color:#222">ST / Learning Needs </span></td>
+    <td class="tg-y7qa"><span style="color:#222">ST / Learning Needs <br> (Educational Support)</span></td>
     <td class="tg-y7qa" rowspan="2"><span style="color:#222">surimah_selamat@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-y7qa"><span style="color:#222">(Educational Support)</span></td>
-  </tr>
-  <tr>
+  </tr><tr>
     <td class="tg-rj1p" colspan="4"><span style="color:#222">Managers</span></td>
   </tr>
   <tr>

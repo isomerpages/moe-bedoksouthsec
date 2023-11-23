@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### Open House 2023
 
-Bedok South Secondary School is hosting an Open House to welcome prospective parents and students who wish to visit our campus and learn more about what we have to offer. Click [here](https://www.bedoksouthsec.moe.edu.sg/prospectors/Open-House/) to find out more!
+Bedok South Secondary School is hosting an Open House to welcome prospective parents and students who wish to visit our campus and learn more about what we have to offer. Click [here](https://go.gov.sg/bds-eopen-house-2023) to find out more!
 
 #### SLS Release 20 System Downtime
 

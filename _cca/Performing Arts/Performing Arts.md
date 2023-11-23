@@ -46,7 +46,7 @@ Performing Arts
   </tr>
   <tr>
     <td class="tg-ktyi">Dance Society</td>
-    <td rowspan="2" class="tg-ktyi">Ms Low Mei Foong (OIC)<br>Ms Zhao Xiumin<br>Ms Tan Wan Ning</td>
+    <td rowspan="2" class="tg-ktyi">Ms Low Mei Foong (OIC)<br>Mdm Zhao Xiumin<br>Ms Tan Wan Ning</td>
     <td class="tg-ktyi">1500 – 1700 <br><span style="font-style:italic">(G1-05/06)</span></td>
     <td class="tg-ktyi">1500 – 1700 <br><span style="font-style:italic">(G1-05/06)</span></td>
   </tr>
@@ -55,14 +55,14 @@ Performing Arts
     <td class="tg-ktyi"><br></td>
     <td class="tg-ktyi"></td></tr><tr>
     <td class="tg-ktyi">Malay Dance</td>
-    <td class="tg-ktyi">Mdm Zaleha (OIC)<br>Ms Raudhah</td>
+    <td class="tg-ktyi">Mdm Zalehah Bte Mohd Noor (OIC)<br>Ms Raudhah Md Khirruden</td>
     <td class="tg-ktyi">1500 – 1700 <br><span style="font-style:italic">(Dance Studio)</span></td>
 	<td class="tg-ktyi">1500 – 1700 <br><span style="font-style:italic">(Dance Studio)</span></td>
     <td class="tg-ktyi"><br><span style="font-style:italic"></span></td>
   </tr>
   <tr>
     <td class="tg-ktyi">Symphonic Band</td>
-    <td class="tg-ktyi">Ms Siti Fatimah (OIC)<br>Ms Cherlyn Tan<br>Ms Khoo Su-Lin<br>Ms Jillian Chen</td>
+    <td class="tg-ktyi">Ms Siti Fatimah Bte Muhammad Tahir (OIC)<br>Ms Tan Xinyi Cherlyn<br>Ms Khoo Su Lin<br>Ms Chen Huimin Jillian</td>
     <td class="tg-ktyi">1500 – 1730 <br><span style="font-style:italic">(Band Room)</span></td>
     <td class="tg-ktyi">1500 – 1730<br><span style="font-style:italic">(Band Room)</span></td>
   </tr>

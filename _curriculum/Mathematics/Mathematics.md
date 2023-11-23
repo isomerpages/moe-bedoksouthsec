@@ -117,7 +117,7 @@ Through this all, our students see meaningful learning of Mathematics and Proble
 ![](/images/Curriculum/Mathematics/Learning_Net_Shape.PNG)
 
 **Learning Experience on Surface Area of Sphere**
-![](/images/Curriculum/Mathematics/Math_Collage_4.PNG)
+![](/images/Curriculum/Mathematics/Learning_Surface_Areas_of_Spheres.PNG)
 
 ### ICAN
 
@@ -130,16 +130,5 @@ The unique feature of the ICAN framework is the mentoring aspect. The mentor who
 Although this project requires massive manpower and careful deployment, it has been worthwhile as both the teachers and students have benefitted much from it.&nbsp;
 
 Students’ feedback on the lessons was encouraging while teachers felt that they became more reflective and effective in delivering a good lesson.&nbsp;
-
-In reaching out to the under-achievers in a Mathematics class, the ICAN principles were adopted this year in the Normal Technical and Normal Academic classes to better meet these students’ needs.
-
-
-Using the 8 Principles as a guide, the teacher carefully designs his/ her teaching package to deliver a more effective lesson. The lesson may comprise of good learning experiences such as the use of manipulatives and focus on a real-life context.&nbsp;
-
-The unique feature of the ICAN framework is the mentoring aspect. The mentor who is assigned to the teacher will provide feedback on the lesson design, sits in for the lesson observation and conducts the post lesson conference. During the post lesson conference, students’ learning gaps or misconceptions that were observed would be discussed further.&nbsp;
-
-Although this project requires massive manpower and careful deployment, it has been worthwhile as both the teachers and students have benefitted much from it.&nbsp;
-
-Students’ feedback on the lessons was encouraging while teachers felt that they became more reflective and effective in delivering a good lesson.
 
 ![](/images/Curriculum/Mathematics/ICAN.PNG)

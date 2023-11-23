@@ -59,8 +59,8 @@ Gabrielle (left) and Conrad (center) took photos with the WWF personnel at the A
 
 
 ### Teachers-In-Charge
-Ms Joanne Ng (OIC) <br>
-Ms Nadia Begam <br>
+Ms Ng Li Min Joanne (OIC) <br>
+Mdm Ho Lee Ling Caroline <br>
 
 ### Leadership Positions
 

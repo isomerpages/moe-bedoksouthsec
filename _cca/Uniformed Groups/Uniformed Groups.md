@@ -23,7 +23,7 @@ Uniformed Groups
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="4" class="tg-b5tn"><span style="color:#323232">UG Coordinator: Mr Webster Lim</span></th>
+    <th colspan="4" class="tg-b5tn"><span style="color:#323232">Uniformed Groups Coordinator: Mr Webster Lim</span></th>
   </tr>
 </thead>
 <tbody>
@@ -35,31 +35,31 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ryel">NCC Land (B)</td>
-    <td class="tg-ryel">Mr Hubert Song (OIC)<br>Mr Asraf<br>Ms Mary Pai<br>Mr Joseph Lim<br>Mr Stephan Gan</td>
+    <td class="tg-ryel">Mr Song Wei Chiek Hubert (OIC)<br>Mr Asraf Ali S/O A.A.Anverdeen<br>Ms Mary Pai<br>Mr Lim Tuan Zheng Joseph<br>Mr Gan Chun Seng</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Area in front of General Office)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Area in front of General Office)</td>
   </tr>
   <tr>
     <td class="tg-ryel">NPCC <br>(B &amp; G)</td>
-    <td class="tg-ryel">Mr Steve Kong (OIC)<br> Mr John Chua</td>
+    <td class="tg-ryel">Mr Kong Kian Keong Steve (OIC)<br> 	Mr Chua Lian Wee John</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Carpark Area in front of Foyer)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Carpark Area in front of Foyer)</td>
   </tr>
   <tr>
     <td class="tg-ryel">Scouts (B)</td>
-    <td class="tg-ryel">Mr Eric Choo (OIC)<br>Mr Adrian Lim</td>
+    <td class="tg-ryel">Mr Choo Chee Mian Eric (OIC)<br>Mr Lim Ching Yang Adrian</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Level 4 Lift Lobby)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Level 4 Lift Lobby)</td>
   </tr>
   <tr>
     <td class="tg-ryel">NCDCC <br>(B &amp; G)</td>
-    <td class="tg-ryel">Ms Syafiqah Begum (OIC)<br>Ms Teo Wei Ling<br>Mr Soh Wei Keong<br></td>
+    <td class="tg-ryel">Ms Syafiqah Begum Binte Ismail Rahim (OIC)<br>Ms Teo Wei Ling<br>Mr Soh Wei Keong<br></td>
     <td class="tg-ryel">3.00 pm – 5.30 pm<br>(Level 4 outside NCDCC room)</td>
     <td class="tg-ryel">3.00 pm – 5.30 pm<br>(Level 4 outside NCDCC room)</td>
   </tr>
   <tr>
     <td class="tg-ryel">Girl Guides (G)<br>(No more intake from 2024) </td>
-    <td class="tg-ryel">Ms Eva Koh (covering OIC)<br>Mdm Nadia Ramli <br> </td>
+    <td class="tg-ryel">Ms Eva Koh (Mrs Eva Seah) (covering OIC)<br>Mdm Nadia Bte Ramli <br> </td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Old Basketball Court near Block G)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Old Basketball Court near Block G)</td>
   </tr>

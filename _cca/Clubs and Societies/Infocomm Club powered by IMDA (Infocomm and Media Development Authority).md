@@ -32,9 +32,10 @@ Achievement:
 Objective: Gain broad-based training through Roadmaps and acquire deep skills and knowledge with Accelerators and Bootcamps. 
 
 Achievements: 
+* (Upcoming) 2024: Artificial Intelligence with Intel from IMDA
 * 2023: Mobile App development training using Swift from IMDA
 * 2022: Apple New Media development training from IMDA
-* 2021: Artificial Intelligence with Intel from IMDA
+
 
 
 **3.	Excel**

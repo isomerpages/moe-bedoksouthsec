@@ -27,7 +27,7 @@ Clubs and Societies
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-xqm4" colspan="5">Clubs Coordinator: Ms Wan Yee Ling Jacquelyn</th>
+    <th class="tg-xqm4" colspan="5">Clubs &amp; Societies Coordinator: Ms Wan Yee Ling Jacquelyn</th>
   </tr>
 </thead>
 <tbody>
@@ -42,7 +42,7 @@ Clubs and Societies
     <td class="tg-px6y">Friday</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Infocomm and Media Club</td>
+    <td class="tg-ktyi">Infocomm Club</td>
     <td class="tg-ktyi">Mdm Suchandra (OIC)<br>Ms Nadia Begam</td>
     <td class="tg-ktyi">Computer Lab 2</td>
     <td class="tg-7yig">3.00 – 4.30pm</td>
@@ -52,7 +52,7 @@ Clubs and Societies
     <td class="tg-ktyi">Media Production Club</td>
     <td class="tg-ktyi">Ms Irene Kwek<br>Ms Sophia Yap</td>
     <td class="tg-ktyi">Gallery (Hall 2nd Level)</td>
-    <td class="tg-7yig">Wednesday<br>3.00 – 5.00pm<br>
+    <td class="tg-7yig">3.00 – 5.00pm<br>
     </td><td class="tg-7yig">–</td>
   </tr>
   <tr>

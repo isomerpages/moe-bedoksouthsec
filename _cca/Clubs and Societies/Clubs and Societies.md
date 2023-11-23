@@ -7,9 +7,7 @@ variant: markdown
 ---
 Clubs and Societies
 ===================
-
-<img src="/images/infocomm1.jpg" style="width:65%" align="left">
-
+![](/images/infocomm1.jpg)
 <br clear="left">
 
 <br>

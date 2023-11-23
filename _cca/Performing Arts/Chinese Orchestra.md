@@ -30,9 +30,9 @@ We inspire students to develop their appreciation and passion for music. We beli
 ### Teachers-in-Charge
 
 Ms Toh Qin Min (OIC)<br>
-Mdm Zhou Yun <br>
-Mdm Ho Lee Ling Caroline<br>
 Ms Poh Bee Yong  <br>
+Ms Joy Chia Yong Le<br>
+Mdm Zhou Yun <br>
 <b>And External Instructors</b>
 
 

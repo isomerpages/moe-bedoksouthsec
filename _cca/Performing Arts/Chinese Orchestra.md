@@ -3,6 +3,7 @@ title: Chinese Orchestra
 permalink: /cca/performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 Chinese Orchestra
 =================
@@ -29,9 +30,9 @@ We inspire students to develop their appreciation and passion for music. We beli
 ### Teachers-in-Charge
 
 Ms Toh Qin Min (OIC)<br>
-Mdm Zhou Yun  
-Mdm Caroline Ho  
-Ms Poh Bee Yong  
+Mdm Zhou Yun <br>
+Mdm Ho Lee Ling Caroline<br>
+Ms Poh Bee Yong  <br>
 <b>And External Instructors</b>
 
 

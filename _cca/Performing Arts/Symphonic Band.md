@@ -57,13 +57,13 @@ SYF 2023 – Certificate of Distinction
 
 ### Teachers-in-Charge
 
-Miss Siti Fatimah Bte Muhammad Tahir (OIC)  
-Ms Tan Xinyi Cherlyn 
-Ms Khoo Su-Lin (Mrs Teo)
+Miss Siti Fatimah Bte Muhammad Tahir (OIC)<br>
+Ms Tan Xinyi Cherlyn<br> 
+Ms Khoo Su-Lin (Mrs Teo)<br>
 Ms Chen Huimin Jillian
 <br><b>And External Instructors</b>
 
-### Leadership Positions
+### Leadership 
 
 * Drum Major
 * Band Major (Events) &amp; Band Major (Admin)

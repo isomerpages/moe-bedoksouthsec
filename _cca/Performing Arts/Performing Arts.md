@@ -22,7 +22,7 @@ Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="4" class="tg-0043">Performing Arts Coordinator: Mrs Adeline Yee</th>
+    <th colspan="4" class="tg-0043">Visual &amp; Performing Arts Coordinator: Mrs Adeline Yee</th>
   </tr>
 </thead>
 <tbody>

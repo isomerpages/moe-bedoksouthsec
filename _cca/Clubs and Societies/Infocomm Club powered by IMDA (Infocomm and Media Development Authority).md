@@ -41,5 +41,4 @@ To actively engage and challenge every member with the opportunity to develop in
 ### Teachers-in-Charge
 
 Mdm Suchandra Ghose (OIC)  
-Ms Yap Cheng Cheng Sophia  
-Ms Mahtani Hoori Vikram
+Ms Nadia Begam

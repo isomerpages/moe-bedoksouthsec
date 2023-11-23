@@ -1,6 +1,6 @@
 ---
 title: Visual Art
-permalink: /curriculum/visualart/permalink/
+permalink: /curriculum/craft-and-tech/visualart/
 description: ""
 third_nav_title: Craft & Technology
 variant: markdown

@@ -1,6 +1,6 @@
 ---
 title: Music
-permalink: /curriculum/Aesthetics/permalink/
+permalink: /curriculum/craft-and-tech/music/
 description: ""
 third_nav_title: Craft & Technology
 variant: markdown
@@ -29,6 +29,9 @@ Please refer to the link below for more details:<br>
 Upper secondary students with formal training and background are encouraged to pursue ‘O’ Level Music at designated music centres. Please refer to the syllabus above for details of learning goals and content.
 
 #### Pedagogy
+The BDS Music Programme has applied the informal and non-formal pedagogical approach (Green, 2008) based on the practices of popular musicians. This approach emphasizes student-directed, peer-directed and group learning, in order to develop greater ownership and to express creative musical ideas in collaborative music making. The non-formal approach allows for differentiated learning in a group setting as students perform to their abilities, based on different instrument competencies.
 
 
 #### Assessment
+Music achievement standards indicate the quality of learning that students should typically demonstrate.
+Assessment in the BDS Music Programme is aligned closely with the [MOE Music syllabus](https://go.gov.sg/moe-music-syllabus) objectives, content and pedagogy. Through portfolios, graded task assignments and reflections, students are assessed on their knowledge, skills and competencies as well as their achievement of learning outcomes.

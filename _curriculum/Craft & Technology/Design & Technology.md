@@ -1,6 +1,6 @@
 ---
 title: Design & Technology
-permalink: /curriculum/Aesthetics/permalink/
+permalink: /curriculum/craft-and-tech/design-and-tech/
 description: ""
 third_nav_title: Craft & Technology
 variant: markdown

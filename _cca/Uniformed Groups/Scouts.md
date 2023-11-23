@@ -15,9 +15,8 @@ The Scout Movement is an integral partner that helps its members build character
 
 ### Teachers-in-Charge
 
-
-Mr Choo Chee Mian, Eric (OIC)&nbsp;<br>
-Mr Lim Chern Cheung, Webster <br>
+Mr Choo Chee Mian Eric (OIC)&nbsp;<br>
+Mr Lim Ching Yang Adrian <br>
 And&nbsp;<b>Volunteer Adult Leaders</b>
 
 ### Mission of Scouting

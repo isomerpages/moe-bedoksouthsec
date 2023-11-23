@@ -2,9 +2,4 @@ collections:
   prospectus:
     output: true
     order:
-      - Information for Sec 1 (2024).md
-      - Information for Sec 1 (2023).md
       - Open House.md
-      - Art Elective Programme (AEP) and Music Elective Programme (MEP).md
-      - Secondary 1 Appeal for Transfer in 2023.md
-      - Purchase of PLD (For 2023 Sec 1).md

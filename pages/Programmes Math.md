@@ -1,8 +1,7 @@
 ---
-title: Programmes
+title: Programmes Math
 permalink: /curriculum/mathematics/programmes/
 description: ""
-third_nav_title: Mathematics
 variant: markdown
 ---
 Programmes

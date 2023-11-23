@@ -1,24 +1,24 @@
 ---
 title: Art Elective Programme (AEP) and Music Elective Programme (MEP)
-permalink: /prospectors/Art-Elective-Programme-AEP-and-Music-Elective-Programme-MEP/
+permalink: /prospectors/art-elective-programme-aep-and-music-elective-programme-mep/
 description: ""
+variant: tiptap
 ---
-
 Art Elective Programme (AEP) and Music Elective Programme (MEP)
 ===============================================================
 
-What are the Art & Music Elective Programmes (AEP/ MEP)?
+What are the Art &amp; Music Elective Programmes (AEP/ MEP)?
 
-*   Special MOE programmes started since 1982 for students with <b>passion</b> and <b>aptitude</b> in art/ music so that they can further <b>deepen</b> their knowledge, skills and appreciation in these areas
-*   Develops students to be <b>well-rounded leaders</b> who are advocates for the arts
-*   Provide an <b>enriched art/ music learning environment</b> for students to pursue in-depth study into art/ music
+*   Special MOE programmes started since 1982 for students with&nbsp;<b>passion</b>&nbsp;and&nbsp;<b>aptitude</b>&nbsp;in art/ music so that they can further&nbsp;<b>deepen</b>&nbsp;their knowledge, skills and appreciation in these areas
+*   Develops students to be&nbsp;<b>well-rounded leaders</b>&nbsp;who are advocates for the arts
+*   Provide an&nbsp;<b>enriched art/ music learning environment</b>&nbsp;for students to pursue in-depth study into art/ music
 
 If your child/ ward exhibits interest and passion for Art or Music, they can apply for Art Elective Programme (AEP) or Music Elective Programme (MEP) in the following Centres:
 
 *   AEP Centre (National Junior College)
 *   MEP Centres (Anglo-Chinese School (Independent) or Dunman High School)
 
-<i>All Art & Music Special Elective Programmes do not incur additional school fees.</i>
+<i>All Art &amp; Music Special Elective Programmes do not incur additional school fees.</i>
 
 ### Application for Art Elective Programme (AEP) 2023 (4 – 15 Jan 2023)
 
@@ -36,13 +36,13 @@ Students will have opportunities to
 
 ##### **Selection Exercise for AEP**
 
-*   Online Application <b>(by 15 January)</b>
+*   Online Application&nbsp;<b>(by 15 January)</b>
 
 
-*   Phase 1 <b>(by 27 January)</b> <br>
+*   Phase 1&nbsp;<b>(by 27 January)</b> <br>
 Submit an e-Portfolio comprising of 3-5 artworks\* you have done (may include artworks completed during Art lessons/ Art Club sessions) and a short paragraph to explain what art making and enrolling in AEP means to you.
 
-*   Phase 2 <b>(16 – 26 February) – for shortlisted Phase 1 applicants</b> <br>
+*   Phase 2&nbsp;<b>(16 – 26 February) – for shortlisted Phase 1 applicants</b> <br>
 E-Interview to share your ideas and art making experiences, with reference to your e-Portfolio. You may also be invited to participate in a short art task during the interview.
 
 <b>The decision of the Selection Panel is final.</b>
@@ -61,18 +61,18 @@ You will have opportunities to
 
 ##### **Selection Exercise for MEP**
 
-*   Online Application <b>(by 15 January)</b> <br>
-Submit a <b>5-minute</b> video-recording consisting of <b>two</b> contrasting solo pieces
+*   Online Application&nbsp;<b>(by 15 January)</b> <br>
+Submit a&nbsp;<b>5-minute</b>&nbsp;video-recording consisting of&nbsp;<b>two</b>&nbsp;contrasting solo pieces
 
   
 
-*   Phase 1 <b>(27 January)</b> <br>
+*   Phase 1&nbsp;<b>(27 January)</b> <br>
 Attend a Listening Test at ACS(I) or DHS  
 (25 MCQ questions pegged at P6 music syllabus)
 
   
 
-*   Phase 2 <b>(16 – 26 February) - for shortlisted Phase 1 applicants</b> <br>
+*   Phase 2&nbsp;<b>(16 – 26 February) - for shortlisted Phase 1 applicants</b> <br>
 E-Interview to share your ideas and music making experiences, and an aural test where you will respond to short melodic and rhythmic fragments
 
   
@@ -137,13 +137,13 @@ Successful applicants will attend weekly lessons in the afternoon at the AEP/ ME
 
 ##### **Commitment and Time Management**
 
-*   <b>Commit</b> to the scheduled lesson timings and enrichment activities, and cope with extended lessons, projects and assignments for <b>4 years</b>.
-*   <b>Travel</b> to the centres for lessons <b>one afternoon a week</b>
+*   <b>Commit</b>&nbsp;to the scheduled lesson timings and enrichment activities, and cope with extended lessons, projects and assignments for&nbsp;<b>4 years</b>.
+*   <b>Travel</b>&nbsp;to the centres for lessons&nbsp;<b>one afternoon a week</b>
 
 ##### **Subject Choices**
 
-*   Will <b>need to offer</b> Higher Art/ Music at GCE O Levels (This is considered a R1/bR3 in the computation of L1R5 for JC/bMI entrance)
-*   Will <b>not be offered</b> Design and Technology (D&T) and Food and Consumer Education (FCE) at the Lower Secondary Level (Therefore, you cannot take D&T and T&N at Upper Secondary level)
+*   Will&nbsp;<b>need to offer</b>&nbsp;Higher Art/ Music at GCE O Levels (This is considered a R1/bR3 in the computation of L1R5 for JC/bMI entrance)
+*   Will&nbsp;<b>not be offered</b>&nbsp;Design and Technology (D&amp;T) and Food and Consumer Education (FCE) at the Lower Secondary Level (Therefore, you cannot take D&amp;T and T&amp;N at Upper Secondary level)
 
   
 If you would like to have more information on AEP and MEP, you can visit the web links provided below.
@@ -162,7 +162,7 @@ If you would like to have more information on AEP and MEP, you can visit the web
 
 ### INTERESTED TO APPLY FOR AEP/ MEP?
 
-1.  Visit the MOE websites to find out more and submit your application 
+1.  Visit the MOE websites to find out more and submit your application&nbsp;
 2.  If you have any questions, approach Ms Sheena Seng (SH Aesthetics)
-3.  In the application, you will need to fill in Ms Sheena Seng’s email address: seng_mei_hui_sheena@schools.gov.sg
-4.  Submit your application by <b>15 January 2023</b>
+3.  In the application, you will need to fill in Ms Sheena Seng’s email address:&nbsp;seng_mei_hui_sheena@schools.gov.sg
+4.  Submit your application by&nbsp;<b>15 January 2023</b>

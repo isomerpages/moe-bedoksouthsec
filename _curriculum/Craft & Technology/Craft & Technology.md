@@ -1,6 +1,6 @@
 ---
-title: Aesthetics
-permalink: /curriculum/Aesthetics/permalink/
+title: Craft & Technology
+permalink: /curriculum/craft-and-tech/
 description: ""
 third_nav_title: Craft & Technology
 variant: markdown
@@ -15,5 +15,3 @@ We aim to develop
 
 * a growth-minded individual who possesses 21st century competencies and is well prepared to meet future challenges. 
 * a creative youth capable of demonstrating understanding and sensitivity to the needs of others while fostering an increased appreciation for art, culinary creation, and design.
-
-

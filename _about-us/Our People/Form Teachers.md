@@ -66,7 +66,8 @@ Form Teachers
   </tr>
   <tr>
     <td class="tg-kveo"> </td>
-    <td class="tg-kveo">Ms Khoo Su Lin</td>
+    <td class="tg-kveo">Ms Khoo Su-Lin (Mrs Teo)
+</td>
     <td class="tg-kveo">111</td>
     <td class="tg-kveo">khoo_su-lin@moe.edu.sg</td>
   </tr>

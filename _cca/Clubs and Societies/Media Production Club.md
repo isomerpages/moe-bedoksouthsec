@@ -8,10 +8,11 @@ variant: markdown
 Media Production Club
 =====================
 
+Through Media Production Club (MPC), we aim to groom competent and confident students who takes care of all matters relating to the provision of audio and visual support in our  school. Our day-to-day operations include maintaining the sound system for the daily flag-raising and assembly programs.
+<br>In addition, we also ensure the smooth running of school events in the school hall such as Racial Harmony Day and National Day. We also ignite a passion for photography and videography in students, as well as the acquisition of technical knowledge of the media mediums, by engaging students in our daily duties and activities. 
 
-![Public Announcement Club](/images/Public-Announcement.jpg)
 
-### Objectives/Vision/Mission
+### Objectives
 
 *   Aim to achieve 100% Effectiveness in Delivery of Day-to-Day Assembly Needs
 *   Train and develop a group of technically competent PA student personnel

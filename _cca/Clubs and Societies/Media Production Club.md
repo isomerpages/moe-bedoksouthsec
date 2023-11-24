@@ -32,7 +32,10 @@ Through Media Production Club (MPC), we aim to groom competent and confident stu
 *  Infocomm Media Student Leadership Conference (LEAD Con) by IMDA for selected leaders
 ![](/images/CCA/Clubs%20and%20Societies/MP1.jpg)
 ![](/images/CCA/Clubs%20and%20Societies/MP3.jpg)
-### Competitions
+
+
+
+### Competition
 Our School Our Stories (MOE) 2023 - Participation
 
 ### Teachers-in-Charge:
@@ -42,13 +45,12 @@ Ms Yap Cheng Cheng Sophia
 
 
 ### Leadership Positions
-
-1) Chairman 
-2) Vice Chairman  
-3) Head of Training  
-4) Head of Logistics  
-5) Head of Safety &amp; Environment  
-6) Head of Publicity
-7) Sec 1 Level Coordinator
-8) Sec 2 Level Coordinator
-9) Sec 3 Level Coordinator
+1. Chairman
+2. Vice Chairman
+3. Head of Training
+4. Head of Logistics
+5. Head of Safety &amp; Environment
+6. Head of Publicity
+7. Sec 1 Level Coordinator
+8. Sec 2 Level Coordinator
+9. Sec 3 Level Coordinator

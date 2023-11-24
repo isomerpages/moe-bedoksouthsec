@@ -49,7 +49,7 @@ Students making beeswax sandwich wraps to replace plastic bags.
 
 
 ### Achievements
-Gabrielle Angelica Pereira of Class 4A and Conrad Yeah of Class represented the school to receive the Eco-Schools Bronze Award from WWF this year as they had led a consistent group of students to contribute meaningfully and significantly to the whole school's efforts to cultivate an understanding of food waste and to take actions to tackle the corresponding issues in 2022.
+Gabrielle Angelica Pereira of Class 4A and Conrad Yeah of Class 4C represented the school to receive the Eco-Schools Bronze Award from WWF this year as they had led a consistent group of students to contribute meaningfully and significantly to the whole school's efforts to cultivate an understanding of food waste and to take actions to tackle the corresponding issues in 2022.
 
 
 ![SEC5](/images/CCA/Clubs%20and%20Societies/SEC5.jpg)

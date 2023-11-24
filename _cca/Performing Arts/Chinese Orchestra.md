@@ -66,6 +66,11 @@ Leadership Camp
 </thead>
 <tbody>
   <tr>
+    <td class="tg-y7qa"><span style="color:#222">2023</span></td>
+    <td class="tg-y7qa"><span style="color:#222">SYF Arts Presentation 2023</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Certificate of Distinction</span></td>
+  </tr>
+  <tr>
     <td class="tg-y7qa"><span style="color:#222">2021</span></td>
     <td class="tg-y7qa"><span style="color:#222">SYF Arts Presentation 2021</span></td>
     <td class="tg-y7qa"><span style="color:#222">Certificate of Distinction</span></td>
@@ -80,11 +85,7 @@ Leadership Camp
     <td class="tg-y7qa"><span style="color:#222">SYF Arts Presentation 2017 </span></td>
     <td class="tg-y7qa"><span style="color:#222">Certificate of Accomplishment</span></td>
   </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">2015</span></td>
-    <td class="tg-y7qa"><span style="color:#222">SYF Arts Presentation 2015</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Certificate of Distinction</span></td>
-  </tr>
+  
 </tbody>
 </table>
 

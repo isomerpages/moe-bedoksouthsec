@@ -23,7 +23,7 @@ Uniformed Groups
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="4" class="tg-b5tn"><span style="color:#323232">Uniformed Groups Coordinator: Mr Webster Lim</span></th>
+    <th colspan="4" class="tg-b5tn"><span style="color:#323232">Uniformed Groups Coordinator: Mr Lim Chern Cheung Webster</span></th>
   </tr>
 </thead>
 <tbody>

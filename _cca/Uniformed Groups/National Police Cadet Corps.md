@@ -3,6 +3,7 @@ title: National Police Cadet Corps
 permalink: /uniformed-groups/national-police-cadet-corp/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 National Police Cadet Corp (NPCC)
 =====================================
@@ -12,11 +13,8 @@ National Police Cadet Corp (NPCC)
 ### Teachers-in-Charge
 
 
-Mr Steve Kong (OIC)&nbsp;<br>
-Ms Joy Chia<br>
-Mr John Chua <br>
-
-
+Mr Kong Kian Keong Steve (OIC)&nbsp;<br>
+Mr Chua Lian Wee John <br>
 And&nbsp;**Volunteer Adult Leaders**
 
 ### MISSION of the CCA
@@ -83,11 +81,11 @@ And&nbsp;**Volunteer Adult Leaders**
 
 <b>I. NPCC Annual Parade</b>
 
-The NPCC Annual Parade (NPAP) is the flagship event in the NPCC calendar. It marks the celebration of the NPCC Day and is also the day for the NPCC to honour the outstanding achievements of its units. It also aims to instil loyalty in the cadets & dedication to the Corps. The participation would be formed by all school representatives.
+The NPCC Annual Parade (NPAP) is the flagship event in the NPCC calendar. It marks the celebration of the NPCC Day and is also the day for the NPCC to honour the outstanding achievements of its units. It also aims to instil loyalty in the cadets &amp; dedication to the Corps. The participation would be formed by all school representatives.
 
 <b>II. National Day Parade</b>
 
-The Singapore National Day Parade is a national ceremony to commemorate Singapore’s independence on 9th August. Every year, NPCC will form one supporting contingent in the National Day Parade. Our supporting contingent is made up of selected cadets from various units.
+The Singapore National Day Parade is a national ceremony to commemorate Singapore’s independence on 9th&nbsp;August. Every year, NPCC will form one supporting contingent in the National Day Parade. Our supporting contingent is made up of selected cadets from various units.
 
 <b>B) Competitions</b>
 
@@ -163,7 +161,7 @@ The purpose of the visit is to broaden the mental horizon of our cadets and memb
 
 ### VIA Activities
 
-<b>I. Community Safety & Security Programme - For Sec 2 Cadets</b> <br>
+<b>I. Community Safety &amp; Security Programme - For Sec 2 Cadets</b> <br>
 CSSP is a VIA project within the school community. Cadets are to understand that to be socially conscious is to take ownership of educating the school community on safety and security as well as to assist in enforcing those values and beliefs through actions.
 
 <b>II. Police Youth Ambassador - Sec 3 cadets</b> <br>

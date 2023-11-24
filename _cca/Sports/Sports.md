@@ -24,7 +24,7 @@ Sports
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="4" class="tg-xqm4">Sports Coordinator: Mr Mohd Azman Md Selamat</th>
+    <th colspan="4" class="tg-xqm4">Physical Sports Coordinator: Mr Mohd Azman Bin Mohd Selamat</th>
   </tr>
 </thead>
 <tbody>
@@ -36,7 +36,7 @@ Sports
   </tr>
   <tr>
     <td rowspan="3" class="tg-dgl5">Badminton</td>
-    <td rowspan="3" class="tg-dgl5">Mr Wong Zi Heng (OIC)<br>Mr Yip Kim San<br>Mrs Mah-Pow Lai Ghim<br>Mr Kenneth<br>Coach Darren</td>
+    <td rowspan="3" class="tg-dgl5">Mr Wong Zi Heng (OIC)<br>Mr Yip Kim San<br>Mrs Mah-Pow Lai Ghim<br>Mr Khoo Kian Eng Kenneth<br>Coach Soon Yong Hing Darren</td>
     <td class="tg-9hzb">Monday</td>
     <td class="tg-9hzb">3.00 – 6.00 pm <span style="font-style:italic"><br>(ISH/Hall</span>)</td>
   </tr>
@@ -49,7 +49,7 @@ Sports
   </tr>
   <tr>
     <td rowspan="2" class="tg-dgl5">Floorball</td>
-    <td rowspan="2" class="tg-dgl5">Mr Loy Pei Phoong (OIC)<br>Ms Gerardine Foo<br>Ms Sandra Teo<br>Mdm Suhaila Bte Mansor<br>Coach Priscilla</td>
+    <td rowspan="2" class="tg-dgl5">Mr Loy Pei Phoong (OIC)<br>Ms Foo Su Lian Gerardine<br>Mdm Teo Kah Hui Sandra<br>Mdm Suhaila Bte Mansor<br>Coach Priscilla</td>
     <td class="tg-9hzb">Monday &amp; Tuesday</td>
     <td class="tg-9hzb">3.00 pm – 6.00 pm<br>(<span style="font-style:italic">ISH</span>)</td>
   </tr>
@@ -59,8 +59,8 @@ Sports
   </tr>
   <tr>
     <td rowspan="2" class="tg-dgl5">Football</td>
-    <td rowspan="2" class="tg-dgl5">Mr Nordin Hassan (OIC) 
-			<br>Mr Loi Chun Mun<br>Mr Imran Mawardi<br>Coach Firdaus</td>
+    <td rowspan="2" class="tg-dgl5">Mr Nordin B Hassan (OIC) 
+			<br>Mr Loi Chun Mun<br>Mr Mohammed Imran Bin Mawardi<br>Coach Firdaus</td>
     <td class="tg-9hzb">Monday</td>
     <td class="tg-9hzb">3.00 pm – 5.00 pm<br>(<span style="font-style:italic">Field</span>)</td>
   </tr>
@@ -70,7 +70,7 @@ Sports
   </tr>
   <tr>
     <td rowspan="2" class="tg-dgl5">Netball</td>
-    <td rowspan="2" class="tg-dgl5">Ms Srividya Nair (OIC)<br>Ms Nadia Lamri<br>Ms Joanne Lee<br>Coach Wee Ling</td>
+    <td rowspan="2" class="tg-dgl5">	Ms Srividya Nair DO Rajakumaran Nair (OIC)<br>Ms Nadia Binte Lamri<br>Ms Lee Wei Ling Joanne<br>Coach Wee Ling</td>
     <td class="tg-9hzb">Monday</td>
     <td class="tg-9hzb">3.00 pm – 5.30 pm <br>(<span style="font-style:italic">Basketball Court</span>)</td>
   </tr>
@@ -80,7 +80,7 @@ Sports
   </tr>
 	<tr>
     <td rowspan="2" class="tg-dgl5">Swimming</td>
-    <td rowspan="2" class="tg-dgl5">Ms Cindee Koh (OIC)<br>Mdm Mahtani Hoori Vikram</td>
+    <td rowspan="2" class="tg-dgl5">Ms Koh Cin Dee, Sylvelin (OIC)<br>	Ms Mahtani Hoori Vikram</td>
     <td class="tg-9hzb">Monday</td>
     <td class="tg-9hzb">3.00 pm – 4.30 pm <br>(<span style="font-style:italic">School Quadrangle</span>)</td>
   </tr>

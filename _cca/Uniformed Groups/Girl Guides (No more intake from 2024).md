@@ -3,7 +3,7 @@ title: Girl Guides (No more intake from 2024)
 permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
-variant: tiptap
+variant: markdown
 ---
 Girl Guides
 ===========
@@ -14,10 +14,8 @@ Guiding is an international movement with over ten millions girls and young wome
 
 ### Teachers-in-Charge
 
-Ms Chua Hui Qi (OIC) <br>
-Ms Eva Koh <br>
-Mdm Nadia Ramli  <br>
-
+Ms Eva Koh (Mrs Eva Seah) (OIC) <br>
+Mdm Nadia Bte Ramli  <br>
 And&nbsp;<b>Volunteer Adult Leaders</b>
 
 ### Mission  

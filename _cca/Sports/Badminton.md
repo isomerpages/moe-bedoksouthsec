@@ -3,6 +3,7 @@ title: Badminton
 permalink: /cca/sports/badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 Badminton
 =========
@@ -50,12 +51,12 @@ Our players also learn to assist in line-judging and umpiring of the game in fri
 
 ### Teachers-in-Charge  
 
-Mr Wong Zi Heng (OIC) <br>
+Mr Wong Zi Heng (OIC)<br>
 Mr Yip Kim San<br>
-Mrs Mah-Pow Lai Ghim  <br>
-Ms Tan Wan Chin <br>
+Mrs Mah-Pow Lai Ghim<br>
+Mr Khoo Kian Eng Kenneth<br>
 And&nbsp;<b>External Coach</b>  
 
 ### Leadership Positions
 
-Captains, vice-captains
+Captains, Vice-Captains

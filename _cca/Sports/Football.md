@@ -3,6 +3,7 @@ title: Football
 permalink: /cca/sports/football/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 Football
 ========
@@ -11,19 +12,19 @@ Football
 
 ### Overview
 
-Football training in Bedok South Secondary provides the opportunity for students to take time off from their school work to relax and have fun. Even though our Coach, Ex-National Player, Dalis Supait enforces tough training to ensure the players improve their fitness level and also their technical skills, every session always ends with a game where players get to pit their skills against one another resulting in much enjoyment for all players. 
+Football training in Bedok South Secondary provides the opportunity for students to take time off from their school work to relax and have fun. Even though our Coach, Ex-National Player, Dalis Supait enforces tough training to ensure the players improve their fitness level and also their technical skills, every session always ends with a game where players get to pit their skills against one another resulting in much enjoyment for all players.&nbsp;
 
   
 
-Due to the nature of the training, the bonding between the soccer players is tremendous. Players of the team, regardless of class, level, race and religion have established great rapport both off and on the pitch. 
+Due to the nature of the training, the bonding between the soccer players is tremendous. Players of the team, regardless of class, level, race and religion have established great rapport both off and on the pitch.&nbsp;
 
   
 
-Character Building is another key aspect that the coach and the teachers greatly emphasize during trainings and games. Discipline is strictly enforced in the team to ensure everyone knows the expected behaviour to be carried out in the team. 
+Character Building is another key aspect that the coach and the teachers greatly emphasize during trainings and games. Discipline is strictly enforced in the team to ensure everyone knows the expected behaviour to be carried out in the team.&nbsp;
 
   
 
-With all these components infused, we believe that our CCA provides an enriching and fulfilling experience for all our members. 
+With all these components infused, we believe that our CCA provides an enriching and fulfilling experience for all our members.&nbsp;
 
   
 
@@ -148,12 +149,10 @@ challenging environment.
 
 ### Teachers-in-Charge  
 
-Mr Nordin Hassan (OIC) <br>
-Ms Erdiah Bte Samad <br>
-Mr Imran Mawardi <br> 
-Mr Zulhilmi
-
-And <b>External Coach</b>
+Mr Nordin B Hassan (OIC) <br>
+Mr Loi Churn Mun<br>
+Mr Mohammed Imran Bin Mawardi <br> 
+And&nbsp;<b>External Coach</b>
 
 ### Leadership Positions
 

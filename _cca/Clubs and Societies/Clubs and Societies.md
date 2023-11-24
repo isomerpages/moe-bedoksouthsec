@@ -7,9 +7,7 @@ variant: markdown
 ---
 Clubs and Societies
 ===================
-
-<img src="/images/infocomm1.jpg" style="width:65%" align="left">
-
+![](/images/infocomm1.jpg)
 <br clear="left">
 
 <br>
@@ -29,7 +27,7 @@ Clubs and Societies
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-xqm4" colspan="5">Clubs Coordinator: Ms Wan Yee Ling Jacquelyn</th>
+    <th class="tg-xqm4" colspan="5">Clubs &amp; Societies Coordinator: Ms Wan Yee Ling Jacquelyn</th>
   </tr>
 </thead>
 <tbody>
@@ -44,22 +42,22 @@ Clubs and Societies
     <td class="tg-px6y">Friday</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Infocomm and Media Club</td>
-    <td class="tg-ktyi">Mdm Suchandra (OIC)<br>Ms Nadia Begam</td>
+    <td class="tg-ktyi">Infocomm Club</td>
+    <td class="tg-ktyi">Mdm Suchandra Ghose (OIC)<br>Ms Nadia Begam</td>
     <td class="tg-ktyi">Computer Lab 2</td>
     <td class="tg-7yig">3.00 – 4.30pm</td>
     <td class="tg-7yig">(Selected)</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Media Production Club</td>
-    <td class="tg-ktyi">Ms Irene Kwek<br>Ms Sophia Yap</td>
+    <td class="tg-ktyi">Ms Kwek Ee Hui Irene<br>Ms Yap Cheng Cheng Sophia</td>
     <td class="tg-ktyi">Gallery (Hall 2nd Level)</td>
-    <td class="tg-7yig">Wednesday<br>3.00 – 5.00pm<br>
+    <td class="tg-7yig">3.00 – 5.00pm<br>
     </td><td class="tg-7yig">–</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Science &amp; Environment Club</td>
-    <td class="tg-ktyi">Ms Joanne Ng (OIC)<br>Mdm Ho Lee Ling Caroline</td>
+    <td class="tg-ktyi">Ms Ng Li Min Joanne (OIC)<br>Mdm Ho Lee Ling Caroline</td>
     <td class="tg-ktyi">Physics Lab 2</td>
     <td class="tg-7yig">3.00 – 5.00 pm</td>
     <td class="tg-7yig">(Selected)</td>

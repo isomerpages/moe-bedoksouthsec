@@ -66,7 +66,8 @@ Form Teachers
   </tr>
   <tr>
     <td class="tg-kveo"> </td>
-    <td class="tg-kveo">Ms Khoo Su Lin</td>
+    <td class="tg-kveo">Ms Khoo Su-Lin (Mrs Teo)
+</td>
     <td class="tg-kveo">111</td>
     <td class="tg-kveo">khoo_su-lin@moe.edu.sg</td>
   </tr>
@@ -355,7 +356,7 @@ Form Teachers
   </tr>
  	 <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Ms Goh Shong Heng Sean</td>
+    <td class="tg-kveo">Mr Goh Shong Heng Sean</td>
     <td class="tg-kveo">104</td>
     <td class="tg-kveo">goh_shong_heng@moe.edu.sg</td>
   </tr>

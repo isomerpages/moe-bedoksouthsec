@@ -218,8 +218,8 @@ Besides training together once a week, the CCA also provides ample opportunities
 
 ### Teacher-in-charge
 
-
-Ms Cindee Koh&nbsp;  
+Ms Koh Cin Dee, Sylvelin (OIC)<br>
+Ms Mahtani Hoori Vikram<br>
 and&nbsp;<b>External Coach</b>
 
 ### Leadership Positions

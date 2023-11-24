@@ -15,10 +15,10 @@ The National Civil Defence Cadet Corps (NCDCC) was formed in 2005 and the creati
 ### Teachers-in-charge
 
 
-Miss Corrina Teo (OIC)<br>
-Miss Syafiqah Begum<br>
-Miss Teo Wei Ling<br>
-And Volunteer Adult Leaders
+Ms Syafiqah Begum Binte Ismail Rahim (OIC)<br>
+Ms Teo Wei Ling<br>
+Mr Soh Wei Keong <br>
+And **Volunteer Adult Leaders**
 
 ### Objectives
 

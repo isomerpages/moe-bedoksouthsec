@@ -20,7 +20,7 @@ Through Media Production Club (MPC), we aim to groom competent and confident stu
 *  To provide optimal support to major school major events such as Speech Day &amp; National Day
 *   Develop students’ interest in photography, videography and journalistic writing by tapping onto their creativity in using the information technology accurately and meaningfully.
 
-![](/images/CCA/Clubs%20and%20Societies/MPcollage246.JPG)
+
 ### Programmes &amp; Activities
 
 *  Photography Workshop for Beginners: 15 selected students

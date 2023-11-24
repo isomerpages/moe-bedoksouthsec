@@ -45,4 +45,12 @@ Ms Yap Cheng Cheng Sophia
 
 
 ### Leadership Positions
-<br>1. Chairman<br>2. Vice Chairman<br>3. Head of Training<br>  4. Head of Logistics<br>5. Head of Safety &amp; Environment<br> 6. Head of Publicity<br>7. Sec 1 Level Coordinator<br>8. Sec 2 Level Coordinator<br>9. Sec 3 Level Coordinator<br>
+<br>1. Chairman
+<br>2. Vice Chairman
+<br>3. Head of Training
+<br>  4. Head of Logistics
+<br>5. Head of Safety &amp; Environment
+<br> 6. Head of Publicity
+<br>7. Sec 1 Level Coordinator
+<br>8. Sec 2 Level Coordinator
+<br>9. Sec 3 Level Coordinator

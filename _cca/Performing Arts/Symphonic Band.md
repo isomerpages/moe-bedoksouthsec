@@ -57,7 +57,7 @@ SYF 2023 – Certificate of Distinction
 
 ### Teachers-in-Charge
 
-Miss Siti Fatimah Bte Muhammad Tahir (OIC)<br>
+Ms Siti Fatimah Bte Muhammad Tahir (OIC)<br>
 Ms Tan Xinyi Cherlyn<br> 
 Ms Khoo Su-Lin (Mrs Teo)<br>
 Ms Chen Huimin Jillian

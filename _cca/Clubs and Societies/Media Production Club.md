@@ -7,8 +7,9 @@ variant: markdown
 ---
 Media Production Club
 =====================
-
+![](/images/CCA/Clubs%20and%20Societies/MP_Main.jpg)
 Through Media Production Club (MPC), we aim to groom competent and confident students who takes care of all matters relating to the provision of audio and visual support in our  school. Our day-to-day operations include maintaining the sound system for the daily flag-raising and assembly programs.
+
 <br>In addition, we also ensure the smooth running of school events in the school hall such as Racial Harmony Day and National Day. We also ignite a passion for photography and videography in students, as well as the acquisition of technical knowledge of the media mediums, by engaging students in our daily duties and activities. 
 
 
@@ -16,42 +17,23 @@ Through Media Production Club (MPC), we aim to groom competent and confident stu
 
 *   Aim to achieve 100% Effectiveness in Delivery of Day-to-Day Assembly Needs
 *   Train and develop a group of technically competent PA student personnel
-*   To provide optimal support to major school events such as Speech Day &amp; Learning Fiesta
+*  To provide optimal support to major school major events such as Speech Day &amp; National Day
+*   Develop students’ interest in photography, videography and journalistic writing by tapping onto their creativity in using the information technology accurately and meaningfully.
 
+![](/images/CCA/Clubs%20and%20Societies/MPcollage246.JPG)
+### Programmes &amp; Activities
 
-### Major Events
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">Term 1</th>
-    <th class="tg-ktyi">•&nbsp;&nbsp;CCA Orientation<br>•&nbsp;&nbsp;O Level Release of Results<br>•&nbsp;&nbsp;Chinese New Year Celebrations<br>•&nbsp;&nbsp;Total Defence Day<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">Term 2</td>
-    <td class="tg-ktyi">•&nbsp;&nbsp;Students Leaders Investiture<br>•&nbsp;&nbsp;International Friendship Day<br>•&nbsp;&nbsp;SYF Showcase<br>•&nbsp;&nbsp;Sports Carnival<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Term 3</td>
-    <td class="tg-ktyi">•&nbsp;&nbsp;National Day Observance Ceremony<br>•&nbsp;&nbsp;BDS Got Talent rehearsal and showcase<br>•&nbsp;&nbsp;Teacher’s Day Rehearsals &amp; Celebration<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Term 4</td>
-    <td class="tg-ktyi">•&nbsp;&nbsp;N level Release of Results<br>•&nbsp;&nbsp;Arts Fiesta<br>•&nbsp;&nbsp;Open House<br>•&nbsp;&nbsp;Sec 1 Orientation<br></td>
-  </tr>
-</tbody>
-</table>
-
+*  Photography Workshop for Beginners: 15 selected students
+*  Audio &amp; Visual weekly trainings
+*  Coverage of school events
+*  Monthly Systems Checks in classrooms
+*  Learning journey to Art Science Museum (selected leaders)
+*  Inter-school Pentangular Competition for clubs &amp; society (St. Hilda’s Sec) 
+*  Infocomm Media Student Leadership Conference (LEAD Con) by IMDA for selected leaders
+![](/images/CCA/Clubs%20and%20Societies/MP1.jpg)
+![](/images/CCA/Clubs%20and%20Societies/MP3.jpg)
+### Competitions
+Our School Our Stories (MOE) 2023 - Participation
 
 ### Teachers-in-Charge:
 
@@ -61,10 +43,12 @@ Ms Yap Cheng Cheng Sophia
 
 ### Leadership Positions
 
-1) Advisor  
-2) Chairman  
-3) Vice Chairman 1  
-4) Vice Chairman 2  
-5) Sec 1 Level Coordinator  
-6) Sec 2 Level Coordinator  
-7) Sec 3 Level Coordinator
+1) Chairman 
+2) Vice Chairman  
+3) Head of Training  
+4) Head of Logistics  
+5) Head of Safety &amp; Environment  
+6) Head of Publicity
+7) Sec 1 Level Coordinator
+8) Sec 2 Level Coordinator
+9) Sec 3 Level Coordinator

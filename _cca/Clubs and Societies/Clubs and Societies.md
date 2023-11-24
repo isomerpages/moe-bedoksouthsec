@@ -50,7 +50,7 @@ Clubs and Societies
   </tr>
   <tr>
     <td class="tg-ktyi">Media Production Club</td>
-    <td class="tg-ktyi">Ms Kwek Ee Hui Irene<br>Ms Yap Cheng Cheng Sophia</td>
+    <td class="tg-ktyi">Ms Kwek Ee Hui Irene (OIC)<br>Ms Yap Cheng Cheng Sophia</td>
     <td class="tg-ktyi">Gallery (Hall 2nd Level)</td>
     <td class="tg-7yig">3.00 – 5.00pm<br>
     </td><td class="tg-7yig">–</td>

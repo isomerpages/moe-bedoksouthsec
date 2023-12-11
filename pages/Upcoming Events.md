@@ -8,7 +8,7 @@ variant: markdown
 | -------- | -------- |
 | 25 Nov | [Open House](https://go.gov.sg/bds-eopen-house-2023) |
 | 18 Nov - 31 Dec | Term 4 Holidays |
-| 18 Dec | Release of 2023 GCE N(A)- and N(T)-Level examination results
+| 18 Dec | Release of 2023 GCE N(A)- and N(T)-Level Examination Results
 | 1 Jan 24 | New Year’s Day |
 | 2 Jan 24 | First Day of School |
 | 10 Jan 24 | Temperature Taking Exercise |

@@ -4,6 +4,13 @@ permalink: /latest-happenings/
 description: ""
 variant: markdown
 ---
+#### Release of 2023 GCE N(A)- and GCE N(T)-Levels results
+
+Dear Sec 4N(A) &amp; 4N(T) BDSians,<br>
+
+1. Please be informed that the 2023 GCE N(A)- and GCE N(T)-Levels results will be released on Monday, 18 December. <br>
+2. You are expected to report to the School Hall at 1.45 pm in full school uniform and groomed according to the standards laid out in the Student Handbook for the collection of your&nbsp;result&nbsp;slips.
+
 #### Open House 2023
 
 Bedok South Secondary School is hosting an Open House to welcome prospective parents and students who wish to visit our campus and learn more about what we have to offer. Click [here](https://go.gov.sg/bds-eopen-house-2023) to find out more!
@@ -14,7 +21,7 @@ Please note that SLS will be unavailable from 6 Dec 2023 (Wed) until the evening
 
 #### Parenting Webinar     
 
-Dear parents/ guardians,  
+Dear parents/ guardians, &nbsp;
 
 We would like to invite you to sign up for a series of parenting webinars organised by the Parent Support Group and Morning Star Community Services for the month of November, to help you guide your teen to foster closer sibling and peer relationships. Please click [here](https://for.edu.sg/morningstartriplepsecrun10) to find out more and register for the webinars. 
 

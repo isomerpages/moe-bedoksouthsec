@@ -7,11 +7,8 @@ variant: markdown
 ---
 Clubs and Societies
 ===================
-![](/images/infocomm1.jpg)
+![](/images/CCA/Clubs%20and%20Societies/Clubs_Societies.png)
 <br clear="left">
-
-<br>
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

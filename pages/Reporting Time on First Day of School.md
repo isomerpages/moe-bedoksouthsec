@@ -37,8 +37,10 @@ Please note that there is no programme for parents for Day 1.
   <tr>
     <td class="tg-7yig">Mondays</td>
     <td class="tg-7yig">Respective Classroom</td>
-    <td class="tg-ktyi">Half School Uniform</td>
-  </tr>
+    <td class="tg-ktyi" rowspan="1"><span style="text-decoration:"> <u>As per respective class timetable:</u> 
+<br>PE days – half school uniform
+<br>Non-PE days – full school uniform
+  </span></td></tr>
   <tr>
     <td class="tg-7yig">Tuesdays</td>
     <td class="tg-7yig">School Hall</td>

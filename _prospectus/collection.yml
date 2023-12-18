@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - Information on Various Subjects for Sec 1 Students.md
       - Online Consent for Dental Services.md
       - Information for Sec 1 (2023).md
       - Reporting Time on First Day of School.md

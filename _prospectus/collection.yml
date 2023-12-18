@@ -2,6 +2,8 @@ collections:
   prospectus:
     output: true
     order:
+      - Purchase of Books, Stationeries, Socks, PE Attire and Booklist for
+        2023.md
       - Information for Sec 1 (2023).md
       - Reporting Time on First Day of School.md
       - Open House.md

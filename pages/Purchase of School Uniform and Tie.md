@@ -2,8 +2,9 @@
 title: Purchase of School Uniform and Tie
 permalink: /prospectors/Purchase-of-School-Uniform-and-Tie/
 description: ""
+variant: markdown
 ---
-Purchase of School Uniform and Tie
+Purchase of School Uniform and Tie for Sec 1
 ==================================
 
 1.&nbsp;Please be informed that there will be no walk-in sale of School Uniform and Tie in the school premises this year.

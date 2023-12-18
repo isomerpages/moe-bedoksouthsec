@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - Art Elective Programme (AEP) and Music Elective Programme (MEP).md
       - Information on PDLP Onboarding.md
       - Information on Mother Tongue Languages.md
       - Information on Subject Based Banding and Full Subject Based Banding.md

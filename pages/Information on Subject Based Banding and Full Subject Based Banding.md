@@ -2,8 +2,9 @@
 title: Information on Subject Based Banding and Full Subject Based Banding
 permalink: /prospectors/Information-on-Subject-Based-Banding-and-Full-Subject-Based-Banding/
 description: ""
+variant: markdown
 ---
-Information on Subject-Based Banding and Full Subject-Based Banding
+Information on Full Subject-Based Banding
 ===================================================================
 
 SBB provides flexibility in subjects offered at secondary levels, to better cater to the strengths of students in different subjects and enhance their access to opportunities throughout their educational journey.

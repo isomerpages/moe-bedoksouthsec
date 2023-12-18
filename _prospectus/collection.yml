@@ -2,9 +2,9 @@ collections:
   prospectus:
     output: true
     order:
-      - Purchase of School Uniform and Tie.md
       - Information for Sec 1 (2023).md
       - Reporting Time on First Day of School.md
       - Purchase of Books, Stationeries, Socks, PE Attire and Booklist for
         2023.md
+      - Purchase of School Uniform and Tie.md
       - Open House.md

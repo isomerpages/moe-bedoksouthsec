@@ -9,7 +9,7 @@ Information on Mother-Tongue Languages
 
 #### **Higher Mother Tongue Language (HTML)**
 
-Students who belong to either the top 10% of the PSLE cohort, or the top 30% of the PSLE cohort **and** obtained an AL1 in MTL or at least a merit in HMTL at PSLE, would be eligible to study HMTL at secondary school. Students who meet the criteria would receive an invitation letter to study HMTL at secondary school. Our MTL HOD, Ms Ivonne Awyong, will also be contacting you by 27 Dec 2024 to liaise with you personally on the documents to submit.
+Students who belong to either the top 10% of the PSLE cohort, or the top 30% of the PSLE cohort **and** obtained an AL1 in MTL or at least a merit in HMTL at PSLE, would be eligible to study HMTL at secondary school. Students who meet the criteria would receive an invitation letter to study HMTL at secondary school. Our MTL HOD, Ms Ivonne Awyong, will also be contacting you by 27 Dec 2023 to liaise with you personally on the documents to submit.
 
 Students taking Higher CL will attend lessons at Bedok South Secondary during curriculum time. 
  

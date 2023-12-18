@@ -2,12 +2,12 @@ collections:
   prospectus:
     output: true
     order:
-      - Information on Various Subjects for Sec 1 Students.md
-      - Online Consent for Dental Services.md
       - Information for Sec 1 (2023).md
       - Reporting Time on First Day of School.md
       - Purchase of Books, Stationeries, Socks, PE Attire and Booklist for
         2023.md
       - Purchase of School Uniform and Tie.md
       - Orientation Programme and CCA Fair 2023.md
+      - Online Consent for Dental Services.md
+      - Information on Various Subjects for Sec 1 Students.md
       - Open House.md

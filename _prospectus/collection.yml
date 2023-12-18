@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - Information on Financial Assistance Scheme (FAS) 2023.md
       - Art Elective Programme (AEP) and Music Elective Programme (MEP).md
       - Information on PDLP Onboarding.md
       - Information on Mother Tongue Languages.md

@@ -65,7 +65,7 @@ Purchase of Books, Stationeries / Socks/ PE Attire and Booklist for 2024
     <td class="tg-dgl5">Do note that:<br>1) All purchases are final and there should be no cancellation.<br>2) No refunds are allowed. You may exchange in the case of wrong order. However, do ensure that there are no writings on it.</td>
   </tr>
   <tr>
-    <td class="tg-ntwt"><span style="color:white">CUSTOMER SERVICE CONTACT :</span></td>
+    <td class="tg-ntwt"><span style="color:white">CUSTOMER SERVICE CONTACT</span></td>
     <td class="tg-dgl5">HOTLINE: 65592269 (9 am to 5 pm, Mon to Fri) <br>EMAIL: sales@pacificbookstores.com</td>
   </tr>
   <tr>

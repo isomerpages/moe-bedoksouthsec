@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - Information on Mother Tongue Languages.md
       - Information on Subject Based Banding and Full Subject Based Banding.md
       - Information on School Smart Card.md
       - Information for Sec 1 (2023).md

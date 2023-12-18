@@ -2,12 +2,6 @@ collections:
   prospectus:
     output: true
     order:
-      - Information on Financial Assistance Scheme (FAS) 2023.md
-      - Art Elective Programme (AEP) and Music Elective Programme (MEP).md
-      - Information on PDLP Onboarding.md
-      - Information on Mother Tongue Languages.md
-      - Information on Subject Based Banding and Full Subject Based Banding.md
-      - Information on School Smart Card.md
       - Information for Sec 1 (2023).md
       - Reporting Time on First Day of School.md
       - Purchase of Books, Stationeries, Socks, PE Attire and Booklist for
@@ -16,4 +10,10 @@ collections:
       - Orientation Programme and CCA Fair 2023.md
       - Online Consent for Dental Services.md
       - Information on Various Subjects for Sec 1 Students.md
+      - Information on School Smart Card.md
+      - Information on Financial Assistance Scheme (FAS) 2023.md
+      - Information on Subject Based Banding and Full Subject Based Banding.md
+      - Information on Mother Tongue Languages.md
+      - Information on PDLP Onboarding.md
+      - Art Elective Programme (AEP) and Music Elective Programme (MEP).md
       - Open House.md

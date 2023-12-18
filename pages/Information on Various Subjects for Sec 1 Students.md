@@ -2,11 +2,12 @@
 title: Information on Various Subjects for Sec 1 Students
 permalink: /prospectors/Information-on-Various-Subjects-for-Sec-1-Students/
 description: ""
+variant: markdown
 ---
-Information on Various Subjects for Sec 1 Students
+Information on various subjects for Sec 1 students
 ==================================================
 
-Compared to taking only 4 examinable subjects in primary schools, a lower secondary school student will be taking&nbsp;<u>10 examinable subjects</u>.  
+Compared to taking only four examinable subjects in primary schools, a lower secondary school student will be taking&nbsp;<u>10 examinable subjects</u>.  
   
 
 #### **Non-Common Curriculum Subjects**

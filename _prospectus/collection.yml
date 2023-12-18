@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - Information on School Smart Card.md
       - Information for Sec 1 (2023).md
       - Reporting Time on First Day of School.md
       - Purchase of Books, Stationeries, Socks, PE Attire and Booklist for

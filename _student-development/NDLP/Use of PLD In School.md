@@ -3,17 +3,13 @@ title: Use of PLD In School
 permalink: /student-development/nldp/use-of-pld-in-school/
 description: ""
 third_nav_title: NDLP
+variant: markdown
 ---
-
-
 Use of PLD In School
 ====================
 
 To help our students learn effectively with their Personal Learning Devices, several school-wide routines have been introduced. 
-
   
-A video and a poster of these routines are attached here for students' reference.
-
-***video to be embeded***
+A poster of these routines is attached here for students' reference.
 
 ![PLD Routine Poster](/images/PLD%20Routine%20Poster%20by%20Sim%20Yu%20De.jpg)

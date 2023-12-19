@@ -1,24 +1,7 @@
 ---
 title: Information on Mother Tongue Languages
-permalink: /prospectors/Information-on-Mother-Tongue-Languages/
+permalink: /prospectus/information-on-mother-tongue-languages/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Information on Mother-Tongue Languages
-======================================
-
-#### **Higher Mother Tongue Language (HTML)**
-
-Students who belong to either the top 10% of the PSLE cohort, or the top 30% of the PSLE cohort **and** obtained an AL1 in MTL or at least a merit in HMTL at PSLE, would be eligible to study HMTL at secondary school. Students who meet the criteria would receive an invitation letter to study HMTL at secondary school. Our HOD / Mother Tongue, Ms Ivonne Muliana Awyong, will also be contacting you by 27 Dec 2023 to liaise with you personally on the documents to submit.
-
-Students taking Higher CL will attend lessons at Bedok South Secondary during curriculum time. 
- 
-Students who are eligible for Higher Malay or Higher Tamil will have to travel to one of the designed centres for their HMTL lesson.  
-
-#### **Tamil Language**
-
-Bedok South Secondary does not offer Tamil Language. Students who are taking Tamil Language will attend lessons at Bedok View Secondary School. Registration details will be made known to students through Form Teachers in the first week when school reopens.
-
-#### **Third Languages**
-
-Please note that third languages are over-subscribed every year. Submission of the application form at primary school only indicates an interest to take a third language; it does not guarantee the offer of a third language at Secondary school. <u>Only successful applicants will be informed via phone call</u> by 27 Dec 2023. If you did not receive any phone call from the school by this date, it means that your application for a third language has not been successful.
+<h1>Information on Mother-Tongue Languages</h1><p>Eligible students can offer <strong>Mother Tongue Languages</strong> at a more demanding level based on their PSLE Achievement Level (AL) for each of these subjects.</p><table><tbody><tr><th rowspan="1" colspan="4"><p>Eligibility criteria to offer Mother Tongue Languages at a more demanding level</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Indicative level of most subjects at start of S1</strong></p></td><td rowspan="1" colspan="1"><p><strong>PSLE standard grade</strong></p></td><td rowspan="1" colspan="1"><p><strong>PSLE foundation grade</strong></p></td><td rowspan="1" colspan="1"><p><strong>Option to offer at</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>G2</p></td><td rowspan="1" colspan="1"><p>AL 5 or better</p></td><td rowspan="1" colspan="1"><p>-</p></td><td rowspan="1" colspan="1"><p>G3</p></td></tr><tr><td rowspan="2" colspan="1"><p>G1</p></td><td rowspan="1" colspan="1"><p>AL 5 or better</p></td><td rowspan="1" colspan="1"><p>-</p></td><td rowspan="1" colspan="1"><p>G3 or G2</p></td></tr><tr><td rowspan="1" colspan="1"><p>AL 6</p></td><td rowspan="1" colspan="1"><p>AL A</p></td><td rowspan="1" colspan="1"><p>G2</p></td></tr></tbody></table><p></p>

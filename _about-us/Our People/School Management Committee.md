@@ -83,7 +83,7 @@ School Management Committee
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">4</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Simon Sng</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Mr Sng Kuo Wai Simon</span></td>
     <td class="tg-y7qa"><span style="color:#222">Year Head (Sec 4 &amp; 5 Upper Sec)</span></td>
     <td class="tg-y7qa"><span style="color:#222">sng_kuo_wai_simon@moe.edu.sg</span></td>
   </tr>
@@ -225,7 +225,7 @@ School Management Committee
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">2</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Cheng Wan Li/span&gt;</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Ms Cheng Wan Li</span></td>
     <td class="tg-y7qa"><span style="color:#222">ST / Character Citizenship Education</span></td>
     <td class="tg-y7qa"><span style="color:#222">cheng_wan_li@moe.edu.sg</span></td>
   </tr>

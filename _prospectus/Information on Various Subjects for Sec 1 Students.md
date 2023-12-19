@@ -1,6 +1,6 @@
 ---
 title: Information on Various Subjects for Sec 1 Students
-permalink: /prospectors/Information-on-Various-Subjects-for-Sec-1-Students/
+permalink: /prospectus/information-on-various-subjects-for-sec-1-students/
 description: ""
 variant: markdown
 ---

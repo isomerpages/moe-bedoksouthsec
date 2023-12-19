@@ -1,6 +1,6 @@
 ---
 title: Information on School Smart Card
-permalink: /prospectors/Information-on-School-Smart-Card/
+permalink: /prospectus/information-on-school-smart-card/
 description: ""
 variant: markdown
 ---

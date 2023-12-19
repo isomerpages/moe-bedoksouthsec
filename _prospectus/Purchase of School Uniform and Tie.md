@@ -9,7 +9,7 @@ Purchase of School Uniform and Tie for Sec 1
 
 1\. Please be informed that there will be no walk-in sale of School Uniform and Tie in the school premises this year.
 
-2\. Sales of school uniform and tie will commence on 20th December 2023.
+2\. Sales of school uniform and tie will commence on 20 December 2023.
 
 3\. &nbsp;<b>How do we make the purchase?</b>
 
@@ -30,6 +30,6 @@ c) School - Strictly by appointment only. Students who opt for self-collection <
 
 4\.&nbsp;&nbsp;<u><b>Students who are on FAS:</b></u>  
 
-You will be contacted directly by the FAS officer, Ms Mardhiah, on the assigned date and time for onsite collection via our school FAS WhatsApp service.  Should there be any concerns or if you did not receive any notification from our school, please WhatsApp the FAS line @ 86866208 for assistance between 9.30am – 5.00pm on weekdays. 
+You will be contacted directly by the FAS officer, Ms Mardhiah, on the assigned date and time for onsite collection via our school FAS WhatsApp service.  Should there be any concerns or if you did not receive any notification from our school, please WhatsApp the FAS line @ 86866208 for assistance between 8.30am – 5.00pm on weekdays. 
 
 5\. All students who need to do exchange of uniform must go to the retail outlet at the address above to do so. You may wish to give them a call first to check on the availability of the size before going down to the retail store.

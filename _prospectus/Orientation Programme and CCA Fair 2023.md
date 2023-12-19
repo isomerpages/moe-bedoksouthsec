@@ -108,7 +108,7 @@ Students will&nbsp;<u><b>change to your PE attire after lunch</b></u>&nbsp;for c
     <td class="tg-ktyi">School Hall</td>  </tr>
   <tr>
     <td class="tg-9hzb">3.15 pm</td>
-    <td class="tg-ktyi">Understanding CCA &amp; Assessment <br>(LEAPS 2.0) by HOD PE/ CCA</td>
+    <td class="tg-ktyi">Understanding CCA &amp; Assessment <br>(LEAPS 2.0) by Subject Head CCA</td>
     <td class="tg-ktyi">School Hall</td>    </tr>
 	  <tr>
     <td class="tg-9hzb">3.45 pm</td>

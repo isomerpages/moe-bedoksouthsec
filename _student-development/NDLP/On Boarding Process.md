@@ -3,6 +3,7 @@ title: On Boarding Process
 permalink: /student-development/nldp/on-boarding-process/
 description: ""
 third_nav_title: NDLP
+variant: markdown
 ---
 On-Boarding Process
 ===================
@@ -65,7 +66,7 @@ Please refer to the time frame below for the upcoming dates to note.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Jan 2023</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Jan 2024</span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Parents will receive:</span><br><br><br>•    <span style="font-weight:bold">Letter of Consent</span> sent via Parents Gateway<br>•    <span style="font-weight:bold">Individualised hardcopy letter</span> (through child / ward) to inform parents / guardian of the amount to be deducted from Edusave / GIRO</td>
   </tr>
   <tr>
@@ -73,7 +74,7 @@ Please refer to the time frame below for the upcoming dates to note.
     <td class="tg-y7qa"><span style="color:#222;background-color:#EAEAEA">For students with existing devices, to bring the device to school for the school to ascertain its compatibility to the DMA and Apple Pencil.</span><br><br></td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mar 2023</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mar 2024</span></td>
     <td class="tg-y7qa"><span style="color:#222;background-color:#EAEAEA">Collection &amp; setup of PLD </span><br><br></td>
   </tr>
   <tr>

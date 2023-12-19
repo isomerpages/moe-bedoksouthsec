@@ -12,16 +12,20 @@ Compared to taking only four examinable subjects in primary schools, a lower sec
 
 #### **Non-Common Curriculum Subjects**
 
-1\.  English Language<br>   2\.  Mother Tongue Language  
-    3\.  Mathematics<br>    4\.  General Science<br>  5\.  Humanities (History)<br>  6\.  Humanities (Geography)<br>  7\.  English Literature  
-    
-
-  
+1\.  English Language
+<br>2\.  Mother Tongue Language 
+<br>3\.  Mathematics
+<br>    4\.  General Science
+<br>  5\.  Humanities (History)
+<br>  6\.  Humanities (Geography)
+<br>  7\.  English Literature  
 
 #### **Common Curriculum Subjects:**
 
-8\. Design &amp; Technology (D&amp;T)  
-9\. Food and Consumer Education (FCE)  
-10\. Art  
+8\. Design &amp; Technology (D&amp;T) 
+<br>9\. Food and Consumer Education (FCE)
+<br>10\. Art
+<br>11\. Music
+<br>12\. Physical Education
   
 Students may explore the school website to gain an understanding of the various subjects.

@@ -27,19 +27,19 @@ This year, the incoming Sec 1 students are <b><u>not required</u></b> to physica
 </thead>
 </table>
 
-[Reporting Time on First Day of School](https://www.bedoksouthsec.moe.edu.sg/prospectors/Reporting-Time-on-First-Day-of-School/)
-<br>[Sec 1 booklist and information on sale of Textbooks/Resources, Stationeries, Socks and PE Attire](https://www.bedoksouthsec.moe.edu.sg/prospectors/Purchase-of-Books-Stationeries-Socks-PE-Attire-and-Booklist-for-2023/)
-<br>[Information on sale of School Uniform and Tie](https://www.bedoksouthsec.moe.edu.sg/prospectors/Purchase-of-School-Uniform-and-Tie/)
-<br>[Orientation programme and CCA Fair 2024](https://www.bedoksouthsec.moe.edu.sg/prospectors/Orientation-Programme-and-CCA-Fair-2023/)
-<br>[Online Consent for Dental ](https://www.bedoksouthsec.moe.edu.sg/prospectors/Online-Consent-for-Dental-Services/)
-<br>[Information on the various subjects for Sec 1 students ](https://www.bedoksouthsec.moe.edu.sg/prospectors/Information-on-Various-Subjects-for-Sec-1-Students/)
-<br>[Information on School Smart Card](https://www.bedoksouthsec.moe.edu.sg/prospectors/Information-on-School-Smart-Card/)
-<br>[Information on Financial Assistance Scheme (FAS)](https://www.bedoksouthsec.moe.edu.sg/prospectors/Information-on-Financial-Assistance-Scheme-FAS-2023/)
-<br>[Application for Parents Support Group ](https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-parents/)
-<br>Information on Full Subject-Based Banding
-<br>[Information on Higher Mother Tongue Language (HMTL), Tamil Language, Third Languages](https://www.bedoksouthsec.moe.edu.sg/prospectors/Information-on-Mother-Tongue-Languages/)
-<br>[Information on PDLP Onboarding](https://www.bedoksouthsec.moe.edu.sg/prospectors/Information-on-PDLP-Onboarding/)
-<br>[Application for Art Elective Programme (AEP) and Music Elective Programme (MEP) Centres 2024](https://www.bedoksouthsec.moe.edu.sg/prospectors/art-elective-programme-aep-and-music-elective-programme-mep/)
-<br>[Appeal for Transfer (Sec 1) in 2024](https://www.bedoksouthsec.moe.edu.sg/prospectors/secondary-1-appeal-for-transfer-in-2023/)
+[Reporting Time on First Day of School](https://bedoksouthsec.moe.edu.sg/prospectus/reporting-time-on-first-day-of-school/)
+<br>[Sec 1 booklist and information on sale of Textbooks/Resources, Stationeries, Socks and PE Attire](https://bedoksouthsec.moe.edu.sg/prospectus/purchase-of-books-stationeries-socks-pe-attire-and-booklist-for-2024/)
+<br>[Information on sale of School Uniform and Tie](https://bedoksouthsec.moe.edu.sg/prospectus/purchase-of-school-uniform-and-tie/)
+<br>[Orientation programme and CCA Fair 2024](https://bedoksouthsec.moe.edu.sg/prospectus/orientation-programme-and-cca-fair-2024/)
+<br>[Online Consent for Dental ](https://bedoksouthsec.moe.edu.sg/prospectus/online-consent-for-dental-services/)
+<br>[Information on the various subjects for Sec 1 students ](https://bedoksouthsec.moe.edu.sg/prospectus/information-on-various-subjects-for-sec-1-students/)
+<br>[Information on School Smart Card](https://bedoksouthsec.moe.edu.sg/prospectus/information-on-school-smart-card/)
+<br>[Information on Financial Assistance Scheme (FAS)](https://bedoksouthsec.moe.edu.sg/prospectus/information-on-fas/)
+<br>[Application for Parents Support Group ](https://bedoksouthsec.moe.edu.sg/information-and-links/for-parents/)
+<br>[Information on Full Subject-Based Banding](https://www.bedoksouthsec.moe.edu.sg/curriculum/Full-Subject-Based-Banding-FSBB/)
+<br>[Information on Higher Mother Tongue Language (HMTL), Tamil Language, Third Languages](https://bedoksouthsec.moe.edu.sg/prospectus/information-on-mother-tongue-languages/)
+<br>[Information on PDLP Onboarding](https://bedoksouthsec.moe.edu.sg/prospectus/information-on-pdlp-onboarding/)
+<br>[Application for Art Elective Programme (AEP) and Music Elective Programme (MEP) Centres 2024](https://bedoksouthsec.moe.edu.sg/prospectus/aep-and-mep/)
+<br>[Appeal for Transfer (Sec 1) in 2024](https://bedoksouthsec.moe.edu.sg/prospectors/appeal-for-transfer-sec1-2024/)
 
 If you do have any other enquiries, please call the General Office at 64414479, between 9 am – 4 pm.

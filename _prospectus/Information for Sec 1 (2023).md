@@ -27,18 +27,19 @@ This year, the incoming Sec 1 students are <b><u>not required</u></b> to physica
 </thead>
 </table>
 
-[Reporting time on first day of school](/information-for-sec-1-2023/Reporting-Time-on-First-Day-of-School/) <br>
-[Sec 1 booklist and information on sale of Textbooks/Resources, Stationeries, Socks and PE Attire](/information-for-sec-1-2023/Purchase-of-Books-Stationeries-Socks-PE-Attire-and-Booklist-for-2023/)<br>
-[Information on sale of School Uniform and Tie](/information-for-sec-1-2023/Purchase-of-School-Uniform-and-Tie/) <br>
-[Orientation Programme and CCA Fair 2024](/information-for-sec-1-2023/Orientation-Programme-and-CCA-Fair-2023/) <br>
-[Online Consent for Dental Services](/information-for-sec-1-2023/Online-Consent-for-Dental-Services/) <br>
-[Information on the various subjects for Sec 1 students](/information-for-sec-1-2023/Information-on-Various-Subjects-for-Sec-1-Students/) <br>
-[Information on School Smart Card](/information-for-sec-1-2023/Information-on-School-Smart-Card/) <br>
-[Information on Financial Assistance Scheme (FAS)](/information-for-sec-1-2023/Information-on-Financial-Assistance-Scheme-FAS-2023/) <br>
-[Application for Parent Support Group](/information-for-sec-1-2023/BDS-Parent-Support-Group-PSG/) <br>
-[Information on Full Subject-Based Banding](/information-for-sec-1-2023/Information-on-Subject-Based-Banding-and-Full-Subject-Based-Banding/) <br>
-[Information on Higher Mother Tongue Language (HMTL), Tamil Language, Third Languages](/information-for-sec-1-2023/Information-on-Mother-Tongue-Languages/) <br>
-[Information on PDLP Onboarding](/information-for-sec-1-2023/Information-on-PDLP-Onboarding/) <br>
-[Application for Art Elective Programme (AEP) and Music Elective Programme (MEP) Centres 2024](/information-for-sec-1-2023/Art-Elective-Programme-AEP-and-Music-Elective-Programme-MEP/)
+[Reporting Time on First Day of School](https://www.bedoksouthsec.moe.edu.sg/prospectors/Reporting-Time-on-First-Day-of-School/)
+<br>[Sec 1 booklist and information on sale of Textbooks/Resources, Stationeries, Socks and PE Attire](https://www.bedoksouthsec.moe.edu.sg/prospectors/Purchase-of-Books-Stationeries-Socks-PE-Attire-and-Booklist-for-2023/)
+<br>[Information on sale of School Uniform and Tie](https://www.bedoksouthsec.moe.edu.sg/prospectors/Purchase-of-School-Uniform-and-Tie/)
+<br>[Orientation programme and CCA Fair 2024](https://www.bedoksouthsec.moe.edu.sg/prospectors/Orientation-Programme-and-CCA-Fair-2023/)
+<br>[Online Consent for Dental ](https://www.bedoksouthsec.moe.edu.sg/prospectors/Online-Consent-for-Dental-Services/)
+<br>[Information on the various subjects for Sec 1 students ](https://www.bedoksouthsec.moe.edu.sg/prospectors/Information-on-Various-Subjects-for-Sec-1-Students/)
+<br>[Information on School Smart Card](https://www.bedoksouthsec.moe.edu.sg/prospectors/Information-on-School-Smart-Card/)
+<br>[Information on Financial Assistance Scheme (FAS)](https://www.bedoksouthsec.moe.edu.sg/prospectors/Information-on-Financial-Assistance-Scheme-FAS-2023/)
+<br>[Application for Parents Support Group ](https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-parents/)
+<br>Information on Full Subject-Based Banding
+<br>[Information on Higher Mother Tongue Language (HMTL), Tamil Language, Third Languages](https://www.bedoksouthsec.moe.edu.sg/prospectors/Information-on-Mother-Tongue-Languages/)
+<br>[Information on PDLP Onboarding](https://www.bedoksouthsec.moe.edu.sg/prospectors/Information-on-PDLP-Onboarding/)
+<br>[Application for Art Elective Programme (AEP) and Music Elective Programme (MEP) Centres 2024](https://www.bedoksouthsec.moe.edu.sg/prospectors/art-elective-programme-aep-and-music-elective-programme-mep/)
+<br>[Appeal for Transfer (Sec 1) in 2024](https://www.bedoksouthsec.moe.edu.sg/prospectors/secondary-1-appeal-for-transfer-in-2023/)
 
 If you do have any other enquiries, please call the General Office at 64414479, between 9 am – 4 pm.

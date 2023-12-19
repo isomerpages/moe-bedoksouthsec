@@ -11,6 +11,6 @@ Singapore Citizens in financial need can get assistance from MOE on school fees 
 
 Students whose application for MOE FAS have been approved earlier by their primary schools will be contacted directly by the FAS officer, Ms Mardhiah, on the assigned date and time for onsite collection via our school FAS WhatsApp service.  Should there be any concerns or if you did not receive any notification from our school, please WhatsApp the FAS line @ 86866208 for assistance between 8.30am – 5.00pm on weekdays.
 
-For students who have yet to apply for MOE FAS and wish to do so, you may print a copy of the application form (FAS application) or obtain a copy of the application form from the General Office. Upon completion, please submit the application form and the required supporting documents, as stated in the application form, to the General Office. If your documents are in order, we will be able to process your application between 7 to 10 working days and we will notify you of the status accordingly. Otherwise, we will process your application when the documents are completed. 
+For students who have yet to apply for MOE FAS and wish to do so, you may refer to [here](https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-parents/financial-assistance-scheme-fas/). Upon receipt of your application and documents, we will process and notify you of the FAS status soonest.
 
 If you have any enquiries regarding Financial Assistance matters, you may contact Ms Mardhiah at 6441 4479 ext. 130.

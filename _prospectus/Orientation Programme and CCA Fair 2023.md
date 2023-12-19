@@ -10,8 +10,8 @@ Orientation Programme and CCA Fair 2024
 The transition to a secondary school can be an overwhelming experience for many Secondary One students, but the experience can be made rewarding when students familiarise themselves with the rules, expectations and basic information of the school.  
 
 To assist the students in making this transition, we have organised the following:
-1\)	Orientation Programme (Tuesday, 2 Jan 2024 to Thursday, 4 January 2024)
-2\)	CCA Fair (Friday, 5 January 2024)
+<br>1\)	Orientation Programme (Tuesday, 2 Jan 2024 to Thursday, 4 January 2024)
+<br>2\)	CCA Fair (Friday, 5 January 2024)
 
 
 

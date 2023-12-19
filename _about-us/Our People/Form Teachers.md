@@ -309,7 +309,7 @@ Form Teachers
 	  <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Mr Lim Tuan Zheng Joseph</td>
-    <td class="tg-kveo">TBC</td>
+    <td class="tg-kveo">115</td>
     <td class="tg-kveo">lim_tuan_zheng@moe.edu.sg</td>
   </tr>
   <tr>
@@ -327,7 +327,7 @@ Form Teachers
   <tr>
     <td class="tg-y7qa"><span style="color:#222">3D</span></td>
     <td class="tg-kveo">Mr Yip Kim San</td>
-    <td class="tg-kveo">101</td>
+    <td class="tg-kveo">103</td>
     <td class="tg-kveo">yip_kim_san@moe.edu.sg</td>
   </tr>
   <tr>
@@ -458,7 +458,7 @@ Form Teachers
   <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Ms Kwek Ee Hui Irene</td>
-    <td class="tg-kveo">115</td>
+    <td class="tg-kveo">106</td>
     <td class="tg-kveo">kwek_ee_hui_irene@moe.edu.sg</td>
   </tr>
   <tr>
@@ -569,8 +569,18 @@ Form Teachers
     <td class="tg-kveo">164</td>
     <td class="tg-kveo">rayson_soh_li_sen_a@moe.edu.sg</td>
   </tr>
- 
-  <tr>
+ 	<tr>
+    <td class="tg-kveo">FAJT (Gear-up)</td>
+    <td class="tg-kveo">Mr Syahrulnizam Bin Abdul Rahman</td>
+    <td class="tg-kveo">TBC</td>
+    <td class="tg-kveo">syahrulnizam_abdul_rahman@moe.edu.sg </td>
+  </tr>
+  	<tr>
+    <td class="tg-kveo">FAJT (PE &amp; CCA)</td>
+    <td class="tg-kveo">Mr Khoo Kian Eng</td>
+    <td class="tg-kveo">TBC</td>
+    <td class="tg-kveo">khoo_kian_eng@moe.edu.sg </td>
+  </tr> <tr>
     <td class="tg-kveo">FAJT (Science)</td>
     <td class="tg-kveo">Mrs Djie-Lim Say Aii</td>
     <td class="tg-kveo">109</td>

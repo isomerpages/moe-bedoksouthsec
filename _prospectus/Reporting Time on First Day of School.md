@@ -7,9 +7,7 @@ variant: markdown
 Reporting time on first day of school
 =====================================
 
-Our Secondary One students start on **Day 1 (2 Jan 2024)** is at **9.00 am**. Students are advised to report to school by 8.50 am so that they have time to make their way to the School Hall. There will be student leaders on standby to chaperone the students to the School Hall on the 1st day of school. 
-
-Please note that there is no programme for parents for Day 1.
+Our Secondary One students start on **Day 1 (2 Jan 2024)** is at **9.00 am**. Students are advised to report to school by <u>8.50 am</u> so that they have time to make their way to the School Hall. There will be student leaders on standby to chaperone the students to the School Hall on the 1st day of school. 
 
 <b>From Day 2 (3 Jan 2024 onwards), Secondary One students will follow the normal reporting time for school which is 7.45 am.</b> Students are advised to report to school by 7.35 am so that they have time to make their way to the classroom. Students who arrive at the classroom after 7.45 am will be considered late for school. <b>Up until 7.45 am, students are required to read their storybooks silently. All students must bring their own storybooks.</b>
 
@@ -68,3 +66,5 @@ Please note that there is no programme for parents for Day 1.
 </table>
 
 The dismissal time will depend on the timetable and the programme that they might have after school.
+
+Please note that there is no programme for parents during 2024 Sec 1 Orientation.

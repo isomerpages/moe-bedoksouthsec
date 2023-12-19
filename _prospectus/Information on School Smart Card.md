@@ -6,8 +6,7 @@ variant: markdown
 ---
 Information on School Smart Card
 ================================
-
-<b>To: All Secondary 1 students</b>
+**(STUDENT IDENTIFICATION PASS/ CONCESSIONARY TRAVEL SCHOOL SMART CARD (SSC))**
 
 1\. Please be informed that students can continue to use their primary level School Smart Card (SSC) for concessionary travel till 30 April 2024.
 

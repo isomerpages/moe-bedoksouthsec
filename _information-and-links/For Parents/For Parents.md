@@ -91,4 +91,4 @@ We welcome all parents to join us in the PSG. If you are interested in serving a
 
 ##### **Enrichment Talks/Workshops**
 ![](/images/Partnerships/PSG/PSG1.jpg)
-![](/images/Partnerships/PSG/PSG2.jpg)![](/images/Partnerships/PSG/psg%203A.jpg)
+

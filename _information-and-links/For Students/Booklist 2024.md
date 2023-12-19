@@ -7,6 +7,9 @@ variant: markdown
 ---
 <b> Please click the relevant links for the booklists. </b>
 
+<b> Secondary 1 </b>
+<br>[Secondary 1](/files/Booklist/Booklist_for_Secondary_1.pdf)
+
 <b> Secondary 2 </b>
 <br>[2 Express](https://go.gov.sg/bds20242exp)
 <br>[2 Normal (Academic)](https://go.gov.sg/bds20242na) 

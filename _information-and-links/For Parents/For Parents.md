@@ -43,19 +43,28 @@ The BDS Parent Support Group (PSG) comprises like-minded parents from diverse ba
 <tbody>
   <tr>
     <td class="tg-ktyi"><span style="background-color:transparent">Sports / Recreational Activities</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Bowling, Soccer, Nagomi Art Workshop, Craft Workshops, Balloon Sculpting Workshop</span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Bowling, Nagomi Art Workshop, Craft Workshops</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="background-color:transparent">Social Activities</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Culinary workshops / competitions, charitable home visits </span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Culinary workshops, competitions, charitable home visits </span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="background-color:transparent">Personal Enrichment Talks / Workshops</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Parenting Talks, Education and Career Guidance Talks, Parenting Teens etc</span></td>
+    <td class="tg-ktyi"><span style="background-color:transparent">Parenting Talks, Education and Career Guidance Talks</span></td>
   </tr>
 </tbody>
 </table>
 
+### Instagram
+
+Follow us on Instagram&nbsp;[here](https://go.gov.sg/bds-psg).
+
+### Registration
+
+We welcome all parents to join us in the PSG. If you are interested in serving and supporting the school and students, please click on this link https://go.gov.sg/2024psgform or scan the QR code. 
+
+![](/images/Partnerships/PSG/PSG_2024_Application_Form.jpg)
 
 ### Photos of Various Programmes
 
@@ -82,13 +91,3 @@ The BDS Parent Support Group (PSG) comprises like-minded parents from diverse ba
 
 ##### **Enrichment Talks/Workshops**
 ![](/images/Partnerships/PSG/PSG1.jpg)
-![](/images/Partnerships/PSG/PSG2.jpg)![](/images/Partnerships/PSG/psg%203A.jpg)
-### Instagram
-
-Follow us on Instagram&nbsp;[here](https://go.gov.sg/bds-psg).
-
-### Registration
-
-We welcome all parents to join us in the PSG. If you are interested in serving and supporting the school and students, please register via this [link](https://go.gov.sg/bdspsg23), or scan the QR code:
-
-<img src="/images/For%20Parents10.jpg" style="width:25%">

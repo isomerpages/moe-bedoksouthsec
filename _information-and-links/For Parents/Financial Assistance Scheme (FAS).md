@@ -3,6 +3,7 @@ title: Financial Assistance Scheme (FAS)
 permalink: /information-and-links/for-parents/financial-assistance-scheme-fas/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 Financial Assistance Scheme (FAS)
 =================================
@@ -11,7 +12,7 @@ Singapore Citizens in financial need can get assistance from MOE on school fees 
 
   
 
-Parents who wish to apply can choose to apply FAS online ([EFAS](https://go.gov.sg/moe-efas)), download the&nbsp;[FAS application form](/files/MOE%20FAS%20Application%20Form%202023%20updated.pdf) or collect the hardcopy at the General Office. Upon completion, please submit the application form and the required supporting documents to the General Office. If your documents are in order, we will be able to process your application between 7 to 10 working days and we will notify you of the status accordingly. The relevant documents are as follow:
+Parents who wish to apply can choose to apply FAS online ([EFAS](https://go.gov.sg/moe-efas)), download the [FAS application form](/files/FAS/2024_MOE_FAS_Application_Form.pdf) or collect the hardcopy at the General Office. Upon completion, please submit the application form and the required supporting documents to the General Office. If your documents are in order, we will be able to process your application between 7 to 10 working days and we will notify you of the status accordingly. The relevant documents are as follow:
 
 a. CPF Transaction Statement or Contribution History for past 12 months.  
 
@@ -34,7 +35,5 @@ h. Where applicable, documents showing proof of legal guardianship (e.g. a court
 i. Any other documents as and when required by the school for the purpose of verifying the income.
 
 Students or their parents may submit the completed form along with all the necessary documents when they come down to the school to collect their books and school uniform on the allocated date and time. The school will issue them the FAS Approval Letter upon receiving the form and documents. Parents or students will have to show the FAS Approval Letter to the bookshop or the uniform vendor.
-
-P6 parents or students who have applied for FAS from their primary school will receive a notification via Parents’ Gateway from Bedok South Secondary after the release of Sec 1 posting. Thus, parents are highly encouraged to download the Parents’ Gateway app on their phone.
 
 FAS students for secondary schools are no longer eligible to apply for a new computer under the NEU PC Plus programme as the students will be required to purchase a Personal Learning Device under MOE's Personalised Digital Learning Programme (PDLP).

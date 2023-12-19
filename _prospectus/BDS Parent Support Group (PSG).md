@@ -1,6 +1,6 @@
 ---
 title: BDS Parent Support Group (PSG)
-permalink: /information-and-links/for-parents/
+permalink: /information-and-links/for-parents/psg/
 variant: markdown
 description: ""
 ---

@@ -38,11 +38,11 @@ Purchase of Books, Stationeries / Socks/ PE Attire and Booklist for 2024
 <tbody>
   <tr>
     <td class="tg-ntwt"><span style="color:white">LAUNCH DATE FOR ONLINE ORDERING</span></td>
-    <td class="tg-9hzb">20th December 2024 (Sec 1 only)</td>
+    <td class="tg-9hzb">20th December 2023 (Sec 1 only)</td>
   </tr>
   <tr>
     <td class="tg-ntwt"><span style="color:white">LAST DAY OF ONLINE ORDERING</span></td>
-    <td class="tg-9hzb">27th December 2024 (Sec 1 only)<br>(Subject to slot availability)</td>
+    <td class="tg-9hzb">27th December 2023 (Sec 1 only)<br>(Subject to slot availability)</td>
   </tr>
   <tr>
     <td class="tg-ntwt"><span style="color:white">HOME DELIVERY</span></td>

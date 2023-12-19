@@ -12,10 +12,10 @@ Full Subject-Based Banding (Full SBB) is part of MOE’s ongoing efforts to nurt
 With Full SBB, we are moving towards a secondary school education where students learn each subject at the level that best caters to their overall strengths, interests and learning needs.
 
 Full SBB aims for students to:
-1. Have greater ownership of their learning according to their strengths, interests, abilities, talents and learning needs
-2. Develop a **growth mindset and an intrinsic motivation** to learn for life
-3. Have **more opportunities to interact with friends** of different strengths, interests, abilities and talents
-4. Have **more options for post-secondary pathways**, while ensuring they have strong fundamentals and can thrive in their chosen pathway
+<br>1\. Have greater ownership of their learning according to their strengths, interests, abilities, talents and learning needs
+<br>2\. Develop a **growth mindset and an intrinsic motivation** to learn for life
+<br>3\. Have **more opportunities to interact with friends** of different strengths, interests, abilities and talents
+<br>4\. Have **more options for post-secondary pathways**, while ensuring they have strong fundamentals and can thrive in their chosen pathway
 
 Thus, students who go through Full SBB will experience:
 * Mixed form classes upon entering secondary school

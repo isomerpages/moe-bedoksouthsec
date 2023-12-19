@@ -225,7 +225,7 @@ School Management Committee
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">2</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Cheng Wan Li/span&gt;</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Ms Cheng Wan Li</span></td>
     <td class="tg-y7qa"><span style="color:#222">ST / Character Citizenship Education</span></td>
     <td class="tg-y7qa"><span style="color:#222">cheng_wan_li@moe.edu.sg</span></td>
   </tr>

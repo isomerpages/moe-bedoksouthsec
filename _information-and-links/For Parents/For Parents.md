@@ -64,7 +64,7 @@ Follow us on Instagram&nbsp;[here](https://go.gov.sg/bds-psg).
 
 We welcome all parents to join us in the PSG. If you are interested in serving and supporting the school and students, please click on this link https://go.gov.sg/2024psgform or scan the QR code. 
 
-<img src="/images/For%20Parents10.jpg" style="width:25%">
+![](/images/Partnerships/PSG/PSG_2024_Application_Form.jpg)
 
 ### Photos of Various Programmes
 
@@ -91,4 +91,3 @@ We welcome all parents to join us in the PSG. If you are interested in serving a
 
 ##### **Enrichment Talks/Workshops**
 ![](/images/Partnerships/PSG/PSG1.jpg)
-

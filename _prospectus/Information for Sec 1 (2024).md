@@ -19,7 +19,7 @@ Date: 21 December 2023, Thursday
 
 Time: 9.00 AM
 
-Webinar Link: https://moe-singapore.zoom.us/j/85165092845
+<br> Webinar Link: https://moe-singapore.zoom.us/j/85165092845
 
 Webinar Passcode: 2024sec1
 

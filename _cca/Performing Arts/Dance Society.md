@@ -18,7 +18,7 @@ To allow students to explore and enhance their passion in dance, programmes such
 Ms Low Mei Foong  (OIC)  
 Mdm Zhao Xiumin  
 Ms Tan Wan Ning
-<b>And External Instructors</b>
+<br><b>And External Instructors</b><br>
 
 
 ### Our Vision

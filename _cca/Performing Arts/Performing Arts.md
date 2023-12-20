@@ -68,7 +68,7 @@ Performing Arts
   </tr>
 	<tr>
     <td class="tg-ktyi">Wushu (No more intake from 2024)</td>
-    <td class="tg-ktyi">Mr Mohd Azman Md Selamat (OIC)<br>Mr Rayson Soh Li Sen</td>
+    <td class="tg-ktyi">Mr Mohd Azman Md Selamat (OIC)<br></td>
     <td class="tg-ktyi">– <br><span style="font-style:italic"></span></td>
     <td class="tg-ktyi">–<br><span style="font-style:italic"></span></td>
   </tr>

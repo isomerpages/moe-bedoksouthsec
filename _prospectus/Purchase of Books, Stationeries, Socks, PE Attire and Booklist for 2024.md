@@ -10,7 +10,7 @@ Purchase of Books, Stationeries / Socks/ PE Attire and Booklist for 2024
 1\. Please be informed that there will be no physical sale of textbooks, stationery, socks and PE attire in the school premises this year. All booklists are available on the school website. Refer to the booklist [here](https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/permalink/).
 
 2\. Students are strongly advised to purchase their school items online at https://www.pacificbookstores.com with option for home delivery (fixed delivery charge of $14.60 applies). 
-<br>Students who opt for self-collection (only for students not on Financial Assistance Scheme - FAS) from the school premises are strongly advised to adhere to the <u>chosen appointment date and time.</u> We seek your understanding that no walk-ins will be entertained.
+<br>Students who opt for self-collection from the school premises are strongly advised to adhere to the <u>chosen appointment date and time.</u> We seek your understanding that no walk-ins will be entertained.
 
 3\.  <b><u>Students who are on FAS</u></b> 
 <br>You will be contacted directly by the FAS officer, Ms Mardhiah, on the assigned date and time for onsite collection via our school FAS WhatsApp service.  Should there be any concerns or if you did not receive any notification from our school, please WhatsApp the FAS line @ 86866208 for assistance <u>between 8.30am – 5.00pm on weekdays.</u> 

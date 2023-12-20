@@ -26,7 +26,7 @@ Main Fax: 67447689 <br>
 Website:&nbsp;[www.intrenduniforms.com](http://www.intrenduniforms.com/) <br>
  Email:&nbsp;sales@itu.com.sg
 
-c) School - Strictly by appointment only. Students who opt for self-collection <i>(only for students not on Financial Assistance Scheme - FAS)</i> from the school premises are strongly advised to adhere to the <u>chosen appointment date and time.</u> We seek your understanding that no walk-ins will be entertained.
+c) School - Strictly by appointment only. Students who opt for self-collection from the school premises are strongly advised to adhere to the chosen appointment date and time(which can be done at the bookshop website). We seek your understanding that no walk-ins will be entertained.
 
 4\.&nbsp;&nbsp;<u><b>Students who are on FAS:</b></u>  
 

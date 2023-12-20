@@ -546,7 +546,25 @@ Form Teachers
 </thead>
 <tbody>
 	  <tr>
-    <td class="tg-kveo">CAJT (Georgaphy)</td>
+    <td class="tg-kveo">Senior School Counsellor</td>
+    <td class="tg-kveo">Ms Vaneta Marie Theres Rossvan</td>
+    <td class="tg-kveo">138</td>
+    <td class="tg-kveo">vaneta_marie_theres_rossvan@schools.gov.sg</td>
+</tr>
+	<tr>
+		<td class="tg-kveo">AED / Learning &amp; Behavioural Support</td>
+    <td class="tg-kveo">Ms Tng Lay Hong</td>
+    <td class="tg-kveo">259</td>
+    <td class="tg-kveo">tng_lay_hong@schools.gov.sg</td>
+</tr>
+	<tr>
+		<td class="tg-kveo">AED / Learning &amp; Behavioural Support</td>
+    <td class="tg-kveo">Mr Sanjeev Thomas Vadaketh</td>
+    <td class="tg-kveo">260</td>
+    <td class="tg-kveo">sanjeev_thomas@schools.gov.sg</td>
+</tr>
+	<tr>	
+		<td class="tg-kveo">CAJT (Georgaphy)</td>
     <td class="tg-kveo">Ms Koh Cin Dee, Sylvelin</td>
     <td class="tg-kveo">160</td>
     <td class="tg-kveo">koh_cin_dee_sylvelin@moe.edu.sg</td>
@@ -564,12 +582,6 @@ Form Teachers
     <td class="tg-kveo">chong_gim_po@moe.edu.sg</td>
   </tr> 
 	<tr>
-    <td class="tg-kveo">FAJT (Gear-up)</td>
-    <td class="tg-kveo">Mr Rayson Soh Li Sen</td>
-    <td class="tg-kveo">164</td>
-    <td class="tg-kveo">rayson_soh_li_sen_a@moe.edu.sg</td>
-  </tr>
- 	<tr>
     <td class="tg-kveo">FAJT (Gear-up)</td>
     <td class="tg-kveo">Mr Syahrulnizam Bin Abdul Rahman</td>
     <td class="tg-kveo">TBC</td>

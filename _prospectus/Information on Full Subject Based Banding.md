@@ -4,132 +4,104 @@ permalink: /curriculum/full-subject-based-banding-fsbb/
 description: ""
 variant: markdown
 ---
-Information on Full Subject-Based Banding
-===================================================================
+### Full Subject-Based Banding (FSBB)
 
-SBB provides flexibility in subjects offered at secondary levels, to better cater to the strengths of students in different subjects and enhance their access to opportunities throughout their educational journey.
+Full Subject-Based Banding (Full SBB) is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.
 
-All secondary school students can offer&nbsp;<b>English Language, Mother Tongue Languages, Mathematics and Science</b>&nbsp;at a more demanding level from the start of Secondary One based on students' PSLE Achievement Level (AL) for each subject.
+With Full SBB, we are moving towards a secondary school education where students learn each subject at the level that best caters to their overall strengths, interests and learning needs.
 
+Full SBB aims for students to:  
+1\. Have greater ownership of their learning according to their strengths, interests, abilities, talents and learning needs  
+2\. Develop a **growth mindset and an intrinsic motivation** to learn for life  
+3\. Have **more opportunities to interact with friends** of different strengths, interests, abilities and talents  
+4\. Have **more options for post-secondary pathways**, while ensuring they have strong fundamentals and can thrive in their chosen pathway
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ba4e{background-color:#B4C6E7;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-gm9x{background-color:#D9E2F3;text-align:left;vertical-align:top}
-.tg .tg-onbb{background-color:#B4C6E7;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-onbb">Subjects offered under SBB</th>
-    <th class="tg-ba4e" colspan="3">Eligibility Criteria</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi" rowspan="4">English Language<br>Mother Tongue Languages<br>Mathematics<br>Science</td>
-    <td class="tg-gm9x">PSLE Subject Level</td>
-    <td class="tg-gm9x">PSLE AL for the specific subject</td>
-    <td class="tg-gm9x">Option to take the Secondary One subject at</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi" rowspan="2">Standard</td>
-    <td class="tg-ktyi">AL 5 or better</td>
-    <td class="tg-ktyi">Express Level or N(A) Level</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">AL 6</td>
-    <td class="tg-ktyi">N(A) Level</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Foundation</td>
-    <td class="tg-ktyi">AL A</td>
-    <td class="tg-ktyi">N(A) Level</td>
-  </tr>
-</tbody>
-</table>
+Thus, students who go through Full SBB will experience:
 
+*   Mixed form classes upon entering secondary school
+    
+*   Greater flexibility to offer subjects at various subject levels
+    
+*   Shift away from stream-based subject offerings
+    
 
-If students qualify for SBB, the school will be emailing parents the Letter of Offer, and/ or posting it to them through Parents Gateway. Students and parents have the option to either accept or decline the offer to take those subjects at a higher level.  
+### **Common Curriculum Subjects**
 
-#### **Submission of&nbsp;letters of offer**
+Students will take **six common curriculum subjects** with peers from their form class. These subjects are Art, Character & Citizenship Education, Design & Technology, Food & Consumer Education, Music and Physical Education. These subjects take up approximately one-third of curriculum time, giving students time to interact with classmates of different strengths and interests.
 
-(a) Email the completed form to Ms Ummu Hani Bte S H Alsagoff at&nbsp;ummu_hani_syed_haider@schools.gov.sg&nbsp;before 28 Dec 2022 at 12 noon. 
+For other subjects, students can take them at **different subject levels (i.e. G1, G2 or G3)** according to their strengths, interests and learning needs.
 
-(b) Send the completed hardcopy form to General Office before 28 Dec 2022 at 12 noon.  
+Eligible students can take some subjects at a **more or less demanding level** at appropriate junctures. School will advise students accordingly based on holistic considerations.
 
-  
+For more information on Full SBB, visit [www.moe.gov.sg/microsites/psle-fsbb](https://www.moe.gov.sg/microsites/psle-fsbb/index.html).  
 
-If students miss out on SBB at the start of the year, there are also possibilities of Mid-Year and End-of-Year inserts. The school will assess your suitability based on your Weighted Assessment (WA) scores and aptitude. Students must score a minimum of 75% for the subject(s) you intend to offer at the more demanding level.
+For more information on how our school will be implementing Full SBB, you can contact us at [bsss@moe.edu.sg](bsss@moe.edu.sg).
 
+### Offering Humanities subjects at a more demanding level
 
-### Full Subject-Based Banding (FSBB) @ Bedok South Secondary School
+Students will also be able to offer **Humanities subjects** (Geography, History, and Literature in English) at a more demanding level from Secondary Two. The criteria for taking Humanities at a more demanding level will be based on students' aptitude for and interest in these subjects at Secondary One.
 
+| 
+Eligibility Criteria
 
-Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.
+ |
+| --- |
+| 
 
-Under Full Subject-Based Banding (Full SBB), MOE will expand Subject-Based Banding (Secondary) beyond the four PSLE subjects. So, with Full SBB, what will a Secondary One BDSian’s school experience be like?  
+Humanities subject level at S1
 
-<b>1)&nbsp;&nbsp;&nbsp;&nbsp;Mixed form classes at lower secondary</b>
+ | 
 
-Secondary 1 students will be grouped into mixed form classes, with each form class comprising students taking different courses. Mixed form classes present more opportunities for students to interact with other students taking different subject combinations and with different strengths and interests.
+Humanities Subject
 
-<b>2)&nbsp;&nbsp;&nbsp;&nbsp;Common Curriculum Subjects</b>
+ | 
 
-In their mixed form classes, students will take a set of subjects at a common level, amounting to about one-third of curriculum time. This would allow students in mixed form classes to spend curriculum time together in these subjects.&nbsp;Secondary One (2023) students from all courses will take&nbsp;<u>six</u>&nbsp;common curriculum subjects.
+School-based assessment
 
-These subjects are:
+ | 
 
-*   Art&nbsp;<i>–&nbsp;examinable</i>
-*   Character and Citizenship Education&nbsp;<i>– non-examinable</i>
-*   Design and Technology &nbsp;<i>– examinable</i>
-*   Food and Consumer Education&nbsp;<i>– examinable</i>
-*   Music&nbsp;&nbsp;<i>– non-examinable</i>
-*   Physical Education&nbsp;<i>– non-examinable</i>
+Option to take Humanities at a more demanding level from Secondary Two
 
-Teachers will adopt a range of teaching approaches to meet the different learning needs and pace of their students in the same form class.
+ |
+| 
 
-<b>3)&nbsp;&nbsp;&nbsp;&nbsp;Offering Humanities subjects at a more demanding level</b>
+G2
 
-Students in schools that are implementing Full SBB will also be able to offer&nbsp;<b>Humanities subjects</b>&nbsp;(Geography, History and Literature in English) at a more demanding level from Secondary Two. The criteria for taking Humanities at a more demanding level will be based on students' aptitude for and interest in these subjects at Secondary One.
+ | 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-gm9x{background-color:#D9E2F3;text-align:left;vertical-align:top}
-.tg .tg-vp9w{background-color:#B4C6E7;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-vp9w">Subjects offered under Full SBB</th>
-    <th class="tg-vp9w" colspan="3">Eligibility Criteria</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi" rowspan="3">Geography<br>History<br>Literature in English</td>
-    <td class="tg-gm9x">PSLE Subject Level</td>
-    <td class="tg-gm9x">School-based assessment</td>
-    <td class="tg-gm9x">Option to take Humanities at a more demanding level from Secondary Two</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">N(A) Level</td>
-    <td class="tg-ktyi" rowspan="2">Aptitude and Interest for specific subject</td>
-    <td class="tg-ktyi">Any of these subjects(s) at Express Level</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Social Studies N(T)</td>
-    <td class="tg-ktyi">Any of these subjects(s) at N(A) Level</td>
-  </tr>
-</tbody>
-</table>
+*   Geography
+    
+*   History
+    
+*   Literature in English
+    
+
+ | 
+
+Aptitude and interest for specific subject
+
+ | 
+
+G3 Geography, History and/or Literature in English (i.e. can offer one or more Humanities subjects at a more demanding level)
+
+ |
+| 
+
+G1
+
+ | 
+
+*   Social Studies component
+    
+*   Humanities Exposure Modules (HEMs) in Geography, History and Literature in English
+    
+
+ | 
+
+Aptitude in English Language and G1 Humanities
+
+ | 
+
+G2 Geography, History and/or Literature in English (i.e. can offer one or more Humanities subjects at a more demanding level)
+
+ |

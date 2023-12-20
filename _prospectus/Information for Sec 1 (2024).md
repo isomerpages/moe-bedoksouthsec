@@ -13,7 +13,7 @@ This year, the incoming Sec 1 students are <b><u>not required</u></b> to physica
 
 The details of the Sec 1 E-Registration &amp; Webinar are as follows.
 
-Please access the link to join us for the Webinar.
+**Please access the link to join us for the Webinar.**
 
 Date: 21 December 2023, Thursday
 

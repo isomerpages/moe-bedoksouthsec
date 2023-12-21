@@ -60,6 +60,7 @@ variant: markdown
 | 1 Jul | Youth Day School Holiday off-in-lieu|
 | 18 Jul| Racial Harmony Day Fair |
 | 18 Jul| Sec 1 Inter Class Games |
+| 23 - 25 Jul | HBL 8, 9, 10 |
 | 30 Jul - 7 Aug| Sec 4 N(A) & N(T) Prelim Exam Phase 1 |
 | 12, 13, 16, 19 - 23 Aug| Sec 4 N(A) & N(T) Prelim Exam Phase 2 |
 | 19 - 23, 26 - 28 Aug| Sec 4 & 5 O-Level Prelim Exam |

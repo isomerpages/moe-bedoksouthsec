@@ -138,9 +138,25 @@ Non Teaching Staff
     <td class="tg-0vn4">Mr Mohd Safri Bin Zulkifli</td>
     <td class="tg-0vn4">Desktop Engineer</td>
   </tr>
-
   <tr>
     <td class="tg-fe66">20</td>
+    <td class="tg-0vn4">Ms Vaneta Marie Theres Rossvan</td>
+    <td class="tg-0vn4">School Counsellor</td>
+  </tr>  <tr>
+    <td class="tg-fe66">21</td>
+    <td class="tg-0vn4">Ms Tng Lay Hong</td>
+    <td class="tg-0vn4">Learning Behavioral Support</td>
+  </tr>  <tr>
+    <td class="tg-fe66">22</td>
+    <td class="tg-0vn4">Mr Sanjeev Thomas</td>
+    <td class="tg-0vn4">Learning Behavioral Support</td>
+  </tr>  <tr>
+    <td class="tg-fe66">23</td>
+    <td class="tg-0vn4">Ms Samantha Woo</td>
+    <td class="tg-0vn4">ECG Counsellor</td>
+  </tr>
+  <tr>
+    <td class="tg-fe66">24</td>
     <td class="tg-0vn4">Ms Nuradimah Binte Daud</td>
     <td class="tg-0vn4">Student Welfare Officer</td>
   </tr>

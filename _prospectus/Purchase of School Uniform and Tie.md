@@ -8,7 +8,7 @@ Purchase of School Uniform and Tie for Sec 1
 ==================================
 
 Students can purchase the School Uniform and tie through one of these modes:
-<br><br>1\.	 Online via this link [www.intrenduniforms.com](www.intrenduniforms.com) with option for home delivery (fixed delivery charge of $10 applies).
+<br><br>1\.	 Online via this link <a href="https://www.intrenduniforms.com/" target="_blank" rel="noopener noreferrer"><span style="color:black">https://www.intrenduniforms.com/</span></a> with option for home delivery (fixed delivery charge of $10 applies).
 <br><br>2\.	Walk-in and purchase from the school premises on the following dates:
 
 | Date | Time |
@@ -34,4 +34,4 @@ If students would like to physically try the uniform sizes onsite at the school,
  
 4\.&nbsp;&nbsp;<u><b>Students who are on FAS:</b></u>  
 
-Students who are on FAS will be contacted directly by the FAS officer, Ms Mardhiah, on the assigned date for collection through WhatsApp.  Should there be any concerns or if you did not receive any notification from our school, please WhatsApp hotline @ 86866208 for assistance between 8.30am – 5.00pm on weekdays. 
+Students who are on FAS will be contacted directly by the FAS officer, Ms Mardhiah, on the assigned date for collection through WhatsApp.  Should there be any concerns or if you did not receive any notification from our school, please WhatsApp hotline @ 86866208 for assistance between 8.30am – 5.00pm on weekdays.

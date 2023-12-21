@@ -214,6 +214,12 @@ School Management Committee
     <td class="tg-y7qa"><span style="color:#222">SH / Physics</span></td>
     <td class="tg-y7qa"><span style="color:#222">goh_shong_heng@moe.edu.sg</span></td>
   </tr>
+	<tr>
+    <td class="tg-y7qa"><span style="color:#222">11</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Ms Tan Wan Chin</span></td>
+    <td class="tg-y7qa"><span style="color:#222">SH / Student Well-being (Covering)</span></td>
+    <td class="tg-y7qa"><span style="color:#222">tan_wan_chin@moe.edu.sg</span></td>
+  </tr>	
   <tr>
     <td class="tg-rj1p" colspan="4"><span style="color:#222">Senior Teachers</span></td>
   </tr>

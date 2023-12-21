@@ -9,19 +9,12 @@ Information for Sec 1 2024
 
 Congratulations on your posting to Bedok South Secondary School. We are happy to welcome you to the BDSian family to commence your secondary school education. 
 
-This year, the incoming Sec 1 students are <b><u>not required</u></b> to physically report to their posted secondary school on the next working day following the release of S1 Posting Results. As such, we will be posting all the necessary information applicable to our new Sec 1 here to communicate with you and your parents on details for the start of term. The school will also be engaging parents online on 21 December 2023 at 9.00 AM for a talk by our school Principal and Assistant Year Head (Lower Secondary).
+This year, the incoming Sec 1 students are <b><u>not required</u></b> to physically report to their posted secondary school on the next working day following the release of S1 Posting Results. As such, we will be posting all the necessary information applicable to our new Sec 1 here to communicate with you and your parents on details for the start of term. 
 
-The details of the Sec 1 E-Registration &amp; Webinar are as follows.
 
-**Please access the link to join us for the Webinar.**
+**Thank you parents and sec 1s in joining us for the Webinar on 21 December 2023 9am.**
 
-Date: 21 December 2023, Thursday
 
-Time: 9.00 AM
-
-Webinar Link: [https://moe-singapore.zoom.us/j/85165092845](https://moe-singapore.zoom.us/j/85165092845)
-
-Webinar Passcode: 2024sec1
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

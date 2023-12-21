@@ -9,7 +9,8 @@ Purchase of Books, Stationeries / Socks/ PE Attire and Booklist for 2024
 
 1\. All booklists are available on the school website. Refer to the booklists [here](https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/permalink/).
 
-2\. Students are strongly advised to purchase their school items online at [https://www.pacificbookstores.com ](https://www.pacificbookstores.com )with option for home delivery (fixed delivery charge of $14.60 applies). 
+2\. Students are strongly advised to purchase their school items online at <a href="https://www.pacificbookstores.com" target="_blank" rel="noopener noreferrer"><span style="color:black">https://www.pacificbookstores.com</span></a>
+with option for home delivery (fixed delivery charge of $14.60 applies). 
 <br><br>Students who opt for self-collection from the school premises are strongly advised to adhere to the <u>chosen appointment date and time.</u> We seek your understanding that no walk-ins to purchase books on the spot will be entertained.
 
 3\. If students would like to physically try the uniform sizes onsite at the school, it is highly advisable for parents to arrange for both the collection of books and the purchase of school uniform and tie to be within the same timeslot/within the same day (where possible).

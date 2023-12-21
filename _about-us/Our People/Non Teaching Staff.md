@@ -141,15 +141,15 @@ Non Teaching Staff
   <tr>
     <td class="tg-fe66">20</td>
     <td class="tg-0vn4">Ms Vaneta Marie Theres Rossvan</td>
-    <td class="tg-0vn4">School Counsellor</td>
+    <td class="tg-0vn4">Senior School Counsellor</td>
   </tr>  <tr>
     <td class="tg-fe66">21</td>
     <td class="tg-0vn4">Ms Tng Lay Hong</td>
-    <td class="tg-0vn4">Learning Behavioral Support</td>
+    <td class="tg-0vn4">AED / Learning Behavioral Support</td>
   </tr>  <tr>
     <td class="tg-fe66">22</td>
     <td class="tg-0vn4">Mr Sanjeev Thomas</td>
-    <td class="tg-0vn4">Learning Behavioral Support</td>
+    <td class="tg-0vn4">AED / Learning Behavioral Support</td>
   </tr>  <tr>
     <td class="tg-fe66">23</td>
     <td class="tg-0vn4">Ms Samantha Woo</td>

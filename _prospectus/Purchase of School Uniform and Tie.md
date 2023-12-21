@@ -15,6 +15,14 @@ Purchase of School Uniform and Tie for Sec 1
 
 a)&nbsp;Online at&nbsp;[www.intrenduniforms.com](http://www.intrenduniforms.com/)&nbsp; with the option for home delivery (fixed delivery charge of $10 applies). <br>
 
+| Date | Time |
+| -------- | -------- |
+| 21 &amp; 22 December 2023   | 9 am to 3 pm     |
+| 23 December 2023   | 9 am to 12 pm   |
+| 26 &amp; 27 December 2023   | 9 am to 3 pm     |
+| 2 – 5 January 2024 | 9 am to 3 pm     |
+
+
 b)&nbsp;<b>Johnson Uniform Company</b>&nbsp;retail store
 
  1 Kaki Bukit Road 1 <br>

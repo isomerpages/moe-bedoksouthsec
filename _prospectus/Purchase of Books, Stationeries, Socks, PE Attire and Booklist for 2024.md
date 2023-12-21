@@ -84,7 +84,7 @@ with option for home delivery (fixed delivery charge of $14.60 applies).
   </tr>
   <tr>
     <td class="tg-ntwt"><span style="color:white">ONLINE BUYING GUIDE</span></td>
-    <td class="tg-7yig"><span style="font-weight:bold">Please go to </span><a href="http://www.pacificbookstores.com/home-delivery/faq" target="_blank" rel="noopener noreferrer"><span style="color:black">www.pacificbookstores.com/home-delivery/faq</span></a><br>                      <a href="http://www.pacificbookstores.com/self-collection/faq" target="_blank" rel="noopener noreferrer"><span style="color:black">www.pacificbookstores.com/self-collection/faq</span></a></td>
+    <td class="tg-7yig"><span style="font-weight:bold">Please go to </span><a href="https://www.pacificbookstores.com/home-delivery-faq" target="_blank" rel="noopener noreferrer"><span style="color:black"> https://www.pacificbookstores.com/home-delivery-faq</span></a><br>                      <a href="https://www.pacificbookstores.com/self-collection-faq" target="_blank" rel="noopener noreferrer"><span style="color:black"> https://www.pacificbookstores.com/self-collection-faq</span></a></td>
   </tr>
 </tbody>
 </table>

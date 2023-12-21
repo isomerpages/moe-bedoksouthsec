@@ -116,29 +116,29 @@ Non Teaching Staff
   </tr>
   <tr>
     <td class="tg-fe66">15</td>
+    <td class="tg-0vn4">Mr Ridzwan Bin Abdul Aziz</td>
+    <td class="tg-0vn4">Operations Support Officer</td>
+  </tr>  <tr>
+    <td class="tg-fe66">16</td>
     <td class="tg-0vn4">Ms Mardhiah Binti Mustaffa</td>
     <td class="tg-0vn4">Admin Executive (Office)</td>
   </tr>
   <tr>
-    <td class="tg-fe66">16</td>
+    <td class="tg-fe66">17</td>
     <td class="tg-0vn4">Mr Choo Meng Kwang</td>
     <td class="tg-0vn4">ICT Associate</td>
   </tr>
   <tr>
-    <td class="tg-fe66">17</td>
+    <td class="tg-fe66">18</td>
     <td class="tg-0vn4">Mr Muhammad Ridwan Bin Hamzah</td>
     <td class="tg-0vn4">Desktop Engineer</td>
   </tr>
   <tr>
-    <td class="tg-fe66">18</td>
+    <td class="tg-fe66">19</td>
     <td class="tg-0vn4">Mr Mohd Safri Bin Zulkifli</td>
     <td class="tg-0vn4">Desktop Engineer</td>
   </tr>
-  <tr>
-    <td class="tg-fe66">19</td>
-    <td class="tg-0vn4">Mr Ridzwan Bin Abdul Aziz</td>
-    <td class="tg-0vn4">Laboratory Assistant</td>
-  </tr>
+
   <tr>
     <td class="tg-fe66">20</td>
     <td class="tg-0vn4">Ms Nuradimah Binte Daud</td>

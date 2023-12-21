@@ -546,6 +546,16 @@ Form Teachers
 </thead>
 <tbody>
 	  <tr>
+    <td class="tg-kveo">Teacher</td>
+    <td class="tg-kveo">Mr Loy Pei Phoong</td>
+    <td class="tg-kveo">164</td>
+    <td class="tg-kveo">loy_pei_phoong@moe.edu.sg</td>
+</tr>	  <tr>
+    <td class="tg-kveo">Teacher</td>
+    <td class="tg-kveo">Ms Nadia Bte Ramli</td>
+    <td class="tg-kveo">157</td>
+    <td class="tg-kveo">nadia_ramli@moe.edu.sg</td>
+</tr>	  <tr>
     <td class="tg-kveo">Senior School Counsellor</td>
     <td class="tg-kveo">Ms Vaneta Marie Theres Rossvan</td>
     <td class="tg-kveo">138</td>

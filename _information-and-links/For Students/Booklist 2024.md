@@ -1,6 +1,6 @@
 ---
 title: Booklist 2024
-permalink: /information-and-links/for-students/permalink/
+permalink: /information-and-links/for-students/booklists/
 description: ""
 third_nav_title: For Students
 variant: markdown

@@ -3,6 +3,7 @@ title: Contact Information
 permalink: /student-development/student-welfare/contact-information/
 description: ""
 third_nav_title: Student Welfare
+variant: markdown
 ---
 Contact Information
 ===================
@@ -44,17 +45,17 @@ Contact Information
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ktyi">School Counsellor</td>
+    <td class="tg-ktyi">Senior School Counsellor</td>
     <td class="tg-ktyi">Ms Vaneta Marie Theres Rossvan</td>
     <td class="tg-7yig">255</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Learning Behavioral Support</td>
+    <td class="tg-ktyi">AED / Learning Behavioral Support</td>
     <td class="tg-ktyi">Ms Tng Lay Hong</td>
     <td class="tg-7yig">255</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Learning Behavioral Support</td>
+    <td class="tg-ktyi">AED / Learning Behavioral Support</td>
     <td class="tg-ktyi">Mr Sanjeev Thomas</td>
     <td class="tg-7yig">255</td>
   </tr>

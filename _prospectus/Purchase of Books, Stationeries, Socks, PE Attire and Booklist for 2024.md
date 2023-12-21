@@ -12,7 +12,7 @@ Purchase of Books, Stationeries / Socks/ PE Attire and Booklist for 2024
 2\. Students are strongly advised to purchase their school items online at https://www.pacificbookstores.com with option for home delivery (fixed delivery charge of $14.60 applies). 
 <br>Students who opt for self-collection from the school premises are strongly advised to adhere to the <u>chosen appointment date and time.</u> We seek your understanding that no walk-ins to purchase books on the spot will be entertained.
 
-3\. If students need to try the sizes of uniform, it is highly recommended that you choose the collection date and time of books and/or other items purchase at the same time slot as that of the purchase of uniform and tie.
+3\. If students would like to physically try the uniform sizes onsite at the school, it is highly advisable for parents to arrange for both the collection of books and the purchase of school uniform and tie to be within the same timeslot/within the same day (where possible).
 <br><br>The following dates and time are available for the walk-in and purchase of school uniform and tie:
 
 

@@ -23,7 +23,6 @@ For 2023, Bedok South Secondary School will offer Secondary One places to aspiri
 <br>d.	Netball (Girls)
 <br>e.	Outdoor Adventure (Boys &amp; Girls)
 <br>f.	Swimming (Boys &amp; Girls)
-<br>g.	Basketball (Boys)
 
 ### 2. Our Distinctive Programmes
 ------------------------------------------------------

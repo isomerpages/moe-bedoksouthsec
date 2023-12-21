@@ -7,29 +7,31 @@ variant: markdown
 Purchase of School Uniform and Tie for Sec 1
 ==================================
 
-1\. Please be informed that there will be no walk-in sale of School Uniform and Tie in the school premises this year.
+Students can purchase the School Uniform and tie through one of these modes:
+<br><br>1\.	 Online via this link [www.intrenduniforms.com](www.intrenduniforms.com) with option for home delivery (fixed delivery charge of $10 applies).
+<br><br>2\.	Walk-in and purchase from the school premises on the following dates:
 
-2\. Sales of school uniform and tie will commence on 20 December 2023.
+| Date | Time |
+| -------- | -------- |
+| 21 &amp; 22 December 2023   | 9 am to 3 pm     |
+| 23 December 2023   | 9 am to 12 pm   |
+| 26 &amp; 27 December 2023   | 9 am to 3 pm     |
+| 2 – 5 January 2024 | 9 am to 3 pm     |
 
-3\. &nbsp;<b>How do we make the purchase?</b>
+If students would like to physically try the uniform sizes onsite at the school, it is highly advisable for parents to arrange for both the collection of books and the purchase of school uniform and tie to be within the same timeslot/within the same day (where possible).
 
-a)&nbsp;Online at&nbsp;[www.intrenduniforms.com](http://www.intrenduniforms.com/)&nbsp; with the option for home delivery (fixed delivery charge of $10 applies). <br>
+<br>3\.	Purchase directly from the **Intrend Uniforms** retail store. Please contact them directly for an appointment. We seek your understanding that no walk-ins will be entertained.
 
-b)&nbsp;<b>Johnson Uniform Company</b>&nbsp;retail store
 
- 1 Kaki Bukit Road 1 <br>
- #01-30/31, Enterprise One <br>
- Singapore 415934
+
+| **Intrend Uniforms** retail store |  | 
+| -------- | -------- | 
+|Address    | 1 Kaki Bukit Road 1 <br>#01-30/31, Enterprise One<br> Singapore 415934    | 
+|Main Telephone Line    | 674109301 |     
+|Main Fax    | 67447689     | 
+|Website    | [www.intrenduniforms.com](http://www.intrenduniforms.com/) | 
+|Email| [sales@itu.com.sg](mailto:sales@itu.com.sg)     | 
  
-Main Telephone Line: 67410930 <br>
-Main Fax: 67447689 <br>
-Website:&nbsp;[www.intrenduniforms.com](http://www.intrenduniforms.com/) <br>
- Email:&nbsp;sales@itu.com.sg
-
-c) School - Strictly by appointment only. Students who opt for self-collection from the school premises are strongly advised to adhere to the chosen appointment date and time(which can be done at the bookshop website). We seek your understanding that no walk-ins will be entertained.
-
 4\.&nbsp;&nbsp;<u><b>Students who are on FAS:</b></u>  
 
-You will be contacted directly by the FAS officer, Ms Mardhiah, on the assigned date and time for onsite collection via our school FAS WhatsApp service.  Should there be any concerns or if you did not receive any notification from our school, please WhatsApp the FAS line @ 86866208 for assistance between 8.30am – 5.00pm on weekdays. 
-
-5\. All students who need to do exchange of uniform must go to the retail outlet at the address above to do so. You may wish to give them a call first to check on the availability of the size before going down to the retail store.
+Students who are on FAS will be contacted directly by the FAS officer, Ms Mardhiah, on the assigned date for collection through WhatsApp.  Should there be any concerns or if you did not receive any notification from our school, please WhatsApp hotline @ 86866208 for assistance between 8.30am – 5.00pm on weekdays. 

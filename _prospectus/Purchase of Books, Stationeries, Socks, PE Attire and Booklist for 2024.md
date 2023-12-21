@@ -7,13 +7,26 @@ variant: markdown
 Purchase of Books, Stationeries / Socks/ PE Attire and Booklist for 2024
 =======================================================================
 
-1\. Please be informed that there will be no physical sale of textbooks, stationery, socks and PE attire in the school premises this year. All booklists are available on the school website. Refer to the booklist [here](https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/permalink/).
+1\. All booklists are available on the school website. Refer to the booklists [here](https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/permalink/).
 
 2\. Students are strongly advised to purchase their school items online at https://www.pacificbookstores.com with option for home delivery (fixed delivery charge of $14.60 applies). 
-<br>Students who opt for self-collection from the school premises are strongly advised to adhere to the <u>chosen appointment date and time.</u> We seek your understanding that no walk-ins will be entertained.
+<br>Students who opt for self-collection from the school premises are strongly advised to adhere to the <u>chosen appointment date and time.</u> We seek your understanding that no walk-ins to purchase books on the spot will be entertained.
 
-3\.  <b><u>Students who are on FAS</u></b> 
-<br>You will be contacted directly by the FAS officer, Ms Mardhiah, on the assigned date and time for onsite collection via our school FAS WhatsApp service.  Should there be any concerns or if you did not receive any notification from our school, please WhatsApp the FAS line @ 86866208 for assistance <u>between 8.30am – 5.00pm on weekdays.</u> 
+3\. If students need to try the sizes of uniform, it is highly recommended that you choose the collection date and time of books and/or other items purchase at the same time slot as that of the purchase of uniform and tie.
+<br><br>The following dates and time are available for the walk-in and purchase of school uniform and tie:
+
+
+| Date | Time |
+| -------- | -------- |
+| 21 &amp; 22 December 2023   | 9 am to 3 pm     |
+| 23 December 2023   | 9 am to 12 pm   |
+| 26 &amp; 27 December 2023   | 9 am to 3 pm     |
+| 2 – 5 January 2024 | 9 am to 3 pm     |
+
+
+
+4\.  <b><u>Students who are on FAS</u></b> 
+<br>Students who are on FAS will be contacted directly by the FAS officer, Ms Mardhiah, on the assigned date for collection through WhatsApp.  Should there be any concerns or if you did not receive any notification from our school, please WhatsApp hotline @ 86866208 for assistance between 8.30am – 5.00pm on weekdays.  
 
 
 

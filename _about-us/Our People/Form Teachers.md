@@ -557,7 +557,7 @@ Form Teachers
     <td class="tg-kveo">nadia_ramli@moe.edu.sg</td>
 </tr>
 	<tr>	
-		<td class="tg-kveo">CAJT (Georgaphy)</td>
+		<td class="tg-kveo">CAJT (Geography)</td>
     <td class="tg-kveo">Ms Koh Cin Dee, Sylvelin</td>
     <td class="tg-kveo">160</td>
     <td class="tg-kveo">koh_cin_dee_sylvelin@moe.edu.sg</td>
@@ -582,7 +582,7 @@ Form Teachers
   </tr>
   	<tr>
     <td class="tg-kveo">FAJT (PE &amp; CCA)</td>
-    <td class="tg-kveo">Mr Khoo Kian Eng</td>
+    <td class="tg-kveo">Mr Khoo Kian Eng Kenneth</td>
     <td class="tg-kveo">TBC</td>
     <td class="tg-kveo">khoo_kian_eng@moe.edu.sg </td>
   </tr> <tr>

@@ -247,26 +247,26 @@ School Management Committee
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">1</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Ang Teng Lai</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Operations Manager </span></td>
-    <td class="tg-y7qa"><span style="color:#222">ang_teng_lai@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">2</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr K Rajendran</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Operations Manager </span></td>
-    <td class="tg-y7qa"><span style="color:#222">k_rajendran@schools.gov.sg</span></td>
-  </tr>  <tr>
-    <td class="tg-y7qa"><span style="color:#222">3</span></td>
     <td class="tg-y7qa"><span style="color:#222">Mdm Hiryati Bte Jaafar</span></td>
     <td class="tg-y7qa"><span style="color:#222">Admin Manager </span></td>
     <td class="tg-y7qa"><span style="color:#222">hiryati_jaafar@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-y7qa"><span style="color:#222">4</span></td>
+    <td class="tg-y7qa"><span style="color:#222">2</span></td>
     <td class="tg-y7qa"><span style="color:#222">Ms Khairiah Bte Mohamed</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Admin Manager</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Admin Manager </span></td>
     <td class="tg-y7qa"><span style="color:#222">khairiah_mohamed@moe.edu.sg</span></td>
+  </tr>  <tr>
+    <td class="tg-y7qa"><span style="color:#222">3</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Mr Ang Teng Lai</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Operations Manager </span></td>
+    <td class="tg-y7qa"><span style="color:#222">ang_teng_lai@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"><span style="color:#222">4</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Mr K Rajendran</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Operations Manager</span></td>
+    <td class="tg-y7qa"><span style="color:#222">k_rajendran@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>

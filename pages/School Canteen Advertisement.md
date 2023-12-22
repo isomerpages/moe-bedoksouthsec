@@ -1,8 +1,7 @@
 ---
-title: School Canteen
-permalink: /about-us/our-contact/schoolcanteen/
+title: School Canteen Advertisement
+permalink: /about-us/our-contact/schoolcanteenad/
 description: ""
-third_nav_title: Our Contact
 variant: markdown
 ---
 #### School Canteen Advertisement

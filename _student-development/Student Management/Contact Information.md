@@ -3,6 +3,7 @@ title: Contact Information
 permalink: /student-development/student-management/contact-information/
 description: ""
 third_nav_title: Student Management
+variant: markdown
 ---
 Contact Information
 ===================
@@ -44,40 +45,26 @@ Contact Information
 <tbody>
   <tr>
     <td class="tg-ktyi">Sec 1 Level Discipline Teacher</td>
-    <td class="tg-ktyi">Mr Nordin B Hassan</td>
-    <td class="tg-7yig">162</td>
+    <td class="tg-ktyi">Mr Kong Kian Keong Steve</td>
+    <td class="tg-7yig">106</td>
   </tr>
+
   <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Miss Syafiqah Begum Ismail Rahim</td>
-    <td class="tg-7yig">115</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi" rowspan="2">Sec 2 Level Discipline Teacher</td>
-    <td class="tg-ktyi">Ms Nadia Ramli </td>
+    <td class="tg-ktyi" rowspan="1">Sec 2 Level Discipline Teacher</td>
+    <td class="tg-ktyi">Ms Nadia Bte Ramli </td>
     <td class="tg-7yig">157</td>
   </tr>
+  
   <tr>
-    <td class="tg-ktyi">Mr Mohamed Imran Mawardi  </td>
-    <td class="tg-7yig">108</td>
+    <td class="tg-ktyi" rowspan="1">Sec 3 Level Discipline Teacher</td>
+    <td class="tg-ktyi">Mdm Teo Kah Hui Sandra</td>
+    <td class="tg-7yig">113</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="2">Sec 3 Level Discipline Teacher</td>
-    <td class="tg-ktyi">Mr Wong Zi Heng</td>
-    <td class="tg-7yig">163</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Mr Loi Churn Mun</td>
-    <td class="tg-7yig">160</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi" rowspan="2">Sec 4/5 Level Discipline Teacher</td>
-    <td class="tg-ktyi">Ms Low Mei Foong</td>
-    <td class="tg-7yig">107</td>
-  </tr>
-  <tr>
+    <td class="tg-ktyi" rowspan="1">Sec 4/5 Level Discipline Teacher</td>
     <td class="tg-ktyi">Mr Loy Pei Phoong</td>
     <td class="tg-7yig">164</td>
   </tr>
+
 </tbody>
 </table>

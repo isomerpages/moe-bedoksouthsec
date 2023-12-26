@@ -200,12 +200,6 @@ Form Teachers
     <td class="tg-kveo">koh_eva@moe.edu.sg</td>
   </tr>
 	  <tr>
-    <td class="tg-kveo"> </td>
-    <td class="tg-kveo">Ms Lee Wei Ling Joanne</td>
-    <td class="tg-kveo">111</td>
-    <td class="tg-kveo">lee_wei_ling_a@moe.edu.sg</td>
-  </tr>
-  <tr>
     <td class="tg-kveo">2 Respect</td>
     <td class="tg-kveo">Ms Chia Suat Huang</td>
     <td class="tg-kveo">104</td>
@@ -418,13 +412,19 @@ Form Teachers
     <td class="tg-kveo">lam_yen_ping@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
+		<td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Mdm Zhou Yun</td>
     <td class="tg-kveo">103 </td>
     <td class="tg-kveo">zhou_yun@moe.edu.sg</td>
   </tr>
-  
+	  <tr><td class="tg-kveo"> </td>
+    <td class="tg-kveo">Ms Lee Wei Ling Joanne</td>
+    <td class="tg-kveo">111</td>
+    <td class="tg-kveo">lee_wei_ling_a@moe.edu.sg</td>
+  </tr>
   <tr>
+  
+  </tr><tr>
     <td class="tg-y7qa"><span style="color:#222">4B</span></td>
     <td class="tg-kveo">Mr Choo Chee Mian Eric</td>
     <td class="tg-kveo">160</td>

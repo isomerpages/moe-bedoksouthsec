@@ -2,9 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - New CCE page/National Education.md
-      - New CCE page/ChCE.md
-      - New CCE page/.keep
       - Character and Citizenship Education CCE.md
       - Learning for Life Programme (LLP) SHAPE @BDS.md
       - NDLP/.keep

@@ -131,7 +131,7 @@ School Management Committee
     <td class="tg-y7qa"><span style="color:#222">7</span></td>
     <td class="tg-y7qa"><span style="color:#222">Ms Ivonne Muliana Awyong</span></td>
     <td class="tg-y7qa"><span style="color:#222">HOD / Mother Tongue Language</span></td>
-    <td class="tg-y7qa"><span style="color:#222">ivonne_muliana_awyong@moe.edu.sg</span></td>
+    <td class="tg-y7qa"><span style="color:#222">awyong_ivonne_muliana@moe.edu.sg</span></td>
   </tr>
 	<tr>
     <td class="tg-y7qa"><span style="color:#222">8</span></td>
@@ -147,8 +147,8 @@ School Management Committee
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">10</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Ummu Hani Bte S H Alsagoff</span></td>
-    <td class="tg-y7qa"><span style="color:#222">HOD / Student Management</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Ms Hani Alsagoff</span></td>
+    <td class="tg-y7qa"><span style="color:#222">HOD / Student Development</span></td>
     <td class="tg-y7qa"><span style="color:#222">ummu_hani_syed_haider@moe.edu.sg</span></td>
   </tr>
   <tr>

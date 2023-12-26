@@ -1,5 +1,0 @@
-collections:
-  science:
-    output: true
-    order:
-      - Programmes/.keep

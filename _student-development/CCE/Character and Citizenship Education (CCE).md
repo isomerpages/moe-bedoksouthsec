@@ -44,7 +44,7 @@ To develop social and emotional competencies in students, the following programm
 
 * Education and Career Guidance 
 * Sexuality Education 
-* Cyber Wellness 
+* [Cyber Wellness](https://www.bedoksouthsec.moe.edu.sg/student-development/nldp/cyber-security-and-cyber-wellness/)
 * Values in Action
 
 CCE lessons are also a platform to deliver the National Education (NE) experience.

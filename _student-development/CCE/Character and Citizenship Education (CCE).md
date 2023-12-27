@@ -42,12 +42,12 @@ CCE lessons are opport unities for teachers to facilitate learning for building 
 
 To develop social and emotional competencies in students, the following programmes are incorporated into CCE lessons:
 
-* Education and Career Guidance 
-* Sexuality Education 
+* [Education and Career Guidance ](https://bedoksouthsec.moe.edu.sg/student-development/character-and-citizenship-education/education-and-career-guidance/)
+* [Sexuality Education](https://bedoksouthsec.moe.edu.sg/student-development/character-and-citizenship-education/sexuality-education/)
 * [Cyber Wellness](https://www.bedoksouthsec.moe.edu.sg/student-development/nldp/cyber-security-and-cyber-wellness/)
-* Values in Action
+* [Values in Action](https://bedoksouthsec.moe.edu.sg/student-development/character-and-citizenship-education/values-in-action/)
 
-CCE lessons are also a platform to deliver the National Education (NE) experience.
+CCE lessons are also a platform to deliver the [National Education (NE)](https://bedoksouthsec.moe.edu.sg/student-development/character-and-citizenship-education/national-education/) experience.
 
 ##### **School-Based CCE**
 

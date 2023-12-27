@@ -74,8 +74,6 @@ ECHA recipients are selected based on school-based criteria that are based on gu
 
 Thank you parents for journeying alongside our children to help them achieve their aspirations. Visit the following resources to find out more about how you can play a meaningful role in their journey.
 
-
-
 [Schoolbag.sg](https://www.schoolbag.edu.sg/) is an online publication by the Ministry of Education, Singapore that provides parents, educators and the general public with education news, school features and tips. Click on the ‘Parent Partnership’ tab to find a wealth of useful information for parents.
 
 
@@ -86,7 +84,4 @@ Thank you parents for journeying alongside our children to help them achieve the
 ### Recommended online resources
 
 [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)&nbsp;Portal – Students are introduced to this tool to help them discover their attributes and strengths, and find out more about different careers that they might be interested in.  
-
-  
-<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec</a><p></p><p><strong>
-[Medialiteracycouncil.sg](Medialiteracycouncil.sg) – The Media Literacy Council website hosts useful resources for both parents and students on safe, smart and kind internet usage.</strong></p>
+<br><a href="https://www.betterinternet.sg/" rel="noopener noreferrer nofollow" target="_blank">Medialiteracycouncil.sg</a> – The Media Literacy Council website hosts useful resources for both parents and students on safe, smart and kind internet usage.

@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - CCE/.keep
-      - CCE/Character and Citizenship Education.md
+      - CCE/Character and Citizenship Education (CCE).md
       - CCE/Education and Career Guidance.md
       - CCE/National Education.md
       - CCE/Sexuality Education.md

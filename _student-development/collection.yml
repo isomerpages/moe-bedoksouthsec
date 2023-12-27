@@ -2,10 +2,10 @@ collections:
   student-development:
     output: true
     order:
-      - CCE/Sexuality Education.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/Education and Career Guidance.md
+      - CCE/Sexuality Education.md
       - Character and Citizenship Education CCE.md
       - Learning for Life Programme (LLP) SHAPE @BDS.md
       - NDLP/.keep

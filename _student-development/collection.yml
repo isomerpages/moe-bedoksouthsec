@@ -2,7 +2,14 @@ collections:
   student-development:
     output: true
     order:
-      - Character and Citizenship Education CCE.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/Education and Career Guidance.md
+      - CCE/National Education.md
+      - CCE/Sexuality Education.md
+      - CCE/Values in Action.md
+      - CCE/Physical & Health.md
+      - CCE/Contact Information.md
       - Learning for Life Programme (LLP) SHAPE @BDS.md
       - NDLP/.keep
       - NDLP/National Digital Literacy Programme.md

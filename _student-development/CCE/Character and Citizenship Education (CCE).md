@@ -1,9 +1,11 @@
 ---
-title: Character and Citizenship Education CCE
-permalink: /student-development/permalink/
+title: Character and Citizenship Education (CCE)
+permalink: /student-development/character-and-citizenship-education/
+variant: markdown
 description: ""
+third_nav_title: CCE
 ---
-Character and Citizenship Education  
+Character and Citizenship Education &nbsp;
 =====================================
 
 ### Introduction
@@ -34,18 +36,18 @@ CCE lessons are opport unities for teachers to facilitate learning for building 
 *  The Leader Within 
 *  Family Our Foundation
 *  Being a Positive Influence 
-* U & I in the Community 
+* U &amp; I in the Community 
 *  This is Home Truly   
 * Thinking Hearts, Feeling Minds
 
 To develop social and emotional competencies in students, the following programmes are incorporated into CCE lessons:
 
-* Education and Career Guidance 
-* Sexuality Education 
-* Cyber Wellness 
-* Values in Action
+* [Education and Career Guidance ](https://bedoksouthsec.moe.edu.sg/student-development/character-and-citizenship-education/education-and-career-guidance/)
+* [Sexuality Education](https://bedoksouthsec.moe.edu.sg/student-development/character-and-citizenship-education/sexuality-education/)
+* [Cyber Wellness](https://www.bedoksouthsec.moe.edu.sg/student-development/nldp/cyber-security-and-cyber-wellness/)
+* [Values in Action](https://bedoksouthsec.moe.edu.sg/student-development/character-and-citizenship-education/values-in-action/)
 
-CCE lessons are also a platform to deliver the National Education (NE) experience.
+CCE lessons are also a platform to deliver the [National Education (NE)](https://bedoksouthsec.moe.edu.sg/student-development/character-and-citizenship-education/national-education/) experience.
 
 ##### **School-Based CCE**
 
@@ -63,7 +65,7 @@ Form Teachers conduct Teacher-Pupil Interview (TPI) sessions with students to bu
 
 ##### **Student Recognition**
 
-The [EdusaveCharacter Award (ECHA)](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards) aims to recognise Singaporean students in the school who are exemplary in character and possess outstanding personal qualities through their behaviour and actions which inspire others. This award is given to a maximum of 2% of Singaporean students in the school at the end of the year.   
+The&nbsp;[EdusaveCharacter Award (ECHA)](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards)&nbsp;aims to recognise Singaporean students in the school who are exemplary in character and possess outstanding personal qualities through their behaviour and actions which inspire others. This award is given to a maximum of 2% of Singaporean students in the school at the end of the year.&nbsp;  
   
 ECHA recipients are selected based on school-based criteria that are based on guidelines provided by MOE. Students are identified for consistently demonstrating civic responsibility, resilience and values that BDS wishes to recognise and encourage.
 
@@ -72,19 +74,14 @@ ECHA recipients are selected based on school-based criteria that are based on gu
 
 Thank you parents for journeying alongside our children to help them achieve their aspirations. Visit the following resources to find out more about how you can play a meaningful role in their journey.
 
-
-
-Schoolbag.sg – Schoolbag.sg is an online publication by the Ministry of Education, Singapore that provides parents, educators and the general public with education news, school features and tips. Click on the ‘Parent Partnership’ tab to find a wealth of useful information for parents.
+[Schoolbag.sg](https://www.schoolbag.edu.sg/) is an online publication by the Ministry of Education, Singapore that provides parents, educators and the general public with education news, school features and tips. Click on the ‘Parent Partnership’ tab to find a wealth of useful information for parents.
 
 
 
- [ECG Parent Guide](https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx). This microsite hosts an online copy of the recently published Education and Career Guidance (ECG) Parent Guide that has tips on how to support your child’s ECG journey.
+ [ECG Parent Guide](https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx) This microsite hosts an online copy of the recently published Education and Career Guidance (ECG) Parent Guide that has tips on how to support your child’s ECG journey.
 
 
 ### Recommended online resources
 
-[MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) Portal – Students are introduced to this tool to help them discover their attributes and strengths, and find out more about different careers that they might be interested in.  
-
-  
-
-Medialiteracycouncil.sg – The Media Literacy Council website hosts useful resources for both parents and students on safe, smart and kind internet usage.
+[MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)&nbsp;Portal – Students are introduced to this tool to help them discover their attributes and strengths, and find out more about different careers that they might be interested in.  
+<br><a href="https://www.betterinternet.sg/" rel="noopener noreferrer nofollow" target="_blank">Medialiteracycouncil.sg</a> – The Media Literacy Council website hosts useful resources for both parents and students on safe, smart and kind internet usage.

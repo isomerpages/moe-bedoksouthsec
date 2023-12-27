@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - CCE/Physical & Health.md
       - CCE/Contact Information.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md

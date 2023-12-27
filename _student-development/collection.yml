@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - CCE/BIND.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/Education and Career Guidance.md

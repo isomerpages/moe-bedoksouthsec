@@ -177,15 +177,15 @@ Form Teachers
   </tr>
   <tr>
     <td class="tg-kveo">2 Courage</td>
-    <td class="tg-kveo">Ms Tan Huay Meen Elizabeth (Mrs Elizabeth Ng)</td>
-    <td class="tg-kveo">114</td>
-    <td class="tg-kveo">tan_huay_meen@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-kveo"> </td>
     <td class="tg-kveo">Mr Loi Churn Mun</td>
     <td class="tg-kveo">160</td>
     <td class="tg-kveo">loi_churn_mun@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-kveo"> </td>
+    <td class="tg-kveo">Ms Tan Huay Meen Elizabeth (Mrs Elizabeth Ng)</td>
+    <td class="tg-kveo">114</td>
+    <td class="tg-kveo">tan_huay_meen@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">2 Accountability</td>
@@ -517,6 +517,12 @@ Form Teachers
     <td class="tg-kveo">Mr Nordin B Hassan</td>
     <td class="tg-kveo">162</td>
     <td class="tg-kveo">nordin_bin_hassan@moe.edu.sg</td>
+  </tr>
+<tr>
+    <td class="tg-y7qa"><span style="color:#222"> </span></td>
+    <td class="tg-kveo">Ms Sim Ting Ting Nancy</td>
+    <td class="tg-kveo">111</td>
+    <td class="tg-kveo">sim_ting_ting_nancy@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>

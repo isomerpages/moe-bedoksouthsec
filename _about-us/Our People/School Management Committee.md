@@ -105,7 +105,7 @@ School Management Committee
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">3</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Dichen Grace Isaacs</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Ms Isaacs Dichen Grace</span></td>
     <td class="tg-y7qa"><span style="color:#222">HOD / English Language</span></td>
     <td class="tg-y7qa"><span style="color:#222">isaacs_dichen_grace@moe.edu.sg</span></td>
   </tr>
@@ -129,7 +129,7 @@ School Management Committee
   </tr>
    <tr>
     <td class="tg-y7qa"><span style="color:#222">7</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Ivonne Muliana Awyong</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Ms Awyong Ivonne Muliana</span></td>
     <td class="tg-y7qa"><span style="color:#222">HOD / Mother Tongue Language</span></td>
     <td class="tg-y7qa"><span style="color:#222">awyong_ivonne_muliana@moe.edu.sg</span></td>
   </tr>

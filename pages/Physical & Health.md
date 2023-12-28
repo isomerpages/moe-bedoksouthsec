@@ -3,7 +3,6 @@ title: Physical & Health
 permalink: /student-development/character-and-citizenship-education/physical-n-health/
 variant: markdown
 description: ""
-third_nav_title: CCE
 ---
 Physical &amp; Health
 =================

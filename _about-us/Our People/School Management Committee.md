@@ -265,7 +265,7 @@ School Management Committee
   <tr>
     <td class="tg-y7qa"><span style="color:#222">4</span></td>
     <td class="tg-y7qa"><span style="color:#222">Mr K Rajendran</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Operations Manager</span></td>
+    <td class="tg-y7qa"><span style="color:#222">Adjunct Operations Manager</span></td>
     <td class="tg-y7qa"><span style="color:#222">k_rajendran@moe.edu.sg</span></td>
   </tr>
 </tbody>

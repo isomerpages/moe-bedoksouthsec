@@ -62,7 +62,7 @@ Non Teaching Staff
  <tr>
     <td class="tg-fe66">4</td>
     <td class="tg-0vn4">Mr K Rajendran</td>
-    <td class="tg-0vn4">Operations Manager</td>
+    <td class="tg-0vn4">Adjunct Operations Manager</td>
   </tr>  <tr>
     <td class="tg-fe66">5</td>
     <td class="tg-0vn4">Mdm Lelawati Bte Mohamad</td>

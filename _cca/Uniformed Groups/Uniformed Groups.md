@@ -35,7 +35,7 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ryel">NCC Land (B)</td>
-    <td class="tg-ryel">Mr Song Wei Chiek Hubert (OIC)<br>Mr Asraf Ali S/O A.A.Anverdeen<br>Ms Mary Pai<br>Mr Lim Tuan Zheng Joseph<br>Mr Gan Chun Seng</td>
+    <td class="tg-ryel">Mr Song Wei Chiek Hubert (OIC)<br>Mr Asraf Ali S/O A.A.Anverdeen<br>Mr Lim Tuan Zheng Joseph<br>Mr Gan Chun Seng</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Area in front of General Office)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Area in front of General Office)</td>
   </tr>

@@ -25,10 +25,10 @@ Please click on the [HBL@BDS + Student Initiated Learning Briefing Slides.](/fil
 
 | <b>Term 1</b> |  <b>Term 2</b>  | <b>Term 3</b> | <b>Term 4</b>
 | -------- | -------- | -------- | -------- |
-| Week 2 (12 Jan) |  Week 4 (12 Apr)  | -   |  -   |
-| Week 4 (26 Jan) | Week 6 (26 Apr)   | -    |  -   |
-| Week 8 (23 Feb) |  Week 8 (10 May)  | -   | -    |
-|  | Week 10 (24 May)    | -  |   -   |
+| Week 2 (12 Jan)![](/images/Home%20Based%20Learning/12Jan.JPG) |  Week 4 (12 Apr)![](/images/Home%20Based%20Learning/12Apr.JPG)  | -   |  -   |
+| Week 4 (26 Jan)![](/images/Home%20Based%20Learning/26Jan.JPG) | Week 6 (26 Apr) ![](/images/Home%20Based%20Learning/26Apr.JPG)  | -    |  -   |
+| Week 8 (23 Feb)![](/images/Home%20Based%20Learning/23Feb.JPG) |  Week 8 (10 May)![](/images/Home%20Based%20Learning/10May.JPG)  | -   | -    |
+|  | Week 10 (24 May)![](/images/Home%20Based%20Learning/24May.JPG)    | -  |   -   |
 |  |    |    |      |
 
 

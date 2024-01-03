@@ -3,6 +3,7 @@ title: Home Based Learning (HBL)
 permalink: /student-development/home-based-learning-hbl/
 description: ""
 third_nav_title: Home Based Learning (HBL)
+variant: markdown
 ---
 Home-Based Learning (HBL)
 =========================
@@ -24,15 +25,12 @@ Please click on the [HBL@BDS + Student Initiated Learning Briefing Slides.](/fil
 
 | <b>Term 1</b> |  <b>Term 2</b>  | <b>Term 3</b> | <b>Term 4</b>
 | -------- | -------- | -------- | -------- |
-| [13 Jan](/files/13Jan.pdf) |  [31 Mar](/files/31Mar.pdf)   | [7 Jul](/files/HBL/jul72023.pdf)     | [22 Sep](/files/HBL/sep222023.pdf)     |
-| [27 Jan](/files/27Jan.pdf) |   [14 Apr](/files/14Apr.pdf)   | [14 Jul*](/files/HBL/jul142023.pdf)    |     |
-| [10 Feb](/files/10Feb.pdf) |  [28 Apr](/files/28aprhblupdated1.pdf)  | [4 Aug](/files/HBL/aug42023.pdf)     |     |
-| [24 Feb](/files/24Feb.pdf) | 12 May    | [18 Aug](/files/HBL/aug182023.pdf)   |      |
-| [10 Mar](/files/10Mar.pdf) |   [26 May](/files/26May.pdf)   |    |      |
+| Week 2 (12 Jan) |  Week 4 (12 Apr)   | -   |  -   |
+| Week 4 (26 Jan) | Week 6 (26 Apr)   | -    |  -   |
+| Week 8 (23 Feb) |  Week 8 (10 May)  | -   | -    |
+|  | Week 10 (24 May)    | -  |   -   |
+|  |    |    |      |
 
-
-
-*  HBL session on 14 Jul (Week 3, Odd Fri) due to a special RHD programme on 21 Jul (Week 4, Even Fri). Students to report to school on 21 Jul.
 
 ### Student-Initiated Learning (SIL)
 

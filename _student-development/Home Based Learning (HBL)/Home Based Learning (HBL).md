@@ -25,7 +25,7 @@ Please click on the [HBL@BDS + Student Initiated Learning Briefing Slides.](/fil
 
 | <b>Term 1</b> |  <b>Term 2</b>  | <b>Term 3</b> | <b>Term 4</b>
 | -------- | -------- | -------- | -------- |
-| Week 2 (12 Jan) |  Week 4 (12 Apr)   | -   |  -   |
+| Week 2 (12 Jan) |  Week 4 (12 Apr)  | -   |  -   |
 | Week 4 (26 Jan) | Week 6 (26 Apr)   | -    |  -   |
 | Week 8 (23 Feb) |  Week 8 (10 May)  | -   | -    |
 |  | Week 10 (24 May)    | -  |   -   |

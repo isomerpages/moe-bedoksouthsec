@@ -3,37 +3,6 @@ title: Home Based Learning (HBL)
 permalink: /student-development/home-based-learning-hbl/
 description: ""
 third_nav_title: Home Based Learning (HBL)
+variant: tiptap
 ---
-Home-Based Learning (HBL)
-=========================
-
-![](/images/HBL.png)
-
-### Overview of Home-Based Learning (HBL)&nbsp;
-
-At&nbsp;Bedok South Secondary School, we strive to provide an effective and conducive home-based learning experience for our students. With blended learning as a key feature of the schooling experience to further develop self-directed, passionate and life-long learners, HBL@BDS will be conducted every fortnight. Students will tap on the resources on the Student Learning Space (SLS) which complements in-school activities to facilitate learning.&nbsp;&nbsp;All Secondary 1 to 3 students are also equipped with a Personal Learning Device (PLD) under the National Digital Literacy Programme (NDLP) and can tap on the various affordances provided by the PLD.
-
-### HBL@BDS (every EVEN Friday)
-
-HBL@BDS will be scheduled on every EVEN Friday. Please click on the following dates for the HBL@BDS timetable.&nbsp;<b>All students will need to check-in with their respective Form Teachers at 7.45am on HBL@BDS days.</b>
-
-
-Please click on the [HBL@BDS + Student Initiated Learning Briefing Slides.](/files/SILStudent%20Guide.pdf)
-
-
-
-| <b>Term 1</b> |  <b>Term 2</b>  | <b>Term 3</b> | <b>Term 4</b>
-| -------- | -------- | -------- | -------- |
-| [13 Jan](/files/13Jan.pdf) |  [31 Mar](/files/31Mar.pdf)   | [7 Jul](/files/HBL/jul72023.pdf)     | [22 Sep](/files/HBL/sep222023.pdf)     |
-| [27 Jan](/files/27Jan.pdf) |   [14 Apr](/files/14Apr.pdf)   | [14 Jul*](/files/HBL/jul142023.pdf)    |     |
-| [10 Feb](/files/10Feb.pdf) |  [28 Apr](/files/28aprhblupdated1.pdf)  | [4 Aug](/files/HBL/aug42023.pdf)     |     |
-| [24 Feb](/files/24Feb.pdf) | 12 May    | [18 Aug](/files/HBL/aug182023.pdf)   |      |
-| [10 Mar](/files/10Mar.pdf) |   [26 May](/files/26May.pdf)   |    |      |
-
-
-
-*  HBL session on 14 Jul (Week 3, Odd Fri) due to a special RHD programme on 21 Jul (Week 4, Even Fri). Students to report to school on 21 Jul.
-
-### Student-Initiated Learning (SIL)
-
-SIL is an opportunity for you to learn to be an independent, passionate and lifelong learner. It is a dedicated time during HBL for you to explore personal interests, both within and outside of curriculum. You will find the SIL module (E.g. ‘SIL Class 1A’) once you log on to SLS. Students are given a choice of SILs with the SIL playlist and should complete your preferred&nbsp;<u><b>5 SILs by each term</b></u>. Please click on the&nbsp;[<b>SIL guide</b>](/files/SILStudentGuide.pdf)&nbsp;to find out how you can go about doing your SILs.
+<h1>Home-Based Learning (HBL)</h1><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HBL.png"></div><h3>Overview of Home-Based Learning (HBL)&nbsp;</h3><p>At&nbsp;Bedok South Secondary School, we strive to provide an effective and conducive home-based learning experience for our students. With blended learning as a key feature of the schooling experience to further develop self-directed, passionate and life-long learners, HBL@BDS will be conducted every fortnight. Students will tap on the resources on the Student Learning Space (SLS) which complements in-school activities to facilitate learning.&nbsp;&nbsp;All Secondary 1 to 3 students are also equipped with a Personal Learning Device (PLD) under the National Digital Literacy Programme (NDLP) and can tap on the various affordances provided by the PLD.</p><h3>HBL@BDS (every EVEN Friday)</h3><p>HBL@BDS will be scheduled on every EVEN Friday. Please click on the following dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in with their respective Form Teachers at 7.45am on HBL@BDS days.</strong></p><p>Please click on the <a href="/files/SILStudent%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL@BDS + Student Initiated Learning Briefing Slides.</a></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Term 1</strong></p></th><th rowspan="1" colspan="1"><p><strong>Term 2</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>Week 2 (12 Jan)</p><div class="isomer-image-wrapper"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Home%20Based%20Learning/12Jan.JPG"></div></td><td rowspan="1" colspan="1"><p>Week 4 (12 Apr)</p><div class="isomer-image-wrapper"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Home%20Based%20Learning/12Apr.JPG"></div></td></tr><tr><td rowspan="1" colspan="1"><p>Week 4 (26 Jan)</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home%20Based%20Learning/26Jan.JPG"></div></td><td rowspan="1" colspan="1"><p>Week 6 (26 Apr)</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home%20Based%20Learning/26Apr.JPG"></div></td></tr><tr><td rowspan="1" colspan="1"><p>Week 8 (23 Feb)</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home%20Based%20Learning/23Feb.JPG"></div></td><td rowspan="1" colspan="1"><p>Week 8 (10 May)</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home%20Based%20Learning/10May.JPG"></div></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Week 10 (24 May)</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home%20Based%20Learning/24May.JPG"></div></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h3>Student-Initiated Learning (SIL)</h3><p>SIL is an opportunity for you to learn to be an independent, passionate and lifelong learner. It is a dedicated time during HBL for you to explore personal interests, both within and outside of curriculum. You will find the SIL module (E.g. ‘SIL Class 1A’) once you log on to SLS. Students are given a choice of SILs with the SIL playlist and should complete your preferred&nbsp;<strong><u>5 SILs by each term</u></strong>. Please click on the&nbsp;<strong><a href="/files/SILStudentGuide.pdf" rel="noopener noreferrer nofollow" target="_blank">SIL guide</a></strong>&nbsp;to find out how you can go about doing your SILs.</p>

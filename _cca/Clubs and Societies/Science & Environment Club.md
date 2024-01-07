@@ -63,5 +63,4 @@ Ms Ng Li Min Joanne (OIC) <br>
 Mdm Ho Lee Ling Caroline <br>
 
 ### Leadership Positions
-
-![SEC6](/images/CCA/Clubs%20and%20Societies/exco_committee.JPG)
+![](/images/CCA/Clubs%20and%20Societies/SnE2024.JPG)

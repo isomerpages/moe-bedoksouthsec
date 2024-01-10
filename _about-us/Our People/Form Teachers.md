@@ -475,12 +475,6 @@ Form Teachers
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">4F</span></td>
-    <td class="tg-kveo">Mr Wong Zi Heng</td>
-    <td class="tg-kveo">163</td>
-    <td class="tg-kveo">wong_zi_heng@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Ms Goh Jing Teng</td>
     <td class="tg-kveo">158</td>
     <td class="tg-kveo">goh_jing_teng@moe.edu.sg</td>

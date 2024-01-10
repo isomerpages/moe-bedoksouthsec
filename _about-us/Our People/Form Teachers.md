@@ -223,6 +223,12 @@ Form Teachers
     <td class="tg-kveo">109</td>
     <td class="tg-kveo">nadia_begam@moe.edu.sg</td>
   </tr>
+	 <tr>
+    <td class="tg-y7qa"><span style="color:#222"> </span></td>
+    <td class="tg-kveo">Mr Goh De Hao Samuel</td>
+    <td class="tg-kveo">160</td>
+    <td class="tg-kveo">goh_de_hao_samuel@moe.edu.sg</td>
+  </tr>
   <tr>
     <td class="tg-kveo">2 Care</td>
     <td class="tg-kveo">Ms Wong Wah Jong (Mrs Joan Yang)</td>
@@ -354,12 +360,7 @@ Form Teachers
     <td class="tg-kveo">104</td>
     <td class="tg-kveo">goh_shong_heng@moe.edu.sg</td>
   </tr>
-	 <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Mr Goh De Hao Samuel</td>
-    <td class="tg-kveo">160</td>
-    <td class="tg-kveo">goh_de_hao_samuel@moe.edu.sg</td>
-  </tr>
+
   <tr>
     <td class="tg-y7qa"><span style="color:#222">3G </span></td>
     <td class="tg-kveo">Mdm Raihana Bte Md Ihsan</td>

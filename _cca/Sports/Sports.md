@@ -36,7 +36,7 @@ Sports
   </tr>
   <tr>
     <td rowspan="3" class="tg-dgl5">Badminton</td>
-    <td rowspan="3" class="tg-dgl5">Mr Wong Zi Heng (OIC)<br>Mr Yip Kim San<br>Mrs Mah-Pow Lai Ghim<br>Mr Khoo Kian Eng Kenneth<br>and external coach</td>
+    <td rowspan="3" class="tg-dgl5">Mrs Mah-Pow Lai Ghim (OIC)<br>Mr Yip Kim San<br>Mr Khoo Kian Eng Kenneth<br>and external coach</td>
     <td class="tg-9hzb">Monday</td>
     <td class="tg-9hzb">3.00 – 6.00 pm <span style="font-style:italic"><br>(ISH/Hall</span>)</td>
   </tr>

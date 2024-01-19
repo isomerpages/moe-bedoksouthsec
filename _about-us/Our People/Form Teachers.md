@@ -563,6 +563,30 @@ Form Teachers
     <td class="tg-kveo">160</td>
     <td class="tg-kveo">koh_cin_dee_sylvelin@moe.edu.sg</td>
   </tr>
+	  <tr>
+    <td class="tg-kveo">FAJT (Chinese Language)</td>
+    <td class="tg-kveo">Ms Charlotte Loh Shoc Shyun</td>
+    <td class="tg-kveo">101</td>
+    <td class="tg-kveo">TBC@moe.edu.sg</td>
+  </tr>
+		 <tr>
+    <td class="tg-kveo">FAJT (English Language/Literature)</td>
+    <td class="tg-kveo">Mdm Teo Suat Hwee</td>
+    <td class="tg-kveo">102</td>
+    <td class="tg-kveo">TBC@moe.edu.sg</td>
+  </tr>
+		 <tr>
+    <td class="tg-kveo">FAJT (Humannities)</td>
+    <td class="tg-kveo">Mdm Kanta Ramchand Vaswani</td>
+    <td class="tg-kveo">103</td>
+    <td class="tg-kveo">TBC@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td class="tg-kveo">FAJT (Malay Language)</td>
+    <td class="tg-kveo">Mdm Rohani Bte Ahmad</td>
+    <td class="tg-kveo">101</td>
+    <td class="tg-kveo">TBC@moe.edu.sg</td>
+  </tr>
   <tr>
     <td class="tg-kveo">FAJT (Mathematics)</td>
     <td class="tg-kveo">Mr Ow Tai Pang Jeremy</td>
@@ -575,16 +599,22 @@ Form Teachers
     <td class="tg-kveo">101</td>
     <td class="tg-kveo">chong_gim_po@moe.edu.sg</td>
   </tr> 
+		<tr>
+    <td class="tg-kveo">FAJT (Physics/Mathematics)</td>
+    <td class="tg-kveo">Mr Ong Song Chin</td>
+    <td class="tg-kveo">107</td>
+    <td class="tg-kveo">TBC@moe.edu.sg </td>
+  </tr>
 	<tr>
     <td class="tg-kveo">FAJT (Gear-up)</td>
     <td class="tg-kveo">Mr Syahrulnizam Bin Abdul Rahman</td>
-    <td class="tg-kveo">TBC</td>
+    <td class="tg-kveo">163</td>
     <td class="tg-kveo">syahrulnizam_abdul_rahman@moe.edu.sg </td>
   </tr>
   	<tr>
     <td class="tg-kveo">FAJT (PE &amp; CCA)</td>
     <td class="tg-kveo">Mr Khoo Kian Eng Kenneth</td>
-    <td class="tg-kveo">TBC</td>
+    <td class="tg-kveo">162</td>
     <td class="tg-kveo">khoo_kian_eng@moe.edu.sg </td>
   </tr> <tr>
     <td class="tg-kveo">FAJT (Science)</td>
@@ -595,7 +625,7 @@ Form Teachers
   <tr>
     <td class="tg-kveo">FAJT (Special Needs)</td>
     <td class="tg-kveo">Ms Lim Yih</td>
-    <td class="tg-kveo">104</td>
+    <td class="tg-kveo">107</td>
     <td class="tg-kveo">lim_yih@moe.edu.sg</td>
   </tr>
   </tbody>

@@ -567,25 +567,25 @@ Form Teachers
     <td class="tg-kveo">FAJT (Chinese Language)</td>
     <td class="tg-kveo">Ms Charlotte Loh Shoc Shyun</td>
     <td class="tg-kveo">101</td>
-    <td class="tg-kveo">TBC@moe.edu.sg</td>
+    <td class="tg-kveo">loh_shoc_shyun@moe.edu.sg</td>
   </tr>
 		 <tr>
     <td class="tg-kveo">FAJT (English Language/Literature)</td>
     <td class="tg-kveo">Mdm Teo Suat Hwee</td>
     <td class="tg-kveo">102</td>
-    <td class="tg-kveo">TBC@moe.edu.sg</td>
+    <td class="tg-kveo">pang_suat_hwee@moe.edu.sg</td>
   </tr>
 		 <tr>
     <td class="tg-kveo">FAJT (Humannities)</td>
     <td class="tg-kveo">Mdm Kanta Ramchand Vaswani</td>
     <td class="tg-kveo">103</td>
-    <td class="tg-kveo">TBC@moe.edu.sg</td>
+    <td class="tg-kveo">kanta_ramchand_vaswani@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td class="tg-kveo">FAJT (Malay Language)</td>
     <td class="tg-kveo">Mdm Rohani Bte Ahmad</td>
     <td class="tg-kveo">101</td>
-    <td class="tg-kveo">TBC@moe.edu.sg</td>
+    <td class="tg-kveo">rohani_ahmad_b@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">FAJT (Mathematics)</td>
@@ -603,7 +603,7 @@ Form Teachers
     <td class="tg-kveo">FAJT (Physics/Mathematics)</td>
     <td class="tg-kveo">Mr Ong Song Chin</td>
     <td class="tg-kveo">107</td>
-    <td class="tg-kveo">TBC@moe.edu.sg </td>
+    <td class="tg-kveo">ong_song_chin@moe.edu.sg</td>
   </tr>
 	<tr>
     <td class="tg-kveo">FAJT (Gear-up)</td>

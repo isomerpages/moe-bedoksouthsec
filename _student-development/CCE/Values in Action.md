@@ -153,12 +153,12 @@ Environmental Conservation VIA @ Chek Jawa, Pulau Ubin: Peer Leaders &amp; Prefe
 
 BDS Internationalisation and National Education Development Programme (BIND) includes twinning programmes with overseas educational institutions, Community Involvement Programmes (OCIP), and learning journeys to various countries. This programme has provided our students with opportunities to interact with people from various parts of the world so that they will be more culturally savvy and attuned to the fast-changing global environment. At the same time, students also enhance interpersonal relationships with their own classmates, peers and teachers.
 
-Please click [here](https://for.edu.sg/bindbkkbriefing280623) for more information on BIND 2023 (Bangkok). Registration for BIND 2023 (Bangkok) will close on 12 July (Wed).
 
+Please click [here](https://go.gov.sg/bindbaliinternationalisationleadershipprogramme) for more information on BIND 2024 (Bali Internationalisation Leadership Programme).
 
-### BIND 2014 - 2018
+### BIND 2014 - 2023
 
-![BIND](/images/BIND2018.png)
+![](/images/Student%20Development/CCE/BIND24.jpg)
 
 ![VIA](/images/VIA.png)
 

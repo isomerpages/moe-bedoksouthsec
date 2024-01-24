@@ -1,0 +1,7 @@
+---
+title: Appeal for Transfer (Sec 1) in 2024
+permalink: /prospectors/appeal-for-transfer-sec1-2024/
+description: ""
+variant: tiptap
+---
+<h1>Secondary 1 Appeal for Transfer in 2024</h1><p>Students appealing for transfer into Bedok South Secondary School will need to meet the Cut-Off Point (COP) for consideration should there be vacancies. Please complete and submit the <strong>S1 Appeal Application Form</strong> via this link: <a href="https://go.gov.sg/bsss-sec1-appeal-tansfer" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bsss-sec1-appeal-tansfer</a> or scan the QR code by <strong>Tuesday, 26 December 2023, 12.00 pm</strong>. Results will be made known only around mid-January 2024.</p><p></p><div class="isomer-image-wrapper"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Secondary 1 Matters/Sec_1_2024_Appeal.png"></div><p>For transfer to another school (due to medical reasons), please submit the appeal and supporting documents at Bedok South Secondary School in person on Thursday, 21 December 2023, from 8.30 am to 12.00 pm. For more information, please refer to <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/</a>.</p><p></p>

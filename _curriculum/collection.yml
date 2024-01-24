@@ -1,0 +1,31 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Curriculum.md
+      - Full Subject Based Banding (FSBB).md
+      - Applied Learning Programme.md
+      - Computer Applications.md
+      - Craft & Technology/.keep
+      - Craft & Technology/Craft & Technology.md
+      - Craft & Technology/Visual Art.md
+      - Craft & Technology/Music.md
+      - Craft & Technology/Design & Technology.md
+      - Craft & Technology/FCE & NFS.md
+      - Elements of Business Skills.md
+      - English and English Literature/.keep
+      - English and English Literature/English and English Literature.md
+      - English and English Literature/Stretch Programme.md
+      - English and English Literature/Reading Programme.md
+      - Humanities.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Approved Calculator List.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Approved Dictionaries.md
+      - Mother Tongue/Mother Tongue.md
+      - Physical Education.md
+      - Principles of Accounts.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Programmes.md

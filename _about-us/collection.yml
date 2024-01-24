@@ -1,0 +1,22 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our History.md
+      - Our Mission, Vision, Values and Motto.md
+      - Our School Crest & School Song.md
+      - Our People/.keep
+      - Our People/School Management Committee.md
+      - Our People/Form Teachers.md
+      - Our People/Non Teaching Staff.md
+      - Our People/School Advisory Committee (SAC).md
+      - Our People/Parent Support Group (PSG).md
+      - Our People/BDS Alumni.md
+      - Our School Facilities.md
+      - Our Contact/.keep
+      - Our Contact/Our Contact.md
+      - Our Contact/Road Safety Guidelines For Drivers.md
+      - Our Calendar of Events.md
+      - Direct School Admission (DSA)/.keep
+      - Direct School Admission (DSA)/Direct School Admissions (DSA).md

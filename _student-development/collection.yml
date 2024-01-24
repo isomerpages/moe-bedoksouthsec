@@ -1,0 +1,34 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - CCE/.keep
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/Education and Career Guidance.md
+      - CCE/National Education.md
+      - CCE/Sexuality Education.md
+      - CCE/Values in Action.md
+      - CCE/Contact Information.md
+      - Learning for Life Programme (LLP) SHAPE @BDS.md
+      - NDLP/.keep
+      - NDLP/National Digital Literacy Programme.md
+      - NDLP/On Boarding Process.md
+      - NDLP/Device Support.md
+      - NDLP/Cyber Security and Cyber Wellness.md
+      - NDLP/Resources for Parents.md
+      - NDLP/Frequently Asked Questions.md
+      - NDLP/Use of PLD In School.md
+      - NDLP/NDLP Info Site for Staff and Students.md
+      - Student Leadership.md
+      - Social, Emotional & Moral.md
+      - Student Management/.keep
+      - Student Management/Student Management.md
+      - Student Management/Contact Information.md
+      - Student Welfare/.keep
+      - Student Welfare/Student Welfare.md
+      - Student Welfare/Cabin.md
+      - Student Welfare/Contact Information.md
+      - Home Based Learning (HBL)/.keep
+      - Home Based Learning (HBL)/Home Based Learning (HBL).md
+      - Home Based Learning (HBL)/Student Learning Space.md
+      - Home Based Learning (HBL)/SLS Support For Home Based Learning.md

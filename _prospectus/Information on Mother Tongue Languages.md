@@ -1,0 +1,7 @@
+---
+title: Information on Mother Tongue Languages
+permalink: /prospectus/information-on-mother-tongue-languages/
+description: ""
+variant: tiptap
+---
+<h1>Information on Mother-Tongue Languages</h1><p>Eligible students can offer <strong>Mother Tongue Languages</strong> at a more demanding level based on their PSLE Achievement Level (AL) for each of these subjects.</p><table><tbody><tr><th rowspan="1" colspan="4"><p>Eligibility criteria to offer Mother Tongue Languages at a more demanding level</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Indicative level of most subjects at start of S1</strong></p></td><td rowspan="1" colspan="1"><p><strong>PSLE standard grade</strong></p></td><td rowspan="1" colspan="1"><p><strong>PSLE foundation grade</strong></p></td><td rowspan="1" colspan="1"><p><strong>Option to offer at</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>G2</p></td><td rowspan="1" colspan="1"><p>AL 5 or better</p></td><td rowspan="1" colspan="1"><p>-</p></td><td rowspan="1" colspan="1"><p>G3</p></td></tr><tr><td rowspan="2" colspan="1"><p>G1</p></td><td rowspan="1" colspan="1"><p>AL 5 or better</p></td><td rowspan="1" colspan="1"><p>-</p></td><td rowspan="1" colspan="1"><p>G3 or G2</p></td></tr><tr><td rowspan="1" colspan="1"><p>AL 6</p></td><td rowspan="1" colspan="1"><p>AL A</p></td><td rowspan="1" colspan="1"><p>G2</p></td></tr></tbody></table><p></p>

@@ -89,7 +89,7 @@ b. Character and Citizenship Education (CCE)
     <td class="tg-ktyi">Mass Talk by HPB appointed vendor</td>
  <td class="tg-ktyi">- Raise awareness and provide knowledge on:<br>(a) Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).<br>(b)	Managing relationships and risky situations in a healthy way.
 	<br></td>
-    <td class="tg-7yig">Term 2<br>Week: 7</td>
+    <td class="tg-7yig">Term 2<br>Week 7</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Classroom-based Lesson</td>

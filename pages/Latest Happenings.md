@@ -41,33 +41,6 @@ Education.</p>
 </p>
 </li>
 </ol>
-<h4><strong>Sec 1 CCA Fair and CCA Selection 2024</strong></h4>
-<p>We hope that the CCA Fair on 5th of January 2024 (Friday) had given you
-greater insights into the various CCAs offered at Bedok South Sec School.</p>
-<p>Please complete this CCA Selection Form by <u>17th Jan 2024, 2pm</u>.</p>
-<p>The CCAs offered are:</p>
-<p>Sports (Football, Floorball, Netball, Swimming, Badminton)</p>
-<p>Visual and Performing Arts (VPA) (Symphonic Band, Chinese Orchestra, Malay
-Dance, Dance Society, Choir)</p>
-<p>Uniform Groups (UG) (NCC, NPCC, NCDCC, Scouts)</p>
-<p>Clubs and Societies. (Infocomm, Media Production, Science &amp; Environment)</p>
-<p>Do choose carefully. Please note that all CCAs have a maximum capacity
-for enrolment due to constraints such as venue.</p>
-<p>For more information, please refer to the <a href="https://go.gov.sg/ccabriefingbdsparents2024" rel="noopener noreferrer nofollow" target="_blank">slides</a> and to make
-the CCA Selection please click to the link <a href="https://forms.moe.edu.sg/forms/J2w78o" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h4><strong>Release of 2023 GCE O-Level Examination Results</strong></h4>
-<p>Dear 2023 Sec 4E &amp; 5N BDSians,</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Please be informed that the 2023 GCE O-Levels results will be released
-on Thursday, 11 January 2024.</p>
-</li>
-<li>
-<p>You are expected to report to the School Hall at 1.45 pm in full school
-uniform and groomed according to the standards laid out in the Student
-Handbook for the collection of your&nbsp;result&nbsp;slips.</p>
-</li>
-</ol>
 <h4><strong>All about Poly Education</strong></h4>
 <p>Dear parents/ guardians,
 <br>We would like to extend an invitation to you to attend Ngee Ann Poly’s <strong>“All about Poly Education”,</strong> a

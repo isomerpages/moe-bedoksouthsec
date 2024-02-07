@@ -4,6 +4,127 @@ permalink: /latest-happenings/
 description: ""
 variant: tiptap
 ---
+<h4><strong>2024 Parent Engagement Session for Secondary 4 and 5 Students: Presentation Materials and Resources</strong></h4>
+<p>Dear Parents/Guardians,</p>
+<p>Thank you for partnering the school in supporting your child’s/ward’s
+schooling journey, and in exploring his/her aspirations beyond secondary
+school education.</p>
+<p>Following on from the Secondary 4 and 5 Parent Engagement Session held
+on 2 February 2024, please see appended the presentation materials and
+resources.</p>
+<p>Thank you for your kind attention.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Attachment/Link</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sharing by Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Introduction of FTs</p>
+<p>• Eco-System of Support</p>
+<p>• Tentative ‘N’ and ‘O’ Level National Examination Schedule (as at 25
+Jan 24)</p>
+<p>• School-Based Academic Calendar</p>
+<p>• Academic Support Programme</p>
+<p>• Expectations involving CCA</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/bdsyearhead2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bdsyearhead2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sharing by Education and Career Guidance (ECG) Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• How to support your child’s ECG journey</p>
+<p>• Changes in the educational landscape</p>
+<p>• Links to useful resources:</p>
+<p> MySkillsFuture Student Portal (Secondary)</p>
+<p> A Guide to Post-secondary Admissions Exercises (JAE, JIE, DSA-JC, Poly
+EAE, ITE EAE, DPP, PFP, NFD)</p>
+<p> CourseFinder(Explore courses offered by ITE and Polytechnics)</p>
+<p> SchoolFinder(Explore information on JCs)</p>
+<p> What’s Next (After N-level)</p>
+<p> What’s Next (After O-level)</p>
+<p> Post-Secondary Education</p>
+<p> Tips on Coping with Transition through</p>
+<p> Upper Secondary/ Post-Secondary Education</p>
+<p> What’s Next (After A-Level)</p>
+<p> Overview of Post Secondary Education Institutions (Including autonomous
+universities, arts institutions, government-affiliated educational institutes
+and polytechnics)</p>
+<p> Journeying with our Children, supporting their Aspirations</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/ecgcounsellor2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgcounsellor2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4EX &amp; 5NA: Sharing of Pathways</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicable for 4EX &amp; 5NA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/bdspathways4ex5na" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bdspathways4ex5na</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4NA: Sharing of Pathways</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicable for 4NA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/bdspathways4na" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bdspathways4na</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4NT: Sharing of Pathways</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicable for 4NT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/bdspathways4nt" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bdspathways4nt</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Joint Admissions Exercise Booklet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/2024jaebooklet" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024jaebooklet</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Triple P L2 for Parents – The Art of Managing Stress</strong></h4>
 <p></p>
 <p>Dear parents/ guardians,</p>

@@ -199,11 +199,6 @@ find out more.</p>
 downloading Zoom and accessing a Zoom meeting.</p>
 </li>
 </ul>
-<h4><strong>Launch of Parents Gateway</strong></h4>
-<p>We would like to encourage all parents to sign up for the Parents Gateway
-app. A letter with instructions on how to sign up was given to students
-in Week 1. Alternatively, you may want to click&nbsp;<a href="/files/Letter%20-%20Parents%20Gateway(BSSS).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-the Step-by-Step Guide.</p>
 <h4><strong>SLS Support for Home-based Learning</strong></h4>
 <p>Please click the following link to access</p>
 <ul data-tight="true" class="tight">

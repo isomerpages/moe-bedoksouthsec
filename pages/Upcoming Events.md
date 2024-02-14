@@ -6,17 +6,6 @@ variant: markdown
 ---
 | Date | Events |
 | -------- | -------- |
-| 1 Jan  | New Year’s Day |
-| 2 Jan  | First Day of School |
-| 2 - 4 Jan| [Sec 1 Orientation Programme](https://www.bedoksouthsec.moe.edu.sg/prospectus/orientation-programme-and-cca-fair-2024/) |
-| 5 Jan | [CCA Fair](https://www.bedoksouthsec.moe.edu.sg/prospectus/orientation-programme-and-cca-fair-2024/) |
-| 10 Jan  | Temperature Taking Exercise |
-| 11 Jan | Release of 2023 GCE O-Level Examination Result|
-| 11 Jan | Training for PSLs and Prefects |
-| 12 Jan | HBL 1 |
-| 25 Jan| Sec 2 Learning Journey to Changi Chaper or Former Ford Factory  |
-| 25 Jan| Sec 4 & 5 Inter Class Games |
-| 26 Jan | HBL 2 |
 | 10 - 11 Feb| Chinese New Year |
 | 12 - 13 Feb| CNY Public Holiday + School Holiday off-in-lieu |
 | 15 Feb| Class Leaders Training |

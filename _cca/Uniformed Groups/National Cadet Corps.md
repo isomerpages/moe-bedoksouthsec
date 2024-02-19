@@ -119,25 +119,32 @@ Our consistency in delivering results at the highest levels is a testament to BD
 <thead>
   <tr>
     <th class="tg-y7qa"><span style="color:#222">Unit Sergeant Major</span></th>
-    <th class="tg-y7qa">Issac Daniel Lua Zheng An</th>
+    <th class="tg-y7qa"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">Assistant Sergeant Major</span></td>
-    <td class="tg-y7qa">Fam Yu Hang</td>
+    <td class="tg-y7qa"></td>
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">Head of Training</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Issac Daniel Lua Zheng An</span><br></td>
+    <td class="tg-y7qa"><span style="color:#222"></span><br></td>
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">Head of Administration </span></td>
-    <td class="tg-y7qa">Yap Kang</td>
+    <td class="tg-y7qa"></td>
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">Head of Logistics</span></td>
-    <td class="tg-y7qa">Lim Ying Xiang Cayden</td>
+    <td class="tg-y7qa"></td>
   </tr>
 </tbody>
 </table>
+
+### Photo Gallery 
+Sports Carnival with NCC cadets from Bedok Green Secondary School and Victoria School
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSX2mrArfcsl4_33LiHIIMgXC_cfYUWVpRqwQeEpxMuE8Duk0GkRKb6WBMZUOw6wxjK8ZKl0DwFU3SK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+Precision Drill Squard (PDS) Preliminary Competition (East Zone)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1fwR7Gvzc6LJvx_r-vdaeehl68bM1THyzReFUZAGT46mJmLWscft_StMQw2wd_X59wtgaYEU61EYP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

@@ -98,7 +98,7 @@ Form Teachers
 	  <tr>
     <td class="tg-kveo"> </td>
     <td class="tg-kveo">Mr Gan Chun Seng</td>
-    <td class="tg-kveo">TBC</td>
+    <td class="tg-kveo">110</td>
     <td class="tg-kveo">gan_chun_seng@moe.edu.sg</td>
   </tr>
   <tr>
@@ -483,7 +483,7 @@ Form Teachers
 	 <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Mr Soh Wei Keong</td>
-    <td class="tg-kveo">TBC</td>
+    <td class="tg-kveo">163</td>
     <td class="tg-kveo">soh_wei_keong@moe.edu.sg</td>
   </tr>
   <tr>

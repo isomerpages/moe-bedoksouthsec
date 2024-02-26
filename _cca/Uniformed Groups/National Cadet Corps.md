@@ -21,9 +21,8 @@ The National Cadet Corps is a CCA which nurtures responsible, resilient and reso
 
 Mr Song Wei Chiek Hubert (OIC)&nbsp;<br>
 Mr Asraf Ali S/O A.A.Anverdeen <br>
-Ms Mary Pai <br>
-Mr Lim Tuan Zheng Joseph <br> 
 Mr Gan Chun Seng<br>
+Mr Lim Tuan Zheng Joseph <br> 
 And&nbsp;<b>Volunteer Adult Leaders</b>
 
   

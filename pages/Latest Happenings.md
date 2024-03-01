@@ -4,6 +4,21 @@ permalink: /latest-happenings/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Online Parenting Webinars</strong></h4>
+<p>Dear parents/ guardian,</p>
+<p>We would like to invite you to sign up for a series of online parenting
+webinars entitled Triple P L2 for Parents organised by Morning Star Community
+Services for the month of March. This month, the special focus title is:
+Achieving Digital Wellness, starts on 9 Mar 2024. Please click <a href="https://www.morningstar.org.sg/triple-p/l2-sec-run-3/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register for the webinars.</p>
+<p>Other than Parenting Programs, Morning Star Community Services will also
+be conducting Kopi Session for Grandparents on 7 March 2024. The Kopi session
+will be conducted in English Language and will be held onsite at Morning
+Star Sengkang Outreach Centre. Grandparents will learn how to interact
+with their grandchildren and others through playing Lego Bricks. Please
+click <a href="http://tinyurl.com/kopiforgrandparents" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register for the event.</p>
+<p></p>
 <h4><strong>2024 Parent Engagement Session for Secondary 4 and 5 Students: Presentation Materials and Resources</strong></h4>
 <p>Dear Parents/Guardians,</p>
 <p>Thank you for partnering the school in supporting your child’s/ward’s
@@ -125,30 +140,9 @@ and polytechnics)</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Triple P L2 for Parents – The Art of Managing Stress</strong></h4>
+<h4></h4>
 <p></p>
-<p>Dear parents/ guardians,</p>
-<p>We would like to invite you to sign up for a series of online parenting
-webinars organised by Morning Star Community Services for the month of
-February. These webinars entitled Triple P L2 for Parents, with special
-focus titled – The Art of Managing Stress are designed to equip parents/guardian
-with effective parenting skills. Please click <a href="https://www.morningstar.org.sg/triple-p/l2-sec-run-2/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register for the webinars.</p>
-<p></p>
-<h4><strong>Online Parenting Webinars</strong></h4>
-<p>Dear parents/ guardian,</p>
-<p>We would like to invite you to sign up for a series of online parenting
-webinars entitled Triple P L2 for Parents organised by Morning Star Community
-Services for the month of March. This month, the special focus title is:
-Achieving Digital Wellness, starts on 9 Mar 2024. Please click <a href="https://www.morningstar.org.sg/triple-p/l2-sec-run-3/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register for the webinars.</p>
-<p>Other than Parenting Programs, Morning Star Community Services will also
-be conducting Kopi Session for Grandparents on 7 March 2024. The Kopi session
-will be conducted in English Language and will be held onsite at Morning
-Star Sengkang Outreach Centre. Grandparents will learn how to interact
-with their grandchildren and others through playing Lego Bricks. Please
-click <a href="http://tinyurl.com/kopiforgrandparents" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register for the event.</p>
+<h4></h4>
 <p></p>
 <h4><strong>2024 Joint Admissions Exercise (JAE) for Sec 4E and 5NA students</strong></h4>
 <p>Upon receiving your GCE O-Level examination results, you may now participate

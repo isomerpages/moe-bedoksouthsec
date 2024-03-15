@@ -413,12 +413,7 @@ Form Teachers
     <td class="tg-kveo">lam_yen_ping@moe.edu.sg</td>
   </tr>
   <tr>
-		<td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Mdm Zhou Yun</td>
-    <td class="tg-kveo">103 </td>
-    <td class="tg-kveo">zhou_yun@moe.edu.sg</td>
-  </tr>
-	  <tr><td class="tg-kveo"> </td>
+	  </tr><tr><td class="tg-kveo"> </td>
     <td class="tg-kveo">Ms Lee Wei Ling Joanne</td>
     <td class="tg-kveo">111</td>
     <td class="tg-kveo">lee_wei_ling_a@moe.edu.sg</td>
@@ -563,23 +558,11 @@ Form Teachers
     <td class="tg-kveo">160</td>
     <td class="tg-kveo">koh_cin_dee_sylvelin@moe.edu.sg</td>
   </tr>
-	  <tr>
-    <td class="tg-kveo">FAJT (Chinese Language)</td>
-    <td class="tg-kveo">Ms Charlotte Loh Shoc Shyun</td>
-    <td class="tg-kveo">101</td>
-    <td class="tg-kveo">loh_shoc_shyun@moe.edu.sg</td>
-  </tr>
-		 <tr>
+	<tr>
     <td class="tg-kveo">FAJT (English Language/Literature)</td>
     <td class="tg-kveo">Mdm Teo Suat Hwee</td>
     <td class="tg-kveo">102</td>
     <td class="tg-kveo">pang_suat_hwee@moe.edu.sg</td>
-  </tr>
-		 <tr>
-    <td class="tg-kveo">FAJT (Humannities)</td>
-    <td class="tg-kveo">Mdm Kanta Ramchand Vaswani</td>
-    <td class="tg-kveo">103</td>
-    <td class="tg-kveo">kanta_ramchand_vaswani@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td class="tg-kveo">FAJT (Malay Language)</td>

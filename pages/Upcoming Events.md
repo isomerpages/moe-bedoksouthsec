@@ -6,16 +6,8 @@ variant: markdown
 ---
 | Date | Events |
 | -------- | -------- |
-| 10 - 11 Feb| Chinese New Year |
-| 12 - 13 Feb| CNY Public Holiday + School Holiday off-in-lieu |
-| 15 Feb| Class Leaders Training |
-| 14 - 16 Feb| Mother Tongue Fortnight |
-| 23 Feb| HBL 3  |
-| 27 Feb| Sec 2 Parents Engagement & Subject Selection via ZOOM (Evening) |
-| 29 Feb | Training for PSLs and Prefects |
-| 2 Mar | Parent-Child Bonding Activity - Bowling |
-| 6 - 8 Mar| Sec 1 to 5 Level Camps |
 | 9 - 17 Mar| March Holidays |
+| 18 Mar| Start of Term 2|
 |19 - 20 Mar| Hosting Regents School (Bali) |
 | 21 Mar | Training for PSLs and Prefects |
 | 22 Mar | Singapore Secondary Schools Debating Championships (SSSDC) Debate |

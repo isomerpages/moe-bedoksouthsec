@@ -4,6 +4,11 @@ permalink: /latest-happenings/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Registration Information for School Candidates</strong></h4>
+<p>Please click <a href="https://go.gov.sg/gcentnaolevelregistrationinformation" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+information on 2024 Singapore-Cambridge GCE N(T)-, N(A)- &amp; O-Level
+Examinations.</p>
+<p></p>
 <h4><strong>Online Parenting Webinars</strong></h4>
 <p>Dear parents/ guardian,</p>
 <p>We would like to invite you to sign up for a series of online parenting

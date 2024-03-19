@@ -2,6 +2,7 @@
 title: Our History
 permalink: /about-us/our-history/
 description: ""
+variant: markdown
 ---
 Our History
 ===========

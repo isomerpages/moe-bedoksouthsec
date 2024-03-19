@@ -2,65 +2,388 @@
 title: Upcoming Events
 permalink: /upcoming-events/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-| Date | Events |
-| -------- | -------- |
-| 10 - 11 Feb| Chinese New Year |
-| 12 - 13 Feb| CNY Public Holiday + School Holiday off-in-lieu |
-| 15 Feb| Class Leaders Training |
-| 14 - 16 Feb| Mother Tongue Fortnight |
-| 23 Feb| HBL 3  |
-| 27 Feb| Sec 2 Parents Engagement & Subject Selection via ZOOM (Evening) |
-| 29 Feb | Training for PSLs and Prefects |
-| 2 Mar | Parent-Child Bonding Activity - Bowling |
-| 6 - 8 Mar| Sec 1 to 5 Level Camps |
-| 9 - 17 Mar| March Holidays |
-|19 - 20 Mar| Hosting Regents School (Bali) |
-| 21 Mar | Training for PSLs and Prefects |
-| 22 Mar | Singapore Secondary Schools Debating Championships (SSSDC) Debate |
-| 26 Mar | Sec 2 Learning Journey to Museum|
-| 26 & 28 Mar | Sec 4 & 5 Prelim Mother Tongue Oral Exam|
-| 28 Mar | Sec 2 Art Learning Journey|
-| 29 Mar | Good Friday Public Holiday|
-| 2 & 4 Apr | Sec 3 Mother Tongue Oral Exam |
-| 10 Apr | Hari Raya Puasa Public Holiday|
-| 11 Apr | Sec 4 & 5 Learning Journey to NUS Demo Lab and Singapore Science Centre|
-| 11 Apr| Sec 3 Inter Class Games |
-| 12 Apr | HBL 4 |
-| 22 Apr | Sec 3 NRIC Registration |
-| 26 Apr | Speech Day|
-| 1 May | Labour Day|
-| 7 May |  Sec 3 Visual & Performing Arts, and Clubs & Societies Student Leaders' Training |
-| 9 May | International Students Activity Day / Learning Journey|
-| 10 May | HBL 6|
-| 14, 16 & 17 May | Sec 4 & 5 Prelim O-Level English Oral Exam|
-| 16 May | Sec 2 Learning Journey to Museum|
-| 16 May |  Sec 3 Sports & CCA Student Leaders' Training |
-| 20 -26 May |  Mother Tongue Language Intensive Programme |
-| 21 May | Student Leaders' Investiture |
-| 22 May | Vesak Day Public Holiday |
-| 23 May| Sec 2 Inter Class Games |
-| 24 May | HBL 7 |
-| 24 May | Sec 1 to 5 Parent-Teacher-Meeting|
-| 25 May - 23 Jun| June Holidays |
-| 17 Jun | Hari Raya Haji Public Holiday|
-| 25, 27 & 28 Jun | Sec 4 N(A) & N(T) Prelim English Oral Exam|
-| 30 Jun | Youth Day School Holiday|
-| 1 Jul | Youth Day School Holiday off-in-lieu|
-| 18 Jul| Racial Harmony Day Fair |
-| 18 Jul| Sec 1 Inter Class Games |
-| 23 - 25 Jul | HBL 8, 9, 10 |
-| 30 Jul - 7 Aug| Sec 4 N(A) & N(T) Prelim Exam Phase 1 |
-| 12, 13, 16, 19 - 23 Aug| Sec 4 N(A) & N(T) Prelim Exam Phase 2 |
-| 19 - 23, 26 - 28 Aug| Sec 4 & 5 O-Level Prelim Exam |
-| 9 Aug | National Day Public Holiday|
-| 30 Aug | Teachers' Day School Holiday|
-| 31 Aug - 8 Sep | September Holidays|
-| 25 Oct | Last day of school|
-| 31 Oct | Deepavali Public Holiday|
-| 16 Nov - 31 Dec | End of School Year Holidays|
-| 25 Dec | Christmas Public Holiday|
-
-
-To view our full calendar of events for 2024, please click [here](/about-us/our-calendar-of-events).
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Events</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start of Term 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 - 20 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hosting Regents School (Bali)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Training for PSLs and Prefects</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Secondary Schools Debating Championships (SSSDC) Debate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 Learning Journey to Museum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 &amp; 28 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 &amp; 5 Prelim Mother Tongue Oral Exam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 Art Learning Journey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Good Friday Public Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 &amp; 4 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Mother Tongue Oral Exam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Puasa Public Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 &amp; 5 Learning Journey to NUS Demo Lab and Singapore Science Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Inter Class Games</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 NRIC Registration</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speech Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Labour Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Visual &amp; Performing Arts, and Clubs &amp; Societies Student
+Leaders' Training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Students Activity Day / Learning Journey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14, 16 &amp; 17 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 &amp; 5 Prelim O-Level English Oral Exam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 Learning Journey to Museum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Sports &amp; CCA Student Leaders' Training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 -26 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language Intensive Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Leaders' Investiture</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vesak Day Public Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 Inter Class Games</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL 7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 to 5 Parent-Teacher-Meeting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 May - 23 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>June Holidays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Haji Public Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25, 27 &amp; 28 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 N(A) &amp; N(T) Prelim English Oral Exam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Youth Day School Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Youth Day School Holiday off-in-lieu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Racial Harmony Day Fair</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Inter Class Games</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 - 25 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL 8, 9, 10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Jul - 7 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 N(A) &amp; N(T) Prelim Exam Phase 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12, 13, 16, 19 - 23 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 N(A) &amp; N(T) Prelim Exam Phase 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 - 23, 26 - 28 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 &amp; 5 O-Level Prelim Exam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Public Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers' Day School Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Aug - 8 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September Holidays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Last day of school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepavali Public Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Nov - 31 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End of School Year Holidays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christmas Public Holiday</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>To view our full calendar of events for 2024, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>

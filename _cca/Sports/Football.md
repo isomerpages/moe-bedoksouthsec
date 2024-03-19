@@ -110,7 +110,7 @@ challenging environment.
   <tr>
     <td class="tg-y7qa"><br></td>
     <td class="tg-y7qa"><span style="color:#222">Masagos Cup</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Champions</span><br></td>
+    <td class="tg-y7qa"><span style="color:#222">Champion</span><br></td>
   </tr>
 </tbody>
 </table>

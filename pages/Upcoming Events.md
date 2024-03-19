@@ -19,7 +19,7 @@ variant: tiptap
 <p>18 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start of Term 2</p>
+<p>Start of Term 02</p>
 </td>
 </tr>
 <tr>

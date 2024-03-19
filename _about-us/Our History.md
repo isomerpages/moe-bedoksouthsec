@@ -2,6 +2,7 @@
 title: Our History
 permalink: /about-us/our-history/
 description: ""
+variant: markdown
 ---
 Our History
 ===========
@@ -14,7 +15,7 @@ Bedok South Secondary School was declared open by the late Dr Lee Chiaw Meng, th
 
   
 
-The school moved into its new campus on 27 December 2002 at 1, Jalan Langgar Bedok, Singapore 468585. The new campus was officially opened on 21 February 2004 by Mr Abdullah Tarmugi, Speaker of Parliament and Member of Parliament for East Coast GRC (Siglap).
+The school moved into its new campus on 27 December 2002 at 1, Jalan Langgar Bedok, Singapore 468585. The new campus was officially opened on 21 February 2004 by Mr Abdullah Tarmugi, Speaker of Parliament and Member of Parliament for East Coast GRC (Siglap)...
 
   
 

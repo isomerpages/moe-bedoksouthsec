@@ -19,7 +19,7 @@ variant: tiptap
 <p>18 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start of Term 02</p>
+<p>Start of Term 2</p>
 </td>
 </tr>
 <tr>
@@ -385,4 +385,5 @@ Leaders' Training</p>
 </tr>
 </tbody>
 </table>
-<p>To view our full calendar of events for 2024, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To view our full calendar of events for 2024, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>

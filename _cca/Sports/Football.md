@@ -96,36 +96,7 @@ challenging environment.
     <td class="tg-y7qa"><span style="color:#222">School Premier League B Division</span></td>
     <td class="tg-y7qa"><span style="color:#222">Achievement</span></td>
   </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> 2016</span></td>
-    <td class="tg-y7qa"><span style="color:#222">National School Games (NSG East Zone) B and C Boys</span></td>
-    <td class="tg-y7qa"><span style="color:#222"> 1st Round</span></td>
-  </tr>
-  <tr>
-    <td class="tg-laxs"></td>
-    <td class="tg-y7qa"><span style="color:#222">H2O Challenge Cup (2nd Tier) of National Competition</span></td>
-    <td class="tg-y7qa"><span style="color:#222">4th Place</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">2015</span></td>
-    <td class="tg-y7qa"><span style="color:#222">National School Games (NSG East Zone) B and C Boys</span></td>
-    <td class="tg-y7qa"><span style="color:#222">1st Round</span></td>
-  </tr>
-  <tr>
-    <td class="tg-laxs"></td>
-    <td class="tg-y7qa"><span style="color:#222">ITE-H20 Ultimate Champions League</span></td>
-    <td class="tg-y7qa"><span style="color:#222">U13 Champion</span></td>
-  </tr>
-  <tr>
-    <td class="tg-laxs"></td>
-    <td class="tg-y7qa"><span style="color:#222">Masagos Cup</span></td>
-    <td class="tg-y7qa"><span style="color:#222">1st Runners-Up</span></td>
-  </tr>
-  <tr>
-    <td class="tg-laxs"></td>
-    <td class="tg-y7qa"><span style="color:#222">Hougang United FC Challenge Cup</span></td>
-    <td class="tg-y7qa"><span style="color:#222">1st Runners-Up</span></td>
-  </tr>
+  
   <tr>
     <td class="tg-y7qa"><span style="color:#222">2014</span></td>
     <td class="tg-y7qa"><span style="color:#222">Nike Cup</span></td>

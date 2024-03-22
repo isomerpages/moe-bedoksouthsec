@@ -219,17 +219,17 @@ Form Teachers
   </tr>
   <tr>
     <td class="tg-kveo"> </td>
+    <td class="tg-kveo">Ms Pooja Avichal Ghoghari</td>
+    <td class="tg-kveo">108</td>
+    <td class="tg-kveo">pooja_avichal_ghoghari@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td class="tg-kveo"> </td>
     <td class="tg-kveo">Ms Nadia Begam</td>
     <td class="tg-kveo">109</td>
     <td class="tg-kveo">nadia_begam@moe.edu.sg</td>
   </tr>
-	 <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Mr Goh De Hao Samuel</td>
-    <td class="tg-kveo">160</td>
-    <td class="tg-kveo">goh_de_hao_samuel@moe.edu.sg</td>
-  </tr>
-  <tr>
+	  <tr>
     <td class="tg-kveo">2 Care</td>
     <td class="tg-kveo">Ms Wong Wah Jong (Mrs Joan Yang)</td>
     <td class="tg-kveo">107</td>
@@ -480,6 +480,12 @@ Form Teachers
     <td class="tg-kveo">Mr Soh Wei Keong</td>
     <td class="tg-kveo">163</td>
     <td class="tg-kveo">soh_wei_keong@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-y7qa"><span style="color:#222"> </span></td>
+    <td class="tg-kveo">Mr Goh De Hao Samuel</td>
+    <td class="tg-kveo">160</td>
+    <td class="tg-kveo">goh_de_hao_samuel@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-y7qa"><span style="color:#222">4G </span></td>

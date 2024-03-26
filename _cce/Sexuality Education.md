@@ -54,8 +54,8 @@ b. Character and Citizenship Education (CCE)
 #### At Bedok South Secondary School, the following lessons from Sexuality Education will be taught in 2024:
 
 
-[2024 Sexuality Education Lessons in CCE 2024](https://go.gov.sg/bdssexualityueducationschedule2024)
 
+[Sexuality Education Lessons in CCE 2024](https://go.gov.sg/bdssexualityeducationschedule2024v2)
 
 
 ### eTeens Programme:

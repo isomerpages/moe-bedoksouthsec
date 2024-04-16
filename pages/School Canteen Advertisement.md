@@ -8,8 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Cuisine | 30 Nov 2023     | Halal Nasi Padang and Noodles - Mee Rebus, Mee Siam, Mee Goreng, Lotong, Nasi Lemak & etc.    |
-| Snack and Drink | 5 Dec 2023     | Hot and Cold drinks only (No snack and food).    |
+| Chinese Soup & Dry Noodles Stall | 30 April 2024     | Experience operating in School Canteen is preferred.    |
 
 **Application Procedure**
 
@@ -47,4 +46,4 @@ variant: markdown
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). 
 
 
-*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
+*Only Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*

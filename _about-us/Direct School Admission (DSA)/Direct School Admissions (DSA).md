@@ -60,4 +60,4 @@ Students who enter our school through DSA-Sec will take on active roles in our d
 
 ### 3. DSA-Sec Selection Criteria and Process
 ------------------------------------------------------
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to MOE website at
+The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to MOE website at [https://www.moe.gov.sg/dsa-sec.](https://www.moe.gov.sg/dsa-sec)

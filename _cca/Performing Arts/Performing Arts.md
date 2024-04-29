@@ -34,7 +34,7 @@ Performing Arts
   </tr>
   <tr>
     <td class="tg-ktyi">Chinese Orchestra</td>
-    <td class="tg-ktyi">Ms Toh Qin Min (OIC)<br>Mdm Zhou Yun<br>Ms Joy Chia Yong Le<br>Ms Poh Bee Yong</td>
+    <td class="tg-ktyi">Ms Toh Qin Min (OIC)<br>Ms Joy Chia Yong Le<br>Ms Poh Bee Yong</td>
     <td class="tg-ktyi">1500 – 1800<br><span style="font-style:italic">(AVA Room &amp; Classrooms)</span></td>
     <td class="tg-ktyi">1500 – 1800 <br><span style="font-style:italic">(AVA room)</span></td>
   </tr>

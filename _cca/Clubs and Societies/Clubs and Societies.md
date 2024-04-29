@@ -35,8 +35,8 @@ Clubs and Societies
     <td class="tg-px6y" colspan="2">Day</td>
   </tr>
   <tr>
+    <td class="tg-px6y">Monday</td>
     <td class="tg-px6y">Wednesday</td>
-    <td class="tg-px6y">Friday</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Infocomm Club</td>
@@ -48,16 +48,16 @@ Clubs and Societies
   <tr>
     <td class="tg-ktyi">Media Production Club</td>
     <td class="tg-ktyi">Ms Kwek Ee Hui Irene (OIC)<br>Ms Yap Cheng Cheng Sophia</td>
-    <td class="tg-ktyi">Gallery (Hall 2nd Level)</td>
-    <td class="tg-7yig">3.00 – 5.00pm<br>
-    </td><td class="tg-7yig">–</td>
+    <td class="tg-ktyi">Gallery (Hall 2nd Level) / Computer Lab 1</td>
+    <td class="tg-7yig">3.30 – 5.00pm (Selected)<br>
+    </td><td class="tg-7yig">3.30 – 5.00pm</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Science &amp; Environment Club</td>
     <td class="tg-ktyi">Ms Ng Li Min Joanne (OIC)<br>Mdm Ho Lee Ling Caroline</td>
     <td class="tg-ktyi">Physics Lab 2</td>
     <td class="tg-7yig">3.30 – 5.30 pm</td>
-    <td class="tg-7yig">3.30 – 5.30 pm</td>
+    <td class="tg-7yig">3.30 – 5.30 pm (Selected)</td>
   </tr>
 </tbody>
 </table>

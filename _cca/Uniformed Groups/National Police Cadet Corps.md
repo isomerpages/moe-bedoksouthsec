@@ -15,6 +15,7 @@ National Police Cadet Corp (NPCC)
 
 Mr Kong Kian Keong Steve (OIC)&nbsp;<br>
 Mr Chua Lian Wee John <br>
+Ms Pooja Avichal Ghoghari<br>
 And&nbsp;**Volunteer Adult Leaders**
 
 ### MISSION of the CCA

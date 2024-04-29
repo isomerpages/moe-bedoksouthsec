@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Soup & Dry Noodles Stall | 30 April 2024     | Experience operating in School Canteen is preferred.    |
+| Chinese Soup & Dry Noodles Stall | 17 May 2024     | Experience operating in School Canteen is preferred.    |
 
 **Application Procedure**
 

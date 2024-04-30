@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Direct School Admission (DSA)
 variant: markdown
 ---
-Direct School Admissions (DSA) (2025 Seconodary 1 Intake)
+Direct School Admissions (DSA) (2025 Secondary 1 Intake)
 ==========
 
 ### 1. Direct School Admission (DSA)

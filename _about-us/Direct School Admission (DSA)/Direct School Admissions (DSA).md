@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Direct School Admission (DSA)
 variant: markdown
 ---
-Direct School Admissions (DSA)
+Direct School Admissions (DSA) (2025 Secondary 1 Intake)
 ==========
 
 ### 1. Direct School Admission (DSA)
@@ -15,7 +15,7 @@ Direct School Admission for secondary schools (DSA-Sec) allows students to apply
 
 For 2024, Bedok South Secondary School will offer Secondary One places to aspiring students with the desire to be developed under our key distinctive programmes via the DSA-Sec Exercise. We are looking for students who are passionate about these areas and are willing to contribute to the school and society. The key distinctive programmes are:
 
-(i)	Entrepreneurship and Innovation; and
+(i)	Innovation; and
 <br>(ii)	Sports and Games: 
 <br>a.	Badminton (Boys &amp; Girls)
 <br>b.	Floorball (Boys &amp; Girls)
@@ -41,7 +41,7 @@ Students who enter our school through DSA-Sec will take on active roles in our d
 
 |Talent Area| Programmes and activities that students can expect to participate in | 
 | -------- | -------- | 
-| Entrepreneurship &amp; Innovation     | 1)	Workshops and Learning Journeys for Sec 1 &amp; 2 centered on Design Thinking <br>2)	Makerspace activities for selected Sec 1 &amp; 2 students <br> 3)	MOE Innovation Programme (Secondary) and Tan Kah Kee Young Inventors' Award for selected students in Secondary 3 students  |
+| Innovation     | 1)	Workshops and Learning Journeys for Sec 1 &amp; 2 centered on Design Thinking <br>2)	Makerspace activities for selected Sec 1 &amp; 2 students <br> 3)	MOE Innovation Programme (Secondary) and Tan Kah Kee Young Inventors' Award for selected students in Secondary 3 students  |
 
 **b)	Sports and Education Programme – Learning for Life Programme (LLP): SHAPE@BDS** (A **S**chool of **H**ealthy **A**nd **P**hysically Educated **E**nthusiasts at Bedok South Secondary) <b>through Sports and the Outdoors. </b>
 

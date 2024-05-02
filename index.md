@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage.gif
+      background: /images/3.jpg
       key_highlights:
         - title: Latest Happenings
           description: Check out the latest happenings!

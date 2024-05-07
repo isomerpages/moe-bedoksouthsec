@@ -152,18 +152,14 @@ Through this exercise, successful applicants via our distinctive programmes will
 
 ### 8. Useful MOE Weblinks
 
-
-
-
-
 | DSA-Sec Main Webpage | https://www.moe.gov.sg/dsa-sec  | 
 | -------- | -------- | 
-| Instructions on Application <br>(Mainstream students) | https://go.gov.sg/dsa-sec-application   | 
-|  Instructions on Application <br>(Non-Mainstream Students) |  https://go.gov.sg/nmsdsa-sec-application    | 
-|  Direct to DSA-Sec Portal <br> (Mainstream Students)  | https://go.gov.sg/apply-dsa-sec    | 
-|   Direct to DSA-Sec Portal <br>(Non-Mainstream Students)  | https://go.gov.sg/apply-dsa-sec-nms   | 
-| DSA-Sec iFAQs   | https://go.gov.sg/dsa-secfaqs   | 
-|    DSA-Sec School Finder  |   https://go.gov.sg/dsa-secschfinder   | 
+| **Instructions on Application <br>(Mainstream students)** | **https://go.gov.sg/dsa-sec-application**   | 
+|  **Instructions on Application <br>(Non-Mainstream Students)** |**https://go.gov.sg/nmsdsa-sec-application**   | 
+| **Direct to DSA-Sec Portal <br> (Mainstream Students)** | **https://go.gov.sg/apply-dsa-sec**    | 
+| **Direct to DSA-Sec Portal <br>(Non-Mainstream Students)**  | **https://go.gov.sg/apply-dsa-sec-nms**   | 
+| **DSA-Sec iFAQs**   | **https://go.gov.sg/dsa-secfaqs**   | 
+| **DSA-Sec School Finder**  | **https://go.gov.sg/dsa-secschfinder**   | 
 
 For more information about the DSA Exercise, you may:
 <br>o	Visit MOE DSA-Sec website at  [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)

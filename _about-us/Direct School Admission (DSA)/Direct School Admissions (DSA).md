@@ -81,8 +81,8 @@ The Direct School Admission (DSA-Sec) talent areas for Bedok South Secondary Sch
 Bedok South Secondary School invites Primary 6 students with **<u>any</u>** of the following attributes and achievements to apply through the DSA-Sec exercise:
 
 **<u>a)	Via Innovation</u>** 
-<br>(i)	(i)	Represented the school and achieved accolades in inter-disciplinary competitions or led/ served as a member of inter-/ intra-school projects or IP-related competitions which require participants to generate innovative solutions to problems and issues.
-<br>(ii)	(ii)	Held leadership position/s in inter-disciplinary clubs or societies that require participants to generate innovative solutions to problems and issues.
+<br>(i)	Represented the school and achieved accolades in inter-disciplinary competitions or led/ served as a member of inter-/ intra-school projects or IP-related competitions which require participants to generate innovative solutions to problems and issues.
+<br>(ii) Held leadership position/s in inter-disciplinary clubs or societies that require participants to generate innovative solutions to problems and issues.
 
 **<u>b)	Via Sports and Games</u>** 
 <br>(i)	Possesses strong aptitude and interest in sports and the outdoors.
@@ -97,10 +97,10 @@ Bedok South Secondary School invites Primary 6 students with **<u>any</u>** of t
 
 <br>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-<br>For more details, please click here to access the MOE website at **www.moe.gov.sg/dsa-sec**.
+<br>For more details, please click here to access the MOE website at **[www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec)**.
 
 **<u>For Non-MOE Mainstream School Applicants</u>**
-Applicants not studying in MOE mainstream primary schools need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to MOE website at: https://go.gov.sg/nmsdsa-sec-application.
+Applicants not studying in MOE mainstream primary schools need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to MOE website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application).
 
 
 ### 4.   Selection Phase (24 June - 9 September)
@@ -142,7 +142,7 @@ Through this exercise, successful applicants via our distinctive programmes will
 
 ### 8. Useful MOE Weblinks
 
-| DSA-Sec Main Webpage | https://www.moe.gov.sg/dsa-sec  | 
+| DSA-Sec Main Webpage | [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)  | 
 | -------- | -------- | 
 | **Instructions on Application <br>(Mainstream students)** | **https://go.gov.sg/dsa-sec-application**   | 
 |  **Instructions on Application <br>(Non-Mainstream Students)** |**https://go.gov.sg/nmsdsa-sec-application**   | 

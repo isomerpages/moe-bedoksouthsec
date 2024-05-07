@@ -4,6 +4,10 @@ permalink: /latest-happenings/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<h4><strong>Direct School Admission (DSA) to Secondary 1 2025</strong></h4>
+<p>Please click <a href="https://www.bedoksouthsec.moe.edu.sg/about-us/admissions/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on the Direct School Admission exercise to Secondary&nbsp;1&nbsp;2025.</p>
 <h4><strong>Registration Information for School Candidates</strong></h4>
 <p>Please click <a href="https://go.gov.sg/gcentnaolevelregistrationinformation" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 information on 2024 Singapore-Cambridge GCE N(T)-, N(A)- &amp; O-Level
@@ -33,7 +37,12 @@ school education.</p>
 on 2 February 2024, please see appended the presentation materials and
 resources.</p>
 <p>Thank you for your kind attention.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

@@ -97,7 +97,7 @@ Bedok South Secondary School invites Primary 6 students with **<u>any</u>** of t
 
 <br>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-<br>For more details, please click here to access the MOE website at **[www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)**.
+<br>For more details, please click here to access the MOE website at **[www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/secondary/dsa)**.
 
 **<u>For Non-MOE Mainstream School Applicants</u>**
 Applicants not studying in MOE mainstream primary schools need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to MOE website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application).

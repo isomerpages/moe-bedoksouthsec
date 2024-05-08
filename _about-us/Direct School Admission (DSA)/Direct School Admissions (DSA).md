@@ -76,7 +76,7 @@ The Direct School Admission (DSA-Sec) talent areas for Bedok South Secondary Sch
 <br>c.	Football (Boys)
 <br>d.	Netball (Girls)
 <br>e.	Swimming (Boys &amp; Girls)
-<br>f.	Outdoor Adventure Basketball (Boys &amp; Girls)**
+<br>f.	Outdoor Adventure (Boys &amp; Girls)**
 
 Bedok South Secondary School invites Primary 6 students with **<u>any</u>** of the following attributes and achievements to apply through the DSA-Sec exercise:
 

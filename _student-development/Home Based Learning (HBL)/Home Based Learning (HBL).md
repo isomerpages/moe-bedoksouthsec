@@ -116,6 +116,40 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 5 (23 Jul)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/23_JUL_2024.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 5 (24 Jul)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/24_JUL.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 5 (25 Jul)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/25_JUL.png">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Student-Initiated Learning (SIL)</h3>

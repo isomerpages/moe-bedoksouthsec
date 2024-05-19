@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h1>Swimming</h1>
+<h1>Bedok South Swim Team</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bedok South Swim Team" src="/images/swimming.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_BDS_Swimming_Team.png">
 </div>
 <h3>Overview</h3>
 <p>The Bedok South Swim Team comprises swimmers from diverse backgrounds
@@ -21,7 +21,6 @@ by participating in events such as Swim for Hope organised by SAFRA and
 Changi Beach Club Charity Mass Swim to raise funds for charity. The team
 has also come together to create a video to educate the school community
 on various water safety measures.&nbsp;</p>
-<hr>
 <h3>Objectives</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -485,8 +484,11 @@ on various water safety measures.&nbsp;</p>
 <br>and&nbsp;<strong>External Coach</strong>
 </p>
 <h3>Leadership Positions</h3>
-<p>1. Team Captain (Boys)
-<br>2. Team Captain (Girls)
-<br>3. Team Vice-Captain (Boys)
-<br>4. Team Vice-Captain (Girls)
-<br>5. Logistics IC</p>
+<p>1) Team Captain (Boys)</p>
+<p>2) Team Captain (Girls)</p>
+<p>3) Team Vice-Captain (Boys)</p>
+<p>4) Team Vice-Captain (Girls)</p>
+<p>5) Logistics IC</p>
+<p>6) Fitness IC</p>
+<p>7) Events IC</p>
+<p>8) Media IC</p>

@@ -59,44 +59,23 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="16" colspan="1">
-<p>2022</p>
+<td rowspan="13" colspan="1">
+<p>2024</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>200m Backstroke (Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>50m Breaststroke (Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4<sup>th</sup> Place Medal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>100m Breaststroke (Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4<sup>th</sup> Place Medal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>400m Freestyle (Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4<sup>th</sup> Place Medal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>100m Butterfly (Boys)</p>
+<p>50m Butterfly (C Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Finals</p>
@@ -104,7 +83,7 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>100m Breaststroke (Boys)</p>
+<p>100m Butterfly (C Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Finals</p>
@@ -112,7 +91,7 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>400m Freestyle (Girls)</p>
+<p>100m Breaststroke (B Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Finals</p>
@@ -120,7 +99,23 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>800m Freestyle (Girls)</p>
+<p>200m Breaststroke (B Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>200m Freestyle (B Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>200 Individual Medley (B Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Finals</p>
@@ -145,14 +140,6 @@ on various water safety measures.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games – C Boys Freestyle Relay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Finals</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games – C Boys Medley Relay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Finals</p>
@@ -309,24 +296,45 @@ on various water safety measures.&nbsp;</p>
 <p>Finals</p>
 </td>
 </tr>
-<tr>
-<td rowspan="13" colspan="1">
-<p>2024</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+	<tr>
+<td rowspan="16" colspan="1">
+<p>2022</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50m Butterfly (C Girls)</p>
+<p>200m Backstroke (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>50m Breaststroke (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> Place Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>100m Breaststroke (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> Place Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>400m Freestyle (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> Place Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>100m Butterfly (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Finals</p>
@@ -334,7 +342,7 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>100m Butterfly (C Girls)</p>
+<p>100m Breaststroke (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Finals</p>
@@ -342,7 +350,7 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>100m Breaststroke (B Boys)</p>
+<p>400m Freestyle (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Finals</p>
@@ -350,23 +358,7 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>200m Breaststroke (B Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Finals</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>200m Freestyle (B Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Finals</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>200 Individual Medley (B Boys)</p>
+<p>800m Freestyle (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Finals</p>
@@ -391,6 +383,14 @@ on various water safety measures.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games – C Boys Freestyle Relay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games – C Boys Medley Relay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Finals</p>

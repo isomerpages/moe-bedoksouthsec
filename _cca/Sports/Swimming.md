@@ -191,8 +191,20 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="13" colspan="1">
 <p>2023</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50m Freestyle (Girls)</p>
@@ -203,9 +215,6 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>50m Butterfly (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,9 +222,6 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>100m Breaststroke (Boys)</p>
 </td>
@@ -225,9 +231,6 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>100m Butterfly (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -235,9 +238,6 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>200m Freestyle (Boys)</p>
 </td>
@@ -247,9 +247,6 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>200m Breaststroke (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,9 +254,6 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>400m Freestyle (Boys)</p>
 </td>
@@ -269,9 +263,6 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>National School Games – C Girls Medley Relay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,9 +270,6 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>National School Games – C Girls Freestyle Relay</p>
 </td>
@@ -291,9 +279,6 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>National School Games – C Boys Freestyle Relay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -301,9 +286,6 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>National School Games – C Boys Medley Relay</p>
 </td>
@@ -313,9 +295,6 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>National School Games – B Boys Freestyle Relay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -324,9 +303,6 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>National School Games – B Boys Medley Relay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -334,8 +310,20 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
+<td rowspan="13" colspan="1">
+<p>2024</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50m Butterfly (C Girls)</p>
@@ -346,9 +334,6 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>100m Butterfly (C Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -356,9 +341,6 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>100m Breaststroke (B Boys)</p>
 </td>
@@ -368,9 +350,6 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>200m Breaststroke (B Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -378,9 +357,6 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>200m Freestyle (B Boys)</p>
 </td>
@@ -390,9 +366,6 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>200 Individual Medley (B Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -400,9 +373,6 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>National School Games – C Girls Medley Relay</p>
 </td>
@@ -412,9 +382,6 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>National School Games – C Girls Freestyle Relay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -422,9 +389,6 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>National School Games – C Boys Freestyle Relay</p>
 </td>
@@ -434,9 +398,6 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>National School Games – B Girls Medley Relay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -444,9 +405,6 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>National School Games – B Girls Freestyle Relay</p>
 </td>
@@ -456,9 +414,6 @@ on various water safety measures.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>National School Games – B Boys Freestyle Relay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -466,9 +421,6 @@ on various water safety measures.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>National School Games – B Boys Medley Relay</p>
 </td>

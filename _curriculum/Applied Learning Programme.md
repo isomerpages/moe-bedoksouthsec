@@ -2,6 +2,7 @@
 title: Applied Learning Programme
 permalink: /curriculum/applied-learning-programme-alp-project-s-h-i-n-e/
 description: ""
+variant: markdown
 ---
 Applied Learning Programme
 =====================================================
@@ -9,7 +10,7 @@ Applied Learning Programme
 
 ### Introduction  
 
-In our effort to provide a vibrant learner-centred environment that is conducive to student development and achievement, we have introduced the Applied Learning Programme (Project SHINE) since 2014 where students work towards a solution to a problem that addresses a genuine need in the real world.&nbsp;
+In our effort to provide a vibrant learner-centered environment that is conducive to student development and achievement, we have introduced the Applied Learning Programme (Project S.H.I.N.E) since 2014 where students work towards solutions to problems that address a genuine need in the real world, to nurture stewards of the environment and society. 
 
 ### Student Outcomes
 

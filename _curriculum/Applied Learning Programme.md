@@ -2,6 +2,7 @@
 title: Applied Learning Programme
 permalink: /curriculum/applied-learning-programme-alp-project-s-h-i-n-e/
 description: ""
+variant: markdown
 ---
 Applied Learning Programme
 =====================================================
@@ -9,7 +10,7 @@ Applied Learning Programme
 
 ### Introduction  
 
-In our effort to provide a vibrant learner-centred environment that is conducive to student development and achievement, we have introduced the Applied Learning Programme (Project SHINE) since 2014 where students work towards a solution to a problem that addresses a genuine need in the real world.&nbsp;
+In our effort to provide a vibrant learner-centered environment that is conducive to student development and achievement, we have introduced the Applied Learning Programme (Project S.H.I.N.E) since 2014 where students work towards solutions to problems that address a genuine need in the real world, to nurture stewards of the environment and society. 
 
 ### Student Outcomes
 
@@ -37,44 +38,33 @@ The Design Thinking framework we adopt follows the following 4 phases:
 
 ![Applied Learning Programme (ALP) - PROJECT S.H.I.N.E ](/images/ALPimg.jpg)
 
-#### I) Secondary One (Experience &amp; Expose)
+#### I) Secondary One (Experience &amp; Expose) and Secondary Two (Empower &amp; Enrich)
+--------------------------------------
+Secondary 1 students are introduced to the Design Thinking cycle to build empathy and reframe problems into opportunities through various learning experiences such as workshops and learning journeys. In Secondary 2, students are given opportunities to extend the skillset and mindset of Design Thinking which they have learnt in Secondary 1 through other learning experiences. These include those that develop marketing strategies to inculcate the spirit of entrepreneurial dare. Students also participate in the annual National Youth Upcycling Movement to introduce a culture of sustainability through upcycling and green consumerism through upcycling tips and learning about plastic waste.
+
+
+#### II) Secondary Three (Excel)
 --------------------------------------
 
-<b>Theme:</b>&nbsp;Sustainability (Care for the environment)  
-  
-<b>Design challenge:</b>  <br> 
-To instil a sense of care for the environment, Secondary 1 students focused on the first 2 phases of the Design Thinking cycle (Empathy and Ideation) to actively seek out problems related to issues on sustainable living as a BDSian. Students engage in workshops such as App Development and also participate in the annual National Youth Upcycling Movement to introduce a culture of sustainability through upcycling and green consumerism through upcycling tips and learning about plastic waste.
+Selected students who have shown a deeper ability to apply their understanding of the Design Thinking framework are selected to further explore their interest by partaking in carefully chosen national competitions including the MOE Innovation Programme and Tan Kah Kee Young Inventors’ Award. These opportunities allow students to explore and develop areas of strengths and interests as well as to better understand the post-secondary pathways, evolving job landscapes and future career choices.
 
-#### II) Secondary Two (Empower &amp; Enrich)
---------------------------------------
 
-<b>Theme:</b>&nbsp;Sustainability (Care for the environment)  
-
-<b>Design Challenge:</b>  <br> 
-The Design Challenge gives students the opportunity to extend the principles and mindset of Design Thinking which they have learnt in Secondary 1 to instil a sense of responsibility towards our environment and the need for conservation. Students focus on working with community partners such as the World Wide Fund for Nature while developing marketing strategies to inculcate the spirit of entrepreneurial dare.
-
-#### III) Secondary Three
---------------------------------------
-
-Selected students who have shown a deeper ability to apply their understanding of the Design Thinking framework in the Secondary 2 Design Challenge are selected to further explore their interest by partaking in carefully chosen national competitions. These opportunities allow students to explore and develop areas of strengths and interests as well as to better understand the post-secondary pathways, evolving job landscape and determine future career choices such as those in Science, Engineering and Technology.
 
 #### Programme Highlights
 
 
-<b>Biweekly classroom sessions</b>
-![](/images/ALP.png)
+<b>Level Camp</b>
+![](/images/Curriculum/Applied%20LearningProgrammeSHINE/2024SHINE1.png)
 
+![](/images/Curriculum/Applied%20LearningProgrammeSHINE/2024SHINE3.png)
 
+<b>Makerspace Activities</b>
+![](/images/Curriculum/Applied%20LearningProgrammeSHINE/2024SHINE4.png)
+	
+![](/images/Curriculum/Applied%20LearningProgrammeSHINE/2024SHINE5.png)
+	
+<b>Learning Journeys </b>
+![](/images/Curriculum/Applied%20LearningProgrammeSHINE/2024SHINE5Learning_Journey.png)
 
-<b>Learning Journey to Changi Experience Studio</b>
-![](/images/ALP2.png)
-
-
-
-<b>Workshops</b>
-![](/images/ALP3.png)
-
-
-
-<b>Secondary Three Innovation Programme</b>
-![](/images/ALP4.png)
+<b>Secondary Three Stretch Programme</b>
+![](/images/Curriculum/Applied%20LearningProgrammeSHINE/2024SHINE5Stretch.png)

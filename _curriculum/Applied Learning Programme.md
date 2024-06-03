@@ -54,3 +54,17 @@ Selected students who have shown a deeper ability to apply their understanding o
 
 
 <b>Level Camp</b>
+![](/images/Curriculum/Applied%20LearningProgrammeSHINE/2024SHINE1.png)
+
+![](/images/Curriculum/Applied%20LearningProgrammeSHINE/2024SHINE3.png)
+
+<b>Makerspace Activities</b>
+![](/images/Curriculum/Applied%20LearningProgrammeSHINE/2024SHINE4.png)
+	
+![](/images/Curriculum/Applied%20LearningProgrammeSHINE/2024SHINE5.png)
+	
+<b>Learning Journeys </b>
+![](/images/Curriculum/Applied%20LearningProgrammeSHINE/2024SHINE5Learning_Journey.png)
+
+<b>Secondary Three Stretch Programme</b>
+![](/images/Curriculum/Applied%20LearningProgrammeSHINE/2024SHINE5Stretch.png)

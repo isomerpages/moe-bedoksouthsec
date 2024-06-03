@@ -3,11 +3,12 @@ title: Science
 permalink: /curriculum/science/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
 Science
 =======
 
-![](/images/Learning%20Sc%20WithinnBeyong.jpeg)
+![](/images/Curriculum/Science/Sc1.png)
 
 
 ### Introduction

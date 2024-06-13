@@ -32,10 +32,15 @@ The club seeks student opinions and feedback and tailors the programmes to cater
 * Brain Fest 2024 @ Science Centre
 
 
-<b>Students showcased the balloon car that they had made using STEM principles.</b>
+
+
+<b>Students showcased the balloon car that they had made using STEM principles.</b> 
+
+<b>Students used their creativity and STEM principles to design ballon cars.</b>
+
 
  
-<b>Students used their creativity and STEM principles to design ballon cars.</b>
+
 
  
 <b>Students used scientific methods to investigate the oil content in potato chips.</b>

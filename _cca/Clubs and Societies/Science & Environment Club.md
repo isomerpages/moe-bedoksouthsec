@@ -48,10 +48,10 @@ Students in the Executive Committee (EXCO) 2023/24 represented our school at the
 * School-Wide Design Thinking Competition to Generate Ideas on Reducing, Reusing, and Recycling Plastic
 * Reflections and Learning on Activating Changes
 
-![](/images/CCA/Clubs%20and%20Societies/11__SEC_WWF_Awards.jpg)
+![](/images/CCA/Clubs%20and%20Societies/11_12_SEC.png)
 Our school was selected to be one of two schools to showcase our efforts in changing the way that our school thinks about plastic waste. So, members of the EXCO spent additional time and effort to prepare for the presentation and they were most grateful for the attention from the participants at the ceremony.
 
-![](/images/CCA/Clubs%20and%20Societies/12__SEC_WWF_Booth.jpg)
+
 On 24 February 2024, representatives from the Science &amp; Environment Club and our school’s Badminton CCA attended the East Coast Community that was graced by the Advisers to East Coast GRC Grassroots Organisations. The students took part in planting 100 trees to commemorate LKY100. They also joined in the highlight event of the day – the official opening of the Singapore Badminton Hall East Coast @ EXPO. They helped to break the Singapore Book of Records for the most number of participants in a Badminton rally.
 ![](/images/CCA/Clubs%20and%20Societies/13_SEC.png)
 
@@ -68,7 +68,7 @@ The teams of students and their respective project topics are as follows:
 
 <b>Project topic</b>: Exploring the viability of candy straws as sustainable alternative to single-use plastic bubble tea straws for minimizing plastic waste.
 <br><b>Members</b>: PERRY POH YAN ZHI (3D), SAMUEL LAWRENCE TAN WEI JIE (3D) FOO CHUAN YEE (3C), and FONG KENG XIN (3D)
-
+![](/images/CCA/Clubs%20and%20Societies/14___15_SEC.png)
 
 ### Teachers-In-Charge
 Ms Ng Li Min Joanne (OIC) <br>

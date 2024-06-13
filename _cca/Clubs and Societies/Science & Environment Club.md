@@ -13,47 +13,53 @@ Science &amp; Environment Club
 
 The Science and Environment Club nurtures students' knowledge and thinking about scientific and environmental issues. It aims to develop students' interest in Science, Technology, Engineering, and Mathematics (STEM) and equip them with baseline skills necessary to pursue a career in STEM. 
 
-The club seeks student opinions and feedback, and tailors programmes to cater to their learning needs each year. In the course of 2023, the club has run the following science modules for the students:
+The club seeks student opinions and feedback and tailors the programmes to cater to their learning needs each year. As of May 2024, the club has run the following learning modules for the students:
 
-* Introduction to Microscopy Using Leaves from the Garden
-* Introduction to Titration Using Vitamin C and Iodine
-* Making Plastic Out of Milk
-* Introduction to Nature-journaling of Plants in the Garden
-* Party Science: Balloon-sculpting and the Reaction of Mentos with Coke
-* Chemistry of Chocolate @ Science Centre
-* Molecular Gastronomy @ Science Centre
-* Learning Journey @ NEWater Visitor Centre
-* Intermediate Nature-journaling of Birds @ Bird Paradise
-* Inter-Pentangular Competition @ St Hilda's Secondary School
-* Visit and Experience @ The Gem Museum
-
-![SEC1](/images/CCA/Clubs%20and%20Societies/SEC1.jpg)
-Members of the club outside the NEWater Visitor Centre
-![SEC2](/images/CCA/Clubs%20and%20Societies/SEC2.jpg)
-Members of the club on their learning journey to the Bird Paradise
-
-![SEC3](/images/CCA/Clubs%20and%20Societies/SEC3.jpg)
-A group of students viewing gems with special characteristics at The Gem Museum.
-
-The club continued its third year of work with the World Wildlife Fund (WWF) Eco-Schools Programme this year. Students in the Executive Committee (EXCO) have used the Seven Steps Approach from UNESCO's Education for Sustainable Development framework in their project to Change the Way You Think About Waste. The EXCO has led its members to run the following programmes to reduce the plastic waste in school:
-* Introduction to Circular Economy via Assembly Talk
-* Making Beeswax Sandwich Wraps to Replace Plastic Bags
-* Learning About Plastic Waste via School-Wide Quiz
-* Setup of Recycling Boxes for All Plastic Bottles in the Canteen
-* Illustrate Posters to Influence the School to Reduce, Reuse, and Recycle Plastic
-* School-Wide Design Thinking Competition to Generate Ideas on Reducing, Reusing, and Recycling Plastic
-* Reflections and Learning on Activating Changes
-
-![SEC4](/images/CCA/Clubs%20and%20Societies/SEC4.jpg)
-Students making beeswax sandwich wraps to replace plastic bags.
+* Construct a Balloon Car using STEM principles
+* Investigate the Oil Content in Potato Chips
+* Construct a Cotton Reel Tank for the STEM Playground 2024 competition
+* Plastic: Remaking Our World @ National Museum of Singapore
+* Extract DNA from Strawberry
+* Lecture by Science Centre: What makes a Good Science &amp; Engineering Project?
+* Lecture by Science Centre: Writing a Scientific Report
+* Introduction to Scientific Communication: A Peer-to-Peer Sharing of the Results from the Climate Crisis Challenge 2024 and the 25th International Elementz Fair
+* The Science of Celebration: Make Candy Straw
+* The Science of Celebration: Make Ice-cream
+* Reflection of Learning for Semester 1
+* How to Select the New Leaders
+* Leadership Training
+* Construct a Cardboard Chair for the STEM Playground 2024 competition
+* Brain Fest 2024 @ Science Centre
 
 
-### Achievements
-Gabrielle Angelica Pereira of Class 4A and Conrad Yeah of Class 4C represented the school to receive the Eco-Schools Bronze Award from WWF this year as they had led a consistent group of students to contribute meaningfully and significantly to the whole school's efforts to cultivate an understanding of food waste and to take actions to tackle the corresponding issues in 2022.
+<b>Students showcased the balloon car that they had made using STEM principles.</b>
 
+ 
+<b>Students used their creativity and STEM principles to design ballon cars.</b>
 
-![SEC5](/images/CCA/Clubs%20and%20Societies/SEC5.jpg)
-Gabrielle (left) and Conrad (center) took photos with the WWF personnel at the Awards Ceremony.
+ 
+<b>Students used scientific methods to investigate the oil content in potato chips.</b>
+
+ 
+<b>Students conducted a workshop for their peers in school to learn STEM principles and construct a Cotton Reel Tank for the STEM Playground 2024 competition.</b>
+
+ 
+<b>Students who taught their peers to make a Cotton Reel Tank for the STEM Playground 2024 competition also honed their leadership and communication skills in the process.</b>
+
+ 
+<b>Students made a candy straw for drinking, in the spirit of learning the concept of ‘zero waste’ to build a more sustainable environment.</b>
+
+ 
+<b>Students made ice-cream from common household ingredients and materials on the day that they celebrated the graduation of our Secondary 4 members.</b>
+
+ 
+<b>Teachers and students of the Science and Environments Club celebrated the graduation of our Secondary 4 students.
+
+ 
+<b>Students constructed chairs out of cardboard for the second part of the STEM Playground 2024 competition.</b>
+
+ 
+<b>In a STEM session, students work in small groups with specific roles such as Contact Point, Resource Manager, Key Writer, Main Presenter, and Project Manager. They followed the Design Thinking process as well as STEM principles to make a prototype of their cardboard chair for STEM Playground 2024.</b>
 
 
 
@@ -61,6 +67,7 @@ Gabrielle (left) and Conrad (center) took photos with the WWF personnel at the A
 ### Teachers-In-Charge
 Ms Ng Li Min Joanne (OIC) <br>
 Mdm Ho Lee Ling Caroline <br>
+Ms Sim Ting Ting Nancy
 
 ### Leadership Positions
-![](/images/CCA/Clubs%20and%20Societies/SnE2024.JPG)
+![](/images/CCA/Clubs%20and%20Societies/SnE2024.JPG)</b>

@@ -69,7 +69,7 @@ Elementz Fair</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs%20and%20Societies/3_SEC.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs%20and%20Societies/3_SEC.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -81,7 +81,7 @@ Elementz Fair</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs%20and%20Societies/8_SEC.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs%20and%20Societies/8_SEC.png">
 </div>
 <h3>Community Involvement</h3>
 <p>Students in the Executive Committee (EXCO) 2023/24 represented our school

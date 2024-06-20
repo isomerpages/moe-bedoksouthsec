@@ -60,7 +60,7 @@ Sports
   <tr>
     <td rowspan="2" class="tg-dgl5">Football</td>
     <td rowspan="2" class="tg-dgl5">Mr Nordin B Hassan (OIC) 
-			<br>Mr Loi Chun Mun<br>Mr Mohammed Imran Bin Mawardi<br>and external coach</td>
+			<br>Mr Loi Chun Mun<br>Mr Mohammed Imran Bin Mawardi<br>Ms Fatimah<br>and external coach</td>
     <td class="tg-9hzb">Monday</td>
     <td class="tg-9hzb">3.00 pm – 5.00 pm<br>(<span style="font-style:italic">Field</span>)</td>
   </tr>
@@ -70,7 +70,7 @@ Sports
   </tr>
   <tr>
     <td rowspan="2" class="tg-dgl5">Netball</td>
-    <td rowspan="2" class="tg-dgl5">	Ms Srividya Nair DO Rajakumaran Nair (OIC)<br>Ms Nadia Binte Lamri<br>Ms Lee Wei Ling Joanne<br>and external coach</td>
+    <td rowspan="2" class="tg-dgl5">	Ms Srividya Nair DO Rajakumaran Nair (OIC)<br>Ms Nadia Binte Lamri<br>and external coach</td>
     <td class="tg-9hzb">Monday</td>
     <td class="tg-9hzb">3.00 pm – 5.30 pm <br>(<span style="font-style:italic">Basketball Court</span>)</td>
   </tr>
@@ -80,7 +80,7 @@ Sports
   </tr>
 	<tr>
     <td rowspan="2" class="tg-dgl5">Swimming</td>
-    <td rowspan="2" class="tg-dgl5">Ms Koh Cin Dee, Sylvelin (OIC)<br>	Ms Mahtani Hoori Vikram</td>
+    <td rowspan="2" class="tg-dgl5">Ms Mahtani Hoori Vikram (OIC)<br>	Mr Loy Pei Phoong</td>
     <td class="tg-9hzb">Monday</td>
     <td class="tg-9hzb">3.00 pm – 4.30 pm <br>(<span style="font-style:italic">School Quadrangle</span>)</td>
   </tr>

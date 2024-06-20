@@ -293,20 +293,13 @@ Form Teachers
     <td class="tg-kveo">108 </td>
     <td class="tg-kveo">joy_chia_yong_le@moe.edu.sg</td>
   </tr>
- 
   <tr>
     <td class="tg-y7qa"><span style="color:#222">3B</span></td>
     <td class="tg-kveo">Mdm Suchandra Ghose</td>
     <td class="tg-kveo">116</td>
     <td class="tg-kveo">suchandra_ghose@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Ms Nadia Binte Lamri</td>
-    <td class="tg-kveo">115</td>
-    <td class="tg-kveo">nadia_lamri@moe.edu.sg</td>
-  </tr>
-	  <tr>
+  	  <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Mr Lim Tuan Zheng Joseph</td>
     <td class="tg-kveo">115</td>
@@ -373,12 +366,6 @@ Form Teachers
     <td class="tg-kveo">108</td>
     <td class="tg-kveo">mohamed_imran_mawardi@moe.edu.sg</td>
   </tr>
-			  <tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Mr Asraf Ali S/O A.A.Anverdeen</td>
-    <td class="tg-kveo">158</td>
-    <td class="tg-kveo">asraf_ali_anverdeen@moe.edu.sg</td>
-  </tr>
 	
 </tbody>
 </table>
@@ -412,11 +399,11 @@ Form Teachers
     <td class="tg-kveo">104</td>
     <td class="tg-kveo">lam_yen_ping@moe.edu.sg</td>
   </tr>
-  <tr>
-	  </tr><tr><td class="tg-kveo"> </td>
-    <td class="tg-kveo">Ms Lee Wei Ling Joanne</td>
+	<tr>
+    <td class="tg-y7qa"><span style="color:#222"> </span></td>
+    <td class="tg-kveo">Ms Sim Ting Ting Nancy</td>
     <td class="tg-kveo">111</td>
-    <td class="tg-kveo">lee_wei_ling_a@moe.edu.sg</td>
+    <td class="tg-kveo">sim_ting_ting_nancy@moe.edu.sg</td>
   </tr>
   <tr>
   
@@ -483,10 +470,11 @@ Form Teachers
   </tr>
 	<tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Mr Goh De Hao Samuel</td>
-    <td class="tg-kveo">160</td>
-    <td class="tg-kveo">goh_de_hao_samuel@moe.edu.sg</td>
+    <td class="tg-kveo">Ms Nadia Binte Lamri</td>
+    <td class="tg-kveo">115</td>
+    <td class="tg-kveo">nadia_lamri@moe.edu.sg</td>
   </tr>
+
   <tr>
     <td class="tg-y7qa"><span style="color:#222">4G </span></td>
     <td class="tg-kveo">Ms Sharifah Hana Bte H A Alhaddad</td>
@@ -506,20 +494,12 @@ Form Teachers
     <td class="tg-kveo">halimah_rahmat@moe.edu.sg</td>
   </tr>
   <tr>
-  
-  </tr>
-  <tr>
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Mr Nordin B Hassan</td>
     <td class="tg-kveo">162</td>
     <td class="tg-kveo">nordin_bin_hassan@moe.edu.sg</td>
   </tr>
-<tr>
-    <td class="tg-y7qa"><span style="color:#222"> </span></td>
-    <td class="tg-kveo">Ms Sim Ting Ting Nancy</td>
-    <td class="tg-kveo">111</td>
-    <td class="tg-kveo">sim_ting_ting_nancy@moe.edu.sg</td>
-  </tr>
+
 </tbody>
 </table>
 

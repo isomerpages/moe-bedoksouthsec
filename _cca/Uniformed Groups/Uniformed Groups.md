@@ -35,7 +35,7 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ryel">NCC Land (B)</td>
-    <td class="tg-ryel">Mr Song Wei Chiek Hubert (OIC)<br>Mr Asraf Ali S/O A.A.Anverdeen<br>Mr Gan Chun Seng<br>Mr Lim Tuan Zheng</td>
+    <td class="tg-ryel">Mr Song Wei Chiek Hubert (OIC)<br>Mr Gan Chun Seng<br>Mr Lim Tuan Zheng</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Area in front of General Office)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Area in front of General Office)</td>
   </tr>
@@ -59,7 +59,7 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ryel">Girl Guides (G)<br>(No more intake from 2024) </td>
-    <td class="tg-ryel">Ms Eva Koh (Mrs Eva Seah) (covering OIC)<br>Mdm Nadia Bte Ramli <br> </td>
+    <td class="tg-ryel">Ms Eva Koh (Mrs Eva Seah) (covering OIC)<br>Ms Chua Hui Qi <br> </td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Old Basketball Court near Block G)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Old Basketball Court near Block G)</td>
   </tr>

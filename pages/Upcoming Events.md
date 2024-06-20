@@ -4,7 +4,11 @@ permalink: /upcoming-events/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -16,147 +20,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 Mar</p>
+<p>24 Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start of Term 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 NRIC Registration</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Speech Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Labour Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Visual &amp; Performing Arts, and Clubs &amp; Societies Student
-Leaders' Training</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>International Students Activity Day / Learning Journey</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HBL 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14, 16 &amp; 17 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 &amp; 5 Prelim O-Level English Oral Exam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 Learning Journey to Museum</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Sports &amp; CCA Student Leaders' Training</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20 -26 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue Language Intensive Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Leaders' Investiture</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vesak Day Public Holiday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 Inter Class Games</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HBL 7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 to 5 Parent-Teacher-Meeting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25 May - 23 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June Holidays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Haji Public Holiday</p>
+<p>Start of Term 3</p>
 </td>
 </tr>
 <tr>

@@ -120,9 +120,9 @@ challenging environment.
 
 ### Teachers-in-Charge  
 
-Mr Nordin B Hassan (OIC) <br>
-Mr Loi Churn Mun<br>
+Mr Loi Churn Mun (OIC)<br>
 Mr Mohammed Imran Bin Mawardi <br> 
+Ms Fatimah Zahra <br>
 And&nbsp;<b>External Coach</b>
 
 ### Leadership Positions

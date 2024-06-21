@@ -544,23 +544,17 @@ Form Teachers
     <td class="tg-kveo">157</td>
     <td class="tg-kveo">nadia_ramli@moe.edu.sg</td>
 </tr>
-	<tr>	
-		<td class="tg-kveo">CAJT (Geography)</td>
-    <td class="tg-kveo">Ms Koh Cin Dee, Sylvelin</td>
-    <td class="tg-kveo">160</td>
-    <td class="tg-kveo">koh_cin_dee_sylvelin@moe.edu.sg</td>
-  </tr>
-	<tr>
-    <td class="tg-kveo">FAJT (English Language/Literature)</td>
-    <td class="tg-kveo">Mdm Teo Suat Hwee</td>
-    <td class="tg-kveo">102</td>
-    <td class="tg-kveo">pang_suat_hwee@moe.edu.sg</td>
-  </tr>
 	 <tr>
     <td class="tg-kveo">FAJT (Malay Language)</td>
     <td class="tg-kveo">Mdm Rohani Bte Ahmad</td>
     <td class="tg-kveo">101</td>
     <td class="tg-kveo">rohani_ahmad_b@moe.edu.sg</td>
+  </tr>
+	  <tr>
+    <td class="tg-kveo">FAJT (Mathematics)</td>
+    <td class="tg-kveo">Mdm Chan Wan Yin</td>
+    <td class="tg-kveo">103</td>
+    <td class="tg-kveo">chan_wan_yin_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-kveo">FAJT (Mathematics)</td>
@@ -580,13 +574,7 @@ Form Teachers
     <td class="tg-kveo">107</td>
     <td class="tg-kveo">ong_song_chin_a@moe.edu.sg</td>
   </tr>
-	<tr>
-    <td class="tg-kveo">FAJT (Gear-up)</td>
-    <td class="tg-kveo">Mr Syahrulnizam Bin Abdul Rahman</td>
-    <td class="tg-kveo">163</td>
-    <td class="tg-kveo">syahrulnizam_abdul_rahman@moe.edu.sg </td>
-  </tr>
-  	<tr>
+	 	<tr>
     <td class="tg-kveo">FAJT (PE &amp; CCA)</td>
     <td class="tg-kveo">Mr Khoo Kian Eng Kenneth</td>
     <td class="tg-kveo">162</td>

@@ -296,7 +296,7 @@ on various water safety measures.&nbsp;</p>
 <p>Finals</p>
 </td>
 </tr>
-	<tr>
+<tr>
 <td rowspan="16" colspan="1">
 <p>2022</p>
 <p>&nbsp;</p>
@@ -431,8 +431,8 @@ on various water safety measures.&nbsp;</p>
 </tbody>
 </table>
 <h3>Teacher-in-charge</h3>
-<p>Ms Koh Cin Dee, Sylvelin (OIC)
-<br>Ms Mahtani Hoori Vikram
+<p>Ms Mahtani Hoori Vikram (OIC)
+<br>Mr Loy Pei Phoong
 <br>and&nbsp;<strong>External Coach</strong>
 </p>
 <h3>Leadership Positions</h3>

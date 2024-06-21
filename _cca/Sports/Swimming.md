@@ -436,11 +436,11 @@ on various water safety measures.&nbsp;</p>
 <br>and&nbsp;<strong>External Coach</strong>
 </p>
 <h3>Leadership Positions</h3>
-<p>1) Team Captain (Boys)</p>
-<p>2) Team Captain (Girls)</p>
-<p>3) Team Vice-Captain (Boys)</p>
-<p>4) Team Vice-Captain (Girls)</p>
-<p>5) Logistics IC</p>
-<p>6) Fitness IC</p>
-<p>7) Events IC</p>
-<p>8) Media IC</p>
+<p>1) Team Captain (Boys)
+<br>2) Team Captain (Girls)
+<br>3) Team Vice-Captain (Boys)
+<br>4) Team Vice-Captain (Girls)
+<br>5) Logistics IC
+<br>6) Fitness IC
+<br>7) Events IC
+<br>8) Media IC</p>

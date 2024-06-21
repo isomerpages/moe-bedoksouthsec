@@ -40,14 +40,14 @@ Clubs and Societies
   </tr>
   <tr>
     <td class="tg-ktyi">Infocomm Club</td>
-    <td class="tg-ktyi">Mdm Suchandra Ghose (OIC)<br>Ms Nadia Begam<br>Nordin B Hassan</td>
+    <td class="tg-ktyi">Mdm Suchandra Ghose (OIC)<br>Ms Nadia Begam<br>Mr Nordin B Hassan</td>
     <td class="tg-ktyi">Computer Lab 2</td>
     <td class="tg-7yig">3.00 – 4.30pm</td>
     <td class="tg-7yig">(Selected)</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Media Production Club</td>
-    <td class="tg-ktyi">Ms Kwek Ee Hui Irene (OIC)<br>Ms Yap Cheng Cheng Sophia<br>Nordin B Hassan</td>
+    <td class="tg-ktyi">Ms Kwek Ee Hui Irene (OIC)<br>Ms Yap Cheng Cheng Sophia<br>Mr Nordin B Hassan</td>
     <td class="tg-ktyi">Gallery (Hall 2nd Level) / Computer Lab 1</td>
     <td class="tg-7yig">3.30 – 5.00pm (Selected)<br>
     </td><td class="tg-7yig">3.30 – 5.00pm</td>

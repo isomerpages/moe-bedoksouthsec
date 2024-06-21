@@ -164,8 +164,3 @@ WEI JIE (3D) FOO CHUAN YEE (3C), and FONG KENG XIN (3D)</p>
 <p>Ms Ng Li Min Joanne (OIC)
 <br>Mdm Ho Lee Ling Caroline
 <br>Ms Sim Ting Ting Nancy</p>
-<h3>Leadership Positions</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs%20and%20Societies/SnE2024.JPG">
-</div>
-<p></p>

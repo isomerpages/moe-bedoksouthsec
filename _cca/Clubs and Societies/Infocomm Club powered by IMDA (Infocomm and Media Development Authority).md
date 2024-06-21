@@ -82,5 +82,5 @@ Achievements:
 ### Teachers-in-Charge
 
 Mdm Suchandra Ghose&nbsp;(OIC)  
-Ms Nadia Begam
+Ms Nadia Begam <br>
 Mr Nordin B Hassan

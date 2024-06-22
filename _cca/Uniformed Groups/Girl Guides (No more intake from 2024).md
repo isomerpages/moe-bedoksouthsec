@@ -15,7 +15,7 @@ Guiding is an international movement with over ten millions girls and young wome
 ### Teachers-in-Charge
 
 Ms Eva Koh (Mrs Eva Seah) (OIC) <br>
-Mdm Nadia Bte Ramli  <br>
+Ms Chua Hui Qi <br>
 And&nbsp;<b>Volunteer Adult Leaders</b>
 
 ### Mission  

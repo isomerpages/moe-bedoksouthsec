@@ -38,8 +38,9 @@ Our School Our Stories (MOE) 2023 - Participation
 
 ### Teachers-in-Charge:
 
-Ms Kwek Ee Hui Irene​ (OIC)&nbsp;  
-Ms Yap Cheng Cheng Sophia 
+Ms Kwek Ee Hui Irene​ (OIC)&nbsp;  <br>
+Ms Yap Cheng Cheng Sophia <br>
+Mr Nordin B Hassan
 
 
 ### Leadership Positions

@@ -59,8 +59,7 @@ Sports
   </tr>
   <tr>
     <td rowspan="2" class="tg-dgl5">Football</td>
-    <td rowspan="2" class="tg-dgl5">Mr Nordin B Hassan (OIC) 
-			<br>Mr Loi Chun Mun<br>Mr Mohammed Imran Bin Mawardi<br>Ms Fatimah Zahra<br>and external coach</td>
+    <td rowspan="2" class="tg-dgl5">Mr Loi Chun Mun (OIC)<br>Mr Mohammed Imran Bin Mawardi<br>Ms Fatimah Zahra<br>and external coach</td>
     <td class="tg-9hzb">Monday</td>
     <td class="tg-9hzb">3.00 pm – 5.00 pm<br>(<span style="font-style:italic">Field</span>)</td>
   </tr>

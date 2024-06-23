@@ -39,7 +39,7 @@ variant: tiptap
 <p>30 Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Youth Day School Holiday</p>
+<p>Youth Day (School Holiday)</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ variant: tiptap
 <p>1 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Youth Day School Holiday off-in-lieu</p>
+<p>Youth Day (School Holiday off-in-lieu)</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ variant: tiptap
 <p>9 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day Public Holiday</p>
+<p>National Day (Public Holiday)</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ variant: tiptap
 <p>30 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers' Day School Holiday</p>
+<p>Teachers' Day (School Holiday)</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ variant: tiptap
 <p>31 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deepavali Public Holiday</p>
+<p>Deepavali (Public Holiday)</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ variant: tiptap
 <p>25 Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Christmas Public Holiday</p>
+<p>Christmas (Public Holiday)</p>
 </td>
 </tr>
 </tbody>

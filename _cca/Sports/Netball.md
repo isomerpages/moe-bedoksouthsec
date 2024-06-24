@@ -110,7 +110,6 @@ To develop qualities of sportsmanship, leadership, confidence, teamwork and fair
 
 Ms Srividya Nair DO Rajakumaran Nair​ (OIC)<br>
 Ms Nadia Binte Lamri<br>
-Ms Lee Wei Ling Joanne<br>
 And&nbsp;<b>External Coach</b>
 
 ### Leadership Positions

@@ -134,7 +134,7 @@ Through this exercise, successful applicants via our distinctive programmes will
 | **Date** | **Event** | 
 | -------- | -------- | 
 | 7 May 2024, 11am - 3 June 2024, 3pm     | **<u>Application Phase</u>** <br>Application for DSA opens – to be done online via the centralized DSA-Sec portal    |
-| By 21 June 2024     | Notification of short-listed candidates     |
+| By 5 July 2024     | Notification of short-listed candidates     |
 | 24 June to 9 September 2024     | **<u>Selection Phase</u>**<br>•	School-based interview for short-listed applicants<br>•	Administration of Trials and Performance Task     |
 | By 9 September 2024 | All applicants will receive a reply from the school on the outcome of their application informing them if:<br><br>(a) They have been given a Confirmed Offer (CO) <br>(b) They are placed on the Waiting List (WL) <br>(c) The school is unable to offer them a place |
 | 21 Oct 2024, 9am - 25 Oct 2024, 3pm| **<u>School Preference Submission</u>**<br>Students who receive at least one DSA-Sec offer will receive email and SMS notification via Postman.gov.sg on the School Preference Submission around mid-Oct 2024. Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to three school preferences. |

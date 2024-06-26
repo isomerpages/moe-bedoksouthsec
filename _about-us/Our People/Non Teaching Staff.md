@@ -125,7 +125,7 @@ Non Teaching Staff
   </tr>
   <tr>
     <td class="tg-fe66">17</td>
-    <td class="tg-0vn4">Mr Choo Meng Kwang</td>
+    <td class="tg-0vn4">Mr Ong Sau Wee Kenneth</td>
     <td class="tg-0vn4">ICT Associate</td>
   </tr>
   <tr>

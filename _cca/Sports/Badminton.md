@@ -51,8 +51,8 @@ Our players also learn to assist in line-judging and umpiring of the game in fri
 
 ### Teachers-in-Charge  
 
-Mrs Mah-Pow Lai Ghim (OIC)<br>
-Mr Yip Kim San<br>
+Mr Yip Kim San (OIC)<br>
+Mrs Mah-Pow Lai Gim<br>
 Mr Khoo Kian Eng Kenneth<br>
 And&nbsp;<b>External Coach</b>  
 

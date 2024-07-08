@@ -196,26 +196,21 @@ School Management Committee
     <td class="tg-y7qa"><span style="color:#222">SH / Malay Language</span></td>
     <td class="tg-y7qa"><span style="color:#222">halimah_rahmat@moe.edu.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">8</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Goh De Hao Samuel</span></td>
-    <td class="tg-y7qa"><span style="color:#222">SH / Mathematics</span></td>
-    <td class="tg-y7qa"><span style="color:#222">goh_de_hao_samuel@moe.edu.sg</span></td>
-  </tr>
+  
    <tr>
-    <td class="tg-y7qa"><span style="color:#222">9</span></td>
+    <td class="tg-y7qa"><span style="color:#222">8</span></td>
     <td class="tg-y7qa"><span style="color:#222">Mr Tan Rongen Joshua</span></td>
     <td class="tg-y7qa"><span style="color:#222">SH / Physical Education (Covering) </span></td>
     <td class="tg-y7qa"><span style="color:#222">tan_rongen_joshua@moe.edu.sg</span></td>
   </tr>
 	<tr>
-    <td class="tg-y7qa"><span style="color:#222">10</span></td>
+    <td class="tg-y7qa"><span style="color:#222">9</span></td>
     <td class="tg-y7qa"><span style="color:#222">Mr Goh Shong Heng Sean</span></td>
     <td class="tg-y7qa"><span style="color:#222">SH / Physics</span></td>
     <td class="tg-y7qa"><span style="color:#222">goh_shong_heng@moe.edu.sg</span></td>
   </tr>
 	<tr>
-    <td class="tg-y7qa"><span style="color:#222">11</span></td>
+    <td class="tg-y7qa"><span style="color:#222">10</span></td>
     <td class="tg-y7qa"><span style="color:#222">Ms Tan Wan Chin</span></td>
     <td class="tg-y7qa"><span style="color:#222">SH / Student Well-being (Covering)</span></td>
     <td class="tg-y7qa"><span style="color:#222">tan_wan_chin@moe.edu.sg</span></td>

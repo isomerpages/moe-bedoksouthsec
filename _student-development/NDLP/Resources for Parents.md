@@ -3,70 +3,178 @@ title: Resources for Parents
 permalink: /student-development/ndlp/resources-for-parents/
 description: ""
 third_nav_title: NDLP
+variant: tiptap
 ---
-Resources for Parents
-=====================
-
-To support you in keeping your child / ward safe online, you may refer to this additional resources and kits:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-qj4l{background-color:#EAEAEA;color:#222;font-size:15px;text-align:left;vertical-align:top}
-.tg .tg-8e6h{background-color:#EAEAEA;color:#222222;font-size:15px;text-align:left;vertical-align:top}
-.tg .tg-xxiv{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-qa5w{background-color:#E6E6E6;color:#222;font-size:15px;text-align:left;vertical-align:top}
-.tg .tg-9nj9{background-color:#EAEAEA;color:#076C8E;text-align:left;vertical-align:top}
-.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Resource</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Attachment / Link</span></th>
-  </tr>
-</thead>
+<h1>Resources for Parents</h1>
+<p>To support you in keeping your child / ward safe online, you may refer
+to this additional resources and kits:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-qa5w"><span style="font-weight:bold">Parent Handbook (I) and (II) on Learning with a Personal Learning Device (PLD)</span><br><br><span style="color:#222;background-color:#EAEAEA">For more digital parenting tips to help your child navigate the digital environment, please download and refer to the following handbooks.</span><br><br></td>
-    <td class="tg-9nj9"><a href="/files/NDLP/ip2%20-%20parent%20handbook%20(i)%20on%20learning%20with%20a%20pld_2023.pdf"><span style="text-decoration:none;color:#076C8E">Parent Handbook (I)</span></a><br><br><a href="/files/NDLP/ip3%20-%20parent%20handbook%20(ii)%20on%20learning%20with%20a%20pld_2023.pdf"><span style="text-decoration:none;color:#076C8E">Parent Handbook (II)</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-8e6h"><span style="font-weight:bold">Parent Kit on Cyber Wellness for Your Child</span><br><br><span style="background-color:#EAEAEA">In this MOE Parent Kit, tips are provided to guide our children to use devices responsibly, and how parents can care for your child’s cyber wellness and digital literacy at home.</span><br><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> Click </span><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf"><span style="text-decoration:none;color:#076C8E">here</span></a><span style="color:#222;background-color:#EAEAEA">.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qa5w"><span style="font-weight:bold">MOE Cyber Wellness Programme</span><br><br><span style="color:#222;background-color:#EAEAEA">This website shares more about MOE’s Cyber Wellness Programmes and Curriculum.</span><br><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Click</span> <a href="https://go.gov.sg/educationinsgcyberwellness"><span style="text-decoration:none;color:#076C8E">here</span></a><span style="color:#222;background-color:#EAEAEA">.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qj4l"><span style="font-weight:bold;color:#000">SchoolBag - Keeping our teens safe online</span><br><br><span style="color:#222;background-color:#EAEAEA">From a senior specialist in MOE Guidance Branch, this article offers dos and don’ts for handling screen-related conversations with your teen.</span><br><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> Click </span><a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online"><span style="text-decoration:none;color:#076C8E">here</span></a><span style="color:#222;background-color:#EAEAEA">.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qa5w"><span style="font-weight:bold">Media Literacy Council</span><br><br><span style="color:#222;background-color:#EAEAEA">Provides a list of resources, parents guides covering areas, including those related to cyber-bullying, digital footprints, fake news, inappropriate content, privacy and screen time.</span><br><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Click</span> <a href="https://go.gov.sg/better-internet-sg"><span style="text-decoration:none;color:#076C8E">here</span></a><span style="color:#222;background-color:#EAEAEA">.  </span></td>
-  </tr>
-  <tr>
-    <td class="tg-8e6h"><span style="font-weight:bold">National Library's Learning &amp; Information Literacy Resources</span><br><br><span style="background-color:#EAEAEA">The S.U.R.E. (Source, Understand, Research, Evaluate) Campaign is an information literacy awareness campaign initiated by the National Library Board (NLB) of Singapore. It promotes the importance of information searching and discernment. Learn more here!</span><br><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Click </span><a href="https://sure.nlb.gov.sg/"><span style="text-decoration:none;color:#076C8E">here</span></a><span style="color:#222;background-color:#EAEAEA">.</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-qa5w"><span style="font-weight:bold">TOUCH Community Services</span><br><br><span style="color:#222;background-color:#EAEAEA">This site offers tips on how to keep your family safe online in areas like gaming, social media and cyber bullying.</span><br><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Click</span> <a href="https://www.help123.sg/"><span style="text-decoration:none;color:#076C8E">here</span></a><span style="color:#222;background-color:#EAEAEA">.</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Resource</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Attachment / Link</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Raising A Digitally Smart Child</strong>
+</p>
+<p>This MOE parenting kit serves as a guide on how parents can be :</p>
+<p>i) Actively involved in their child's use of technology.</p>
+<p></p>
+<p>ii) Able to role model good online behavior.</p>
+<p>iii)Updated on emerging digital trends influencing your child.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="/files/Parent_Kit___Raising_A_Digitally_Smart_Child.pdf" rel="noopener noreferrer nofollow" target="_blank">Raising a Digitally Smart Child</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Parent Handbook (I) and (II) on Learning with a Personal Learning Device (PLD)</strong>
+<br>
+<br>For more digital parenting tips to help your child navigate the digital
+environment, please download and refer to the following handbooks.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/NDLP/ip2%20-%20parent%20handbook%20(i)%20on%20learning%20with%20a%20pld_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
+<br>
+<br><a href="/files/NDLP/ip3%20-%20parent%20handbook%20(ii)%20on%20learning%20with%20a%20pld_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Parent Kit on Cyber Wellness for Your Child</strong>
+<br>
+<br>In this MOE Parent Kit, tips are provided to guide our children to use
+devices responsibly, and how parents can care for your child’s cyber wellness
+and digital literacy at home.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOE Cyber Wellness Programme</strong>
+<br>
+<br>This website shares more about MOE’s Cyber Wellness Programmes and Curriculum.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/educationinsgcyberwellness" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SchoolBag - Keeping our teens safe online</strong>
+<br>
+<br>From a senior specialist in MOE Guidance Branch, this article offers dos
+and don’ts for handling screen-related conversations with your teen.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Media Literacy Council</strong>
+<br>
+<br>Provides a list of resources, parents guides covering areas, including
+those related to cyber-bullying, digital footprints, fake news, inappropriate
+content, privacy and screen time.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Library's Learning &amp; Information Literacy Resources</strong>
+<br>
+<br>The S.U.R.E. (Source, Understand, Research, Evaluate) Campaign is an information
+literacy awareness campaign initiated by the National Library Board (NLB)
+of Singapore. It promotes the importance of information searching and discernment.
+Learn more here!
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TOUCH Community Services</strong>
+<br>
+<br>This site offers tips on how to keep your family safe online in areas
+like gaming, social media and cyber bullying.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.help123.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-### DMA Guide for Parents
-
-*    [DMA Parent Guide Default Option](https://go.gov.sg/dmaparentguidedefaultopt)
-*   [DMA Parent Guide - Option A](https://go.gov.sg/dmsparentguideoptiona)
-*   [DMA Parent Guide - Option B](https://go.gov.sg/dmaparentguideoptionb)
-
-*   [Parent Account Password Reset](https://go.gov.sg/parentaccountpwdreset)
-*   [Setting Rules to Restrict Usage](https://go.gov.sg/settingrulestorestrictusage)
+<h3>DMA Guide for Parents</h3>
+<ul>
+<li>
+<p><a href="https://go.gov.sg/dmaparentguidedefaultopt" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide Default Option</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/dmsparentguideoptiona" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/dmaparentguideoptionb" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/parentaccountpwdreset" rel="noopener noreferrer nofollow" target="_blank">Parent Account Password Reset</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/settingrulestorestrictusage" rel="noopener noreferrer nofollow" target="_blank">Setting Rules to Restrict Usage</a>
+</p>
+</li>
+</ul>
+<p></p>

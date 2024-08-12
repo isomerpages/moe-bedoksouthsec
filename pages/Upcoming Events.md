@@ -20,70 +20,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start of Term 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25, 27 &amp; 28 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 N(A) &amp; N(T) Prelim English Oral Exam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Youth Day (School Holiday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Jul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Youth Day (School Holiday off-in-lieu)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18 Jul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Racial Harmony Day Fair</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18 Jul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Inter Class Games</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 - 25 Jul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HBL 8, 9, 10</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 Jul - 7 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 N(A) &amp; N(T) Prelim Exam Phase 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>12, 13, 16, 19 - 23 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,14 +32,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4 &amp; 5 O-Level Prelim Exam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day (Public Holiday)</p>
 </td>
 </tr>
 <tr>

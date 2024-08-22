@@ -6,13 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h1>National Cadet Corp (Land)</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="National Cadet Corp (Land)" src="/images/NCC-1.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC-2.jpeg">
-</div>
 <p>The National Cadet Corps is a CCA which nurtures responsible, resilient
 and resourceful cadets to become successful citizens. It takes a structured
 approach towards the leadership development of its cadets. Through the

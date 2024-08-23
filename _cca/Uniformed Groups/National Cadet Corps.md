@@ -6,12 +6,13 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h1>National Cadet Corp (Land)</h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="National Cadet Corp (Land)" src="/images/NCC-1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc11.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC-2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc12.jpg">
 </div>
 <p>The National Cadet Corps is a CCA which nurtures responsible, resilient
 and resourceful cadets to become successful citizens. It takes a structured
@@ -130,46 +131,12 @@ Exchange Programmes every year.</p>
 <p>Outstanding</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Recognition Award (2019)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outstanding
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Recognition Award (2018)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outstanding
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outstanding Cadet Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hugo Low Ren Hao, 4C
-<br>Keanne Tan Yi Ern, 4E</p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc13.jpg">
+</div>
 <h3>Leadership Positions</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -222,12 +189,16 @@ Exchange Programmes every year.</p>
 </tbody>
 </table>
 <h3>Photo Gallery</h3>
+<p>VIA - Appreciation to Security Guards (2024)</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1tAmCd7pd5yFFHokssf2ectZyp7fazl2pAcpBeNyMG-w/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>Sports Carnival with NCC cadets from Bedok Green Secondary School and
-Victoria School</p>
+Victoria School 2024</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSX2mrArfcsl4_33LiHIIMgXC_cfYUWVpRqwQeEpxMuE8Duk0GkRKb6WBMZUOw6wxjK8ZKl0DwFU3SK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p>Precision Drill Squard (PDS) Preliminary Competition (East Zone)</p>
+<p>Precision Drill Squard (PDS) Preliminary Competition (East Zone) 2024</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1fwR7Gvzc6LJvx_r-vdaeehl68bM1THyzReFUZAGT46mJmLWscft_StMQw2wd_X59wtgaYEU61EYP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>

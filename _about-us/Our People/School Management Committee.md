@@ -3,265 +3,555 @@ title: School Management Committee
 permalink: /about-us/our-people/school-management-committee/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-School Management Committee
-===========================
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6uyk{border-color:#ffffff;color:#ff0000;font-size:16px;font-weight:bold;text-align:right;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-6uyk">School Hotline: 6441 4479</td>
-  </tr>
-</thead>
-</table>
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-laxs{background-color:#EAEAEA;text-align:left;vertical-align:middle}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rj1p"><span style="color:#222">S/N</span></th>
-    <th class="tg-rj1p"><span style="color:#222">Name</span></th>
-    <th class="tg-rj1p"><span style="color:#222">Designation</span></th>
-    <th class="tg-rj1p"><span style="color:#222">Email Address</span></th>
-  </tr>
-</thead>
+<h1>School Management Committee</h1>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-rj1p" colspan="4"><span style="color:#222">School Leaders</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">1</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Daryl Koh</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Principal</span></td>
-    <td class="tg-y7qa"><span style="color:#222">daryl_koh@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">2</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Azlinda Bte Samsudin</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Vice Principal</span></td>
-    <td class="tg-y7qa"><span style="color:#222">azlinda_samsudin@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p" colspan="4"><span style="color:#222">Year Heads &amp; Assistant Year Heads</span></td>
-  </tr>
-   <tr>
-    <td class="tg-y7qa"><span style="color:#222">1 </span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Wong Miaw Charn (Mrs Adeline Yee)</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Assistant Year Head (Sec 1 Lower Sec)</span></td>
-    <td class="tg-y7qa"><span style="color:#222">wong_miaw_charn@moe.edu.sg</span></td>
-  </tr><tr>
-    <td class="tg-y7qa"><span style="color:#222">2</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mdm Siti Zubaidah Mohd Sharif</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Year Head (Sec 2 Lower Sec)</span></td>
-    <td class="tg-y7qa"><span style="color:#222">siti_zubaidah_mohd_sharif@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">3</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Lim Chern Cheung Webster</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Assistant Year Head (Sec 3 Upper Sec)</span></td>
-    <td class="tg-y7qa"><span style="color:#222">lim_chern_cheung_webster@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">4</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Sng Kuo Wai Simon</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Year Head (Sec 4 &amp; 5 Upper Sec)</span></td>
-    <td class="tg-y7qa"><span style="color:#222">sng_kuo_wai_simon@moe.edu.sg</span></td>
-  </tr>
- 
-  <tr>
-    <td class="tg-rj1p" colspan="4"><span style="color:#222">Heads of Department</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">1</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mdm Liza Bte Ashari</span></td>
-    <td class="tg-y7qa"><span style="color:#222">HOD / Character Citizenship Education</span></td>
-    <td class="tg-y7qa"><span style="color:#222">liza_ashari@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">2</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Soh Geok Lan</span></td>
-    <td class="tg-y7qa"><span style="color:#222">HOD / Craft and Technology</span></td>
-    <td class="tg-y7qa"><span style="color:#222">soh_geok_lan@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">3</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Isaacs Dichen Grace</span></td>
-    <td class="tg-y7qa"><span style="color:#222">HOD / English Language</span></td>
-    <td class="tg-y7qa"><span style="color:#222">isaacs_dichen_grace@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">4</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Pearl Lee Ying Yan</span></td>
-    <td class="tg-y7qa"><span style="color:#222">HOD / Humanities</span></td>
-    <td class="tg-y7qa"><span style="color:#222">pearl_lee_ying_yan@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">5</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Lee Chin Yuan</span></td>
-    <td class="tg-y7qa"><span style="color:#222">HOD / ICT</span></td>
-    <td class="tg-y7qa"><span style="color:#222">lee_chin_yuan@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">6</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Wan Yee Ling Jacquelyn</span></td>
-    <td class="tg-y7qa"><span style="color:#222">HOD / Mathematics (Covering)</span></td>
-    <td class="tg-y7qa"><span style="color:#222">wan_yee_ling_jacquelyn@moe.edu.sg</span></td>
-  </tr>
-   <tr>
-    <td class="tg-y7qa"><span style="color:#222">7</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Awyong Ivonne Muliana</span></td>
-    <td class="tg-y7qa"><span style="color:#222">HOD / Mother Tongue Language</span></td>
-    <td class="tg-y7qa"><span style="color:#222">awyong_ivonne_muliana@moe.edu.sg</span></td>
-  </tr>
-	<tr>
-    <td class="tg-y7qa"><span style="color:#222">8</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Wong Ming Zhi Denise</span></td>
-    <td class="tg-y7qa"><span style="color:#222">HOD / Science</span></td>
-    <td class="tg-y7qa"><span style="color:#222">wong_ming_zhi_denise@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">9</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mrs Kow Yoke Ling (Kwang Yoke Ling)</span></td>
-    <td class="tg-y7qa"><span style="color:#222">School Staff Developer (SSD)</span></td>
-    <td class="tg-y7qa"><span style="color:#222">kwang_yoke_ling@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">10</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Hani Alsagoff</span></td>
-    <td class="tg-y7qa"><span style="color:#222">HOD / Student Development</span></td>
-    <td class="tg-y7qa"><span style="color:#222">ummu_hani_syed_haider@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p" colspan="4"><span style="color:#222">Subject Heads</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">1</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Seng Mei Hui Sheena</span></td>
-    <td class="tg-y7qa"><span style="color:#222">SH / Aesthetics</span></td>
-    <td class="tg-y7qa"><span style="color:#222">seng_mei_hui_sheena@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">2</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Mohamed Azman Bin Mohamed Selamat</span></td>
-    <td class="tg-y7qa"><span style="color:#222">SH / CCA &amp; Co-Curriculum</span></td>
-    <td class="tg-y7qa"><span style="color:#222">mohd_azman_mohd@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">3</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Elizabeth Tan (Mrs Elizabeth Ng)</span></td>
-    <td class="tg-y7qa"><span style="color:#222">SH / Character Development</span></td>
-    <td class="tg-y7qa"><span style="color:#222">tan_huay_meen@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">4</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Tania Chong</span></td>
-    <td class="tg-y7qa"><span style="color:#222">SH / English Language</span></td>
-    <td class="tg-y7qa"><span style="color:#222">chong_tania@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">5</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Goh Jing Teng</span></td>
-    <td class="tg-y7qa"><span style="color:#222">SH / Geography</span></td>
-    <td class="tg-y7qa"><span style="color:#222">goh_jing_teng@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">6</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Wan Yee Ling Jacquelyn</span></td>
-    <td class="tg-y7qa"><span style="color:#222">SH / ICT</span></td>
-    <td class="tg-y7qa"><span style="color:#222">wan_yee_ling_jacquelyn@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">7</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Halimah Bte Rahmat</span></td>
-    <td class="tg-y7qa"><span style="color:#222">SH / Malay Language</span></td>
-    <td class="tg-y7qa"><span style="color:#222">halimah_rahmat@moe.edu.sg</span></td>
-  </tr>
-  
-   <tr>
-    <td class="tg-y7qa"><span style="color:#222">8</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Tan Rongen Joshua</span></td>
-    <td class="tg-y7qa"><span style="color:#222">SH / Physical Education (Covering) </span></td>
-    <td class="tg-y7qa"><span style="color:#222">tan_rongen_joshua@moe.edu.sg</span></td>
-  </tr>
-	<tr>
-    <td class="tg-y7qa"><span style="color:#222">9</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Goh Shong Heng Sean</span></td>
-    <td class="tg-y7qa"><span style="color:#222">SH / Physics</span></td>
-    <td class="tg-y7qa"><span style="color:#222">goh_shong_heng@moe.edu.sg</span></td>
-  </tr>
-	<tr>
-    <td class="tg-y7qa"><span style="color:#222">10</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Tan Wan Chin</span></td>
-    <td class="tg-y7qa"><span style="color:#222">SH / Student Well-being (Covering)</span></td>
-    <td class="tg-y7qa"><span style="color:#222">tan_wan_chin@moe.edu.sg</span></td>
-  </tr>	
-  <tr>
-    <td class="tg-rj1p" colspan="4"><span style="color:#222">Senior Teachers</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">1</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mdm Faruzah Bte Osman </span></td>
-    <td class="tg-y7qa"><span style="color:#222">ST / Art </span></td>
-    <td class="tg-y7qa"><span style="color:#222">faruzah_osman@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">2</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Cheng Wan Li</span></td>
-    <td class="tg-y7qa"><span style="color:#222">ST / Character Citizenship Education</span></td>
-    <td class="tg-y7qa"><span style="color:#222">cheng_wan_li@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa" rowspan="2"><span style="color:#222">3</span></td>
-    <td class="tg-y7qa" rowspan="2"><span style="color:#222">Mdm Surimah Selamat</span></td>
-    <td class="tg-y7qa"><span style="color:#222">ST / Learning Needs <br> (Educational Support)</span></td>
-    <td class="tg-y7qa" rowspan="2"><span style="color:#222">surimah_selamat@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-  </tr><tr>
-    <td class="tg-rj1p" colspan="4"><span style="color:#222">Managers</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">1</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mdm Hiryati Bte Jaafar</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Admin Manager </span></td>
-    <td class="tg-y7qa"><span style="color:#222">hiryati_jaafar@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">2</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Khairiah Bte Mohamed</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Admin Manager </span></td>
-    <td class="tg-y7qa"><span style="color:#222">khairiah_mohamed@moe.edu.sg</span></td>
-  </tr>  <tr>
-    <td class="tg-y7qa"><span style="color:#222">3</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Ang Teng Lai</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Operations Manager </span></td>
-    <td class="tg-y7qa"><span style="color:#222">ang_teng_lai@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">4</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr K Rajendran</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Adjunct Operations Manager</span></td>
-    <td class="tg-y7qa"><span style="color:#222">k_rajendran@moe.edu.sg</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Hotline: 6441 4479</p>
+</td>
+</tr>
 </tbody>
 </table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/N</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>School Leaders</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daryl Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>daryl_koh@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Azlinda Bte Samsudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>azlinda_samsudin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Chen Jingyuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen_Jingyuan_Alvin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>Year Heads &amp; Assistant Year Heads</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Miaw Charn (Mrs Adeline Yee)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Sec 1 Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_miaw_charn@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Zubaidah Mohd Sharif</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 2 Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_zubaidah_mohd_sharif@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Chern Cheung Webster</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Sec 3 Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_chern_cheung_webster@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sng Kuo Wai Simon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 4 &amp; 5 Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sng_kuo_wai_simon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>Heads of Department</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liza Bte Ashari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Character Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liza_ashari@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Geok Lan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Craft and Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>soh_geok_lan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Isaacs Dichen Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>isaacs_dichen_grace@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pearl Lee Ying Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pearl_lee_ying_yan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Chin Yuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_chin_yuan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wan Yee Ling Jacquelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Mathematics (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wan_yee_ling_jacquelyn@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Awyong Ivonne Muliana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>awyong_ivonne_muliana@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Ming Zhi Denise</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_ming_zhi_denise@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kow Yoke Ling (Kwang Yoke Ling)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer (SSD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kwang_yoke_ling@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hani Alsagoff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Student Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ummu_hani_syed_haider@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>Subject Heads</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Seng Mei Hui Sheena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>seng_mei_hui_sheena@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Azman Bin Mohamed Selamat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / CCA &amp; Co-Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohd_azman_mohd@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Elizabeth Tan (Mrs Elizabeth Ng)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Character Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_huay_meen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tania Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_tania@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Jing Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_jing_teng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wan Yee Ling Jacquelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wan_yee_ling_jacquelyn@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Halimah Bte Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>halimah_rahmat@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Rongen Joshua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Physical Education (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_rongen_joshua@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Shong Heng Sean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_shong_heng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Wan Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Student Well-being (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_wan_chin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>Senior Teachers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Faruzah Bte Osman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>faruzah_osman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cheng Wan Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Character Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cheng_wan_li@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Mdm Surimah Selamat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Learning Needs
+<br>(Educational Support)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>surimah_selamat@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>Managers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hiryati Bte Jaafar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>hiryati_jaafar@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Khairiah Bte Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>khairiah_mohamed@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Teng Lai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_teng_lai@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr K Rajendran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>k_rajendran@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

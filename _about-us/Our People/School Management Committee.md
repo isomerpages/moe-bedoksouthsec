@@ -74,6 +74,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chen_jingyuan_alvin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="4">
 <p>Year Heads &amp; Assistant Year Heads</p>
 </td>

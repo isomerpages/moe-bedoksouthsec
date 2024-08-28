@@ -78,13 +78,13 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Chen Jingyuan</p>
+<p>Mr Alvin Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chen_Jingyuan_Alvin@schools.gov.sg</p>
+<p>chen_jingyuan_alvin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

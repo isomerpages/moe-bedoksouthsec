@@ -93,7 +93,7 @@ Exchange Programmes every year.</p>
 <p>Outstanding Cadet Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Daryl Aik Yong Jie, 4C</p>
+<p>Daryl Aik Yong Jie, 4D</p>
 </td>
 </tr>
 <tr>

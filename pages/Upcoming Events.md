@@ -20,34 +20,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12, 13, 16, 19 - 23 Aug</p>
+<p>9 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4 N(A) &amp; N(T) Prelim Exam Phase 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 - 23, 26 - 28 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 &amp; 5 O-Level Prelim Exam</p>
+<p>Term 4 Starts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Aug</p>
+<p>6 - 19 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers' Day (School Holiday)</p>
+<p>GCE N(A)- and N(T)- Exam Phase 1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31 Aug - 8 Sep</p>
+<p>27 Sep - 8 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>September Holidays</p>
+<p>GCE N(A)- and N(T)- Exam Phase 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Oct - Nov 11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE O-Level Exam</p>
 </td>
 </tr>
 <tr>

@@ -100,15 +100,14 @@ resilience, responsibility and confidence are imbued in our students.</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>Key events 2024</strong></h5>
+<h4><strong>Key events 2024</strong></h4>
 <p>1. CCA Fair
 <br>2. Voices Of Singapore Festival Performance
 <br>3. Choir Exchange and Concert
 <br>4. Open House
 <br>
 </p>
-<p><strong>Upcoming events in 2025</strong>
-</p>
+<h4><strong>Upcoming events in 2025</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Singapore Youth Festival Arts Presentation</p>

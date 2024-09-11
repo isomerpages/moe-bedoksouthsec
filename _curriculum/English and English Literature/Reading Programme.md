@@ -34,12 +34,13 @@ At our school, we believe that reading opens doors to new worlds and ideas. Our 
 
 [Reading Programme 2024](https://docs.google.com/presentation/d/1XLk8cjpY8O3k1p1HIRFFXSFQA5vMAeR94Pf3tRzA2Z8/pub?start=true&amp;loop=true&amp;delayms=3000)
 
-### Recommended English Language Resources
-
-•	
-[Grammar and Vocabulary Games British Council’s Listen&amp; Watch Activities](https://go.gov.sg/learnenglishbritishcouncil)
 
 ### Resources
 
 •	Browse our curated resources for students [here](https://go.gov.sg/bdsreading2024). (You will need to log in with a valid student account to access the resources.) <br>
 •	Explore [DiscoveReads](http://go.gov.sg/nlb-childrenandteens) by NLB (Recommended reading list by NLB)
+
+### Recommended English Language Resources
+
+•	
+[Grammar and Vocabulary Games British Council’s Listen&amp; Watch Activities](https://go.gov.sg/learnenglishbritishcouncil)

@@ -13,7 +13,7 @@ Parents must give their consent before their child can receive such services.
 
 To make it more convenient and secure, HPB has launched the Child Consent Portal since 2016 for parents to submit your consent online. It only takes four steps:
 
- 1.&nbsp;Log on to&nbsp;[https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)&nbsp;or scan the QR code below to access the child consent portal.
+ 1. Log on to [https://consent.hpb.gov.sg/](https://consent.hpb.gov.sg/) or scan the QR code below to access the child consent portal.
 
 <img src="/images/Image4.jpg" style="width:25%">
 

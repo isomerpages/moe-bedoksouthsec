@@ -146,7 +146,7 @@ Through this exercise, successful applicants via our distinctive programmes will
 | -------- | -------- | 
 | **Instructions on Application <br>(Mainstream students)** | **[https://go.gov.sg/dsa-sec-application](https://go.gov.sg/dsa-sec-application)**   | 
 |  **Instructions on Application <br>(Non-Mainstream Students)** |**[https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)**   | 
-| **Direct to DSA-Sec Portal <br> (Mainstream Students)** | **[https://go.gov.sg/apply-dsa-sec](https://go.gov.sg/apply-dsa-sec)**    | 
+| **Direct to DSA-Sec Portal <br> (Mainstream Students)** | **[https://go.gov.sg/applydsasec-mainstream](https://go.gov.sg/applydsasec-mainstream)**    | 
 | **Direct to DSA-Sec Portal <br>(Non-Mainstream Students)**  | **[https://go.gov.sg/appplydsasec-nonmainstream](https://go.gov.sg/appplydsasec-nonmainstream)**   | 
 | **DSA-Sec iFAQs**   | **[https://go.gov.sg/dsa-secfaqs](https://go.gov.sg/dsa-secfaqs)**   | 
 | **DSA-Sec School Finder**  | **[https://go.gov.sg/dsa-secschfinder](https://go.gov.sg/dsa-secschfinder)**   | 

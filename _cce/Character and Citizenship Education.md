@@ -2,8 +2,9 @@
 title: Character and Citizenship Education
 permalink: /student-development/character-and-citizenship-education/
 description: ""
+variant: markdown
 ---
-Character and Citizenship Education  
+Character and Citizenship Education &nbsp;
 =====================================
 
 ### Introduction
@@ -34,7 +35,7 @@ CCE lessons are opport unities for teachers to facilitate learning for building 
 *  The Leader Within 
 *  Family Our Foundation
 *  Being a Positive Influence 
-* U & I in the Community 
+* U &amp; I in the Community 
 *  This is Home Truly   
 * Thinking Hearts, Feeling Minds
 
@@ -63,7 +64,7 @@ Form Teachers conduct Teacher-Pupil Interview (TPI) sessions with students to bu
 
 ##### **Student Recognition**
 
-The [EdusaveCharacter Award (ECHA)](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards) aims to recognise Singaporean students in the school who are exemplary in character and possess outstanding personal qualities through their behaviour and actions which inspire others. This award is given to a maximum of 2% of Singaporean students in the school at the end of the year.   
+The&nbsp;[EdusaveCharacter Award (ECHA)](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards)&nbsp;aims to recognise Singaporean students in the school who are exemplary in character and possess outstanding personal qualities through their behaviour and actions which inspire others. This award is given to a maximum of 2% of Singaporean students in the school at the end of the year.&nbsp;  
   
 ECHA recipients are selected based on school-based criteria that are based on guidelines provided by MOE. Students are identified for consistently demonstrating civic responsibility, resilience and values that BDS wishes to recognise and encourage.
 
@@ -83,8 +84,6 @@ ECG Parent Guide (https://www.moe.gov.sg/microsites/ecg-parent-guide) **(broken 
 
 ### Recommended online resources
 
-[MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) Portal – Students are introduced to this tool to help them discover their attributes and strengths, and find out more about different careers that they might be interested in.  
+[MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)&nbsp;Portal – Students are introduced to this tool to help them discover their attributes and strengths, and find out more about different careers that they might be interested in.
 
-  
-
-Medialiteracycouncil.sg – The Media Literacy Council website hosts useful resources for both parents and students on safe, smart and kind internet usage.
+[Media Literacy Council](https://www.mlc.sg/)– The Media Literacy Council website hosts useful resources for both parents and students on safe, smart and kind internet usage.

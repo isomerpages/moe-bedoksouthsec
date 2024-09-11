@@ -7,57 +7,37 @@ variant: markdown
 ---
 Reading Programme
 =================
-The Reading Programme encourages students to discover the joy in reading through scheduled library visits and book recommendations by teachers or peers. Students in our school are encouraged to read as widely as possible from our physical collection at Oasis@BDS (school library). With the implementation of the PLD programme in 2022, students are further encouraged to use their devices to tap on the digital resources that are available on the NLB website and via our morning reading website ‘Take Your Pick!’ You can click [here](https://go.gov.sg/readingprogrammebds) to have a look:  with materials that are curated according to themes, students’ interest, and profiles. Through monthly library activities which are organised in tandem with various stakeholders, we hope to engage our students in thematic activities and learn new skills. We aim to nurture our students to be life-long readers and continue to develop multi perspectives, global awareness, and critical thinking skills.
+### Discover the Joy of Reading at Our School
+Welcome to our Reading Programme, where we inspire a love for reading in every student!
 
+### Our Approach
 
-The programme aims to:
+At our school, we believe that reading opens doors to new worlds and ideas. Our programme is designed to:
 
-(i) Develop lifelong readers by encouraging students to read and view critically and with accuracy, understanding and appreciation of a wide array of print and digital materials.
+1. Foster lifelong readers who can critically engage with a variety of print and digital materials
+2. Broaden students’ perspectives on the world around them
+3. Develop skills through engaging library activities.
 
-(ii) Widen students’ horizons of the world around them.
+### What We Offer
 
-(iii) Learn new skills through library activities.
+•	Regular library visits to our vibrant Oasis@BDS (our school library)<br>
+•	Book recommendations from teachers and fellow students<br>
+•	Access to digital resources via the national Library Board website <br>
+•	A dedicated morning reading site on Student Learning Space with curated materials
 
-Some of our activities in 2023:
+### Exciting Activities in 2024
 
-1.  Nagomi Art Workshop
-2.  Flash Fiction Workshop
-3.  Upcycling Workshop
-4.  Writers' Craft Workshop
-5.  Mental Wellbeing Workshop
-6.  Game Design Workshop
+•	Balloon Sculpting Workshop <br>
+•	CSI Workshop with Fingerprint Dusting<br>
+•	Design Thinking Workshops (Secondary 1 &amp; 2)<br>
+•	Scratch Coding Workshop
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-plpv{background-color:#EAEAEA;color:#222;font-style:italic;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ii8k"><img src="/images/Str1.jpg" style="width:100%"></th>
-    <th class="tg-ii8k"><img src="/images/str2.jpg" style="width:100%"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-plpv">Calligraphy workshop to raise awareness about mental wellbeing. <br></td>
-    <td class="tg-plpv">Upcycling workshop to encourage students to go green.  </td>
-  </tr>
-</tbody>
-</table>
+### Recommended English Language Resources
 
+•	
+[Grammar and Vocabulary Games British Council’s Listen&amp; Watch Activities](https://go.gov.sg/learnenglishbritishcouncil)
 
+### Resources
 
-Click [<b>here</b>](https://go.gov.sg/takeyourpickbdsreadingprogramme) to browse our Take Our Pick website.
-
-
-<b>Recommended Reading Lists Compiled by National Library Board (NLB)</b> <br>
-Click&nbsp;[<b>here</b>](http://go.gov.sg/nlb-childrenandteens)&nbsp;for the DiscoveReads by NLB.  
-  
-<b>Recommended English Language Resources Online</b> <br>
-[Grammar and Vocabulary Games British Council’s Listen&amp; Watch Activities](http://learnenglish.britishcouncil.org/en/listen-and-watch)
+•	Browse our curated resources for students [here](https://go.gov.sg/bdsreading2024). (You will need to log in with a valid student account to access the resources.) <br>
+•	Explore [DiscoveReads](http://go.gov.sg/nlb-childrenandteens) by NLB (Recommended reading list by NLB)

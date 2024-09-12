@@ -32,7 +32,7 @@ At our school, we believe that reading opens doors to new worlds and ideas. Our 
 •	Design Thinking Workshops (Secondary 1 &amp; 2)<br>
 •	Scratch Coding Workshop
 
-<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/1n2DZk_FUa9_gmgsrletQSXQkoq36Qfstn5eTJ5N4vUM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1n2DZk_FUa9_gmgsrletQSXQkoq36Qfstn5eTJ5N4vUM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
 ### Resources

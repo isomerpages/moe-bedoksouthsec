@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1>Choir</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir2022.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bds_choir_2024.png">
 </div>
 <h3>Teachers-in-charge</h3>
 <p>Ms Lam Yen Ping (OIC)

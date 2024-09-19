@@ -84,7 +84,7 @@ A Scout is to be trusted
 | 2022  | Chief Commisioner's Well-Done Badge <br>Quarter 1 – DHARMIK S/O KANAGARAJAH: 4D <br>Quarter 2 – BRAYDEN TEO TZE JUN: 4D <br>Quarter 3 – LAM JUN YANG (LAN JUNYANG): 4B <br>Quarter 4 – SCOTT TAN KIAN YIU: 4C |
 | 2022  | FCSA - Gold    |
 |2023|Chief Commissioner’s Award  <br>DHARMIK S/O KANAGARAJAH: 4D <br>LAM JUN YANG (LAN JUNYANG): 4B <br>NICOLAS KWEK YU CHENG: 4C <br>ANG ZHEN XIANG: 4D
-|
+| 2024  | FCSA - Gold    |
 
 ### Leadership Positions and Roles
 

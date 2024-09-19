@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - Open House.md
       - Information for Sec 1 (2024).md
       - Reporting Time on First Day of School.md
       - Purchase of Books, Stationeries, Socks, PE Attire and Booklist for
@@ -18,4 +19,3 @@ collections:
       - Information on PDLP Onboarding.md
       - Art Elective Programme (AEP) and Music Elective Programme (MEP).md
       - Appeal for Transfer (Sec 1) in 2024.md
-      - Open House.md

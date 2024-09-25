@@ -503,7 +503,7 @@ Form Teachers
     <td class="tg-y7qa"><span style="color:#222"> </span></td>
     <td class="tg-kveo">Mr Nordin B Hassan</td>
     <td class="tg-kveo">162</td>
-    <td class="tg-kveo">nordin_bin_hassan@moe.edu.sg</td>
+    <td class="tg-kveo">nordin_b_hassan@moe.edu.sg</td>
   </tr>
 
 </tbody>

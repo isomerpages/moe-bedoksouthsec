@@ -7,9 +7,6 @@ variant: markdown
 ---
 Media Production Club
 =====================
-![](/images/CCA/Media%20Production/MPC_Audio_Visual.jpeg)
-![](/images/CCA/Media%20Production/MPC_Photography.jpeg)
-
 Through Media Production Club (MPC), we aim to groom competent and confident students who takes care of all matters relating to the provision of audio and visual support in our  school. Our day-to-day operations include maintaining the sound system for the daily flag-raising and assembly programs.
 
 In addition, we also ensure the smooth running of school events in the school hall such as Racial Harmony Day and National Day. We also ignite a passion for photography and videography in students, as well as the acquisition of technical knowledge of the media mediums, by engaging students in our daily duties and activities. 
@@ -29,12 +26,12 @@ In addition, we also ensure the smooth running of school events in the school ha
 *  Audio &amp; Visual weekly trainings
 *  Coverage of school events
 *  Monthly Systems Checks in classrooms
-*  Learning journey to Art Science Museum (selected leaders)
+*  Learning Journey 
 *  Inter-school Pentangular Competition for clubs &amp; society (St. Hilda’s Sec) 
 *  Infocomm Media Student Leadership Conference (LEAD Con) by IMDA for selected leaders
 
 ### Competition
-Our School Our Stories (MOE) 2023 - Participation
+Our School Our Stories (MOE) 2024 - Participation <br>Our School Our Stories (MOE) 2023 - Participation
 
 ### Teachers-in-Charge:
 

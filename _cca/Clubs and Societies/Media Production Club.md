@@ -31,11 +31,12 @@ In addition, we also ensure the smooth running of school events in the school ha
 *  Infocomm Media Student Leadership Conference (LEAD Con) by IMDA for selected leaders
 
 ### Competition
-Our School Our Stories (MOE) 2024 - Participation <br>Our School Our Stories (MOE) 2023 - Participation
+Singapore Digital Media Awards (2024) - Participation<br>Our School Our Stories (MOE) 2024 - Participation <br>
+In-House Photography Competition (2024) <br>Our School Our Stories (MOE) 2023 - Participation
 
 ### Teachers-in-Charge:
 
-Ms Kwek Ee Hui Irene​ (OIC)&nbsp;  <br>
+Ms Kwek Ee Hui Irene (OIC)&nbsp;  <br>
 Ms Yap Cheng Cheng Sophia <br>
 Mr Nordin B Hassan
 

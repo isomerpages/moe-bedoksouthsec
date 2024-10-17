@@ -7,9 +7,7 @@ variant: markdown
 ---
 Chinese Orchestra
 =================
-
-
-![](/images/CCA/Performing%20Art/chineseorchestra1.png)
+![](/images/CCA/Chinese%20Orchestra/CO1.jpg)
 Since its beginnings 30 over years ago, the Chinese Orchestra has achieved much on its road to perfection. There is a strong traditional culture within the CCA which cultivates self-discipline in every child.&nbsp;
 
 Chinese Orchestra is a CCA that not only cultivates musical talents but also inculcates strong discipline in every student. We promote virtues of Chinese customs and values such as hardworking and perseverance through appreciating the story behind every scores that we played.&nbsp;

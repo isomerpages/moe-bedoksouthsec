@@ -52,6 +52,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>18 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cross Country</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Promotion &amp; Streaming Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>25 Oct</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -77,7 +77,7 @@ football in an enjoyable and
 </td>
 <td rowspan="1" colspan="1">
 <p>League 2</p>
-<p>Quarter Final</p>
+<p>Quarter Finals</p>
 </td>
 </tr>
 <tr>
@@ -128,12 +128,12 @@ football in an enjoyable and
 </td>
 <td rowspan="1" colspan="1">
 <p>National School Games</p>
+<p>East Zone</p>
 <p>C Division Championship – Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Quarter Finals</p>
-<p>Group Y</p>
-<p>3rd Position</p>
+<p>5th position</p>
 </td>
 </tr>
 </tbody>

@@ -18,6 +18,9 @@ different stages.</p>
 <br>Mr Lim Ching Yang Adrian
 <br>And&nbsp;<strong>Volunteer Adult Leaders</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAoW_cqfIB6slURx447cWK2syNYLTn7K7AQpwGf6m1OIamcnriI2SRMjiwrDc842U7P4C6Rpmebj6_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h3>Mission of Scouting</h3>
 <p>The mission of Scouting is to contribute to the education of young people,
 through a value system based on the Scout Promise and Law, to help build

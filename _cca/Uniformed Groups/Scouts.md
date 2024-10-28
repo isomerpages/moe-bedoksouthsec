@@ -108,7 +108,7 @@ the true spirit of Scouting.</p>
 <h3>Main Activities</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Pioneering/ Campcraft</p>
+<p>Pioneering / Campcraft</p>
 </li>
 <li>
 <p>Orienteering</p>
@@ -132,7 +132,7 @@ the true spirit of Scouting.</p>
 <p>Cycling</p>
 </li>
 <li>
-<p>Sports/ Games</p>
+<p>Sports / Games</p>
 </li>
 <li>
 <p>Foot Drills</p>

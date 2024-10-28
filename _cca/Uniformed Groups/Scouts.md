@@ -25,7 +25,7 @@ a better world where people are self-fulfilled as individuals and play
 a constructive role in society. This objective is achieved by:
 <br>• involving them throughout their formative years in a non-formal educational
 process
-<br>• using a specific method that makes each individal the principal agent
+<br>• using a specific method that makes each individual the principal agent
 of his or her development as a self-reliant, supportive, responsible and
 committed person
 <br>• assisting them to establish a value system based upon spiritual, social

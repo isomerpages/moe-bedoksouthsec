@@ -7,11 +7,7 @@ variant: markdown
 ---
 Scouts
 ======
-![](/images/CCA/Uniformed%20Groups/Scouts/scouts202301.jpg)
-
-![](/images/CCA/Uniformed%20Groups/Scouts/scouts202302.jpg)
-
-The Scout Movement is an integral partner that helps its members build character and leadership. Scouting offers an informal education to develop individuals for purposeful and responsible adulthood. The Scout Method is a comprehensive framework composed of key elements that work together as a system to provide young people with a rich and active learning environment, taking into account their evolving characteristics, needs and interests at different stages.
+The Scout Movement is an integral partner that helps its members build character and leadership. Scouting offers an informal education to develop individuals for purposeful and responsible adulthood. The Scout Method is a comprehensive framework composed of key elements that work together as a system to provide young people with a rich and active learning environment, taking account of their evolving characteristics, needs and interests at different stages.
 
 ### Teachers-in-Charge
 
@@ -47,17 +43,18 @@ A Scout is to be trusted
 
 
 ### Kijang Scout Group
-“Try and leave this world a little better than you found it, and when your turn comes to die, you can die happy in feeling that at any rate, you have not wasted your time but have done your best.” – Lord Baden Powell, the founder of the Scout movement.
+“Try and leave this world a little better than you found it, and when your turn comes to die, you can die happy in feeling that at any rate, you have not wasted your time but have done your best.” – Robert Baden-Powell, the founder of the Scout movement.
 
-<br>It is our aspiration that the life skills taught will prepare our Scouts for the future and to become useful individuals to society. The quest for continuous learning is evident in Kijang Scout Group as our Scouts expand their knowledge through a wide range of programmes each year. The highlight comprises the East Area Scout Leadership Course (SLC), whereby Scouts from Secondary Three hone their leadership skills through a series of activities at East Spring Secondary School. The youths treasured the bond that has been forged with members of various troops in the East Area.
+<br>It is our aspiration that the life skills that we impart will prepare our Scouts for the future and to become useful individuals to society. The quest for continuous learning is apparent in Kijang Scout Group as our youths expand their knowledge through a wide range of programmes each year. One of the highlights involved East Area Scout Leadership Course (SLC) 2024, whereby our cadets from Secondary Two and Three honed their leadership qualities and styles through a range of stimulating activities at the Sarimbun Scout Camp. Our Scouts treasured the bonds that were forged with members of various troops in the region.
 
-<br>To strengthen the message of a non-formal, value-based educational youth programme, our Scouts have embarked on a four-year project starting in 2022 and culminating in the celebration of Singapore’s Diamond Jubilee in 2025. The Diamond Jubilee Challenge (DJC) is a youth-led and adult-supported initiative where our Scouts will be immersed in meaningful learning journeys and community engagement activities.
+<br>The Diamond Jubilee Challenge (DJC) first introduced by our former Chief Scout, President Halimah Yacob, was into its third year in 2024. The main purpose of the DJC is to help our Scouts learn about the United Nations’ Sustainable Development Goals, discover their place in the community, and what it means to be a Singaporean, as well as contribute towards “Creating a Better World”. The theme of DJC 2024 is Skills for Life, whereby our youths acquire skills relevant to their personal development through meaningful learning journeys and community engagement activities.
 
-<br>In addition, Job Week 2023 was a key educational experience for all Scouts. The main purpose of the Job Week, an annual fund-raising event, is to inculcate in Scouts the dignity of labour, the value of honest work and to help others, which will enable the Scouts to be better leaders and citizens of tomorrow. The concept of service before self; service to the community and the nation is an important aspect of the Scout Programme. Our Scouts performed jobs such as cleaning the corridor, taking away food, sorting out recyclables and watering the plants, which have helped them to appreciate the relentless efforts of our frontline workers such as town council cleaners and food delivery riders when our Scouts stayed home during the phases of circuit breaker.
+<br>In addition, our Scouts participated in Adiji Chief Scout 2024 at Choa Chu Kang Stadium. The official event was launched to welcome our new Chief Scout, President Tharman Shanmugaratnam. Approximately 3,000 youths gathered and celebrated the joyous occasion, as well as to commemorate Founder’s Day. Thrilling activities such as exhibits of core Scouting skills and carnivals were available to engage Scouts from various sections. Our youths were distinctly exhilarated as President Tharman Shanmugaratnam visited their booth. Our Scouts gained fruitful and memorable insights as they demonstrated their sense of teamwork and unity throughout the process.
 
-<br>The Frank Cooper Sands Award (FCSA) for 2020 and 2021 was suspended due to the outbreak of Coronavirus in 2019 (COVID-19). Nevertheless, the Senior Patrol Leaders played their integral roles steadfastly in enabling our troop to attain the FCSA – Gold for 2022. Equipped with a solid platform for its pursuit of excellence, Kijang Scout Group will strive to groom the next batch of tenderfoots in the true spirit of Scouting.
+<br>Job Week 2024 was an educational experience, whereby our Scouts undertook to approach friends and neighbours around their communities for donations through a variety of tasks. The main purpose of the Job Week is to inculcate in our youths the dignity of labour, the value of integrity and to help others, which will enable them to become confident citizens with strong communication and collaboration skills. The concept of service before self; service to the community and the nation is an important aspect of the Scout Programme. Our Scouts performed jobs such as cleaning the corridor, taking away food, sorting out recyclables and watering the plants, which assisted them to appreciate the relentless efforts of our frontline workers such as town council cleaners and food delivery riders.
 
-![](/images/CCA/Uniformed%20Groups/Scouts/scouts202303.jpg)
+<br>Created in 1995 and named in honour of the father of Scouting in Singapore, the Frank Cooper Sands Award (FCSA) is presented annually to units for their exceptional performance. The assessment and award structures were simplified with effect from Year of Assessment 2023 (YA2023) in tandem with broad changes in the educational landscape and societal contexts of Scouts from various sections. Quantitative modes of ranking through the existing Gold, Silver and Bronze Awards were removed to place emphasis on the quality development of our youths. The Senior Patrol Leaders played their integral roles steadfastly in enabling our troop to attain the FCSA for YA2023. Equipped with a solid platform for its pursuit of excellence, Kijang Scout Group will strive to groom the next batch of tenderfoots in the true spirit of Scouting.
+
 
 
 ### Main Activities

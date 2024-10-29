@@ -8,13 +8,13 @@ variant: markdown
 <h4><strong>Purchase of Books, Stationeries / Socks/ OneBDS shirt / PE Attire and Booklist for 2025 (Sec 2 - 4)</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>All booklists are available on the school website. Refer to the booklists
-<a href="booklist" rel="noopener nofollow" target="_blank">below.
-</a></p><a href="booklist" rel="noopener nofollow" target="_blank">
-</a></li><a href="booklist" rel="noopener nofollow" target="_blank">
-</a><li><a href="booklist" rel="noopener nofollow" target="_blank">
-</a><p><a href="booklist" rel="noopener nofollow" target="_blank">Students are strongly encouraged to purchase their school items online
-at </a><a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com </a>from <strong>4 November 2024</strong> onwards.
+<p>All booklists are available on the school website. Refer to the booklists&nbsp;
+<a href="booklist" rel="noopener noreferrer nofollow" id="target=&quot;_blank&quot;">below.</a>
+</p>
+</li>
+<li>
+<p>Students are strongly encouraged to purchase their school items online
+at <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com </a>from <strong>4 November 2024</strong> onwards.
 Students can choose between:
 	</p><p>Home delivery (fixed delivery charge of $14.90)
 	Self-collection at school. Students opting for self-collection from the school premises must adhere to their chosen appointment date.

@@ -8,18 +8,17 @@ variant: markdown
 <h4><strong>Purchase of Books, Stationeries / Socks/ OneBDS shirt / PE Attire and Booklist for 2025 (Sec 2 - 4)</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>All booklists are available on the school website. Refer to the booklists&nbsp;
-<a href="https://bedoksouthsec.moe.edu.sg/information-and-links/for-students/booklists/" rel="noopener noreferrer nofollow" target="_blank">below.</a>
-</p>
-</li>
-<li>
-<p>Students are strongly encouraged to purchase their school items online
-at <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com </a>from <strong>4 November 2024</strong> onwards.
-Students can choose between:</p>
-<p>Home delivery (fixed delivery charge of $14.90)</p>
-<p>Self-collection at school. Students opting for self-collection from the
-school premises must adhere to their chosen appointment date.</p>
-<p>We kindly request your understanding that there will be no walk-ins to
+<p>All booklists are available on the school website. Refer to the booklists
+<a href="booklist" rel="noopener nofollow" target="_blank">below.
+</a></p><a href="booklist" rel="noopener nofollow" target="_blank">
+</a></li><a href="booklist" rel="noopener nofollow" target="_blank">
+</a><li><a href="booklist" rel="noopener nofollow" target="_blank">
+</a><p><a href="booklist" rel="noopener nofollow" target="_blank">Students are strongly encouraged to purchase their school items online
+at </a><a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com </a>from <strong>4 November 2024</strong> onwards.
+Students can choose between:
+	</p><p>Home delivery (fixed delivery charge of $14.90)
+	Self-collection at school. Students opting for self-collection from the school premises must adhere to their chosen appointment date.
+</p><p>We kindly request your understanding that there will be no walk-ins to
 purchase books in school.</p>
 </li>
 <li>
@@ -37,7 +36,7 @@ between 8.30 am and 5.00 pm on weekdays.</p>
 <p></p>
 </li>
 </ol>
-<h4>Please click the relevant links for the booklists.</h4>
+<a id="booklist"><h4>Please click the relevant links for the booklists.</h4></a>
 <p><strong><u>Secondary 2</u></strong> 
 <br><a href="/files/Booklist/BSSS_S2_BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
 </p>

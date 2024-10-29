@@ -8,15 +8,13 @@ variant: markdown
 <h4><strong>Purchase of Books, Stationeries / Socks/ OneBDS shirt / PE Attire and Booklist for 2025 (Sec 2 - 4)</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>All booklists are available on the school website. Refer to the booklists&nbsp;
-<a href="booklist" rel="noopener noreferrer nofollow" id="target=&quot;_blank&quot;">below.</a>
+<p>All booklists are available on the school website. Refer to the booklists below. 
 </p>
 </li>
 <li>
 <p>Students are strongly encouraged to purchase their school items online
 at <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com </a>from <strong>4 November 2024</strong> onwards.
-Students can choose between:
-	</p><p>Home delivery (fixed delivery charge of $14.90)
+Students can choose between:Home delivery (fixed delivery charge of $14.90)
 	Self-collection at school. Students opting for self-collection from the school premises must adhere to their chosen appointment date.
 </p><p>We kindly request your understanding that there will be no walk-ins to
 purchase books in school.</p>
@@ -36,7 +34,7 @@ between 8.30 am and 5.00 pm on weekdays.</p>
 <p></p>
 </li>
 </ol>
-<a id="booklist"><h4>Please click the relevant links for the booklists.</h4></a>
+<b><u>Please click the relevant links for the booklists.</u></b>
 <p><strong><u>Secondary 2</u></strong> 
 <br><a href="/files/Booklist/BSSS_S2_BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
 </p>

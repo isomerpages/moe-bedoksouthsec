@@ -130,3 +130,5 @@ The unique feature of the ICAN framework is the mentoring aspect. The mentor who
 Although this project requires massive manpower and careful deployment, it has been worthwhile as both the teachers and students have benefitted much from it.&nbsp;
 
 Students’ feedback on the lessons was encouraging while teachers felt that they became more reflective and effective in delivering a good lesson.&nbsp;
+
+![](/images/Curriculum/Mathematics/DI_and_Manipulatives.png)

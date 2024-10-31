@@ -68,8 +68,7 @@ We are proud of Muhammad Sulaiman from 2 Excellence and Lee Soon Fu from 3G for 
 
 ![](/images/Curriculum/Computer%20Applications/WhatsApp_Image_2024_10_14_at_23_47_19.jpg)
 ![](/images/Curriculum/Computer%20Applications/WhatsApp_Image_2024_10_14_at_23_47_41.jpg)
-
-![](/images/Curriculum/Computer%20Applications/AGM_2024___Prize_Presentation.png)
+![](/images/Curriculum/Computer%20Applications/Sulaiman___Soon_Fu.png)
 
 ### Computing Curriculum Framework
 

@@ -131,4 +131,4 @@ Although this project requires massive manpower and careful deployment, it has b
 
 Students’ feedback on the lessons was encouraging while teachers felt that they became more reflective and effective in delivering a good lesson.&nbsp;
 
-![](/images/Curriculum/Mathematics/ICAN.PNG)
+![](/images/Curriculum/Mathematics/DI_and_Manipulatives.png)

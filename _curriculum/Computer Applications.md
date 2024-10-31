@@ -7,7 +7,7 @@ variant: markdown
 Computer Applications
 =====================
 
-![](/images/Curriculum/Computer%20Applications/spreadsheet%20and%20video%20making%20-%20students%20working%20in%20collaboration.jpeg)
+![](/images/Curriculum/Computer%20Applications/CPA_Collaborative_Work.png)
 
 ### Introduction
 
@@ -17,8 +17,8 @@ Computer Applications syllabus aims to prepare students to be technologically ad
 
 Students will  
 
-1.   acquire skills in using a variety of application software and associated computer hardware to accomplish tasks, communicate, and facilitate activities;
-2.   develop an awareness of how computing technology are used in the home, school, workplace and community;
+1.   acquire skills in using a variety of application software and associated computer hardware to accomplish tasks, communicate, and facilitate activities
+2.   develop an awareness of how computing technology are used in the home, school, workplace and community
 3.   appreciate the role computers play in everyday life
 4.   recognise the impact computers have on society and people
 5.   develop critical thinking and problem-solving skills
@@ -59,8 +59,14 @@ The central pedagogical approaches adopted for CPA are the ‘learning through d
 </tbody>
 </table>
 
-![](/images/Curriculum/Computer%20Applications/media%20elements%20-%20students%20working%20collaboratively%20to%20create%20the%20same%20image%20as%20teacher.jpeg)
+### Achievements
+Since 2012, the Animation and Game Making (AGM) competition is an annual event organised by Curriculum Planning and Development Division (CPDD). All Secondary 2 and 3 students taking the subject Computer Applications can participate in this competition. Students are required to use the block-based coding programme to create an animation for the Secondary 2 and a game for the Secondary 3.  
 
+For 2024, the Secondary 2 category requires students to create a short animation to raise awareness of the "I Can ACT against Scams" campaign. For the Secondary 3 category, students code to create a game that promotes Intergenerational Harmony that encourages positive interaction between the young and the old.
+
+We are proud of Muhammad Sulaiman from 2 Excellence and Lee Soon Fu from 3G for attaining the Silver award in the competition. Congratulations!
+
+![](/images/Curriculum/Computer%20Applications/Sulaiman___Soon_Fu.png)
 
 ### Computing Curriculum Framework
 
@@ -127,7 +133,7 @@ This paper will assess knowledge, understanding and application of concepts and 
   </tr>
   <tr>
     <td class="tg-y7qa">Interactive Multimedia Communication<br>(IMC)</td>
-    <td class="tg-y7qa">Candidates will use presentation software to create a<br>multimedia slide presentation with given media elements and according to specifications described in the question paper; and submit the required work.</td>
+    <td class="tg-y7qa">Candidates will use presentation software to create a multimedia slide presentation with given media elements and according to specifications described in the question paper; and submit the required work.</td>
     <td class="tg-y7qa">30%</td>
     <td class="tg-y7qa">21</td>
   </tr>

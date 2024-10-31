@@ -7,7 +7,7 @@ variant: markdown
 Computer Applications
 =====================
 
-![](/images/Curriculum/Computer%20Applications/spreadsheet%20and%20video%20making%20-%20students%20working%20in%20collaboration.jpeg)
+![](/images/Curriculum/Computer%20Applications/CPA_Collaborative_Work.png)
 
 ### Introduction
 
@@ -58,8 +58,6 @@ The central pedagogical approaches adopted for CPA are the ‘learning through d
   </tr>
 </tbody>
 </table>
-
-![](/images/Curriculum/Computer%20Applications/media%20elements%20-%20students%20working%20collaboratively%20to%20create%20the%20same%20image%20as%20teacher.jpeg)
 
 ### Achievements
 Since 2012, the Animation and Game Making (AGM) competition is an annual event organised by Curriculum Planning and Development Division (CPDD). All Secondary 2 and 3 students taking the subject Computer Applications can participate in this competition. Students are required to use the block-based coding programme to create an animation for the Secondary 2 and a game for the Secondary 3.  

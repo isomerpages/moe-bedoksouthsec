@@ -68,6 +68,8 @@ For 2024, the Secondary 2 category requires students to create a short animation
 
 We are proud of Muhammad Sulaiman from 2 Excellence and Lee Soon Fu from 3G for attaining the Silver award in the competition. Congratulations!
 
+![](/images/Curriculum/Computer%20Applications/AGM_2024___Prize_Presentation.png)
+
 ### Computing Curriculum Framework
 
 ![Computing Framework ](/images/Computing%20Framework%202017.jpg)

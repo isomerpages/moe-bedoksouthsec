@@ -27,7 +27,9 @@ school premises must adhere to their chosen appointment date.</p>
 </li>
 </ul>
 <p>We kindly request your understanding that there will be no walk-ins to
-purchase books in school.</p>
+purchase books in school. You may refer to the step-by-step guide on how
+to purchase books online. Click <a href="https://go.gov.sg/pacificbookstoresonlinepurchaseguide" rel="noopener nofollow" target="_blank">here</a> for
+the guide.</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>The bookshop vendor, Pacific Bookstore, will be selling the OneBDS shirt.

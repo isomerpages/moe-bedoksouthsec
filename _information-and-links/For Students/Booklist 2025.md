@@ -23,7 +23,8 @@ Students can choose between:</p>
 </li>
 <li>
 <p>Self-collection at school. Students opting for self-collection from the
-school premises must adhere to their chosen appointment date.</p>
+school premises must adhere to their chosen appointment date. The venue
+will be G1-07.</p>
 </li>
 </ul>
 <p>We kindly request your understanding that there will be no walk-ins to

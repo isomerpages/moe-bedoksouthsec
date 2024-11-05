@@ -40,7 +40,7 @@ Johnson Uniform, through one of these methods:</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Available on selected days between 9 am to 3 pm</p>
+<p>Available on selected days between 9 am to 3 pm. Venue will be F2-05.</p>
 </li>
 <li>
 <p>Please refer to the <a href="/files/Booklist/factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">factsheet</a> for more details on the

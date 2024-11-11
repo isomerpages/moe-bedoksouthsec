@@ -42,12 +42,19 @@ paths in the local fashion industry</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_11_103916.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h3>Design And Technology</h3>
+<h4>3D Pen Printing Workshop (Collaboration with ALP Team)</h4>
+<ul>
+<li>
+<p><strong>Develop problem-solving and critical thinking skills:</strong> By
+overcoming challenges in 3D pen printing, students will learn to think
+creatively and find solutions.</p>
+</li>
+<li>
+<p><strong>Foster a culture of innovation and experimentation:</strong> 3D
+pen printing encourages students to explore new ideas and take risks in
+their design process.</p>
+</li>
+</ul>
 <p></p>
 <p></p>

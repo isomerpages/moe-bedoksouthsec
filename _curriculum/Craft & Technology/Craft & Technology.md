@@ -56,5 +56,7 @@ pen printing encourages students to explore new ideas and take risks in
 their design process.</p>
 </li>
 </ul>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_11_110623.png">
+</div>
 <p></p>

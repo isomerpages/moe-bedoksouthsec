@@ -63,4 +63,23 @@ their design process.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_11_110424.png">
 </div>
+<h4>Sec 3 Learning Journey to Tay Eng Soon Convention Centre@ITE College Central</h4>
+<p>Students learnt from the Electronics Industry Day</p>
+<ul>
+<li>
+<p>Awareness of key players, technologies, and applications within the semiconductor
+industry&nbsp;</p>
+</li>
+<li>
+<p>Discover various career roles and opportunities within the semiconductor
+industry. They also learnt about the skills and qualifications required
+for different positions, as well as the potential for growth and advancement</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_11_113125.png">
+</div>
+<h4></h4>
+<p></p>
+<p></p>
 <p></p>

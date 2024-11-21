@@ -33,6 +33,7 @@ Achievement:
 Objective: Gain broad-based training through Roadmaps and acquire deep skills and knowledge with Accelerators and Bootcamps. 
 
 Achievements: 
+* (Upcoming) 2025: Apple New Media development training from IMDA
 * 2024: Artificial Intelligence with Intel from IMDA
 * 2023: Mobile App development training using Swift from IMDA
 * 2022: Apple New Media development training from IMDA
@@ -45,9 +46,9 @@ Objective: Compete and be recognized in national Tech and Media competition
 
 Achievements:
 
-* (Upcoming) 2024: National Youth Tech Championship with Google/ IMDA
-* (Upcoming) 2024: Goldman Sachs AI Illuminator Coding Workshop
-* (Upcoming) 2024: Unity Bootcamp for Game Development
+* 2024: National Youth Tech Championship with Google/ IMDA
+* 2024: Goldman Sachs AI Illuminator Coding Workshop
+* 2024: Unity Bootcamp for Game Development
 * 2024: AI Changemakers Competition with Intel
 * 2024: Sentinel Challenge on Digital Defence organized by MINDEF/ IMDA
 * 2023: National Youth Tech Championship with Google/ IMDA (top 20 among 51 schools)
@@ -64,8 +65,8 @@ Objective: Give back to the Community using acquired digital skills through Valu
 
 Achievements: 
 
-* (Upcoming) 2024: Imparting ICT skills to children at Heartbeat@Bedok with IMDA
-* (Upcoming) 2024: Game development training to other CCA members in school
+* 2024: Imparting ICT skills to children at Heartbeat@Bedok with IMDA
+* 2024: Game development training to other CCA members in school
 * 2023: Tech Saturday for imparting ICT skills to children at Heartbeat@Bedok with IMDA
 * 2023: Game development training to other CCA members in school
 
@@ -75,6 +76,7 @@ Achievements:
 Objective: Hone leadership skills through training and opportunities to apply the skills
 
 Achievements: 
+* 2024: Leadership Conference (Lead Con) organised by IMDA
 * 2023: Leadership Conference (Lead Con) organised by IMDA
 * 2023: Leadership in Action Workshop on Tech for Good and Emerging Technologies by IMDA
  
@@ -83,4 +85,3 @@ Achievements:
 
 Mdm Suchandra Ghose&nbsp;(OIC)  <br>
 Ms Nadia Begam <br>
-Mr Nordin B Hassan

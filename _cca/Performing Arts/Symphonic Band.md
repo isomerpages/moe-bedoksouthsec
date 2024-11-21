@@ -6,8 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h1>Symphonic Band</h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Symphonic Band" src="/images/CCA/Symphonic%20Band/Symphonic_Band.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Art/SymBand2024.jpg">
 </div>
 <p>The BDS Symphonic Band prides itself in being an energetic and passionate
 group of music lovers who knows the value of cooperation and hard work

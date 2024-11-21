@@ -32,6 +32,16 @@ and compassionate, and who strive to be champions of music-making.</p>
 <h3>Motto</h3>
 <p>In Music, We Believe</p>
 <h3>Key Events</h3>
+<p><strong>2024</strong>
+</p>
+<p>Symphonic Tapestries: Bedok South Symphonic Band X Novo Winds @ Victoria
+Concert Hall</p>
+<p>Kampong Chai Chee National Day Carnival</p>
+<p>New Horizons: A Junior Band Showcase</p>
+<p>Learning Journey to SYF Arts Demonstration (Marching Bands)</p>
+<p>School Events (CCA Fair, CNY Celebrations, National Day Celebrations,
+Speech Day)</p>
+<p></p>
 <p><strong>2023</strong>
 <br>Singapore Youth Festival
 <br>School Events (CCA Fair, CNY Celebrations, National Day Celebrations,

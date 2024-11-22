@@ -62,8 +62,8 @@ Camp</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Environmental    Sustainability Programme:</strong> Infused with
-Nature Hike, Dragon Boating, and various activities that demonstrate principles
+<p><strong>Environmental Sustainability Programme:</strong> Infused with Nature
+Hike, Dragon Boating, and various activities that demonstrate principles
 on caring for the environment.</p>
 </li>
 <li>

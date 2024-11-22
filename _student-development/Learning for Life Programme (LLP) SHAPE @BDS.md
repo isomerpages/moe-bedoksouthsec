@@ -2,74 +2,161 @@
 title: Learning for Life Programme (LLP) SHAPE @BDS
 permalink: /student-development/learning-for-life-programme-llp-shape-at-bds/
 description: ""
+variant: tiptap
 ---
-Learning for Life Programme (LLP) SHAPE @BDS
-============================================
-
-### Introduction
-
-SHAPE@BDS (A School of Healthy And Physically Educated Enthusiasts) 
-
-To develop a School of Healthy and Physically Educated Enthusiasts at Bedok South Secondary School through Sports and the Outdoors
-
-### Student Outcomes
-
-To inculcate in our students - **life-long values** , **skills** and **competencies** to lead themselves and others; towards living an active, healthy and fulfilling life.
-
-(i) **Self-awareness** and **self-management** skills to achieve personal well-being physically, emotionally and mentally;
-
-(ii) **Social awareness** , **interpersonal** and **leadership** skills to build and maintain positive **relationships** and lead others;
-
-(iii) **Skills** and **knowledge** of sports and the outdoors to lead themselves and others towards living a healthy and balanced life.
-
-This LLP is aligned to the school’s mission of building character, producing leaders of tomorrow and to serve others with conviction.
-
-### Programmes
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jego{background-color:#EDEDED;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dakm{background-color:#EDEDED;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-cyh9{background-color:#C9C9C9;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-cyh9" rowspan="6">Student Programmes</td>
-    <td class="tg-dakm">Title and Brief Description</td>
-    <td class="tg-jego">Level(s) of students involved</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">1. Swimming for Life Programme</td>
-    <td class="tg-7yig">Sec 1</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">2. Outdoors for Life Programme – Kayaking 1 Star Certification and Expedition around SG</td>
-    <td class="tg-7yig">Sec 2</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">3. Active Movers for Life<span style="background-color:initial">  </span><br><span style="background-color:initial">   (Walk, Run, Cycle) around SG</span></td>
-    <td class="tg-7yig">Sec 3</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">4.  Fitness Enthusiasts for Life</td>
-    <td class="tg-7yig">Sec 4&amp; 5</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">5. Low Element Challenge course</td>
-    <td class="tg-7yig"><br>Selected <span style="background-color:transparent">students</span></td>
-  </tr>
-</thead>
+<h1>Learning for Life Programme (LLP): Sports And Outdoor Education</h1>
+<h3><strong>Introduction</strong></h3>
+<p>SHAPE@BDS (A School of Healthy And Physically Educated Enthusiasts)</p>
+<p>To develop a School of Healthy and Physically Educated Enthusiasts at
+Bedok South Secondary School through Sports and Outdoor Education</p>
+<h3><strong>Student Outcomes</strong></h3>
+<p>To inculcate in our students:&nbsp;<strong>life-long values</strong>,&nbsp;<strong>skills</strong>&nbsp;and&nbsp;<strong>competencies</strong>&nbsp;to
+lead themselves and others; towards living an active, healthy and fulfilling
+life.</p>
+<p>(i)&nbsp;<strong>Self-awareness</strong>&nbsp;and&nbsp;<strong>self-management</strong>&nbsp;skills
+to achieve personal well-being physically, emotionally and mentally;</p>
+<p>(ii)&nbsp;<strong>Social awareness</strong>&nbsp;,&nbsp;<strong>interpersonal</strong>&nbsp;and&nbsp;<strong>leadership</strong>&nbsp;skills
+to build and maintain positive&nbsp;<strong>relationships</strong>&nbsp;and
+lead others;</p>
+<p>(iii)&nbsp;<strong>Skills</strong>&nbsp;and&nbsp;<strong>knowledge</strong>&nbsp;of
+sports and the outdoors to lead themselves and others towards living a
+healthy and balanced life.</p>
+<p>This LLP is aligned to the school’s mission, vision, values and motto,
+as well as the <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer nofollow" target="_blank">MOE Framework for 21st Century Competencies and Student Outcomes</a>.&nbsp;</p>
+<h3><strong>Programmes</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="6" colspan="1">
+<p><strong>Student Programmes</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Title and Brief Description</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Level(s) of students involved</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Outdoors for Life Programme:</strong> Outdoor Adventure Learning
+Camp</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Environmental Sustainability Programme:</strong> Infused with Nature
+Hike, Dragon Boating, and various activities that demonstrate principles
+on caring for the environment.</p>
+</li>
+<li>
+<p><strong>Learn to Cycle Programme</strong>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Active Movers for Life:</strong> Multi-day expeditions (cycling,
+hiking) with various physical and outdoor activities.</p>
+</li>
+<li>
+<p><strong>Disability Sports Programme</strong>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Fitness Enthusiasts for Life:</strong> Fitness Training Principles
+and Methods.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4&amp; 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Inter – Class Sports Games</p>
+</li>
+<li>
+<p>Sports Carnival</p>
+</li>
+<li>
+<p>Cross Country Road Run</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>All Levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Active Youth Programmes</p>
+</li>
+<li>
+<p>Leaders through Sport Programmes</p>
+</li>
+<li>
+<p>Sports Experience Programmes</p>
+</li>
+<li>
+<p>Inclusive Sports Programmes</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected Students</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-![Learning for Life Programme (LLP) SHAPE @BDS](/images/LLP%2001.jpg)
-
-![Learning for Life Programme (LLP) SHAPE @BDS](/images/LLP%2002.jpg)
-
-![Learning for Life Programme (LLP) SHAPE @BDS](/images/LLP_03.png)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_1.jpg">
+</div>
+<p></p>

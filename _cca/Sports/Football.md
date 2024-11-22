@@ -12,11 +12,10 @@ variant: tiptap
 <h3>Overview</h3>
 <p>Football training in Bedok South Secondary provides the opportunity for
 students to take time off from their school work to relax and have fun.
-Even though our Coach, Ex-National Player, Dalis Supait enforces tough
-training to ensure the players improve their fitness level and also their
-technical skills, every session always ends with a game where players get
-to pit their skills against one another resulting in much enjoyment for
-all players.&nbsp;</p>
+Even though our Coach, Muhammad Raihan enforces tough training to ensure
+the players improve their fitness level and also their technical skills,
+every session always ends with a game where players get to pit their skills
+against one another resulting in much enjoyment for all players.&nbsp;</p>
 <p>Due to the nature of the training, the bonding between the soccer players
 is tremendous. Players of the team, regardless of class, level, race and
 religion have established great rapport both off and on the pitch.&nbsp;</p>
@@ -64,7 +63,8 @@ football in an enjoyable and
 <p>B Division Championship – Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 1 Second Round</p>
+<p>League 2</p>
+<p>Quarter Finals</p>
 </td>
 </tr>
 <tr>
@@ -76,8 +76,7 @@ football in an enjoyable and
 <p>C Division Championship – Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 2</p>
-<p>Quarter Finals</p>
+<p>League 1 Preliminary Round</p>
 </td>
 </tr>
 <tr>

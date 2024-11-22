@@ -35,7 +35,7 @@ Day Dinner @ Siglap CC &amp; VIA @ ‘My First School’!</p>
 <p>3. Bedok Community Park on 8th August, part of Singapore's 52nd birthday
 celebrations&nbsp;</p>
 <p>4. Received distinction awards for SYF Dance Presentation in 2013, 2015,
-2017 and 2021</p>
+2017, 2021 and 2023</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/malaydance.jpg">
 </div>

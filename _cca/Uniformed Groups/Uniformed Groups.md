@@ -41,7 +41,7 @@ Uniformed Groups
   </tr>
   <tr>
     <td class="tg-ryel">NPCC <br>(B &amp; G)</td>
-    <td class="tg-ryel">Mr Kong Kian Keong Steve (OIC)<br> 	Mr Chua Lian Wee John<br>Ms Pooja Avichal Ghoghari</td>
+    <td class="tg-ryel">Mr Kong Kian Keong Steve (OIC)<br>Ms Pooja Avichal Ghoghari</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Carpark Area in front of Foyer)</td>
     <td class="tg-ryel">3.30 pm – 5.30 pm<br>(Carpark Area in front of Foyer)</td>
   </tr>

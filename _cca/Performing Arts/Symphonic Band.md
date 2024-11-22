@@ -36,11 +36,11 @@ and compassionate, and who strive to be champions of music-making.</p>
 <p><strong>2024</strong>
 </p>
 <p>Symphonic Tapestries: Bedok South Symphonic Band X Novo Winds @ Victoria
-Concert Hall</p>
-<p>Kampong Chai Chee National Day Carnival</p>
-<p>New Horizons: A Junior Band Showcase</p>
-<p>Learning Journey to SYF Arts Demonstration (Marching Bands)</p>
-<p>School Events (CCA Fair, CNY Celebrations, National Day Celebrations,
+Concert Hall
+<br>Kampong Chai Chee National Day Carnival
+<br>New Horizons: A Junior Band Showcase
+<br>Learning Journey to SYF Arts Demonstration (Marching Bands)
+<br>School Events (CCA Fair, CNY Celebrations, National Day Celebrations,
 Speech Day)</p>
 <p></p>
 <p><strong>2023</strong>

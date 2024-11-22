@@ -56,7 +56,8 @@ helps to make Singapore the safest place in the world”.</p>
 <p>Best Unit Cadet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1)Ng Meng Feng 2) Cheng Pei Ying</p>
+<p>1) Ng Meng Feng
+<br>2) Cheng Pei Ying</p>
 </td>
 </tr>
 <tr>
@@ -67,8 +68,8 @@ helps to make Singapore the safest place in the world”.</p>
 <p>SPF–NPCC Badge 2023 AWARD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1)Lee Zhong Heng Xavier</p>
-<p>2)Pang Weiqi Rizkhy Akbar</p>
+<p>1) Lee Zhong Heng Xavier
+<br>2) Pang Weiqi Rizkhy Akbar</p>
 </td>
 </tr>
 <tr>
@@ -76,8 +77,8 @@ helps to make Singapore the safest place in the world”.</p>
 <p>Best Unit Cadet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1)Huynh Ngoc Gia Kim</p>
-<p>2)Pang Weiqi Rizkhy Akbar</p>
+<p>1) Huynh Ngoc Gia Kim
+<br>2) Pang Weiqi Rizkhy Akbar</p>
 </td>
 </tr>
 <tr>
@@ -88,8 +89,8 @@ helps to make Singapore the safest place in the world”.</p>
 <p>SPF–NPCC Badge 2022 AWARD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1)Hee Jianfeng</p>
-<p>2)Low Yu Le Jaden</p>
+<p>1)Hee Jianfeng
+<br>2)Low Yu Le Jaden</p>
 </td>
 </tr>
 <tr>
@@ -97,8 +98,8 @@ helps to make Singapore the safest place in the world”.</p>
 <p>Best Unit Cadet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1)Low Yu Le Jaden</p>
-<p>2)Emily Law Khia En</p>
+<p>1) Low Yu Le Jaden
+<br>2) Emily Law Khia En</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +240,7 @@ countries.</p>
 <p>President</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sgt (NPCC) <strong>Enrique </strong>Lim Yong Jun (Lin Yongjun)</p>
+<p>Sgt (NPCC) Enrique Lim Yong Jun (Lin Yongjun)</p>
 </th>
 </tr>
 <tr>

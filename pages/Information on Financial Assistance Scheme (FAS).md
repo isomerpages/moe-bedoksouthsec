@@ -2,15 +2,25 @@
 title: Information on Financial Assistance Scheme (FAS)
 permalink: /prospectus/information-on-fas/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Information on Financial Assistance Scheme (FAS) 2024
-=====================================================
-
-Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses. This applies to government, government-aided, specialised and some independent schools. 
-
-Students whose application for MOE FAS have been approved earlier by their primary schools will be contacted directly by the FAS officer, Ms Mardhiah, on the assigned date and time for onsite collection via our school FAS WhatsApp service.  Should there be any concerns or if you did not receive any notification from our school, please WhatsApp the FAS line @ 86866208 for assistance between 8.30am – 5.00pm on weekdays.
-
-For students who have yet to apply for MOE FAS and wish to do so, you may refer to [here](https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-parents/financial-assistance-scheme-fas/). Upon receipt of your application and documents, we will process and notify you of the FAS status soonest.
-
-If you have any enquiries regarding Financial Assistance matters, you may contact Ms Mardhiah at 6441 4479 ext. 130.
+<h1>Information on Financial Assistance Scheme (FAS) 2025</h1>
+<p>Singapore Citizens in financial need can get assistance from MOE on school
+fees and other expenses. This applies to government, government-aided,
+specialised and some independent schools.
+<br>
+<br>Students with MOE Financial Assistance Scheme (FAS) approved by the primary
+school/other school will need to message the FAS officer, Ms Tina via <strong>WhatsApp </strong>at<strong> 8686 6208 </strong>(8:30
+a.m. and 5:00 p.m. on weekdays). Please provide the student's full name
+and FAS approval letter in your message.&nbsp;
+<br>
+<br>For students who have yet to apply for MOE FAS and wish to do so can either
+apply FAS online (<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">eFAS link</a>), download the FAS application
+form from <a href="go.gov.sg/moefasapplicationform2025" rel="noopener nofollow" target="_blank">go.gov.sg/moefasapplicationform2025</a>.
+Upon completion, please submit the application form and the required supporting
+documents, as stated in the application form, to the General Office. If
+your documents are in order, we will be able to process your application
+between 7 to 10 working days and we will notify you of the status accordingly.
+Otherwise, we will process your application when the documents are completed.
+<br>If you have any enquiries regarding Financial Assistance matters, you
+may contact Ms Tina at 6441 4479 ext. 123.</p>

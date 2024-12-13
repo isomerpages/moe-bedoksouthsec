@@ -68,10 +68,11 @@ the availability of your desired size before making the trip.</p>
 <li>
 <p><strong><u>FAS Students</u></strong>
 </p>
-</li>
-</ol>
 <p>Students with MOE Financial Assistance Scheme (FAS) approved by the primary
 school/other school will need to message the FAS officer, Ms Tina via <strong>WhatsApp </strong>at<strong> 8686 6208 </strong>(8:30
 a.m. and 5:00 p.m. on weekdays). Please provide the student's full name
 and FAS approval letter in your message. The FAS collection date will be
 on <strong>30 December 2024, Monday</strong>.</p>
+</li>
+</ol>
+<p></p>

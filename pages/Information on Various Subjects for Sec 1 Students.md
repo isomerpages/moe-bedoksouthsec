@@ -4,7 +4,7 @@ permalink: /prospectus/information-on-various-subjects-for-sec-1-students/
 description: ""
 variant: markdown
 ---
-Information on various subjects for Sec 1 students
+Information on Secondary One Subjects
 ==================================================
 
 Compared to taking only four examinable subjects in primary schools, a lower secondary school student will be taking&nbsp;<u>10 examinable subjects</u>.  

@@ -81,8 +81,8 @@ the step-by-step guide on how to purchase books online.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>24<sup>th</sup> December 2024</strong> (Sec 1 only)</p>
-<p>(Subject to slot availability)</p>
+<p><strong>24<sup>th</sup> December 2024</strong> (Sec 1 only)
+<br>(Subject to slot availability)</p>
 </td>
 </tr>
 <tr>
@@ -125,8 +125,8 @@ purchase (Subject to slot availability)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A confirmation email will be sent upon successful payment.</p>
-<p>An invoice will be attached to this email. You may also print the invoice
+<p>A confirmation email will be sent upon successful payment.
+<br>An invoice will be attached to this email. You may also print the invoice
 from the Pacific Bookstores website under your registered account.</p>
 </td>
 </tr>
@@ -137,12 +137,16 @@ from the Pacific Bookstores website under your registered account.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please note:</p>
-<p>1)&nbsp;&nbsp;&nbsp;&nbsp; All purchases are final, and cancellations
-are not permitted.</p>
-<p>&nbsp;</p>
-<p>2)&nbsp;&nbsp;&nbsp;&nbsp; Refunds are not allowed. Exchanges may be considered
-on a case-by-case basis (in the event of an incorrect order), provided
-the items are unmarked and in their original condition.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>All purchases are final, and cancellations are not permitted.</p>
+</li>
+<li>
+<p>Refunds are not allowed. Exchanges may be considered on a case-by-case
+basis (in the event of an incorrect order), provided the items are unmarked
+and in their original condition.</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
@@ -151,9 +155,9 @@ the items are unmarked and in their original condition.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For enquiries, please contact:</p>
-<p>Tel: 6559 2269 (9:00 a.m. to 5:00 p.m., Monday to Friday)</p>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+<p>For enquiries, please contact:
+<br>Tel: 6559 2269 (9:00 a.m. to 5:00 p.m., Monday to Friday)
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
 </p>
 </td>
 </tr>

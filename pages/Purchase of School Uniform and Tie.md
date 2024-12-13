@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<p>a) Online at <strong><a href="https://go.gov.sg/intrenduniforms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/intrenduniforms</a></strong>with
+<p>a) Online at <strong><a href="https://go.gov.sg/intrenduniforms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/intrenduniforms</a></strong> with
 option for home delivery (fixed delivery charge of $7 applies).</p>
 <p>b) Walk-in purchase at Bedok South Secondary School on the following dates:</p>
 <table style="minWidth: 50px">

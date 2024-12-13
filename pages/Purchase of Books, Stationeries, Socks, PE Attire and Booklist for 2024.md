@@ -41,3 +41,119 @@ am and 5.00 pm on weekdays).</p>
 message. We will then liaise with you regarding FAS benefits and booklist
 via WhatsApp. The FAS collection date will be on <strong>30 December 2024, Monday</strong>.</p>
 <p></p>
+<h1>Purchase of Books/Stationeries/Socks/OneBDS Polo T-shirt (OneBDS 2nd Uniform)/PE Attire</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ONLINE ORDER</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Please visit the website <strong><a href="https://go.gov.sg/pacificbookstores" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pacificbookstores</a></strong>
+</p>
+</li>
+<li>
+<p>Click <a href="https://file.go.gov.sg/pacificbookstoresonlinepurchaseguide.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the step-by-step guide on how to purchase books online.</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LAUNCH DATE FOR ONLINE ORDERING</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>18<sup>th</sup> December 2024 </strong>(Sec 1 only)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LAST DAY OF ONLINE ORDERING</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>24<sup>th</sup> December 2024</strong> (Sec 1 only)</p>
+<p>(Subject to slot availability)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOME DELIVERY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Local delivery charge of $14.90</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SELF COLLECTION DATES &amp; HOURS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Self-Collection date &amp; time can be selected when you make your online
+purchase (Subject to slot availability)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ONLINE PAYMENT OPTIONS</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PAYNOW (QR Code) or CREDIT CARD (VISA/MASTERCARD ONLY)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ONLINE ORDER CONFIRMATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A confirmation email will be sent upon successful payment.</p>
+<p>An invoice will be attached to this email. You may also print the invoice
+from the Pacific Bookstores website under your registered account.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CANCELLATION/EXCHANGE POLICY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please note:</p>
+<p>1)&nbsp;&nbsp;&nbsp;&nbsp; All purchases are final, and cancellations
+are not permitted.</p>
+<p>&nbsp;</p>
+<p>2)&nbsp;&nbsp;&nbsp;&nbsp; Refunds are not allowed. Exchanges may be considered
+on a case-by-case basis (in the event of an incorrect order), provided
+the items are unmarked and in their original condition.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CUSTOMER SERVICE CONTACT:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For enquiries, please contact:</p>
+<p>Tel: 6559 2269 (9:00 a.m. to 5:00 p.m., Monday to Friday)</p>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

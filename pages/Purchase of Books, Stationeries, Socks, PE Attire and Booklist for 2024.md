@@ -114,6 +114,9 @@ purchase (Subject to slot availability)</p>
 <td rowspan="1" colspan="1">
 <p>PAYNOW (QR Code) or CREDIT CARD (VISA/MASTERCARD ONLY)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/paynowMC.jpg">
+</div>
 </td>
 </tr>
 <tr>

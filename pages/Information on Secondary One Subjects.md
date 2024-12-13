@@ -2,30 +2,47 @@
 title: Information on Secondary One Subjects
 permalink: /prospectus/information-on-various-subjects-for-sec-1-students/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Information on Secondary One Subjects
-==================================================
-
-Compared to taking only four examinable subjects in primary schools, a lower secondary school student will be taking&nbsp;<u>10 examinable subjects</u>.  
-  
-
-#### **Non-Common Curriculum Subjects**
-
-1\.  English Language
-<br>2\.  Mother Tongue Language 
-<br>3\.  Mathematics
-<br>    4\.  General Science
-<br>  5\.  Humanities (History)
-<br>  6\.  Humanities (Geography)
-<br>  7\.  English Literature  
-
-#### **Common Curriculum Subjects:**
-
-8\. Design &amp; Technology (D&amp;T) 
-<br>9\. Food and Consumer Education (FCE)
-<br>10\. Art
-<br>11\. Music
-<br>12\. Physical Education
-  
-Students may explore the school website to gain an understanding of the various subjects.
+<h1>Information on Secondary One Subjects</h1>
+<p>Compared to taking only 4 examinable subjects in primary schools, a lower
+secondary school student will be taking <u>up to 10 examinable subjects (depending on their posting group).</u>
+</p>
+<h4><strong>Non-Common Curriculum Subjects</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>English Language</p>
+</li>
+<li>
+<p>Mother Tongue Language</p>
+</li>
+<li>
+<p>Mathematics</p>
+</li>
+<li>
+<p>Science</p>
+</li>
+<li>
+<p>G2/G3 Geography</p>
+</li>
+<li>
+<p>G2/G3 History</p>
+</li>
+<li>
+<p>G1 Humanities [Social Studies and Humanities Exposure Modules (HEMs)]</p>
+</li>
+</ol>
+<h4><strong>Common Curriculum Subjects:</strong></h4>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Design &amp; Technology (D&amp;T)</p>
+</li>
+<li>
+<p>Food and Consumer Education (FCE)</p>
+</li>
+<li>
+<p>Art</p>
+</li>
+</ol>
+<p>Students may explore the school website to gain an understanding of the
+various subjects.</p>

@@ -2,125 +2,159 @@
 title: Orientation Programme and CCA Fair 2024
 permalink: /prospectus/orientation-programme-and-cca-fair-2024/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Orientation Programme and CCA Fair 2024
-=======================================
-
-The transition to a secondary school can be an overwhelming experience for many Secondary One students, but the experience can be made rewarding when students familiarise themselves with the rules, expectations and basic information of the school.  
-
-To assist the students in making this transition, we have organised the following:
-<br>1\)	Orientation Programme (Tuesday, 2 Jan 2024 to Thursday, 4 January 2024)
-<br>2\)	CCA Fair (Friday, 5 January 2024)
-
-
-
-### Orientation Programme
-
-<b>Objectives of the Orientation Programme</b>
-<br>•	To welcome our new BDSians into our BDS family
-<br>•	To create new friendships and bonds with classmates and Form Teachers (FTs) 
-<br>•	To create a sense of belonging to the school with new environment and phase of life
-<br>•	To start the development of class identity through team building programmes and activities so as to build a strong sense of belonging to the school.
-<br>•	To acquaint the Sec 1 students with the school’s rules and regulations, culture and routines.
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rj1p"><div style="text-align:center">Event</div></th>
-    <th class="tg-rj1p"><div style="text-align:center">Date</div></th>
-    <th class="tg-rj1p"><div style="text-align:center">Dismissal Time</div></th>
-  </tr>
-</thead>
+<h1>Orientation Programme and CCA Fair 2025</h1>
+<h3>Secondary One Orientation</h3>
+<p>The purpose of the Secondary One Orientation is to help our new students
+transition smoothly into their secondary school journey by building a sense
+of belonging, confidence, and excitement for the years ahead.
+<br>Through a series of carefully designed activities, students will get to
+know their peers, familiarise themselves with the school environment, values,
+and routines, and understand the expectations of secondary school life.
+<br>This orientation aims to cultivate friendships, encourage teamwork, and
+provide guidance, ensuring that each student feels welcomed and prepared
+to embark on this new phase of their educational journey with a positive
+and open mindset.
+<br>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>To assist the students in making this transition, we have organised the
+following:
+<br>Orientation Programme: 2 January 2025 (Thursday) and 3 January 2025 (Friday)</p>
+</li>
+<li>
+<p>CCA Fair and Secondary One Parent Engagement: 10 January 2025 (Friday)</p>
+</li>
+</ol>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-ii8k" rowspan="3">Sec 1 <br>Orientation <br>Programme</td>
-    <td class="tg-ii8k">Tues, 2 Jan 2024</td>
-    <td class="tg-ii8k">2.30pm</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Wed, 3 Jan 2024</td>
-    <td class="tg-ii8k">2.30pm</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Thurs, 4 Jan 2024</td>
-    <td class="tg-ii8k">4.00pm</td>
-  </tr>
-</tbody>
-</table>
-
-
-<b>Attire for Orientation Programme</b> <br>
-<b>Come in full Bedok South Secondary School attire (if possible) and ensure proper grooming.</b>
-<br><i>\- Students who have not purchased the uniform may come in their primary school attire.</i><br>
-<i>\- Students who are pending to transfer out, may be in their primary school attire.</i>
-
-
-### CCA Fair
-
-<b>Objectives of the CCA Fair: </b><br>
-To provide a platform for students to get to know the different CCAs in greater detail before they confirm their CCA decision.
-
-<b>Date</b>: <br>
-Friday, 5 January 2024 (2.30 pm to 5.30 pm)
-
-<b>Attire</b>: <br>
-Students will&nbsp;<u><b>change to your PE attire after lunch</b></u>&nbsp;for comfort and ease. You are strongly advised to have a water bottle with you so that you can hydrate yourself.
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ba4e{background-color:#B4C6E7;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ba4e">Time</th>
-    <th class="tg-ba4e">Details of CCA Fair</th>
-		    <th class="tg-ba4e">Venue</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">2.30 pm</td>
-    <td class="tg-ktyi">FT engagement with parents</td>
-    <td class="tg-ktyi">Sec 1 classroom</td>
-	</tr>
-  <tr>
-    <td class="tg-9hzb">3.00 pm</td>
-    <td class="tg-ktyi">Address by Principal</td>
-    <td class="tg-ktyi">School Hall</td>  </tr>
-  <tr>
-    <td class="tg-9hzb">3.15 pm</td>
-    <td class="tg-ktyi">Understanding CCA &amp; Assessment <br>(LEAPS 2.0) by Subject Head CCA</td>
-    <td class="tg-ktyi">School Hall</td>    </tr>
-	  <tr>
-    <td class="tg-9hzb">3.45 pm</td>
-    <td class="tg-ktyi">CCA Performances </td>
-    <td class="tg-ktyi">School Hall</td>  </tr>
-	  <tr>
-    <td class="tg-9hzb">4.00 pm</td>
-    <td class="tg-ktyi">Students: Explore the different CCAs
-<br><br>Parents: Parenting Talk by Parent Support Group <br>and Triple P Parents' Talk
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
 </td>
-    <td class="tg-ktyi">Various CCA booths<br><br>School Hall</td>  </tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dismissal Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attire</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>2025</p>
+<p>Sec 1 Orientation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu,</p>
+<p>2 Jan 2025</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5:30 p.m.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Bedok South Secondary School Half-Uniform (To bring along PE Attire to
+change for hygiene reasons)</p>
+<p><em>- Students who have not purchased the uniform may come in primary school attire.</em>
+</p>
+<p><em>- Students who are pending to transfer out, may be in their primary school uniform.</em>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fri,</p>
+<p>3 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12:30 p.m.</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-We welcome parents to join us for the CCA Fair. Please be seated at your child’s/ ward’s classroom  by 2.15 pm for the FT engagement with parents.
+<p><strong>&nbsp;</strong>
+</p>
+<h3>Secondary One CCA Fair</h3>
+<p><strong>Objectives of the CCA Fair:</strong>
+<br>To provide a platform for students to explore the different CCAs before
+they decide which CCA they would be interested to join.
+<br><strong>Date</strong>:
+<br>Friday, 10 January 2025 (Between 2:30 p.m. and 5:30 p.m.)
+<br><strong>Attire:</strong>
+<br>Students will <strong><u>change to PE attire after lunch</u></strong> for
+comfort and ease. Students are strongly advised to bring along a water
+bottle for hydration purposes.</p>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Details of CCA Fair</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2:30 p.m.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Understanding CCA &amp; Assessment (LEAPS 2.0) by HOD PE &amp; CCA/SH
+CCA &amp; Co-Curriculum&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3:30 p.m.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><u>For students</u></em>
+<br>CCA Fair</p>
+<p><em><u>For parents</u></em>
+<br>School Engagement Session with Parents</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Parents are welcomed to join the CCA Fair. Please be seated at the school
+hall by 2:20 p.m. for the informative talk on CCA &amp; Assessment (LEAPS
+2.0).&nbsp;
+<br>
+<br><strong>Selection Trials and CCA Experience</strong>
+<br>Selected CCAs will be conducting <strong>selection trials</strong> as well
+as <strong>CCA experience</strong> to allow the students to find out more
+about the CCA they may be interested in. The trials and CCA experience
+will be held on the <strong>6, 8, and 13 January 2025</strong>. The <strong>details of the trials and CCA experience</strong> will
+be announced on the <strong>first week of school and posted on the CCA noticeboard </strong>(outside
+the HOD room). Those who sign up for the trials will be given priority
+during the Secondary 1 CCA selection (<strong>subject to vacancies available</strong>).
+<br>
+<br>Students who are admitted by DSA need not sign up for the trials as their
+names are already in the respective CCA lists.</p>

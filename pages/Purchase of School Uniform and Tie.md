@@ -2,36 +2,77 @@
 title: Purchase of School Uniform and Tie
 permalink: /prospectus/purchase-of-school-uniform-and-tie/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Purchase of School Uniform and Tie for Sec 1
-==================================
-
-Students can purchase the School Uniform and tie through one of these modes:
-<br><br>1\.	 Online via this link <a href="https://www.intrenduniforms.com/" target="_blank" rel="noopener noreferrer"><span style="color:black">https://www.intrenduniforms.com/</span></a> with option for home delivery (fixed delivery charge of $10 applies).
-<br><br>2\.	Walk-in and purchase from the school premises on the following dates:
-
-| Date | Time |
-| -------- | -------- |
-| 21 &amp; 22 December 2023   | 9 am to 3 pm     |
-| 23 December 2023   | 9 am to 12 pm   |
-| 26 &amp; 27 December 2023   | 9 am to 3 pm     |
-| 2 – 5 January 2024 | 9 am to 3 pm     |
-
-If students would like to physically try the uniform sizes onsite at the school, it is highly advisable for parents to arrange for both the collection of books and the purchase of school uniform and tie to be within the same timeslot/within the same day (where possible).
-
-<br>3\.	Purchase directly from the **Intrend Uniforms** retail store. Please contact them directly for an appointment. We seek your understanding that no walk-ins will be entertained.
-
-
-
-| **Intrend Uniforms** retail store |  | 
-| -------- | -------- | 
-|Address    | 1 Kaki Bukit Road 1 <br>#01-30/31, Enterprise One<br> Singapore 415934    | 
-|Main Telephone Line    | 674109301 |     
-|Main Fax    | 67447689     | 
-|Website    | [www.intrenduniforms.com](http://www.intrenduniforms.com/) | 
-|Email| [sales@itu.com.sg](mailto:sales@itu.com.sg)     | 
- 
-4\.&nbsp;&nbsp;<u><b>Students who are on FAS:</b></u>  
-
-Students who are on FAS will be contacted directly by the FAS officer, Ms Mardhiah, on the assigned date for collection through WhatsApp.  Should there be any concerns or if you did not receive any notification from our school, please WhatsApp hotline @ 86866208 for assistance between 8.30am – 5.00pm on weekdays.
+<h1>Purchase of School Uniform and Tie</h1>
+<ol data-tight="true" class="tight">
+<li>
+<p>Sales of school uniform and tie will commence on 18 December 2024.</p>
+</li>
+<li>
+<p><strong>How do we make the purchase for full uniform and school pants/skirts?</strong>
+</p>
+</li>
+</ol>
+<p>a) Online at <strong><a href="https://go.gov.sg/intrenduniforms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/intrenduniforms</a></strong> with
+option for home delivery (fixed delivery charge of $7 applies).</p>
+<p>b) Walk-in purchase at Bedok South Secondary School on the following dates:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dates for walk-in purchase at school</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>23, 26, 27 Dec 2024</strong>
+</p>
+<p>9am - 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block F, Level 2, F2-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2, 3, 6 to 10 January 2025</strong>
+</p>
+<p>9am - 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cre8 Hub (beside school canteen)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;c)&nbsp;&nbsp;&nbsp;&nbsp; Walk-in purchase at In-Trend Uniforms
+Retail Store (by appointment basis)
+<br>Address: 1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934
+<br>Opening hours: Monday to Friday: 10 am to 6 pm, Saturday: 10 am to 3 pm
+<br>Tel: 6741 0930
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">sales@itu.com.sg</a>
+<br>d)&nbsp;&nbsp;&nbsp; For exchange of school uniform, please visit the
+retail store. It is advisable to call In-Trend Uniforms in advance to confirm
+the availability of your desired size before making the trip.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong><u>FAS Students</u></strong>
+</p>
+<p>Students with MOE Financial Assistance Scheme (FAS) approved by the primary
+school/other school will need to message the FAS officer, Ms Tina via <strong>WhatsApp </strong>at<strong> 8686 6208 </strong>(8:30
+a.m. and 5:00 p.m. on weekdays). Please provide the student's full name
+and FAS approval letter in your message. The FAS collection date will be
+on <strong>30 December 2024, Monday</strong>.</p>
+</li>
+</ol>
+<p></p>

@@ -1,6 +1,6 @@
 ---
 title: Information on Full Subject Based Banding
-permalink: /curriculum/full-subject-based-banding-fsbb/
+permalink: /prospectus/information-on-full-subject-based-banding/
 description: ""
 variant: tiptap
 ---

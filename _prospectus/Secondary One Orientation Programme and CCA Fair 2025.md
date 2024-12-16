@@ -1,6 +1,6 @@
 ---
-title: Orientation Programme and CCA Fair 2024
-permalink: /prospectus/orientation-programme-and-cca-fair-2024/
+title: Secondary One Orientation Programme and CCA Fair 2025
+permalink: /prospectus/secondary-one-orientation-programme-and-cca-fair-2025/
 description: ""
 variant: tiptap
 ---

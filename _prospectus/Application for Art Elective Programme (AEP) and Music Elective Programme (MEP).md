@@ -196,15 +196,6 @@ AEP/ MEP Centres.</p>
 <p>3.30 - 6.45 pm</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="4">
-<ul data-tight="true" class="tight">
-<li>
-<p>The Upper Secondary schedule reflected here may be subject to change.</p>
-</li>
-</ul>
-</td>
-</tr>
 </tbody>
 </table>
 <h2><strong>ARE THESE AEP and MEP PROGRAMMES FOR YOU?</strong></h2>

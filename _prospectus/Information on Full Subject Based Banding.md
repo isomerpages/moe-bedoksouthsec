@@ -139,7 +139,7 @@ have the option to either accept or decline the offer to take the subjects
 at a more demanding level by <strong><em><u>24 December 2024</u>.</em></strong>
 </p>
 <p>&nbsp;</p>
-<p><strong>4)&nbsp;&nbsp;&nbsp; Offering subjects at a more demanding level beyond the start of &nbsp;&nbsp;&nbsp;&nbsp;Secondary One</strong>
+<p><strong>4)&nbsp;&nbsp;&nbsp; Offering subjects at a more demanding level beyond the start of Secondary One</strong>
 </p>
 <p>Beyond the start of Secondary One (at Mid-Year and Year-End), the school
 will assess students’ suitability to offer <strong>English Language, Mother Tongue Languages, Mathematics and Science</strong>&nbsp;at

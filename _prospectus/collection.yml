@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - Information on Mother Tongue Languages.md
       - Information on Full Subject Based Banding.md
       - BDS Parent Support Group (PSG) 2.md
       - Information on Financial Assistance Scheme (FAS).md

@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - (For Parents) Transition from Primary School to Secondary School.md
       - Information for Secondary One (2025 Cohort).md
       - Reporting Time on First Day of School.md
       - Recommended Sets of Full Uniform and OneBDS Polo T shirt.md

@@ -2,6 +2,8 @@ collections:
   prospectus:
     output: true
     order:
+      - Application for Art Elective Programme (AEP) and Music Elective
+        Programme (MEP).md
       - Information on Mother Tongue Languages.md
       - Information on Full Subject Based Banding.md
       - BDS Parent Support Group (PSG) 2.md

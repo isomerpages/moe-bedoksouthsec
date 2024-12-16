@@ -223,8 +223,8 @@ and Food and Consumer Education (FCE) at the Lower Secondary Level (Therefore,
 students cannot take D&amp;T and F&amp;N at Upper Secondary level)</p>
 </li>
 </ul>
-<p>If students would like to have more information on AEP and MEP, they can
-visit the web links provided below.</p>
+<p>If you would like to have more information on AEP and MEP, you can visit
+the web links provided below.</p>
 <p><strong>Art: </strong>
 <br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec</a>
 </p>

@@ -2,5 +2,6 @@ collections:
   prospectus:
     output: true
     order:
+      - Reporting Time on First Day of School.md
       - Information for Secondary One (2025 Cohort).md
       - Open House.md

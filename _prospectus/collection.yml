@@ -2,7 +2,6 @@ collections:
   prospectus:
     output: true
     order:
-      - Information on PDLP Onboarding.md
       - Information for Secondary One (2025 Cohort).md
       - Reporting Time on First Day of School.md
       - Recommended Sets of Full Uniform and OneBDS Polo T shirt.md
@@ -19,4 +18,5 @@ collections:
       - Information on Mother Tongue Languages.md
       - Application for Art Elective Programme (AEP) and Music Elective
         Programme (MEP).md
+      - Information on PDLP Onboarding.md
       - Open House.md

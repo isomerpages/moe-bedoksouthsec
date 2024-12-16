@@ -24,3 +24,4 @@ upcoming school term.</p>
 <h3>Things to Note</h3>
 <p><a href="https://bedoksouthsec.moe.edu.sg/prospectus/reporting-time-on-first-day-of-school/" rel="noopener nofollow" target="_blank">Reporting Time on First Day of School</a>
 </p>
+<p></p>

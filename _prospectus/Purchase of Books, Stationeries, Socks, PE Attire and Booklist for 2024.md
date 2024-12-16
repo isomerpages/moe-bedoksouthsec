@@ -2,7 +2,7 @@
 title: Purchase of Books, Stationeries, Socks, PE Attire and Booklist for 2024
 permalink: /prospectus/purchase-of-books-stationeries-socks-pe-attire-and-booklist-for-2024/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h1>Purchase of Books/Stationeries/Socks/OneBDS Polo T-shirt (OneBDS 2nd Uniform)/PE Attire and Booklist for 2025</h1>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; All booklists are available on the school website.
@@ -42,7 +42,7 @@ message. We will then liaise with you regarding FAS benefits and booklist
 via WhatsApp. The FAS collection date will be on <strong>30 December 2024, Monday</strong>.</p>
 <p></p>
 <h1>Purchase of Books/Stationeries/Socks/OneBDS Polo T-shirt (OneBDS 2nd Uniform)/PE Attire</h1>
-<table style="minWidth: 50px">
+<table style="minWidth: 50px"> 
 <colgroup>
 <col>
 <col>

@@ -16,11 +16,13 @@ and FAS approval letter in your message.&nbsp;
 <br>
 <br>For students who have yet to apply for MOE FAS and wish to do so can either
 apply FAS online (<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">eFAS link</a>), download the FAS application
-form from <strong><a href="https://go.gov.sg/moefinancialassistanceformbds" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moefinancialassistanceformbds</a></strong>.
-Upon completion, please submit the application form and the required supporting
+form from <strong><a href="https://go.gov.sg/moefinancialassistanceformbds" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moefinancialassistanceformbds</a></strong>.</p>
+<p>Upon completion, please submit the application form and the required supporting
 documents, as stated in the application form, to the General Office. If
 your documents are in order, we will be able to process your application
 between 7 to 10 working days and we will notify you of the status accordingly.
 Otherwise, we will process your application when the documents are completed.
-<br>If you have any enquiries regarding Financial Assistance matters, you
+<br>
+</p>
+<p>If you have any enquiries regarding Financial Assistance matters, you
 may contact Ms Tina at 6441 4479 ext. 123.</p>

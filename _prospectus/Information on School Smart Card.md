@@ -72,16 +72,12 @@ will need to purchase the MCP for <u>Secondary School</u> students.</p>
 <p><strong>Note:</strong> Basic bus services include trunk and feeder services.
 Express, Fast Forward and premium bus services like Chinatown Direct, Premium,
 Nite Owl, NightRider and City Direct are NOT included.</p>
-<p>3. For Primary School Smartcard, concession fare will be deducted during
-the 4 months and Secondary concession pass can be purchased.</p>
-<p>4. We would like to advise all Secondary 1 students to return their old
-Primary School Smartcard to TransitLink once they have received their new
-Secondary level SSC. At any point of time during the 4 months grace period,
-you may request for an immediate refund (if any) at any TransitLink Ticket
-Office or Concession Card Replacement Office. Once the 4 month period is
-up, student’s card will expire and cannot be used or refunded immediately.
-Students will then be issued a receipt and the refund can be collected
-after 5 working days from any TransitLink Ticket Office or Concession Card
-Replacement Office.</p>
-<p>5. The new Secondary level SSC will be issued in Feb or Mar 2025. More
-information will be given closer to the date.</p>
+<p>3.&nbsp;&nbsp;&nbsp; The new Secondary level SSC will be issued in February
+or March 2025. The school will inform the students when it is available
+for collection at the General Office.</p>
+<p>&nbsp;4.&nbsp;&nbsp;&nbsp; Once the students have received their new SSC,
+they will need to return their Primary level SSC and activate the new SSC
+at SimplyGo Ticketing Service Centre. After April 2025, the Primary level
+SSC card will expire and cannot be used for public transport.</p>
+<p>&nbsp;5.&nbsp;&nbsp;&nbsp; If you have any enquiries regarding School
+Smart Card, you may contact the General Office at 6441 4479.</p>

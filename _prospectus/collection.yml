@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - Information on Financial Assistance Scheme (FAS).md
       - Information on School Smart Card.md
       - Information on Secondary One Subjects.md
       - Online Consent for Dental Services.md

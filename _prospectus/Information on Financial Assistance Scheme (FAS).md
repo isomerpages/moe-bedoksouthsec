@@ -22,5 +22,7 @@ documents, as stated in the application form, to the General Office. If
 your documents are in order, we will be able to process your application
 between 7 to 10 working days and we will notify you of the status accordingly.
 Otherwise, we will process your application when the documents are completed.
-<br>If you have any enquiries regarding Financial Assistance matters, you
+<br>
+</p>
+<p>If you have any enquiries regarding Financial Assistance matters, you
 may contact Ms Tina at 6441 4479 ext. 123.</p>

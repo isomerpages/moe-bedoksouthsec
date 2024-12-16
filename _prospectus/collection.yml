@@ -2,4 +2,5 @@ collections:
   prospectus:
     output: true
     order:
+      - Information for Secondary One (2025 Cohort).md
       - Open House.md

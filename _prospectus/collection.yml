@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - Recommended Sets of Full Uniform and OneBDS Polo T shirt.md
       - Reporting Time on First Day of School.md
       - Information for Secondary One (2025 Cohort).md
       - Open House.md

@@ -23,5 +23,12 @@ upcoming school term.</p>
 64414479, between 9:00 a.m. and 4:00 p.m. Thank you.</p>
 <h3>Things to Note</h3>
 <p><a href="https://bedoksouthsec.moe.edu.sg/prospectus/reporting-time-on-first-day-of-school/" rel="noopener nofollow" target="_blank">Reporting Time on First Day of School</a>
+<br><a href="https://bedoksouthsec.moe.edu.sg/recommended-sets-of-full-uniform-and-onebds-polo-t-shirt/" rel="noopener nofollow" target="_blank">Recommended Sets of Full Uniform and OneBDS Polo T-shirt (OneBDS 2nd Uniform) to be Purchased</a>
+<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/purchase-of-books-stationeries-socks-pe-attire-and-booklist-for-2024/" rel="noopener nofollow" target="_blank">Purchase of Books/Stationeries/Socks/OneBDS Polo T-shirt (OneBDS 2nd Uniform)/PE Attire and Booklist for 2025</a>
+<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/purchase-of-school-uniform-and-tie/" rel="noopener nofollow" target="_blank">Purchase of School Uniform and Tie </a>
+<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/secondary-one-orientation-programme-and-cca-fair-2025/" rel="noopener nofollow" target="_blank">Secondary One Orientation and CCA Fair 2025</a>
+<br>
+<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/online-consent-for-dental-services/" rel="noopener nofollow" target="_blank">Online Consent for Dental Services</a>
+<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-various-subjects-for-sec-1-students/" rel="noopener nofollow" target="_blank">Information on Secondary One Subjects</a>
+<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-school-smart-card/" rel="noopener nofollow" target="_blank">Information on School Smart Card</a>
 </p>
-<p></p>

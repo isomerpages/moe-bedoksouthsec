@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - Orientation Programme and CCA Fair 2024.md
       - Purchase of Books, Stationeries, Socks, PE Attire and Booklist for
         2024.md
       - Purchase of School Uniform and Tie.md

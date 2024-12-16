@@ -246,7 +246,7 @@ the web links provided below.</p>
 </p>
 </li>
 <li>
-<p>Submit your application by 15 January 2025.</p>
+<p>Submit your application by <strong><u>15 January 2025</u></strong>.</p>
 </li>
 </ol>
 <p></p>

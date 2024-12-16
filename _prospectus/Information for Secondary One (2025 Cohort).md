@@ -21,22 +21,5 @@ upcoming school term.</p>
 <p></p>
 <p>If you do have any other enquiries, please call the General Office at
 64414479, between 9:00 a.m. and 4:00 p.m. Thank you.</p>
-<p></p>
 <h3>Things to Note</h3>
-<p><a href="https://bedoksouthsec.moe.edu.sg/prospectus/reporting-time-on-first-day-of-school/" rel="noopener noreferrer nofollow" target="_blank">Reporting Time on First Day of School</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/purchase-of-books-stationeries-socks-pe-attire-and-booklist-for-2024/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 booklist and information on sale of Textbooks/Resources, Stationeries, Socks and PE Attire</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/purchase-of-school-uniform-and-tie/" rel="noopener noreferrer nofollow" target="_blank">Information on sale of School Uniform and Tie</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/orientation-programme-and-cca-fair-2024/" rel="noopener noreferrer nofollow" target="_blank">Orientation programme and CCA Fair 2024</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/online-consent-for-dental-services/" rel="noopener noreferrer nofollow" target="_blank">Online Consent for Dental</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-various-subjects-for-sec-1-students/" rel="noopener noreferrer nofollow" target="_blank">Information on the various subjects for Sec 1 students </a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-school-smart-card/" rel="noopener noreferrer nofollow" target="_blank">Information on School Smart Card</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-fas/" rel="noopener noreferrer nofollow" target="_blank">Information on Financial Assistance Scheme (FAS)</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/information-and-links/for-parents/" rel="noopener noreferrer nofollow" target="_blank">Application for Parents Support Group </a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/curriculum/full-subject-based-banding-fsbb/" rel="noopener noreferrer nofollow" target="_blank">Information on Full Subject-Based Banding</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-mother-tongue-languages/" rel="noopener noreferrer nofollow" target="_blank">Information on Higher Mother Tongue Language (HMTL), Tamil Language, Third Languages</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-pdlp-onboarding/" rel="noopener noreferrer nofollow" target="_blank">Information on PDLP Onboarding</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/aep-and-mep/" rel="noopener noreferrer nofollow" target="_blank">Application for Art Elective Programme (AEP) and Music Elective Programme (MEP) Centres 2024</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectors/appeal-for-transfer-sec1-2024/" rel="noopener noreferrer nofollow" target="_blank">Appeal for Transfer (Sec 1) in 2024</a>
-</p>
-<p>If you do have any other enquiries, please call the General Office at
-64414479, between 9 am – 4 pm.</p>
+<p></p>

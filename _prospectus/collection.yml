@@ -2,6 +2,8 @@ collections:
   prospectus:
     output: true
     order:
+      - Purchase of Books, Stationeries, Socks, PE Attire and Booklist for
+        2024.md
       - Purchase of School Uniform and Tie.md
       - Recommended Sets of Full Uniform and OneBDS Polo T shirt.md
       - Reporting Time on First Day of School.md

@@ -135,7 +135,7 @@ AEP/ MEP Centres.</p>
 <p>Centres &amp; Addresses</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>Lesson days &amp; timings (for 2024 Sec 1 cohort)</p>
+<p>Lesson days &amp; timings (for 2025 Sec 1 cohort)</p>
 </th>
 </tr>
 <tr>
@@ -156,11 +156,11 @@ AEP/ MEP Centres.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesdays
-<br>3 – 6 pm</p>
+<br>3.00 – 6.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursdays
-<br>3 – 6 pm</p>
+<br>3.00 – 6.00 pm</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +178,7 @@ AEP/ MEP Centres.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fridays</p>
-<p>3 – 6.45 pm</p>
+<p>3.00 – 6.45 pm</p>
 </td>
 </tr>
 <tr>

@@ -22,5 +22,5 @@ upcoming school term.</p>
 <p>If you do have any other enquiries, please call the General Office at
 64414479, between 9:00 a.m. and 4:00 p.m. Thank you.</p>
 <h3>Things to Note</h3>
-<p><a href="/prospectus/reporting-time-on-first-day-of-school/" rel="noopener nofollow" target="_blank">Reporting Time on First Day of School</a>
+<p><a href="https://bedoksouthsec.moe.edu.sg/prospectus/reporting-time-on-first-day-of-school/" rel="noopener nofollow" target="_blank">Reporting Time on First Day of School</a>
 </p>

@@ -22,19 +22,7 @@ upcoming school term.</p>
 <p>If you do have any other enquiries, please call the General Office at
 64414479, between 9:00 a.m. and 4:00 p.m. Thank you.</p>
 <p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Things to take note</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h3>Things to Note</h3>
 <p><a href="https://bedoksouthsec.moe.edu.sg/prospectus/reporting-time-on-first-day-of-school/" rel="noopener noreferrer nofollow" target="_blank">Reporting Time on First Day of School</a>
 <br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/purchase-of-books-stationeries-socks-pe-attire-and-booklist-for-2024/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 booklist and information on sale of Textbooks/Resources, Stationeries, Socks and PE Attire</a>
 <br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/purchase-of-school-uniform-and-tie/" rel="noopener noreferrer nofollow" target="_blank">Information on sale of School Uniform and Tie</a>

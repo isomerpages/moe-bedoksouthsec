@@ -18,24 +18,23 @@ can apply for Art Elective Programme (AEP) or Music Elective Programme
 </ul>
 <p><em>All Art &amp; Music Special Elective Programmes do not incur additional school fees.</em>
 </p>
-<p><strong>What are the Art &amp; Music Elective Programmes (AEP/MEP)</strong>
-</p>
+<h3><strong>What are the Art &amp; Music Elective Programmes (AEP/MEP)?</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Special MOE programmes started since 1982 for students with passion and
-aptitude in art/music so that they can further deepen their knowledge,
+<p>Special MOE programmes started since 1982 for students with <strong>passion</strong> and <strong>aptitude</strong> in
+art/music so that they can further<strong> deepen</strong> their knowledge,
 skills and appreciation in these areas</p>
 </li>
 <li>
-<p>Develops students to be well-rounded leaders who are advocates for the
-arts</p>
+<p>Develops students to be <strong>well-rounded leaders</strong> who are advocates
+for the arts</p>
 </li>
 <li>
-<p>Provide an enriched art/music learning environment for students to pursue
-in-depth study into art/music</p>
+<p>Provide an <strong>enriched art/music learning environment</strong> for
+students to pursue in-depth study into art/music</p>
 </li>
 </ul>
-<h2><strong>Application for Art Elective Programme (AEP) 2024 (2 Jan 2024 – 15 Jan 2024)</strong></h2>
+<h2><strong>Application for Art Elective Programme (AEP) (2 – 15 Jan 2025)</strong></h2>
 <p>AEP is a <strong>4-year</strong> art programme offered at <strong>AEP Centre @ NJC</strong> which
 prepares students for <strong>GCE O-Level Higher Art.</strong>
 </p>
@@ -77,7 +76,7 @@ art task during the interview.</p>
 <p><strong>The decision of the Selection Panel is final.</strong>
 </p>
 <p></p>
-<h2><strong>Application for Music Elective Programme (MEP) 2024 (2 – 15 Jan 2025)</strong></h2>
+<h2><strong>Application for Music Elective Programme (MEP) (2 – 15 Jan 2025)</strong></h2>
 <h3>Music Elective Programme (MEP)</h3>
 <p>MEP is a <strong>4-year</strong> music programme offered at MEP centres
 @ Anglo-Chinese School (Independent) and Dunman High School which prepares
@@ -102,18 +101,18 @@ music learning</p>
 <h3><strong>Selection Exercise for MEP</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Phase 1A Online Application (by 15 January)</strong> - Submit a <strong>5 minute</strong> video-recording
-consisting of <strong>two </strong>contrasting solo pieces.</p>
+<p><strong>Phase 1A: Online Application (by 15 January)</strong> - Submit
+a <strong>5 minute</strong> video-recording consisting of <strong>two </strong>contrasting
+solo pieces.</p>
 </li>
 <li>
-<p><strong>Phase 1B (3 February)</strong> - Attend an e-Listening Test. Listen
+<p><strong>Phase 1B: (3 February)</strong> - Attend an e-Listening Test. Listen
 to 8 – 10 short musical extracts, taken from a range of musical traditions,
 and respond to 25 MCQ questions.</p>
 </li>
 <li>
-<p><strong>Phase 2 (21-28 February) - For Shortlisted Phase 1 Applicants</strong> -
-Interview to share your ideas and music making experiences, and an aural
-test where you will respond to short melodic and rhythmic fragments. <strong>The decision of the Selection Panel is final.</strong>
+<p><strong>Phase 2: (21-28 February) - For Shortlisted Phase 1 Applicants</strong> -
+Share musical aspirations and interests with a panel of music teachers. <strong>The decision of the Selection Panel is final.</strong>
 </p>
 </li>
 </ul>

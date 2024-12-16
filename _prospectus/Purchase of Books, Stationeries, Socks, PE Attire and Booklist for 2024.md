@@ -42,7 +42,7 @@ message. We will then liaise with you regarding FAS benefits and booklist
 via WhatsApp. The FAS collection date will be on <strong>30 December 2024, Monday</strong>.</p>
 <p></p>
 <h1>Purchase of Books/Stationeries/Socks/OneBDS Polo T-shirt (OneBDS 2nd Uniform)/PE Attire</h1>
-<table style="minWidth: 50px">
+<table style="minWidth: 50px"> 
 <colgroup>
 <col>
 <col>

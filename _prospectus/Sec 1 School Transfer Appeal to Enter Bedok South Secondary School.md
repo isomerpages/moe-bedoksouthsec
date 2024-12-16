@@ -14,7 +14,7 @@ admission criteria. Please kindly be informed that the school would notify
 successful S1 appeal applicants after 30 December 2024.
 <br>
 <br>Link to access the School Transfer Appeal Form to Enter Bedok South Secondary
-School: <strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bdsappealform2025</a></strong>
+School: <a href="https://go.gov.sg/bdsappealform2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/bdsappealform2025</a> 
 </p>
 <p>Notes:</p>
 <ol data-tight="true" class="tight">

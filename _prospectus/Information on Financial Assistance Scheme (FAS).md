@@ -16,7 +16,7 @@ and FAS approval letter in your message.&nbsp;
 <br>
 <br>For students who have yet to apply for MOE FAS and wish to do so can either
 apply FAS online (<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">eFAS link</a>), download the FAS application
-form from <a href="go.gov.sg/moefasapplicationform2025" rel="noopener nofollow" target="_blank">go.gov.sg/moefasapplicationform2025</a>.
+form from <strong><a href="https://go.gov.sg/moefinancialassistanceschemeapplnform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moefinancialassistanceschemeapplnform</a></strong>.
 Upon completion, please submit the application form and the required supporting
 documents, as stated in the application form, to the General Office. If
 your documents are in order, we will be able to process your application

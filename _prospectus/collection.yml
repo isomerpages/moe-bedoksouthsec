@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - Information on School Smart Card.md
       - Information on Secondary One Subjects.md
       - Online Consent for Dental Services.md
       - Orientation Programme and CCA Fair 2024.md

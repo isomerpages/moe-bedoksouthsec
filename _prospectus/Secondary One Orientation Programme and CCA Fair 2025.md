@@ -25,7 +25,7 @@ following:
 <br>Orientation Programme: 2 January 2025 (Thursday) and 3 January 2025 (Friday)</p>
 </li>
 <li>
-<p>CCA Fair and Secondary One Parent Engagement: 10 January 2025 (Friday)</p>
+<p>CCA Fair and Secondary One Parent Engagement: 8 January 2025 (Wednesday)</p>
 </li>
 </ol>
 <p></p>
@@ -96,24 +96,21 @@ change for hygiene reasons)</p>
 <p><strong>Objectives of the CCA Fair:</strong>
 <br>To provide a platform for students to explore the different CCAs before
 they decide which CCA they would be interested to join.
+<br>
 <br><strong>Date</strong>:
-<br>Friday, 10 January 2025 (Between 2:30 p.m. and 5:30 p.m.)
+<br>Wednesday, 8 January 2025
+<br>
 <br><strong>Attire:</strong>
 <br>Students will <strong><u>change to PE attire after lunch</u></strong> for
 comfort and ease. Students are strongly advised to bring along a water
 bottle for hydration purposes.</p>
 <p>&nbsp;</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Details of CCA Fair</strong>
 </p>
@@ -121,19 +118,11 @@ bottle for hydration purposes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2:30 p.m.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Understanding CCA &amp; Assessment (LEAPS 2.0) by HOD PE &amp; CCA/SH
 CCA &amp; Co-Curriculum&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>3:30 p.m.</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><em><u>For students</u></em>
 <br>CCA Fair</p>
@@ -144,8 +133,7 @@ CCA &amp; Co-Curriculum&nbsp;</p>
 </tbody>
 </table>
 <p>Parents are welcomed to join the CCA Fair. Please be seated at the school
-hall by 2:20 p.m. for the informative talk on CCA &amp; Assessment (LEAPS
-2.0).&nbsp;
+hall for the informative talk on CCA &amp; Assessment (LEAPS 2.0).&nbsp;
 <br>
 <br><strong>Selection Trials and CCA Experience</strong>
 <br>Selected CCAs will be conducting <strong>selection trials</strong> as well

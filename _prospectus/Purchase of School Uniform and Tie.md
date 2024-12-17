@@ -60,7 +60,7 @@ Retail Store (by appointment basis)
 <br>Address: 1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934
 <br>Opening hours: Monday to Friday: 10 am to 6 pm, Saturday: 10 am to 3 pm
 <br>Tel: 6741 0930
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">sales@itu.com.sg</a>
+<br>Email: <a href="sales@itu.com.sg" rel="noopener nofollow" target="_blank">sales@itu.com.sg</a>
 <br>d)&nbsp;&nbsp;&nbsp; For exchange of school uniform, please visit the
 retail store. It is advisable to call In-Trend Uniforms in advance to confirm
 the availability of your desired size before making the trip.</p>

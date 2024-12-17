@@ -11,7 +11,12 @@ that they have ample time to make their way to the <strong><u>Indoor Sports Hall
 the school. There will be Student Leaders on standby to chaperone the students
 to the ISH on the first day of school. Please note that there is no scheduled
 programme for parents/guardians on Day 1. Parents/guardians <u>will not be required</u> to
-accompany their child/ward.</p>
+accompany their child/ward.
+<br>
+<br><strong><u>Items to bring on 2 and 3 January:</u></strong>
+<br>Please bring along writing materials, water bottle, pocket money for recess
+breaks (if applicable), a book for silent reading, and an additional set
+of PE attire for changing due to hygiene&nbsp;purpose.</p>
 <p><strong>From Day 2 (3 Jan 2025) onwards, Secondary One students will follow the normal reporting/flag-raising time for school which is 7:45 a.m.</strong> Students
 are advised to report to school <strong><u>by 7:30 a.m.</u></strong> so that
 they have time to make their way to the <strong><u>ISH</u></strong>. <u>Students who arrive at ISH after 7:45 a.m. will be considered late for school.</u>

@@ -7,13 +7,13 @@ variant: tiptap
 <h1>Information on School Smart Card</h1>
 <p><strong>(STUDENT IDENTIFICATION PASS/ CONCESSIONARY TRAVEL SCHOOL SMART CARD (SSC))</strong>
 </p>
-<p>1. Please be informed that students can continue to use their primary
-level School Smart Card (SSC) for concessionary travel till 30 April 2025.</p>
-<p>2. While waiting for their Secondary level SSC to be ready, they have
-the option of purchasing a Monthly Concession Pass (MCP), which is available
-at any TransitLink Ticket Office and Add Value Machine Plus. The MCPs can
-be encoded to start from any specified date up to 7 days in advance. Students
-will need to purchase the MCP for <u>Secondary School</u> students.</p>
+<p>1. Secondary One students can continue to use their Primary level School
+Smart Card (SSC) for concessionary travel till 30 April 2025.</p>
+<p>2. While waiting for their Secondary level SSC to be ready, &nbsp;students
+can choose to purchase a Monthly Concession Pass (MCP) for <u>Secondary School</u> at
+any <a href="https://www.simplygo.com.sg/locations/simplygo-ticketing-service-centres/" rel="noopener noreferrer nofollow" target="_blank">SimplyGo Ticketing Service Centre</a>,
+<a href="https://simplygo.com.sg/locations/self-help-machines/" rel="noopener noreferrer nofollow" target="_blank">SimplyGo Kiosk</a>or via SimplyGo app. The MCPs can be encoded to start
+from any specified date, up to 7 days in advance.</p>
 <p><strong>Enhanced concession scheme:</strong>
 </p>
 <table style="minWidth: 75px">

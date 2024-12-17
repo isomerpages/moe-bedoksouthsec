@@ -18,11 +18,11 @@ to embark on this new phase of their educational journey with a positive
 and open mindset.
 <br>
 </p>
+<p>To assist the students in making this transition, we have organised the
+following:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>To assist the students in making this transition, we have organised the
-following:
-<br>Orientation Programme: 2 January 2025 (Thursday) and 3 January 2025 (Friday)</p>
+<p>Orientation Programme: 2 January 2025 (Thursday) and 3 January 2025 (Friday)</p>
 </li>
 <li>
 <p>CCA Fair and Secondary One Parent Engagement: 8 January 2025 (Wednesday)</p>

@@ -47,7 +47,10 @@ between 8.30 am and 5.00 pm on weekdays.</p>
 <p></p>
 </li>
 </ol>
-<p><strong><u>Please click the relevant links for the booklists.</u></strong>
+<p><strong>Please click the relevant links for the booklists.</strong>
+</p>
+<p><strong><u>Secondary 1</u></strong>
+<br><a href="/files/Booklist/BSSS_S1_BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
 </p>
 <p><strong><u>Secondary 2</u></strong> 
 <br><a href="/files/Booklist/BSSS_S2_BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>

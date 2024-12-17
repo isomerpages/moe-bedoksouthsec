@@ -14,7 +14,7 @@ day following the release of S1 Posting Results. As such, we will be posting
 all the necessary information applicable to our new Sec 1 on the school
 website to communicate with you and your parents on the details for the
 upcoming school term.</p>
-<p><strong>The school will also be engaging parents online via a Zoom Webinar Session on 20 December 2024 (Friday), 9:00 a.m., for a Welcome Session by our school Principal and Year Head (Lower Secondary).</strong>
+<p><strong>The school will also be engaging parents online via a Zoom Webinar Session on 20 December 2024 (Friday), 9:00 a.m., for a Welcome Session by our Principal and Year Head (Lower Secondary).</strong>
 </p>
 <p><strong>Topic : 2025 Secondary 1 Registration Webinar<br>Zoom Webinar : <a href="https://moe-singapore.zoom.us/j/81148489859" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/81148489859</a><br>Passcode : 20122024</strong>
 </p>

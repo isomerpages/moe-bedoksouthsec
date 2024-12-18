@@ -157,7 +157,7 @@ and in their original condition.</p>
 <td rowspan="1" colspan="1">
 <p>For enquiries, please contact:
 <br>Tel: 6559 2269 (9:00 a.m. to 5:00 p.m., Monday to Friday)
-<br>Email: <a href="sales@pacificbookstores.com" rel="noopener nofollow" target="_blank">sales@pacificbookstores.com</a>
+<br>Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener nofollow" target="_blank">sales@pacificbookstores.com</a>
 </p>
 </td>
 </tr>

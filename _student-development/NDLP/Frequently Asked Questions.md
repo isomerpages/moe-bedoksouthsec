@@ -3,6 +3,7 @@ title: Frequently Asked Questions
 permalink: /student-development/nldp/frequently-asked-questions/
 description: ""
 third_nav_title: NDLP
+variant: markdown
 ---
 Frequently Asked Questions
 ==========================
@@ -111,7 +112,7 @@ For the IT Applications (student iCON, Microsoft ProPlus and Zoom), the school w
 
 *   MOE Identity Management System (MIMS):&nbsp;[https://go.gov.sg/workspace-google-education-terms](https://go.gov.sg/workspace-google-education-terms)
 *   Microsoft Pro Plus:&nbsp;[https://go.gov.sg/microsoftonlinesubscriptionagreement](https://go.gov.sg/microsoftonlinesubscriptionagreement)&nbsp;
-*   Zoom:&nbsp;[https://go.gov.sg/zoom-children-educational-privacystatement](https://go.gov.sg/zoom-children-educational-privacystatement)
+
 
   
 20.&nbsp;<b>Where will the data collected by DMA and IT Applications for NDLP be stored?</b>  

@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1>Badminton</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Badminton" src="/images/CCA/badminton2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Badminton.png">
 </div>
 <h3>Overview</h3>
 <p>The aim of the badminton team is to develop character, mental and physical

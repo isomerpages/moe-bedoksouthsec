@@ -13,7 +13,7 @@ below.</p>
 </li>
 <li>
 <p>Students are strongly encouraged to purchase their school items online
-at <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com </a>from <strong>4 November 2024</strong> onwards.
+at <a href="https://go.gov.sg/pacificbookstores" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pacificbookstores</a> from <strong>4 November 2024</strong> onwards.
 Students can choose between:</p>
 </li>
 </ol>

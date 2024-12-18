@@ -18,22 +18,29 @@ an environment that encourages personalised learning.</p>
 1)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Triple core 1.5GHz | 3GB RAM | 64GB ROM</p>
+<p>Apple iPad 10.9 10th Gen – Enhanced bundle</p>
 </li>
 <li>
-<p>10.2” Display (diagonal), 2048 x 1536</p>
+<p>A14 6-core CPU | 4GB Memory | 64GB Storage</p>
 </li>
 <li>
-<p>Apple Pencil|SlimFolio Keyboard Case</p>
+<p>10.9” Display (diagonal), 2360x1640 Touchscreen</p>
 </li>
 <li>
-<p>3-year AppleCare+ for schools [Max 2 repairs within 3 years]</p>
+<p>Weight (KG): 0.477</p>
 </li>
 <li>
-<p>3-year Insurance [Max 1 replacement within 3 years: applicable only if
-negligence is <u>not</u> involved]</p>
+<p>Apple Pencil | SlimFolio Keyboard Case</p>
+</li>
+<li>
+<p>3 year AppleCare+ for schools [Max 2 repairs within 3 years]</p>
+</li>
+<li>
+<p>3 year Insurance [Max 1 replacement within 3 years – applicable only if
+negligence is NOT involved]</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Storage in school available:</strong> Lockers
 <br><strong>Platforms/tools</strong>: Student Learning Space (SLS) as primary
 platform, complemented by a host of other apps and tools that the school

@@ -3,6 +3,7 @@ title: National Digital Literacy Programme
 permalink: /student-development/NDLP/
 description: ""
 third_nav_title: NDLP
+variant: markdown
 ---
 NDLP
 ====
@@ -38,9 +39,6 @@ As part of the NDLP, schools will progressively roll out IT applications that wi
 
 (b)&nbsp;<b>Microsoft Pro Plus:</b>&nbsp;every secondary school will be granted a licence to use Microsoft Office tools that include Word, PowerPoint and Excel.
 
-(c)&nbsp;<b>Zoom:</b>&nbsp;MOE will set up Zoom free account with 40 mins time limit using Student iCON for the schools’ video conferencing needs.
-
-You may click&nbsp;[here](/files/BSSS%20ZoomOnboarding%20for%20students.pdf)&nbsp;for Zoom Onboarding Guide for students.
 
 The school will need to use your child/ward’s personal data such as his/her name and class to set up user accounts.
 

@@ -3,6 +3,7 @@ title: Device Support
 permalink: /student-development/ndlp/device-support/
 description: ""
 third_nav_title: NDLP
+variant: markdown
 ---
 Device Support
 ==============
@@ -73,13 +74,6 @@ Should there be a need to send the device for immediate repairs, below is the li
     <td class="tg-9nj9"><a href="https://getsupport.apple.com/"><span style="text-decoration:none;color:#076C8E">https://getsupport.apple.com</span></a><br></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mon – Sun: 1000 – 2200</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">5.</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Apple Retail Store @ Marina Bay Sands (220m from Bayfront MRT)    </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">1800 407 4949</span><br></td>
-    <td class="tg-9nj9"><a href="https://getsupport.apple.com/"><span style="text-decoration:none;color:#076C8E">https://getsupport.apple.com</span></a><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mon – Sun: 1100 – 2200</span></td>
-  </tr>
 </tbody>
 </table>
 
@@ -97,5 +91,4 @@ Should you have any queries about the device, insurance and warranty, you may co
 | -------- | -------- |
 |Help Desk Number   | 6270 8281    | 
 |Help Desk Email | pdlpapple@asiapac.com.sg   | 
-| Help Desk Operating Hours  | Mon - Thu: 0830 - 1730 <br> Fri: 0830 - 1700 <br>Closed on Sat, Sun &amp; Public Holidays | 
-
+| Help Desk Operating Hours  | Mon - Thu: 0830 - 1730 <br> Fri: 0830 - 1700 <br>Closed on Sat, Sun &amp; Public Holidays |

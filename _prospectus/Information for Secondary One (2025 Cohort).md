@@ -14,11 +14,9 @@ day following the release of S1 Posting Results. As such, we will be posting
 all the necessary information applicable to our new Sec 1 on the school
 website to communicate with you and your parents on the details for the
 upcoming school term.</p>
-<p><strong>The school will also be engaging parents online via a Zoom Webinar Session on 20 December 2024 (Friday), 9:00 a.m., for a Welcome Session by our Principal and Year Head (Lower Secondary).</strong>
-</p>
-<p><strong>Topic : 2025 Secondary 1 Registration Webinar<br>Zoom Webinar : <a href="https://moe-singapore.zoom.us/j/81148489859" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/81148489859</a><br>Passcode : 20122024</strong>
-</p>
-<p></p>
+<p>Please click <a href="https://go.gov.sg/sec1registrationwebinarslides" rel="noopener nofollow" target="_blank">here</a> to
+access the deck of slides for Sec 1 Registration Webinar held on 20 Dec
+2024.</p>
 <p>If you do have any other enquiries, please call the General Office at
 64414479, between 9:00 a.m. and 4:00 p.m. Thank you.</p>
 <h3>Things to Note</h3>

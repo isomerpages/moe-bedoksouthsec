@@ -287,7 +287,7 @@ variant: tiptap
 <p>Ms Hani Alsagoff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Student Development</p>
+<p>HOD / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ummu_hani_syed_haider@moe.edu.sg</p>

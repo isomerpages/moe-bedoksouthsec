@@ -120,7 +120,7 @@ content, privacy and screen time.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Click <a href="https://www.mlc.sg/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>

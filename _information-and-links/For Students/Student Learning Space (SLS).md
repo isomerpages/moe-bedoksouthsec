@@ -79,43 +79,26 @@ You can access SLS from internet browsers installed on your mobile phones or&nbs
 SLS Support for Home-based Learning
 ===================================
 
-<b>School Operating Hours</b>&nbsp;  
-
-  
+# School Operating Hours
 
 During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.&nbsp;
 
-  
+|  BDS NDLP Service Centre&nbsp; |  | 
+| -------- | -------- | 
+| School-based Helpline     | Click [here](https://go.gov.sg/bsss-ict-assist) to request for password reset     | 
+| Operating Hours     | BDS NDLP Service Centre&nbsp;<br>Library (3rd Level)<br>Mondays - Fridays: <br>8:00 am - 4:00 pm    |
 
-• Click [here](https://go.gov.sg/bsss-ict-assistance-and-equipment-service-request)for School-based Helpline (SLS password reset) <br>
-• Mondays - Fridays: 8:00 am - 4:00 pm
-
-  
-
-  
-
-<b>Non-School Operating Hours</b>&nbsp;
-
-  
+Non-School Operating Hours
+--------------------------
 
 Outside the school operating hours, students should contact the SLS Helpdesk for support.
 
-• Call SLS Helpdesk at 6702 6513
-
-  
-
-Mondays - Fridays: 4:00 pm - 9:00 pm <br>
-Saturdays: 9:00 am - 3:00 pm <br>
-\*Closed on Sundays &amp; Public Holidays
-
-  
-
-• Email SLS Helpdesk at helpdesk@sls.ufinity.com
-
-  
+|   | SLS Helpdesk | 
+| -------- | -------- | 
+| Contact Information     | Email: helpdesk@sls.ufinity.com <br>Tel: (+65) 6702 6513     | 
+| Operating Hours     | Mondays - Fridays:  <br>4 pm - 9 pm (School Days) <br>9 am - 9 pm (School Holidays)  <br>Saturdays:  <br>9:00 am - 3:00 pm  <br>(Closed on Sundays &amp;; Public Holidays    |
 
 When emailing the SLS Helpdesk, students should include their full name, name of school and form class.
-
 
 Some Useful Tips
 ====================

@@ -3,18 +3,17 @@ title: Student Learning Space
 permalink: /student-development/home-based-learning-hbl/student-learning-space/
 description: ""
 third_nav_title: Home Based Learning (HBL)
+variant: markdown
 ---
-
 ### Student Learning Space
 -----------------------------------
 
-**SLS Website: [https://go.gov.sg/bsss-sls](https://go.gov.sg/bsss-sls)**
+**SLS Website:&nbsp;[https://go.gov.sg/bsss-sls](https://go.gov.sg/bsss-sls)**
 
 As part of its commitment to nurturing future-ready learners, the Ministry of Education had announced that all students in Singapore schools will be supported in their learning by the Singapore Student Learning Space (SLS), an online learning platform that contains curriculum-aligned resources and learning tools. With the SLS, students will be able to learn better through the use of technology.
 
   
-Students will be able to learn anytime, anywhere, and at their own pace, whether independently or with their peers. Teachers will also be able to use the SLS to complement their classroom teaching, further enriching students’ learning experience. We believe such a learning experience is essential to help students to become an active and confident user of technology.
-
+With the SLS, students will be able to learn better through the use of technology. Students will be able to learn anytime, anywhere, and at their own pace, whether independently or with their peers. Teachers will also be able to use the SLS to complement their classroom teaching, further enriching students’ learning experiences. We believe that such a learning experience is essential to help students become active and confident users of technology.
 
 The Singapore Student Learning Space (SLS) is accessible through the Internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience). However, the system is currently not optimised for use on these devices.
 
@@ -23,52 +22,57 @@ The Singapore Student Learning Space (SLS) is accessible through the Internet br
 
 **Q1 : I have forgotten my password. What should I do?**
 
-        **3  Ways to reset password.**
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;**3&nbsp; Ways to reset password.**
 
-        a) Reset via email. Please remember the email address used during your first setup. 
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;a) Reset via email. Please remember the email address used during your first&nbsp;setup.&nbsp;
 
-            If you cannot see the email in your inbox, it may be in the spam or junk email folder.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;If you cannot see the email in your inbox, it may be in the spam or&nbsp;junk email folder.
 
-        b) Reset via answering security questions
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;b) Reset via answering security questions
 
-        c) Call SLS Helpdesk at **67026513**
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;c) Call SLS Helpdesk at&nbsp;**67026513**
 
- **Q2 : My account has been locked. What should I do?**
+&nbsp;**Q2 : My account has been locked. What should I do?**
 
-Your account will be locked after 6 consecutive attempts to log in with an  incorrect password. Please call the SLS Helpdesk to unlock your account. 
+Your account will be locked after 6 consecutive attempts to log in with an&nbsp;incorrect password.&nbsp;Please call the SLS Helpdesk to unlock your account.&nbsp;
 
- You will need to answer the security questions to verify that you are the legitimate account holder.
+You will need to&nbsp;answer the security questions to verify that you are the&nbsp;legitimate account holder.
 
-Tel: (65) 6702 6513  
 
-Operating Hours
 
-Mondays ― Fridays: 9:00 am ― 9:00 pm
+|   | SLS Helpdesk | 
+| -------- | -------- | 
+| Contact Information     | Email: helpdesk@sls.ufinity.com <br>Tel: (+65) 6702 6513     | 
+| Operating Hours     | Mondays - Fridays:  <br>4 pm - 9 pm (School Days) <br>9 am - 9 pm (School Holidays)  <br>Saturdays:  <br>9:00 am - 3:00 pm  <br>(Closed on Sundays &amp;; Public Holidays    |
 
-Saturdays: 9:00 am ― 3:00 pm
 
- *Closed on Sundays & Public Holidays
-
- **Q3 : I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?**
+&nbsp;**Q3 : I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?**
 
 If you cannot see the email in your inbox, it may be in the spam or junk email folder.
 
-Note: The URL in the email will expire within 10 minutes. If the URL has expired, go to the login page and select “Forgot Password” to try again.  
+Note: The URL in the email will expire within 10 minutes. If the URL has expired,&nbsp;go to the login page and select “Forgot Password” to try again.  
 
- **Q4 : What are the Operating System and Browser Requirements for SLS?**
+&nbsp;**Q4 : What are the Operating System and Browser Requirements for SLS?**
 
-The following are the recommended operating systems:
+The Student Learning Space (SLS) is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.
 
-• Windows laptop/desktop with Microsoft Windows 7 SP1 and later
+Note: Due to the responsive nature of the site, the layout of the components on the website will appear differently on different devices.
 
-• Apple laptop/desktop with Mac OS X 10.9 and later
+The recommended operating systems and browsers as at 29 November 2024 are as follows:
+| Operating System | Browsers |
+| --- | --- |
+| Microsoft Windows 10 | Google Chrome 128 and later  
+Microsoft Edge 128 and later |
+| Mac OS 13 and later | Safari 17 and later  
+Google Chrome 128 and later |
+| iPadOS 17 and later | Safari 17 and later  
+Google Chrome 128 and later |
+| iOS 17 and later | Safari 17 and later  
+Google Chrome 128 and later |
+| Android 13 and later | Google Chrome 128 and later |
+| ChromeOS 128 and later | Google Chrome 128 and later |
 
-• iPad with iOS 8 and later
 
-• Android tablet with Android 5 and later
+&nbsp;**Q5 : Can SLS run on mobile phones?**
 
-SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1).
-
- **Q5 : Can SLS run on mobile phones?**
-
-You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.
+You can access SLS from internet browsers installed on your mobile phones or&nbsp;equivalent devices. However, the system is currently not optimised for use on&nbsp;these devices.

@@ -57,15 +57,15 @@ The Student Learning Space (SLS) is accessible through internet browsers on Wind
 Note: Due to the responsive nature of the site, the layout of the components on the website will appear differently on different devices.
 
 The recommended operating systems and browsers as at 29 November 2024 are as follows:
-| Operating System | Browsers |
-| --- | --- |
-| Microsoft Windows 10 | Google Chrome 128 and later <br>Microsoft Edge 128 and later |
-| Mac OS 13 and later | Safari 17 and later <br>Google Chrome 128 and later |
-| iPadOS 17 and later | Safari 17 and later  <br>Google Chrome 128 and later |
-| iOS 17 and later | Safari 17 and later <br>Google Chrome 128 and later |
-| Android 13 and later | Google Chrome 128 and later |
-| ChromeOS 128 and later | Google Chrome 128 and later |
 
+| Operating System | Browsers | 
+| -------- | -------- |
+| Microsoft Windows 10     | Google Chrome 128 and later <br>Microsoft Edge 128 and later     | 
+| Mac OS 13 and later     | Safari 17 and later <br>Google Chrome 128 and later     | 
+| iPadOS 17 and later     | Safari 17 and later <br>Google Chrome 128 and later     | 
+|  iOS 17 and later     | Safari 17 and later <br>Google Chrome 128 and later     | 
+| Android 13 and later     | Google Chrome 128 and later     | 
+| ChromeOS 128 and later     | Google Chrome 128 and later     | 
 
 &nbsp;**Q5 : Can SLS run on mobile phones?**
 

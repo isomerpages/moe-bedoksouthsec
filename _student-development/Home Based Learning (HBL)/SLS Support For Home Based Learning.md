@@ -13,7 +13,7 @@ During school operating hours, students should contact the School-based Helpline
 |  BDS NDLP Service Centre&nbsp; |  | 
 | -------- | -------- | 
 | School-based Helpline     | Click [here](https://go.gov.sg/bsss-ict-assist) to request for password reset     | 
-| Operating Hours     | BSSS NDLP Service Centre&nbsp;<br>Library (3rd Level)<br>Mondays - Fridays: 8:00 am - 4:00 pm    |
+| Operating Hours     | BDS NDLP Service Centre&nbsp;<br>Library (3rd Level)<br>Mondays - Fridays: <br>8:00 am - 4:00 pm    |
 
 Non-School Operating Hours
 --------------------------

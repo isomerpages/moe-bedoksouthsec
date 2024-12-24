@@ -38,8 +38,6 @@ Your account will be locked after 6 consecutive attempts to log in with an&nbsp;
 
 You will need to&nbsp;answer the security questions to verify that you are the&nbsp;legitimate account holder.
 
-
-
 |   | SLS Helpdesk | 
 | -------- | -------- | 
 | Contact Information     | Email: helpdesk@sls.ufinity.com <br>Tel: (+65) 6702 6513     | 
@@ -61,14 +59,10 @@ Note: Due to the responsive nature of the site, the layout of the components on 
 The recommended operating systems and browsers as at 29 November 2024 are as follows:
 | Operating System | Browsers |
 | --- | --- |
-| Microsoft Windows 10 | Google Chrome 128 and later  
-Microsoft Edge 128 and later |
-| Mac OS 13 and later | Safari 17 and later  
-Google Chrome 128 and later |
-| iPadOS 17 and later | Safari 17 and later  
-Google Chrome 128 and later |
-| iOS 17 and later | Safari 17 and later  
-Google Chrome 128 and later |
+| Microsoft Windows 10 | Google Chrome 128 and later <br>Microsoft Edge 128 and later |
+| Mac OS 13 and later | Safari 17 and later <br>Google Chrome 128 and later |
+| iPadOS 17 and later | Safari 17 and later  <br>Google Chrome 128 and later |
+| iOS 17 and later | Safari 17 and later <br>Google Chrome 128 and later |
 | Android 13 and later | Google Chrome 128 and later |
 | ChromeOS 128 and later | Google Chrome 128 and later |
 

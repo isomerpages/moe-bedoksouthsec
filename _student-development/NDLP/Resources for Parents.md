@@ -176,11 +176,5 @@ like gaming, social media and cyber bullying.
 <p><a href="/files/NDLP/iPad_DMA_Parent_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
 </p>
 </li>
-<li>
-<p>Parent Account Password Reset</p>
-</li>
-<li>
-<p>Setting Rules to Restrict Usage</p>
-</li>
 </ul>
 <p></p>

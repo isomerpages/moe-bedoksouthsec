@@ -41,7 +41,7 @@ Your account will be locked after 6 consecutive attempts to log in with an&nbsp;
 
 You will need to&nbsp;answer the security questions to verify that you are the&nbsp;legitimate account holder.
 
-|   | SLS Helpdesk | 
+| SLS Helpdesk  |  | 
 | -------- | -------- | 
 | Contact Information     | Email: helpdesk@sls.ufinity.com <br>Tel: (+65) 6702 6513     | 
 | Operating Hours     | Mondays - Fridays:  <br>4 pm - 9 pm (School Days) <br>9 am - 9 pm (School Holidays)  <br>Saturdays:  <br>9:00 am - 3:00 pm  <br>(Closed on Sundays &amp;; Public Holidays    |

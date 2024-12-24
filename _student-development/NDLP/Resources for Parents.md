@@ -56,9 +56,9 @@ environment, please download and refer to the following handbooks.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NDLP/ip2%20-%20parent%20handbook%20(i)%20on%20learning%20with%20a%20pld_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
-<br>
-<br><a href="/files/NDLP/ip3%20-%20parent%20handbook%20(ii)%20on%20learning%20with%20a%20pld_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
+<p><a href="/files/NDLP/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook I</a>
+</p>
+<p><a href="/files/NDLP/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II</a>
 <br>
 </p>
 </td>
@@ -75,7 +75,8 @@ and digital literacy at home.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Click <a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +89,8 @@ and digital literacy at home.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/educationinsgcyberwellness" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Click <a href="https://go.gov.sg/educationinsgcyberwellness" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +104,8 @@ and don’ts for handling screen-related conversations with your teen.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Click <a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +120,8 @@ content, privacy and screen time.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Click <a href="https://go.gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -133,8 +137,11 @@ Learn more here!
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<p>Click <a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+NLB website
 <br>
+</p>
+<p><a href="https://go.gov.sg/factually" rel="noopener nofollow" target="_blank">Verifying Online Information</a>
 </p>
 </td>
 </tr>
@@ -149,7 +156,8 @@ like gaming, social media and cyber bullying.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://www.help123.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Click <a href="https://www.touch.org.sg/get-assistance/cyber-wellness.html" rel="noopener nofollow" target="_blank">here</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -157,13 +165,16 @@ like gaming, social media and cyber bullying.
 <h3>DMA Guide for Parents</h3>
 <ul>
 <li>
-<p>DMA Parent Guide Default Option</p>
+<p><a href="/files/NDLP/iPad_DMA_Parent_Guide_for_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide Default Option</a>
+</p>
 </li>
 <li>
-<p>DMA Parent Guide - Option A</p>
+<p><a href="/files/NDLP/iPad_DMA_Parent_Guide_for_Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
+</p>
 </li>
 <li>
-<p>DMA Parent Guide - Option B</p>
+<p><a href="/files/NDLP/iPad_DMA_Parent_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
+</p>
 </li>
 <li>
 <p>Parent Account Password Reset</p>

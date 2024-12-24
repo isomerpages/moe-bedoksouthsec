@@ -157,24 +157,19 @@ like gaming, social media and cyber bullying.
 <h3>DMA Guide for Parents</h3>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/dmaparentguidedefaultopt" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide Default Option</a>
-</p>
+<p>DMA Parent Guide Default Option</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/dmsparentguideoptiona" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
-</p>
+<p>DMA Parent Guide - Option A</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/dmaparentguideoptionb" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
-</p>
+<p>DMA Parent Guide - Option B</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/parentaccountpwdreset" rel="noopener noreferrer nofollow" target="_blank">Parent Account Password Reset</a>
-</p>
+<p>Parent Account Password Reset</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/settingrulestorestrictusage" rel="noopener noreferrer nofollow" target="_blank">Setting Rules to Restrict Usage</a>
-</p>
+<p>Setting Rules to Restrict Usage</p>
 </li>
 </ul>
 <p></p>

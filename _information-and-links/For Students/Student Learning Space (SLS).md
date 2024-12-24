@@ -8,52 +8,71 @@ variant: markdown
 Student Learning Space (SLS)
 ============================
 
-  
-<b>SLS Website:&nbsp;[https://learning.moe.edu.sg](https://vle.learning.moe.edu.sg/)</b>
+### Student Learning Space
+-----------------------------------
+
+**SLS Website:&nbsp;[https://go.gov.sg/bsss-sls](https://go.gov.sg/bsss-sls)**
+
+As part of its commitment to nurturing future-ready learners, the Ministry of Education had announced that all students in Singapore schools will be supported in their learning by the Singapore Student Learning Space (SLS), an online learning platform that contains curriculum-aligned resources and learning tools. With the SLS, students will be able to learn better through the use of technology.
 
   
-
-As part of its commitment to nurturing future-ready learners, the Ministry of Education had announced that all students in Singapore schools will be supported in their learning by the Singapore Student Learning Space (SLS), an online learning platform that contains curriculum-aligned resources and learning tools. With the SLS, students will be able to learn better through the use of technology.&nbsp;
-
-Students will be able to learn anytime, anywhere, and at their own pace, whether independently or with their peers. Teachers will also be able to use the SLS to complement their classroom teaching, further enriching students’ learning experience. We believe such a learning experience is essential to help students to become an active and confident user of technology.
-
-  
+With the SLS, students will be able to learn better through the use of technology. Students will be able to learn anytime, anywhere, and at their own pace, whether independently or with their peers. Teachers will also be able to use the SLS to complement their classroom teaching, further enriching students’ learning experiences. We believe that such a learning experience is essential to help students become active and confident users of technology.
 
 The Singapore Student Learning Space (SLS) is accessible through the Internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience). However, the system is currently not optimised for use on these devices.
 
+### Frequently Asked Questions
+--------------------------
 
-<u><b>FREQUENTLY ASKED QUESTIONS</b></u> 
+**Q1 : I have forgotten my password. What should I do?**
 
-<b>Q1 : I have forgotten my password. What should I do?</b> <br>
-<b>3&nbsp; Ways to reset password.</b> <br>
-a) Reset via email. Please remember the email address used during your first&nbsp;setup. <br>&nbsp;
-If you cannot see the email in your inbox, it may be in the spam or&nbsp;junk email folder. <br>
-b) Reset via answering security questions <br>
-c) Call SLS Helpdesk at&nbsp;<b>67026513</b>
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;**3&nbsp; Ways to reset password.**
 
-<b>Q2 : My account has been locked. What should I do?</b> <br>
-Your account will be locked after 6 consecutive attempts to log in with an&nbsp; incorrect password.&nbsp;Please call the SLS Helpdesk to unlock your account. <br>
-You will need to&nbsp;answer the security questions to verify that you are the&nbsp; legitimate account holder.
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;a) Reset via email. Please remember the email address used during your first&nbsp;setup.&nbsp;
 
-Tel: (65) 6702 6513 <br>  Operating Hours <br>
-Mondays ― Fridays: 9:00 am ― 9:00 pm <br>
-Saturdays: 9:00 am ― 3:00 pm <br>
-\*Closed on Sundays &amp; Public Holidays
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;If you cannot see the email in your inbox, it may be in the spam or&nbsp;junk email folder.
 
-<b>Q3 : I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?</b> <br>
-If you cannot see the email in your inbox, it may be in the spam or junk email folder. <br>
-Note: The URL in the email will expire within 10 minutes. If the URL has expired,&nbsp; go to the login page and select “Forgot Password” to try again.  
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;b) Reset via answering security questions
 
-<b>Q4 : What are the Operating System and Browser Requirements for SLS?</b> <br>
-The following are the recommended operating systems: <br>
-• Windows laptop/desktop with Microsoft Windows 7 SP1 and later <br>
-• Apple laptop/desktop with Mac OS X 10.9 and later <br>
-• iPad with iOS 8 and later <br>
-• Android tablet with Android 5 and later <br>
-SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1).
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;c) Call SLS Helpdesk at&nbsp;**67026513**
 
-<b>Q5 : Can SLS run on mobile phones?</b> <br>
-You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.
+&nbsp;**Q2 : My account has been locked. What should I do?**
+
+Your account will be locked after 6 consecutive attempts to log in with an&nbsp;incorrect password.&nbsp;Please call the SLS Helpdesk to unlock your account.&nbsp;
+
+You will need to&nbsp;answer the security questions to verify that you are the&nbsp;legitimate account holder.
+
+|   | SLS Helpdesk | 
+| -------- | -------- | 
+| Contact Information     | Email: helpdesk@sls.ufinity.com <br>Tel: (+65) 6702 6513     | 
+| Operating Hours     | Mondays - Fridays:  <br>4 pm - 9 pm (School Days) <br>9 am - 9 pm (School Holidays)  <br>Saturdays:  <br>9:00 am - 3:00 pm  <br>(Closed on Sundays &amp;; Public Holidays    |
+
+
+&nbsp;**Q3 : I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?**
+
+If you cannot see the email in your inbox, it may be in the spam or junk email folder.
+
+Note: The URL in the email will expire within 10 minutes. If the URL has expired,&nbsp;go to the login page and select “Forgot Password” to try again.  
+
+&nbsp;**Q4 : What are the Operating System and Browser Requirements for SLS?**
+
+The Student Learning Space (SLS) is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.
+
+Note: Due to the responsive nature of the site, the layout of the components on the website will appear differently on different devices.
+
+The recommended operating systems and browsers as at 29 November 2024 are as follows:
+| Operating System | Browsers |
+| --- | --- |
+| Microsoft Windows 10 | Google Chrome 128 and later <br>Microsoft Edge 128 and later |
+| Mac OS 13 and later | Safari 17 and later <br>Google Chrome 128 and later |
+| iPadOS 17 and later | Safari 17 and later  <br>Google Chrome 128 and later |
+| iOS 17 and later | Safari 17 and later <br>Google Chrome 128 and later |
+| Android 13 and later | Google Chrome 128 and later |
+| ChromeOS 128 and later | Google Chrome 128 and later |
+
+
+&nbsp;**Q5 : Can SLS run on mobile phones?**
+
+You can access SLS from internet browsers installed on your mobile phones or&nbsp;equivalent devices. However, the system is currently not optimised for use on&nbsp;these devices.
 
 
 

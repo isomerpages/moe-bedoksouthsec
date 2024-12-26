@@ -3,92 +3,191 @@ title: Device Support
 permalink: /student-development/ndlp/device-support/
 description: ""
 third_nav_title: NDLP
-variant: markdown
+variant: tiptap
 ---
-Device Support
-==============
-
-Technical support will be provided to students through a form request using the following link:  
-
-*   BSSS ipad helpline:&nbsp;[https://go.gov.sg/bsss-pld-helpline](https://go.gov.sg/bsss-pld-helpline)&nbsp;or scan the QR Code:
-
-
-<img style="width:30%" src="/images/qr.jpeg">
-
-
-### Apple Authorised Service Centre
-
-There will be a fortnightly collection of faulty devices that will be sent via courier to the apple authorised service centres for repairs. The devices sent through the school may take between 1-3 weeks for repairs, depending on the extent of the damage.
-
-  
-
-Should there be a need to send the device for immediate repairs, below is the list of Apple Authorised Service Centres that you may visit.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xxiv{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-6k70{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-9nj9{background-color:#EAEAEA;color:#076C8E;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-6k70"><span style="color:#222;background-color:#B0B0B0">No.</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Service Centre Location</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Service Centre Number</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Service Centre Email</span>    </th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Service Centre Operating Hours</span></th>
-  </tr>
-</thead>
+<h1>Device Support</h1>
+<p>Technical support will be provided to students through a form request
+using the following link:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click this link <a href="https://go.gov.sg/bsss-ict-assist" rel="noopener noreferrer nofollow" target="_blank">BDS iPad Helpline</a>:&nbsp;
+or scan the QR Code:</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/NDLP/https__go_gov_sg_bsss_ict_assist.png">
+</div>
+<h3>Apple Authorised Service Centre</h3>
+<p>There will be a fortnightly collection of faulty devices that will be
+sent via courier to the apple authorised service centres for repairs. The
+devices sent through the school may take between 1-3 weeks for repairs,
+depending on the extent of the damage.</p>
+<p>Should there be a need to send the device for immediate repairs, below
+is the list of Apple Authorised Service Centres that you may visit.</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">1.</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">QCD Technology @ Westgate (450m from Jurong East MRT)  </span><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">6515 2010</span><br></td>
-    <td class="tg-9nj9"><a href="mailto:support_westgate@qcd-tech.com"><span style="text-decoration:none;color:#076C8E">support_westgate@qcd-tech.com</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mon – Fri: 1000 – 1800</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">2.</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> Apple Retail Store @ Jewel Changi Airport (220m from Changi Airport MRT) </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">1800 407 4948   </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span><a href="https://getsupport.apple.com/"><span style="text-decoration:none;color:#076C8E">https://getsupport.apple.com</span></a></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mon – Thu: 1100 – 2100 Fri – Sun: 1100 – 2200 </span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">3.</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">QCD Technology @ Wheelock (190m from Orchard MRT)   </span><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">6555 0500</span><br></td>
-    <td class="tg-9nj9"><a href="mailto:support_wheelock@qcd-tech.com"><span style="text-decoration:none;color:#076C8E">support_wheelock@qcd-tech.com</span></a><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mon – Fri: 1100 – 1800</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"><span style="color:#222;background-color:#EAEAEA">4.</span></span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Apple Retail Store @ Orchard Road (400m from Orchard MRT)    </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">1800 699 2824 </span></td>
-    <td class="tg-9nj9"><a href="https://getsupport.apple.com/"><span style="text-decoration:none;color:#076C8E">https://getsupport.apple.com</span></a><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mon – Sun: 1000 – 2200</span><br></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>No.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Service Centre Location</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Service Centre Number</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Service Centre Email</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Service Centre Operating Hours</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>QCD Technology @ Westgate (450m from Jurong East MRT)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6515 2010
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:support_westgate@qcd-tech.com" rel="noopener noreferrer nofollow" target="_blank">support_westgate@qcd-tech.com</a> 
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon – Fri: 1000 – 1800
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apple Retail Store @ Jewel Changi Airport (220m from Changi Airport MRT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800 407 4948</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://getsupport.apple.com/" rel="noopener noreferrer nofollow" target="_blank">https://getsupport.apple.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon – Thu: 1100 – 2100 Fri – Sun: 1100 – 2200</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>QCD Technology @ Wheelock (190m from Orchard MRT)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6555 0500
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:support_wheelock@qcd-tech.com" rel="noopener noreferrer nofollow" target="_blank">support_wheelock@qcd-tech.com</a>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon – Fri: 1100 – 1800
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apple Retail Store @ Orchard Road (400m from Orchard MRT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800 699 2824</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://getsupport.apple.com/" rel="noopener noreferrer nofollow" target="_blank">https://getsupport.apple.com</a>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon – Sun: 1000 – 2200
+<br>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-Please note that devices sent by parents/students directly to the service centres will not be subjected to the same courier pickup services offered through the school’s service desk.&nbsp;  
-
-### Device Contractor Information
-
-Should you have any queries about the device, insurance and warranty, you may contact the device contractor directly.
-  
-
-### <u>AsiaPac</u>
-
-
-| Contact |  |
-| -------- | -------- |
-|Help Desk Number   | 6270 8281    | 
-|Help Desk Email | pdlpapple@asiapac.com.sg   | 
-| Help Desk Operating Hours  | Mon - Thu: 0830 - 1730 <br> Fri: 0830 - 1700 <br>Closed on Sat, Sun &amp; Public Holidays |
+<p>Please note that devices sent by parents/students directly to the service
+centres will not be subjected to the same courier pickup services offered
+through the school’s service desk.&nbsp;</p>
+<h3>Device Contractor Information</h3>
+<p>Should you have any queries about the device, insurance and warranty,
+you may contact the device contractor directly.</p>
+<h3><u>AsiaPac</u></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Contact</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Help Desk Number</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6270 8281</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Help Desk Email</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pdlpapple@asiapac.com.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Help Desk Operating Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon - Thu: 0830 - 1730
+<br>Fri: 0830 - 1700
+<br>Closed on Sat, Sun &amp; Public Holidays</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

@@ -86,4 +86,4 @@ ECG Parent Guide (https://www.moe.gov.sg/microsites/ecg-parent-guide) **(broken 
 
 [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)&nbsp;Portal – Students are introduced to this tool to help them discover their attributes and strengths, and find out more about different careers that they might be interested in.
 
-[Media Literacy Council](https://www.mlc.sg/)– The Media Literacy Council website hosts useful resources for both parents and students on safe, smart and kind internet usage.
+[Media Literacy Council](https://www.mlc.sg/) - The Media Literacy Council website hosts useful resources for both parents and students on safe, smart and kind internet usage. 

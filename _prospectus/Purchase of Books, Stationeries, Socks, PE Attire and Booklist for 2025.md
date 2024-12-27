@@ -1,5 +1,5 @@
 ---
-title: Purchase of Books, Stationeries, Socks, PE Attire and Booklist for 2024
+title: Purchase of Books, Stationeries, Socks, PE Attire and Booklist for 2025
 permalink: /prospectus/purchase-of-books-stationeries-socks-pe-attire-and-booklist-for-2024/
 description: ""
 variant: tiptap

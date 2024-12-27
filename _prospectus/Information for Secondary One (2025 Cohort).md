@@ -25,12 +25,8 @@ access the deck of slides for Sec 1 Registration Webinar held on 20 Dec
 <br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/purchase-of-books-stationeries-socks-pe-attire-and-booklist-for-2024/" rel="noopener nofollow" target="_blank">Purchase of Books/Stationeries/Socks/OneBDS Polo T-shirt (OneBDS 2nd Uniform)/PE Attire and Booklist for 2025</a>
 <br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/purchase-of-school-uniform-and-tie/" rel="noopener nofollow" target="_blank">Purchase of School Uniform and Tie </a>
 <br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/secondary-one-orientation-programme-and-cca-fair-2025/" rel="noopener nofollow" target="_blank">Secondary One Orientation and CCA Fair 2025</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/online-consent-for-dental-services/" rel="noopener nofollow" target="_blank">Online Consent for Dental Services</a>
 <br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-various-subjects-for-sec-1-students/" rel="noopener nofollow" target="_blank">Information on Secondary One Subjects</a>
 <br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-school-smart-card/" rel="noopener nofollow" target="_blank">Information on School Smart Card</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-fas/" rel="noopener nofollow" target="_blank">Information on Financial Assistance Scheme (FAS) 2025</a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/application-for-bds-parent-support-group/" rel="noopener nofollow" target="_blank">Application for Parents Support Group </a>
-<br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-full-subject-based-banding/" rel="noopener nofollow" target="_blank">Information on Subject-Based Banding and Full Subject-Based Banding</a>
 <br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-mother-tongue-languages/" rel="noopener nofollow" target="_blank">Information on Higher Mother Tongue Language (HMTL), Tamil Language, Third Languages</a>
 <br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-pdlp-onboarding/" rel="noopener nofollow" target="_blank">Information on PDLP Onboarding</a>
 <br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/aep-and-mep/" rel="noopener nofollow" target="_blank">Application for Art Elective Programme (AEP) and Music Elective Programme (MEP) Centres 2025</a>

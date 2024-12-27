@@ -3,6 +3,7 @@ title: Information on School Smart Card
 permalink: /prospectus/information-on-school-smart-card/
 description: ""
 variant: tiptap
+third_nav_title: For Students
 ---
 <h1>Information on School Smart Card</h1>
 <p><strong>(STUDENT IDENTIFICATION PASS/ CONCESSIONARY TRAVEL SCHOOL SMART CARD (SSC))</strong>

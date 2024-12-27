@@ -98,7 +98,7 @@ change for hygiene reasons)</p>
 they decide which CCA they would be interested to join.
 <br>
 <br><strong>Date</strong>:
-<br>Wednesday, 8 January 2025
+<br>Thursday, 9 January 2025
 <br>
 <br><strong>Attire:</strong>
 <br>Students will <strong><u>change to PE attire after lunch</u></strong> for

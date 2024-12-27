@@ -25,7 +25,7 @@ following:</p>
 <p>Orientation Programme: 2 January 2025 (Thursday) and 3 January 2025 (Friday)</p>
 </li>
 <li>
-<p>CCA Fair and Secondary One Parent Engagement: 8 January 2025 (Wednesday)</p>
+<p>CCA Fair and Secondary One Parent Engagement: 9 January 2025 (Thursday)</p>
 </li>
 </ol>
 <p></p>

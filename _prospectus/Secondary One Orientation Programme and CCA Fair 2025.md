@@ -146,3 +146,16 @@ during the Secondary 1 CCA selection (<strong>subject to vacancies available</st
 <br>
 <br>Students who are admitted by DSA need not sign up for the trials as their
 names are already in the respective CCA lists.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/CCAF1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/CCAF2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/CCAF3.png">
+</div>
+<p></p>

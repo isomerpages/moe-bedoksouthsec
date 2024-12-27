@@ -20,85 +20,85 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 Sep</p>
+<p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Starts</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 - 19 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GCE N(A)- and N(T)- Exam Phase 1</p>
+<p>Term 1 Starts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Sep - 8 Oct</p>
+<p>9 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GCE N(A)- and N(T)- Exam Phase 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17 Oct - Nov 11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GCE O-Level Exam</p>
+<p>CCA Fair</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 Oct</p>
+<p>29 - 30 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cross Country</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Promotion &amp; Streaming Day</p>
+<p>Chinese New Year (Public Holiday)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Oct</p>
+<p>15 - 23 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Last day of school</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deepavali (Public Holiday)</p>
+<p>Term 1 Holidays</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 Nov - 31 Dec</p>
+<p>24 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End of School Year Holidays</p>
+<p>Term 2 Starts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Dec</p>
+<p>31 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Christmas (Public Holiday)</p>
+<p>Hari Raya Puasa (Public Holiday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Good Friday (Public Holiday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Labour Day (Public Holiday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vesak Day (Public Holiday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 May - 29 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Holidays</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>To view our full calendar of events for 2024, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>To view our full calendar of events for 2025, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>

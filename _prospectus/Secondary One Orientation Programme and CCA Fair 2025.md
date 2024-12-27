@@ -25,7 +25,7 @@ following:</p>
 <p>Orientation Programme: 2 January 2025 (Thursday) and 3 January 2025 (Friday)</p>
 </li>
 <li>
-<p>CCA Fair and Secondary One Parent Engagement: 8 January 2025 (Wednesday)</p>
+<p>CCA Fair and Secondary One Parent Engagement: 9 January 2025 (Thursday)</p>
 </li>
 </ol>
 <p></p>
@@ -146,3 +146,16 @@ during the Secondary 1 CCA selection (<strong>subject to vacancies available</st
 <br>
 <br>Students who are admitted by DSA need not sign up for the trials as their
 names are already in the respective CCA lists.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/CCAF1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/CCAF2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/CCAF3.png">
+</div>
+<p></p>

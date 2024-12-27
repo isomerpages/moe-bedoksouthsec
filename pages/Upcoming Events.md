@@ -20,18 +20,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 Sep</p>
+<p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Starts</p>
+<p>Term 1 Starts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 - 19 Sep</p>
+<p>9 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GCE N(A)- and N(T)- Exam Phase 1</p>
+<p>CCA Fair</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 - 30 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese NewYear</p>
 </td>
 </tr>
 <tr>
@@ -100,5 +116,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>To view our full calendar of events for 2024, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>To view our full calendar of events for 2025, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>

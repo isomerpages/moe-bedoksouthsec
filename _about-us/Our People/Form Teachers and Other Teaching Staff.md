@@ -1122,34 +1122,6 @@ variant: tiptap
 <p>khoo_kian_eng@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Djie-Lim Say Aii</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>109</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_say_aii@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT (Special Needs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Yih</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>107</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_yih@moe.edu.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>

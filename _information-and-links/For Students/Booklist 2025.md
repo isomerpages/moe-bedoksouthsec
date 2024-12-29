@@ -65,3 +65,8 @@ between 8.30 am and 5.00 pm on weekdays.</p>
 <br><a href="/files/Booklist/BSSS_S4__NA__BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Normal (Academic)</a>
 <br><a href="/files/Booklist/BSSS_S4__NT__BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Normal (Technical)</a>
 </p>
+<p></p>
+<p>Secondary 5
+<br><a href="/files/Booklist/5_NA.pdf" rel="noopener nofollow" target="_blank">5 Normal (Academic)</a>
+</p>
+<p></p>

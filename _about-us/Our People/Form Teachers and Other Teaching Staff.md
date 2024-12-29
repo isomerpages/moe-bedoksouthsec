@@ -164,7 +164,7 @@ variant: tiptap
 <p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>tan_kian_boon_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

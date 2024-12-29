@@ -573,10 +573,10 @@ variant: tiptap
 <p>3 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loi Churn Mun</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>160</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -587,10 +587,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Huay Meen Elizabeth (Mrs Elizabeth Ng)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>114</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -629,13 +629,13 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Suat Huang</p>
+<p>Mr Lee Jiaqi, Arthur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>104</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -643,13 +643,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Faruzah Bte Osman</p>
+<p>Ms Tan Xinyi Cherlyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>112</p>
+<p>109</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>xinyi_cherlyn_tan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1133,7 +1133,7 @@ variant: tiptap
 <p>109</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xinyi_cherlyn_tan@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

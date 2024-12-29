@@ -632,10 +632,10 @@ variant: tiptap
 <p>Mr Lee Jiaqi, Arthur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>111</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>lee_jiaqi_arthur@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

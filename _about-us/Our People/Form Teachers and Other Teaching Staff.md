@@ -119,10 +119,10 @@ variant: tiptap
 <p>Ms Seng Mei Hui Sheena</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>157</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>seng_mei_hui_sheena@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@ variant: tiptap
 <p>112</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>srividya_nair@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ variant: tiptap
 <p>111</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chen_huimin_jillian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -161,10 +161,10 @@ variant: tiptap
 <p>Mr Tan Kian Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -733,7 +733,7 @@ variant: tiptap
 <p>111</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_huimin_jillian@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -761,7 +761,7 @@ variant: tiptap
 <p>157</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>seng_mei_hui_sheena@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1063,7 +1063,7 @@ variant: tiptap
 <p>112</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>srividya_nair@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

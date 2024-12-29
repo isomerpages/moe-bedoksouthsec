@@ -49,7 +49,7 @@ variant: tiptap
 <p>Mr Adrian Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -63,10 +63,10 @@ variant: tiptap
 <p>Mdm Suhaila Bte Mansor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>116</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>suhaila_mansor@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ variant: tiptap
 <p>Ms Zhao Xiumin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>110</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -321,7 +321,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Integrity</p>
+<p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Lee Ling Caroline</p>
@@ -349,7 +349,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Courage</p>
+<p>2 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zalehah Bte Mohd Noor</p>
@@ -377,7 +377,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Accountability</p>
+<p>2 Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Foo Su Lian Gerardine</p>
@@ -405,7 +405,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Respect</p>
+<p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cheng Wan Li</p>
@@ -621,7 +621,7 @@ variant: tiptap
 <p>116</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>suhaila_mansor@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

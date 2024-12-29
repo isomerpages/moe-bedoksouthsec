@@ -27,13 +27,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tio Phooi Siang</strong>
-<br>
-<br>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Daryl Koh</strong>
 <br>
 <br>Member</p>

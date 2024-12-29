@@ -601,13 +601,13 @@ variant: tiptap
 <p>3 Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suhaila Bte Mansor</p>
+<p>Ms Toh Qin Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>116</p>
+<p>102</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>toh_qin_min@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -615,13 +615,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Kwek Ee Hui Irene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>105</p>
+<p>106</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>kwek_ee_hui_irene@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

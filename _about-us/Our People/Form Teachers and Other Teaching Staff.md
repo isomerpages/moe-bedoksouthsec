@@ -52,7 +52,7 @@ variant: tiptap
 <p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@ variant: tiptap
 <p>110</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>zhao_xiumin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -688,10 +688,10 @@ variant: tiptap
 <p>Mr Soh Wei Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>163</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>soh_wei_keong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -702,10 +702,10 @@ variant: tiptap
 <p>Ms Goh Jin Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>158</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>goh_jin_teng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -713,13 +713,13 @@ variant: tiptap
 <p>3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Fatimah</p>
+<p>Ms Siti Fatimah Bte Muhammad Tahir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>114</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>siti_fatimah_muhammad_tahir@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -741,13 +741,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joshua Tan</p>
+<p>Mr Tan Rongen Joshua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_rongen_joshua@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

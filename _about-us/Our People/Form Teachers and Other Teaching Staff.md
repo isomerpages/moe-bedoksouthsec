@@ -105,10 +105,10 @@ variant: tiptap
 <p>Ms Nadia Bte Lamri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>115</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nadia_lamri@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1203,7 +1203,7 @@ variant: tiptap
 <p>115</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nadia_lamri@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

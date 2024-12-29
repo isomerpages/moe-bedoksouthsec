@@ -545,13 +545,13 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Eva Koh (Mrs Eva Seah)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>102</p>
+<p>105</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>koh_eva@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -559,13 +559,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tania Chong</p>
+<p>Ms Nadia Begam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>116</p>
+<p>109</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chong_tania@moe.edu.sg</p>
+<p>nadia_begam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -573,13 +573,13 @@ variant: tiptap
 <p>3 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Wan Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>115</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_wan_ning@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -587,13 +587,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Choo Chee Mian Eric</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>160</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>choo_chee_mian_eric@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -615,13 +615,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eva Koh (Mrs Eva Seah)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>105</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_eva@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

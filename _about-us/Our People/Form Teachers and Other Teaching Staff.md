@@ -234,7 +234,7 @@ variant: tiptap
 <p>114</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_huay_meen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -245,10 +245,10 @@ variant: tiptap
 <p>Ms Wong Wah Jong (Mrs Joan Yang)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>107</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>wong_wah_jong_joan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -259,10 +259,10 @@ variant: tiptap
 <p>Mr Loi Churn Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>160</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>loi_churn_mun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -273,10 +273,10 @@ variant: tiptap
 <p>Ms Teo Wei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>113</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>teo_wei_ling_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -498,7 +498,7 @@ variant: tiptap
 <p>113</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_wei_ling_a@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -593,7 +593,7 @@ variant: tiptap
 <p>160</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loi_churn_mun@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -607,7 +607,7 @@ variant: tiptap
 <p>114</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_huay_meen@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -719,7 +719,7 @@ variant: tiptap
 <p>107</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_wah_jong_joan@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1050,20 +1050,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sim_ting_ting_nancy@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

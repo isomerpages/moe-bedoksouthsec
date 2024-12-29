@@ -91,10 +91,10 @@ variant: tiptap
 <p>Ms Chia Suat Huang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>104</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chia_suat_huang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -649,7 +649,7 @@ variant: tiptap
 <p>104</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chia_suat_huang@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

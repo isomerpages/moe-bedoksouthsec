@@ -175,10 +175,10 @@ variant: tiptap
 <p>Mdm Faruzah Bte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>112</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>faruzah_osman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -663,7 +663,7 @@ variant: tiptap
 <p>112</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>faruzah_osman@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

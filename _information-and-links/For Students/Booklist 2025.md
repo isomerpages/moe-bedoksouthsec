@@ -67,6 +67,6 @@ between 8.30 am and 5.00 pm on weekdays.</p>
 </p>
 <p></p>
 <p>Secondary 5
-<br>
+<br><a href="/files/Booklist/5_NA.pdf" rel="noopener nofollow" target="_blank">5 Normal (Academic)</a>
 </p>
 <p></p>

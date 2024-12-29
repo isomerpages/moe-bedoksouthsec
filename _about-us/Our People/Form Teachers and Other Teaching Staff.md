@@ -422,20 +422,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhao Xiumin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>110</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>zhao_xiumin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Gan Chun Seng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -447,7 +433,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Excellence</p>
+<p>2 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Mahtani Hoori Vikram</p>
@@ -475,7 +461,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Care</p>
+<p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Surimah Binte Selamat</p>
@@ -492,18 +478,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Wei Ling</p>
+<p>Ms Goh Siew Huang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>113</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Gratitude</p>
+<p>2 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kong Kian Keong Steve</p>
@@ -520,13 +506,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Syafiqah Begum Binte Ismail Rahim</p>
+<p>Ms Pooja Avichal Ghoghari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>115</p>
+<p>108</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>pooja_avichal_ghoghari@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -685,13 +671,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pooja Avichal Ghoghari</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>108</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>pooja_avichal_ghoghari@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

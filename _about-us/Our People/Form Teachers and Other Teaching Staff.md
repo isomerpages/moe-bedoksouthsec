@@ -49,7 +49,7 @@ variant: tiptap
 <p>Mr Adrian Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>110</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBC</p>

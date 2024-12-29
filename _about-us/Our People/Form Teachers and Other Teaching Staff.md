@@ -228,10 +228,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Huay Meen Elizabeth (Mrs Elizabeth Ng)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>114</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -242,7 +242,7 @@ variant: tiptap
 <p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Wong Wah Jong (Mrs Joan Yang)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -256,7 +256,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Loi Churn Mun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -270,7 +270,7 @@ variant: tiptap
 <p>1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Teo Wei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -284,13 +284,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Nordin B Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>162</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nordin_b_hassan@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

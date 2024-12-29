@@ -52,7 +52,7 @@ variant: tiptap
 <p>110</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>chong_fook_weng_adrian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

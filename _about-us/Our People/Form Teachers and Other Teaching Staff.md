@@ -744,7 +744,7 @@ variant: tiptap
 <p>Mr Tan Rongen Joshua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>164</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_rongen_joshua@moe.edu.sg</p>

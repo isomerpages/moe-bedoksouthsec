@@ -45,6 +45,9 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 <td rowspan="1" colspan="1">
 <p>Week 4 (31 Jan)</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/31jan.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home%20Based%20Learning/26Jan.JPG">
 </div>
 </td>
@@ -52,11 +55,17 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 5 (7 Feb)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/7feb.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 9 (7 Mar)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/7mar.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -68,21 +77,33 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 1 (28 Mar)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/28mar.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 3 (11 Apr)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/11apr.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 5 (25 Apr)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/25apr.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 7 (9 May)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/9may.png">
+</div>
 </td>
 </tr>
 <tr>

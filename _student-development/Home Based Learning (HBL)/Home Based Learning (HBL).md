@@ -83,13 +83,11 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 7 (9 May)</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 10 (10 May)</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -99,7 +97,8 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p><strong>Term 3</strong>
+</p>
 </td>
 </tr>
 <tr>

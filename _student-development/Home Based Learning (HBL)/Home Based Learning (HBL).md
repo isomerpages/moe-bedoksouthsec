@@ -108,12 +108,18 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 10 (10 May)</p>
+<p>Week 10 (29 May)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/29may.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 10 (30 May)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/30may.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -125,16 +131,25 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 3 (15 Jul)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/5jul.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 3 (16 Jul)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/16jul.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 3 (17 Jul)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/17jul.png">
+</div>
 </td>
 </tr>
 </tbody>

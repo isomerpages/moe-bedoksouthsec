@@ -148,14 +148,12 @@ during the Secondary 1 CCA selection (<strong>subject to vacancies available</st
 names are already in the respective CCA lists.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/CCAF1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/Az4.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/CCAF2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/Az5.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/CCAF3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/Az6.jpg">
 </div>
 <p></p>

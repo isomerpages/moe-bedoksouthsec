@@ -52,7 +52,7 @@ variant: tiptap
 <p>110</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>chong_fook_weng_adrian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -161,10 +161,10 @@ variant: tiptap
 <p>Mr Tan Kian Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>103</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>tan_kian_boon_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -632,10 +632,10 @@ variant: tiptap
 <p>Mr Lee Jiaqi, Arthur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>111</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>lee_jiaqi_arthur@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -744,7 +744,7 @@ variant: tiptap
 <p>Mr Tan Rongen Joshua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>164</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_rongen_joshua@moe.edu.sg</p>

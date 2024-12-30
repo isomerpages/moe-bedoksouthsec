@@ -214,13 +214,13 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Chin Yuan</p>
+<p>Ms Tania Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_chin_yuan@moe.edu.sg</p>
+<p>chong_tania@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

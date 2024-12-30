@@ -23,7 +23,7 @@ on the various affordances provided by the PLD.</p>
 <p>HBL@BDS will be scheduled on every EVEN Friday. Please click on the following
 dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in with their respective Form Teachers at 7.45am on HBL@BDS days.</strong>
 </p>
-<p>Please click here for the <a href="/files/HBL/hbl_schedule_for_sem_1_2024_4jan.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL Schedule for Semester 1</a>
+<p>Please click here for the <a href="https://go.gov.sg/bdshbl2025" rel="noopener nofollow" target="_blank">HBL Schedule 2025.</a>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -38,18 +38,12 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 2 (12 Jan)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Home%20Based%20Learning/12Jan.JPG">
-</div>
+<p>Week 3 (24 Jan)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 4 (26 Jan)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/26JanV2.JPG">
-</div>
+<p>Week 4 (31 Jan)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home%20Based%20Learning/26Jan.JPG">
 </div>
@@ -57,15 +51,12 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 8 (23 Feb)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/23FebV2.JPG">
-</div>
+<p>Week 5 (7 Feb)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Week 9 (7 Mar)</p>
 </td>
 </tr>
 <tr>
@@ -76,49 +67,34 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 4 (12 Apr)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/12AprV2.JPG">
-</div>
+<p>Week 1 (28 Mar)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 6 (26 Apr)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/26Apr.JPG">
-</div>
+<p>Week 3 (11 Apr)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 8 (10 May)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/10May.JPG">
-</div>
+<p>Week 5 (25 Apr)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 10 (23 May)</p>
+<p>Week 7 (9 May)</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/23May.png">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 10 (24 May)</p>
+<p>Week 10 (10 May)</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/24May.png">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Week 10 (30 May)</p>
 </td>
 </tr>
 <tr>
@@ -128,26 +104,17 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 5 (23 Jul)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/23_JUL_2024.png">
-</div>
+<p>Week 3 (15 Jul)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 5 (24 Jul)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/24_JUL.png">
-</div>
+<p>Week 3 (16 Jul)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 5 (25 Jul)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/25_JUL.png">
-</div>
+<p>Week 3 (17 Jul)</p>
 </td>
 </tr>
 </tbody>

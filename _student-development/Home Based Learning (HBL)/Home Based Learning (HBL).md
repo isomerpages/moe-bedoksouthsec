@@ -6,9 +6,6 @@ third_nav_title: Home Based Learning (HBL)
 variant: tiptap
 ---
 <h1>Home-Based Learning (HBL)</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HBL.png">
-</div>
 <h3>Overview of Home-Based Learning (HBL)&nbsp;</h3>
 <p>At&nbsp;Bedok South Secondary School, we strive to provide an effective
 and conducive home-based learning experience for our students. With blended
@@ -39,6 +36,9 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 3 (24 Jan)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/24Jan.png">
+</div>
 </td>
 </tr>
 <tr>

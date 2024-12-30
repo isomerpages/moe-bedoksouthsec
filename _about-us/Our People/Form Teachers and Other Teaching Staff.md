@@ -161,7 +161,7 @@ variant: tiptap
 <p>Mr Tan Kian Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>103</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_kian_boon_a@moe.edu.sg</p>

@@ -126,6 +126,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>Ms Srividya Nair DO Rajakumaran Nair (OIC)
 <br>Ms Nadia Binte Lamri
+<br>
 <br>and external coach</p>
 </td>
 <td rowspan="1" colspan="1">

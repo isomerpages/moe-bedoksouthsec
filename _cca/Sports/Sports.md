@@ -37,10 +37,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Badminton</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mr Yip Kim San (OIC)
 <br>Mrs Mah-Pow Lai Ghim
 <br>Mr Lim Tuan Zheng Joseph
@@ -61,14 +61,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00 – 6.00 pm <em><br>(ISH/Hall</em>)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

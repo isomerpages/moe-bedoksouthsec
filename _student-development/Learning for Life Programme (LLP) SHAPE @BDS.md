@@ -159,4 +159,65 @@ and Methods.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_1.jpg">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Learning For Life Programme (LLP)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OIC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mr Tan Teck Joo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>KPs</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mr Tan Rongen Joshua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mr Mohd Azman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>Members</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mr Loi Churn Mun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mr Adrian Lim Ching Yang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Azleen Binte Khamis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mr Soh Wei Kiong</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

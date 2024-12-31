@@ -10,8 +10,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bds_choir_2024.png">
 </div>
 <h3>Teachers-in-charge</h3>
-<p>Ms Lam Yen Ping (OIC)
-<br>Ms Chia Suat Huang
+<p>Ms Lam Yen Ping
+<br>Ms Chia Suat Huang (OIC)
+<br>Ms Wong Wah Jong (Mrs Joan Yang)
 <br><strong>And External Instructors</strong>
 </p>
 <h3>Our Vision</h3>

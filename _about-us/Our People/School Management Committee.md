@@ -186,6 +186,20 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Lim Boon Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Curriculum &amp; Innovation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Isaacs Dichen Grace</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,7 +211,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Pearl Lee Ying Yan</p>
@@ -211,7 +225,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tania Chong</p>
@@ -225,7 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wan Yee Ling Jacquelyn</p>
@@ -239,21 +253,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Awyong Ivonne Muliana</p>
+<p>Mr Tan Teck Joo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Mother Tongue Language</p>
+<p>HOD / Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>awyong_ivonne_muliana@moe.edu.sg</p>
+<p>tan_teck_joo@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Ming Zhi Denise</p>
@@ -267,7 +281,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kow Yoke Ling (Kwang Yoke Ling)</p>
@@ -281,7 +295,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hani Alsagoff</p>
@@ -459,6 +473,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -469,6 +497,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>cheng_wan_li@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kian Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_kian_boon_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -489,6 +531,20 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Jiaqi Arthur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / 21CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_jiaqi_arthur@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

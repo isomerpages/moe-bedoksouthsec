@@ -36,9 +36,10 @@ In-House Photography Competition (2024) <br>Our School Our Stories (MOE) 2023 - 
 
 ### Teachers-in-Charge:
 
-Ms Kwek Ee Hui Irene (OIC)&nbsp;  <br>
-Ms Yap Cheng Cheng Sophia <br>
-Mr Nordin B Hassan
+
+Ms Yap Cheng Cheng Sophia (OIC)<br>
+Ms Kwek Ee Hui Irene<br>
+Mr Chong Fook Weng Adrian
 
 
 ### Leadership Positions

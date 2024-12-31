@@ -157,8 +157,8 @@ variant: tiptap
 <p>Swimming</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Ms Mahtani Hoori Vikram (OIC)
-<br>Mr Loy Pei Phoong</p>
+<p>Mr Loy Pei Phoong (OIC)
+<br>Ms Tan Huay Meen Elizabeth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday</p>

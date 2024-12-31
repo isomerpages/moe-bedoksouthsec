@@ -44,7 +44,8 @@ variant: tiptap
 <p>Mr Yip Kim San (OIC)
 <br>Mrs Mah-Pow Lai Ghim
 <br>Mr Lim Tuan Zheng Joseph
-<br>Mr Roskhaider B Mohamed Saat (FAJT) and external coach</p>
+<br>Mr Roskhaider B Mohamed Saat (FAJT)
+<br>and external coach</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday</p>
@@ -77,6 +78,7 @@ variant: tiptap
 <p>Mdm Teo Kah Hui Sadra (OIC)
 <br>Ms Foo Su Lian Gerardine
 <br>Mdm Suhaila Bte Mansor
+<br>
 <br>and external coach</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,7 +103,8 @@ variant: tiptap
 <p>Football</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Mr Loi Chun Mun (OIC)
+<p>Mr Nordin B Hassan (OIC)
+<br>Mr Loi Chun Mun
 <br>Mr Mohammed Imran Bin Mawardi
 <br>
 <br>and external coach</p>

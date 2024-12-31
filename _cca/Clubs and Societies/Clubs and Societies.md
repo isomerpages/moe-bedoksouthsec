@@ -71,9 +71,9 @@ variant: tiptap
 <p>Media Production Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kwek Ee Hui Irene (OIC)
-<br>Ms Yap Cheng Cheng Sophia
-<br>Mr Nordin B Hassan</p>
+<p>Ms Yap Cheng Cheng Sophia (OIC)
+<br>Ms Kwek Ee Hui Irene</p>
+<p>Mr Chong Fook Weng Adrian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gallery (Hall 2nd Level) / Computer Lab 1</p>

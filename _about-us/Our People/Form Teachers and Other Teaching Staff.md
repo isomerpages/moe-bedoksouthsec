@@ -46,7 +46,7 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Adrian Chong</p>
+<p>Mr Chong Fook Weng Adrian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>110</p>

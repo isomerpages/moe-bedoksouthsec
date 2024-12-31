@@ -431,8 +431,8 @@ on various water safety measures.&nbsp;</p>
 </tbody>
 </table>
 <h3>Teacher-in-charge</h3>
-<p>Mr Loy Pei Phoong (OIC)</p>
-<p>Ms Mahtani Hoori Vikram
+<p>Mr Loy Pei Phoong (OIC)
+<br>Ms Tan Huay Meen Elizabeth
 <br>and&nbsp;<strong>External Coach</strong>
 </p>
 <h3>Leadership Positions</h3>

@@ -3,7 +3,7 @@ title: Science & Environment Club
 permalink: /cca/clubs-and-societies/science-n-environment-club/
 description: ""
 third_nav_title: Clubs and Societies
-variant: markdown
+variant: tiptap
 ---
 <h1>Science &amp; Environment Club</h1>
 <h3>Overview</h3>
@@ -163,4 +163,4 @@ WEI JIE (3D) FOO CHUAN YEE (3C), and FONG KENG XIN (3D)</p>
 <h3>Teachers-In-Charge</h3>
 <p>Ms Ng Li Min Joanne (OIC)
 <br>Mdm Ho Lee Ling Caroline
-<br>Ms Sim Ting Ting Nancy</p>
+<br>Ms Halimah Rahmat</p>

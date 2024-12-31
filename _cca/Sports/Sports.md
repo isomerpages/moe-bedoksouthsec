@@ -74,9 +74,8 @@ variant: tiptap
 <p>Floorball</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Mr Loy Pei Phoong (OIC)
+<p>Mdm Teo Kah Hui Sadra (OIC)
 <br>Ms Foo Su Lian Gerardine
-<br>Mdm Teo Kah Hui Sandra
 <br>Mdm Suhaila Bte Mansor
 <br>and external coach</p>
 </td>

@@ -23,7 +23,7 @@ potential.</p>
 <h3>Teachers-in-Charge</h3>
 <p>Mr Song Wei Chiek Hubert (OIC)&nbsp;
 <br>Mr Gan Chun Seng
-<br>Mr Lim Tuan Zheng Joseph
+<br>Mr Soh Wei Keong
 <br>And&nbsp;<strong>Volunteer Adult Leaders</strong>
 </p>
 <h3>Vision</h3>

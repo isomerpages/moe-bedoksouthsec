@@ -3,91 +3,180 @@ title: Sports
 permalink: /cca/sports/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
-Sports
-======
-
-![Sports](/images/Physical-Sports.jpg)
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xqm4{background-color:#D9D9D9;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-px6y{background-color:#D9D9D9;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th colspan="4" class="tg-xqm4">Physical Sports Coordinator: Mr Mohd Azman Bin Mohd Selamat</th>
-  </tr>
-</thead>
+<h1>Sports</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sports" src="/images/Physical-Sports.jpg">
+</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-xqm4">CCA</td>
-    <td class="tg-xqm4">Teachers-In-Charge</td>
-    <td class="tg-px6y">Day</td>
-    <td class="tg-px6y">Time</td>
-  </tr>
-  <tr>
-    <td rowspan="3" class="tg-dgl5">Badminton</td>
-    <td rowspan="3" class="tg-dgl5">Mrs Mah-Pow Lai Ghim (OIC)<br>Mr Yip Kim San<br>Mr Khoo Kian Eng Kenneth<br>and external coach</td>
-    <td class="tg-9hzb">Monday</td>
-    <td class="tg-9hzb">3.00 – 6.00 pm <span style="font-style:italic"><br>(ISH/Hall</span>)</td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">Wednesday</td>
-    <td class="tg-9hzb">3.00 – 6.00 pm <span style="font-style:italic"><br>(ISH/Hall</span>)</td>
-  </tr>
-  <tr>
-    
-  </tr>
-  <tr>
-    <td rowspan="2" class="tg-dgl5">Floorball</td>
-    <td rowspan="2" class="tg-dgl5">Mr Loy Pei Phoong (OIC)<br>Ms Foo Su Lian Gerardine<br>Mdm Teo Kah Hui Sandra<br>Mdm Suhaila Bte Mansor<br>and external coach</td>
-    <td class="tg-9hzb">Monday &amp; Tuesday</td>
-    <td class="tg-9hzb">3.00 pm – 6.00 pm<br>(<span style="font-style:italic">ISH</span>)</td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">Friday</td>
-    <td class="tg-9hzb">1.30 pm – 6.00 pm<br>(<span style="font-style:italic">Hall</span>)</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="tg-dgl5">Football</td>
-    <td rowspan="2" class="tg-dgl5">Mr Loi Chun Mun (OIC)<br>Mr Mohammed Imran Bin Mawardi<br>Ms Fatimah Zahra<br>and external coach</td>
-    <td class="tg-9hzb">Monday</td>
-    <td class="tg-9hzb">3.00 pm – 5.00 pm<br>(<span style="font-style:italic">Field</span>)</td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">Friday</td>
-    <td class="tg-9hzb">3.00 pm – 5.00 pm<br>(<span style="font-style:italic">Field</span>)</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="tg-dgl5">Netball</td>
-    <td rowspan="2" class="tg-dgl5">	Ms Srividya Nair DO Rajakumaran Nair (OIC)<br>Ms Nadia Binte Lamri<br>and external coach</td>
-    <td class="tg-9hzb">Monday</td>
-    <td class="tg-9hzb">3.00 pm – 5.30 pm <br>(<span style="font-style:italic">Basketball Court</span>)</td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">Wednesday</td>
-    <td class="tg-9hzb">3.00 pm – 5.30 pm <br>(<span style="font-style:italic">Basketball Court</span>)</td>
-  </tr>
-	<tr>
-    <td rowspan="2" class="tg-dgl5">Swimming</td>
-    <td rowspan="2" class="tg-dgl5">Ms Mahtani Hoori Vikram (OIC)<br>	Mr Loy Pei Phoong</td>
-    <td class="tg-9hzb">Monday</td>
-    <td class="tg-9hzb">3.00 pm – 4.30 pm <br>(<span style="font-style:italic">School Quadrangle</span>)</td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">Wednesday</td>
-    <td class="tg-9hzb">4.00 pm – 6.00 pm <br>(<span style="font-style:italic">Bedok Heartbeat Pool</span>)</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="4">
+<p>Physical Sports Coordinator: Mr Mohd Azman Bin Mohd Selamat</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers-In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Mr Yip Kim San (OIC)
+<br>Mrs Mah-Pow Lai Ghim
+<br>Mr Lim Tuan Zheng Joseph
+<br>Mr Roskhaider B Mohamed Saat (FAJT) and external coach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 – 6.00 pm <em><br>(ISH/Hall</em>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 – 6.00 pm <em><br>(ISH/Hall</em>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Floorball</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Mr Loy Pei Phoong (OIC)
+<br>Ms Foo Su Lian Gerardine
+<br>Mdm Teo Kah Hui Sandra
+<br>Mdm Suhaila Bte Mansor
+<br>and external coach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday &amp; Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 pm – 6.00 pm
+<br>(<em>ISH</em>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.30 pm – 6.00 pm
+<br>(<em>Hall</em>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Mr Loi Chun Mun (OIC)
+<br>Mr Mohammed Imran Bin Mawardi
+<br>
+<br>and external coach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 pm – 5.00 pm
+<br>(<em>Field</em>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 pm – 5.00 pm
+<br>(<em>Field</em>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Ms Srividya Nair DO Rajakumaran Nair (OIC)
+<br>Ms Nadia Binte Lamri
+<br>and external coach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 pm – 5.30 pm
+<br>(<em>Basketball Court</em>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 pm – 5.30 pm
+<br>(<em>Basketball Court</em>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Swimming</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Ms Mahtani Hoori Vikram (OIC)
+<br>Mr Loy Pei Phoong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 pm – 4.30 pm
+<br>(<em>School Quadrangle</em>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.00 pm – 6.00 pm
+<br>(<em>Bedok Heartbeat Pool</em>)</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<b>Note:</b>&nbsp;Additional training sessions may be required during competition / performance season; CCA Teachers will inform students and parents of updates where necessary.
+<p><strong>Note:</strong>&nbsp;Additional training sessions may be required
+during competition / performance season; CCA Teachers will inform students
+and parents of updates where necessary.</p>

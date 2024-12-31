@@ -492,7 +492,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>Mdm Surimah Selamat</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>ST / Learning Needs
 <br>(Educational Support)</p>
 </td>
@@ -500,11 +500,7 @@ variant: tiptap
 <p>surimah_selamat@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>5</p>
@@ -529,20 +525,6 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hiryati Bte Jaafar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>hiryati_jaafar@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Khairiah Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -554,7 +536,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Teng Lai</p>
@@ -568,7 +550,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr K Rajendran</p>

@@ -116,7 +116,7 @@ evolving job landscapes and future career choices.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Wong Ming Zhi Denise</p>
+<p>Ms Wong Ming Zhi Denise</p>
 </td>
 </tr>
 <tr>
@@ -125,12 +125,12 @@ evolving job landscapes and future career choices.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Goh Shong Heng Sean</p>
+<p>Mr Goh Shong Heng Sean</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Tan Boon Ping</p>
+<p>Mr Tan Boon Ping</p>
 </td>
 </tr>
 <tr>
@@ -139,17 +139,17 @@ evolving job landscapes and future career choices.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ho Lee Ling Caroline</p>
+<p>Ms Ho Lee Ling Caroline</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Nadia Begam</p>
+<p>Ms Nadia Begam</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Wong Wah Jong Joan</p>
+<p>Ms Wong Wah Jong Joan</p>
 </td>
 </tr>
 </tbody>

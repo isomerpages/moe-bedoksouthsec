@@ -1,60 +1,107 @@
 ---
 title: Contact Information
 permalink: /student-development/character-and-citizenship-education/contact-information/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-Contact Information
-===================
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rj1p"><span style="color:#222">Designation</span></th>
-    <th class="tg-rj1p"><span style="color:#222">Name</span></th>
-    <th class="tg-rj1p"><span style="color:#222">Extension No.</span></th>
-  </tr>
-</thead>
+<h1>Contact Information</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">SH/CD</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Elizabeth Tan (Mrs Elizabeth Ng)</span></td>
-    <td class="tg-y7qa"><span style="color:#222">114</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">ECG Coordinator (Upper Sec)</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Sim Ting Ting Nancy</span></td>
-    <td class="tg-y7qa"><span style="color:#222">111</span><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">ECG Coordinator (Lower Sec)</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Toh Qin Min</span></td>
-    <td class="tg-y7qa"><span style="color:#222">102</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">SEd Coordinators</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Ms Elizabeth Tan (Mrs Elizabeth Ng)</span><br><span style="color:#222">Mr Choo Chee Mian Eric</span></td>
-    <td class="tg-y7qa"><span style="color:#222">114</span><br><span style="color:#222">160</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">CW Coordinator</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Choo Chee Mian Eric</span></td>
-    <td class="tg-y7qa"><span style="color:#222">160</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">NE Coordinators</span></td>
-    <td class="tg-y7qa"><span style="color:#222">Mr Asraf Ali s/o A A Anverdeen</span><br><span style="color:#222">Ms Eva Koh</span></td>
-    <td class="tg-y7qa"><span style="color:#222">158</span><br><span style="color:#222">106</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Character And Citizenship Education</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OIC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liza Bte Ashari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>KPs</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cheng Wan Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST/CCE, CCE Specialized Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p><strong>Members</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Suchandra Ghouse</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCE Specialized Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Qin Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCE Specialized Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Huay Meen Elizabeth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCE Specialized Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Eva Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Choo Chee Mian Eric</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yap Cheng Cheng Sophia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Siew Huang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>

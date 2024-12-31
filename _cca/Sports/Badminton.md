@@ -194,7 +194,8 @@ C Girls</p>
 <h3>Teachers-in-Charge</h3>
 <p>Mr Yip Kim San (OIC)
 <br>Mrs Mah-Pow Lai Gim
-<br>Mr Khoo Kian Eng Kenneth
+<br>Mr Lim Tuan Zheng Joseph
+<br>Mr Roskhaider B Mohamed Saat (FAJT)
 <br>And&nbsp;<strong>External Coach</strong>
 </p>
 <h3>Leadership Positions</h3>

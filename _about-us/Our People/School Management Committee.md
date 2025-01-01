@@ -342,7 +342,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Jing Teng</p>
@@ -356,7 +356,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kian Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_kian_boon_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Rongen Joshua</p>
@@ -370,7 +384,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Shong Heng Sean</p>
@@ -384,7 +398,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Wan Chin</p>
@@ -398,7 +412,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Jiaqi Arthur</p>
@@ -408,8 +422,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_jiaqi_arthur@moe.edu.sg</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -446,20 +458,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Kian Boon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_kian_boon_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
 <p>4</p>
 </td>
@@ -475,20 +473,6 @@ variant: tiptap
 </td>
 </tr>
 <tr></tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Jiaqi Arthur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / 21CC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="4">
 <p>Managers</p>

@@ -481,7 +481,7 @@ variant: tiptap
 <p>Ms Goh Siew Huang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>103</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_siew_huang@moe.edu.sg</p>
@@ -699,13 +699,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Jin Teng</p>
+<p>Ms Goh Jing Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>158</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_jin_teng@moe.edu.sg</p>
+<p>goh_jing_teng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

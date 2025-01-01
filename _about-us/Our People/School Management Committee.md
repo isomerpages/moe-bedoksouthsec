@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>School Leaders</p>
+<h4>School Leaders</h4>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>Year Heads &amp; Assistant Year Heads</p>
+<h4>Year Heads &amp; Assistant Year Heads</h4>
 </td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>Heads of Department</p>
+<h4>Heads of Department</h4>
 </td>
 </tr>
 <tr>
@@ -309,7 +309,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>Subject Heads</p>
+<h4>Subject Heads</h4>
 </td>
 </tr>
 <tr>
@@ -426,7 +426,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>Senior Teachers</p>
+<h4>Senior Teachers</h4>
 </td>
 </tr>
 <tr>
@@ -475,7 +475,7 @@ variant: tiptap
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>Managers</p>
+<h4>Managers</h4>
 </td>
 </tr>
 <tr>

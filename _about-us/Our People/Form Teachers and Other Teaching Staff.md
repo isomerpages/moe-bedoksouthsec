@@ -481,7 +481,7 @@ variant: tiptap
 <p>Ms Goh Siew Huang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>103</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_siew_huang@moe.edu.sg</p>
@@ -699,13 +699,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Jin Teng</p>
+<p>Ms Goh Jing Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>158</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_jin_teng@moe.edu.sg</p>
+<p>goh_jing_teng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1040,48 +1040,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT (Malay Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rohani Bte Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>101</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rohani_ahmad_b@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chan Wan Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>103</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chan_wan_yin_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ow Tai Pang Jeremy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>157</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ow_tai_pang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>FAJT (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1096,30 +1054,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT (Physics/Mathematics)</p>
+<p>FAJT (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Song Chin</p>
+<p>Mr Sim Seng Huat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>107</p>
+<p>104</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_song_chin_a@moe.edu.sg</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT (PE &amp; CCA)</p>
+<p>FAJT (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khoo Kian Eng Kenneth</p>
+<p>Mdm Wong Hwee Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>162</p>
+<p>157</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khoo_kian_eng@moe.edu.sg</p>
+<p>TBC</p>
 </td>
 </tr>
 </tbody>

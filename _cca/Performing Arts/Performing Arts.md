@@ -19,21 +19,25 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
-<p>Visual &amp; Performing Arts Coordinator: Mrs Adeline Yee</p>
+<p>Visual &amp; Performing Arts Coordinator: Ms Wong Miaw Charn</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA</p>
+<p><strong>CCA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers-in-Charge</p>
+<p><strong>Teachers-in-Charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday</p>
+<p><strong>Monday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p><strong>Wednesday</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -145,26 +149,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>1500 – 1730
 <br><em>(Band Room)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wushu (No more intake from 2024)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Azman Md Selamat (OIC)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>–
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>–
-<br>
 </p>
 </td>
 </tr>

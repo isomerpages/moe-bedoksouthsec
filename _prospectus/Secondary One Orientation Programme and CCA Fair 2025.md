@@ -148,7 +148,7 @@ during the Secondary 1 CCA selection (<strong>subject to vacancies available</st
 names are already in the respective CCA lists.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/Az4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/CCA6.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/Az5.jpg">

@@ -24,16 +24,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA</p>
+<p><strong>CCA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers-In-Charge</p>
+<p><strong>Teachers-In-Charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Day</p>
+<p><strong>Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Time</p>
+<p><strong>Time</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +72,7 @@ variant: tiptap
 <p>Floorball</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Mdm Teo Kah Hui Sadra (OIC)
+<p>Mdm Teo Kah Hui Sandra (OIC)
 <br>Ms Foo Su Lian Gerardine
 <br>Mdm Suhaila Bte Mansor
 <br>
@@ -169,6 +173,21 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>4.00 pm – 6.00 pm
 <br>(<em>Bedok Heartbeat Pool</em>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Support And Intervention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nadia Bte Ramli</p>
+<p>Ms Chua Hui Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

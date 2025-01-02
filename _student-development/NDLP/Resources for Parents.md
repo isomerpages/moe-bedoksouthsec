@@ -165,7 +165,7 @@ like gaming, social media and cyber bullying.
 <h3>DMA Guide for Parents</h3>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/dmaipadfsdisable" rel="noopener nofollow" target="_blank">Disable the built-in parental controls</a>
+<p><a href="https://go.gov.sg/dmaipadfsdisable" rel="noopener nofollow" target="_blank">Disable the built-in Parental Controls</a>
 </p>
 </li>
 <li>

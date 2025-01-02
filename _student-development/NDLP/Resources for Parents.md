@@ -165,6 +165,10 @@ like gaming, social media and cyber bullying.
 <h3>DMA Guide for Parents</h3>
 <ul>
 <li>
+<p><a href="https://go.gov.sg/dmaipadfsdisable" rel="noopener nofollow" target="_blank">Disable the built-in Parental Controls</a>
+</p>
+</li>
+<li>
 <p><a href="/files/NDLP/iPad_DMA_Parent_Guide_for_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide Default Option</a>
 </p>
 </li>

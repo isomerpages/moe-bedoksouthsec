@@ -13,7 +13,7 @@ posting year. Transfer will be subject to available vacancies and the school’s
 admission criteria. Please kindly be informed that the school would notify
 successful S1 appeal applicants after 30 December 2024.
 <br>
-<br>Application is closed.
+<br><strong>Application is closed</strong>.
 <br>
 <br>Notes:</p>
 <ol data-tight="true" class="tight">

@@ -16,8 +16,8 @@ Space (SLS) which complements in-school activities to facilitate learning.&nbsp;
 Secondary 1 to 3 students are also equipped with a Personal Learning Device
 (PLD) under the National Digital Literacy Programme (NDLP) and can tap
 on the various affordances provided by the PLD.</p>
-<h3>HBL@BDS (every EVEN Friday)</h3>
-<p>HBL@BDS will be scheduled on every EVEN Friday. Please click on the following
+<h3>HBL@BDS (every ODD Friday)</h3>
+<p>HBL@BDS will be scheduled on every ODD Friday. Please click on the following
 dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in with their respective Form Teachers at 7.45am on HBL@BDS days.</strong>
 </p>
 <p>Please click here for the <a href="https://go.gov.sg/bdshbl2025" rel="noopener nofollow" target="_blank">HBL Schedule 2025.</a>

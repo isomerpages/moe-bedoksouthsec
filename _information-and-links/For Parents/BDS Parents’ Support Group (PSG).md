@@ -123,7 +123,5 @@ serving and supporting the school and students, please click on this
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnerships/PSG/parent-child%20cupcake%20baking%20competition.jpg">
 </div>
 <h5><strong>Enrichment Talks/Workshops</strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnerships/PSG/PSG1.jpg">
-</div>
+<p></p>
 <p></p>

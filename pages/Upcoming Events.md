@@ -36,6 +36,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>10 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Release of GCE O-Level Examination Results</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>29 - 30 Jan</p>
 </td>
 <td rowspan="1" colspan="1">

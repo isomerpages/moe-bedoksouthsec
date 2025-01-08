@@ -1063,7 +1063,7 @@ variant: tiptap
 <p>104</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>sim_seng_huat_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1077,7 +1077,7 @@ variant: tiptap
 <p>157</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>wong_hwee_chin@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

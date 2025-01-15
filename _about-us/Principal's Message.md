@@ -40,14 +40,14 @@ without fear of failure, and to bounce back with diligence and grit to
 achieve success. To do this, students need opportunities to apply their
 learning and experiment, as school is the safest place to experience productive
 failure.</p>
-<p>I am proud and humbled to lead BDS, a school with a rich history of 45
-years, blessed with a conducive environment, and most importantly, caring
-staff. BDS teachers are not just committed to quality learning and character
-development of BDSians but also to their own professional growth. At BDS,
-we are committed to learning, growing, and improving our teaching practices
-and pedagogies to better engage our students. With respectful and teachable
-BDSians (an endearing term we use when referring to our students), I am
-confident that we can foster an inviting, caring, and supportive school
+<p>I am proud and humbled to lead BDS, a school with a rich history of more
+than 40 years, blessed with a conducive environment, and most importantly,
+caring staff. BDS teachers are not just committed to quality learning and
+character development of BDSians but also to their own professional growth.
+At BDS, we are committed to learning, growing, and improving our teaching
+practices and pedagogies to better engage our students. With respectful
+and teachable BDSians (an endearing term we use when referring to our students),
+I am confident that we can foster an inviting, caring, and supportive school
 culture that develops character, ensures student well-being, and provides
 enriched learning experiences through their secondary school life.</p>
 <p>Together with our parents and community partners, and as OneBDS, we endeavour

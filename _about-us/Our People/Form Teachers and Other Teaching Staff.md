@@ -1040,6 +1040,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>FAJT (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Ka Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>102</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_ka_team@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>FAJT (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">

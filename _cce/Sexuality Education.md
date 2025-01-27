@@ -21,23 +21,15 @@ on sexuality issues.</p>
 </li>
 <li>
 <p>The <strong>Goals</strong> of Sexuality Education are to:</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
-</li>
-<li>
 <p>(b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.</p>
-</li>
-<li>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 </li>
-</ul>
+</ol>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>

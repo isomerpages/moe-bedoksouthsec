@@ -108,7 +108,7 @@ desired outcome of the <em>eTeens</em> programme is that students are empowered
 to make wise, informed and sensible decisions.</p>
 </li>
 </ol>
-<h4>At Bedok South Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2024:</h4>
+<h4>At Bedok South Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -170,13 +170,13 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be distributed to parents at
 the start of the year and is also downloadable <a href="https://go.gov.sg/optoutformannexa" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 05/02/2024.</p>
+is to be submitted by 05/02/2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em></strong>  <strong>programme</strong> need
 to complete an opt-out form. This form will be distributed to parents at
 the start of the year and is also downloadable <a href="https://go.gov.sg/optoutformannexb" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 05/02/2024.</p>
+is to be submitted by 05/02/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at 6441 4479 for discussion with your child's

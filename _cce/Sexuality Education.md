@@ -40,7 +40,7 @@ that are premised on the family as the basic unit of society.</p>
 the foundation for strong families);</p>
 <p>(c) Make responsible decisions for yourself, your family and society;
 and</p>
-<p>(d) Abstinence before marriage is the best protection against STIs / HIV
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
@@ -168,13 +168,13 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be distributed to parents at
 the start of the year and is also downloadable <a href="https://go.gov.sg/optoutformannexa" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 05/02/2024.</p>
+is to be submitted by 05/02/2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em></strong>  <strong>programme</strong> need
 to complete an opt-out form. This form will be distributed to parents at
 the start of the year and is also downloadable <a href="https://go.gov.sg/optoutformannexb" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 05/02/2024.</p>
+is to be submitted by 05/02/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at 6441 4479 for discussion with your child's

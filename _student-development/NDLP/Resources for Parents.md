@@ -28,7 +28,7 @@ to this additional resources and kits:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/613803c7a456b800126b9f7e" rel="noopener nofollow" target="_blank">After-School DMA Parent Option Form</a>
 </p>

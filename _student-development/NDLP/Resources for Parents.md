@@ -28,28 +28,16 @@ to this additional resources and kits:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="https://go.gov.sg/613803c7a456b800126b9f7e" rel="noopener nofollow" target="_blank">After-School DMA Parent Option Form</a>
 </p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/dmaipadfsdisable" rel="noopener nofollow" target="_blank">Disable the built-in Parental Controls</a>
 </p>
-</li>
-<li>
 <p><a href="/files/NDLP/iPad_DMA_Parent_Guide_for_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide Default Option</a>
 </p>
-</li>
-<li>
 <p><a href="/files/NDLP/iPad_DMA_Parent_Guide_for_Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
 </p>
-</li>
-<li>
 <p><a href="/files/NDLP/iPad_DMA_Parent_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>

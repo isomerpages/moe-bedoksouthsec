@@ -124,6 +124,17 @@ and digital literacy at home.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Parenting for Wellness Toolbox for Parents</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/pfw-toolbox-for-parents" rel="noopener nofollow" target="_blank">here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>MOE Cyber Wellness Programme</strong>
 <br>
 <br>This website shares more about MOE’s Cyber Wellness Programmes and Curriculum.
@@ -132,7 +143,7 @@ and digital literacy at home.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/educationinsgcyberwellness" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>

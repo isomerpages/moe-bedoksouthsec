@@ -10,8 +10,14 @@ variant: tiptap
 using the following link:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click this link <a href="https://go.gov.sg/bds-ict-assistance-and-equipment-service-request" rel="noopener nofollow" target="_blank">BDS iPad Helpline</a>:&nbsp;
-or scan the QR Code:</p>
+<p>Click this link <a href="https://go.gov.sg/bds-ict-assistance-and-equipment-service-request" rel="noopener nofollow" target="_blank">BDS iPad Helpline</a>
+</p>
+</li>
+<li>
+<p>Scan this QR Code</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/NDLP/https___go_gov_sg_bds_ict_assistance_and_equipment_service_request.png">
+</div>
 </li>
 </ul>
 <h3>Apple Authorised Service Centre</h3>

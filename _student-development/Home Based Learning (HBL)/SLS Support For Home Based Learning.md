@@ -10,10 +10,14 @@ variant: markdown
 
 During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.&nbsp;
 
-|  BDS NDLP Service Centre&nbsp; |  | 
-| -------- | -------- | 
-| School-based Helpline     | Click [here](https://go.gov.sg/bsss-ict-assist) to request for password reset     | 
-| Operating Hours     | BDS NDLP Service Centre&nbsp;<br>Library (3rd Level)<br>Mondays - Fridays: <br>8:00 am - 4:00 pm    |
+1. Click this link [BDS iPad Helpline](https://go.gov.sg/bds-ict-assistance-and-equipment-service-request)
+2. Scan the QR Code ![](/images/NDLP/https___go_gov_sg_bds_ict_assistance_and_equipment_service_request.png)
+3. Approach ICT Manager at BDS NDLP Service Centre at the following timings:
+| Days| Time | Venue |
+| -------- | -------- | -------- |
+| Mondays to Fridays     | 7.30am to 8am    | Computer Lab 3 (2nd level)    |
+| Mondays to Thursdays     | 2.30pm to 4pm     | BDS NDLP Service Centre @ Library    |
+| Fridays    | 12.30pm to 2pm     | BDS NDLP Service Centre @ Library    |
 
 Non-School Operating Hours
 --------------------------

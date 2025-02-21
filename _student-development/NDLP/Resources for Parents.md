@@ -102,7 +102,7 @@ and digital literacy at home.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Resources from MOE and other agencies</strong> 
+<p><strong>Resources from MOE and other agencies</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

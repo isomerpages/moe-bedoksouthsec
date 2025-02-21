@@ -61,7 +61,7 @@ Parents/guardians will receive a letter from the school via Parents Gateway or h
 
   
 
-For parents/guardians&nbsp;<u>with Singpass</u>, please make an online submission at&nbsp;<b>[go.gov.sg/bsss-pdlp-admin](https://go.gov.sg/bsss-pdlp-admin)</b>. <br>
+For parents/guardians&nbsp;<u>with Singpass</u>, [click here to submit the Edusave SO for PLD purchase](https://go.gov.sg/edusaveformsgso) <br>
 For parents/guardians&nbsp;<u>without Singpass</u>, please submit the&nbsp;<b>hardcopy letter to your child’s/ward’s Form Teacher</b>.
 
 ### Further Queries

@@ -14,7 +14,7 @@ As part of NDLP, the school has made arrangement for the purchase of personal le
 
 Every BDSian will be using the Apple iPad as their PLD. Every iPad will come bundled with the Apple pencil and keyboard to maximise the affordances of the iPad as a learning tool.
 
-![](/images/NDLP/PLD_for_2025.png)
+![](/images/NDLP/2025_S1_Device.png)
 
 The enhanced device bundle includes 3-year AppleCare+ for the iPad, associated accessories, two repairs or one replacement claim within the 3-year insurance/warranty period and fortnightly courier service by Contractor to collect damaged devices from school. Alternatively, parents can choose to send the iPad directly to one of the Apple Service Centres located islandwide.
 

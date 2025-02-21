@@ -131,6 +131,10 @@ and digital literacy at home.
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://go.gov.sg/pfw-toolbox-for-parents" rel="noopener nofollow" target="_blank">here</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDLP/Wellness_Toolbox.png">
+</div>
 </td>
 </tr>
 <tr>

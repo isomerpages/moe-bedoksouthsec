@@ -1,6 +1,6 @@
 ---
 title: Use of PLD In School
-permalink: /student-development/nldp/use-of-pld-in-school/
+permalink: /student-development/ndlp/use-of-pld-in-school/
 description: ""
 third_nav_title: NDLP
 variant: markdown

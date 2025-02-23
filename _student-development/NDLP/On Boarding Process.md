@@ -1,6 +1,6 @@
 ---
 title: On Boarding Process
-permalink: /student-development/nldp/on-boarding-process/
+permalink: /student-development/ndlp/on-boarding-process/
 description: ""
 third_nav_title: NDLP
 variant: markdown
@@ -14,7 +14,7 @@ As part of NDLP, the school has made arrangement for the purchase of personal le
 
 Every BDSian will be using the Apple iPad as their PLD. Every iPad will come bundled with the Apple pencil and keyboard to maximise the affordances of the iPad as a learning tool.
 
-![](/images/NDLP/PLD_for_2025.png)
+![](/images/NDLP/2025_S1_Device.png)
 
 The enhanced device bundle includes 3-year AppleCare+ for the iPad, associated accessories, two repairs or one replacement claim within the 3-year insurance/warranty period and fortnightly courier service by Contractor to collect damaged devices from school. Alternatively, parents can choose to send the iPad directly to one of the Apple Service Centres located islandwide.
 
@@ -56,19 +56,19 @@ Please refer to the time frame below for the upcoming dates to note.
 <tbody>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Jan 2025</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Parents will receive:</span><br><br><br>•    <span style="font-weight:bold">Letter of Consent</span> sent via Parents Gateway<br>•    <span style="font-weight:bold">Individualised hardcopy letter</span> (through child / ward) to inform parents / guardian of the amount to be deducted from Edusave / GIRO</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Parents will receive:</span><br>•    <span style="font-weight:bold">Letter of Consent</span> sent via Parents Gateway<br>•    <span style="font-weight:bold">Individualised hardcopy letter</span> (through child / ward) to inform parents / guardian of the amount to be deducted from Edusave / GIRO</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Term 1</span></td>
-    <td class="tg-y7qa"><span style="color:#222;background-color:#EAEAEA">For students with existing devices, to bring the device to school for the school to ascertain its compatibility to the DMA and Apple Pencil.</span><br><br></td>
+    <td class="tg-y7qa"><span style="color:#222;background-color:#EAEAEA">For students with existing device (only Apple iPAD), to bring the device to school for the ICT department to check for compatibility and installation of DMA.</span><br><br></td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mar 2025</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">27 February 2025</span></td>
     <td class="tg-y7qa"><span style="color:#222;background-color:#EAEAEA">Collection &amp; setup of PLD </span><br><br></td>
   </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> Term 1</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">For students with existing device (only Apple iPAD), to bring the device to school for the ICT department to check for compatibility and installation of DMA.</span></td>
+   <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">1 March 2025<br>8.30 a.m. to 9.30 a.m.</span></td>
+    <td class="tg-y7qa"><span style="color:#222;background-color:#EAEAEA">Virtual parent engagement session ‘Start-it-Right: Your Child’s PLD Journey’ </span><br><br></td>
   </tr>
 </tbody>
 </table>

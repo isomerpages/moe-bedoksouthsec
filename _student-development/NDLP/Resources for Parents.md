@@ -53,9 +53,6 @@ After-School DMA Parent Option</p>
 <p></p>
 <p><a href="/files/Parent_Kit___Raising_A_Digitally_Smart_Child.pdf" rel="noopener noreferrer nofollow" target="_blank">Raising a Digitally Smart Child</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -88,8 +85,56 @@ and digital literacy at home.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">Parent Kit</a>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDLP/Parent_Kit.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bite-size tips and advice via Parentingwith.MOEsg Instagram ​</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/parentingwithmoesg" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDLP/Bite_Sized_Tips.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Resources from MOE and other agencies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDLP/PG.png">
+</div>
+<p>(available on resources repository in Parents Gateway)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Parenting for Wellness Toolbox for Parents</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/pfw-toolbox-for-parents" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDLP/Wellness_Toolbox.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -102,7 +147,7 @@ and digital literacy at home.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/educationinsgcyberwellness" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>

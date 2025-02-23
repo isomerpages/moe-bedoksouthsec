@@ -10,17 +10,20 @@ variant: tiptap
 using the following link:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click this link <a href="https://go.gov.sg/bsss-ict-assist" rel="noopener noreferrer nofollow" target="_blank">BDS iPad Helpline</a>:&nbsp;
-or scan the QR Code:</p>
+<p>Click this link <a href="https://go.gov.sg/bds-ict-assistance-and-equipment-service-request" rel="noopener nofollow" target="_blank">BDS iPad Helpline</a>
+</p>
+</li>
+<li>
+<p>Scan this QR Code</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/NDLP/https___go_gov_sg_bds_ict_assistance_and_equipment_service_request.png">
+</div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/NDLP/https__go_gov_sg_bsss_ict_assist.png">
-</div>
 <h3>Apple Authorised Service Centre</h3>
 <p>There will be a fortnightly collection of faulty devices that will be
 sent via courier to the apple authorised service centres for repairs. The
-devices sent through the school may take between 1-3 weeks for repairs,
+devices sent through the school may take between 4-6 weeks for repairs,
 depending on the extent of the damage.</p>
 <p>Should there be a need to send the device for immediate repairs, below
 is the list of Apple Authorised Service Centres that you may visit.</p>
@@ -98,31 +101,6 @@ is the list of Apple Authorised Service Centres that you may visit.</p>
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>QCD Technology @ Wheelock (190m from Orchard MRT)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6555 0500
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:support_wheelock@qcd-tech.com" rel="noopener noreferrer nofollow" target="_blank">support_wheelock@qcd-tech.com</a>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon – Fri: 1100 – 1800
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Apple Retail Store @ Orchard Road (400m from Orchard MRT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,7 +134,7 @@ you may contact the device contractor directly.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Contact</p>
+<p>AsiaPac Helpdesk</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -175,17 +153,44 @@ you may contact the device contractor directly.</p>
 <p>Help Desk Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>pdlpapple@asiapac.com.sg</p>
+<p><a href="mailto:pdlpapple@asiapac.com.sg" rel="noopener nofollow" target="_blank">pdlpapple@asiapac.com.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Help Desk Operating Hours</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon - Thu: 0830 - 1730
 <br>Fri: 0830 - 1700
 <br>Closed on Sat, Sun &amp; Public Holidays</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Asiapac Website</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For buying of accessories</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/pld-apple</a>
+</p>
 </td>
 </tr>
 </tbody>

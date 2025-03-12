@@ -20,7 +20,7 @@ on the various affordances provided by the PLD.</p>
 <p>HBL@BDS will be scheduled on every ODD Friday. Please click on the following
 dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in with their respective Form Teachers at 7.45am on HBL@BDS days.</strong>
 </p>
-<p>Please click here for the <a href="https://go.gov.sg/bdshbl2025" rel="noopener nofollow" target="_blank">HBL Schedule 2025.</a>
+<p>Please click here for the <a href="https://go.gov.sg/2025bdshblv2" rel="noopener nofollow" target="_blank">HBL Schedule 2025.</a>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -100,17 +100,19 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 5 (25 Apr)</p>
+<p>Week 6 (2 May)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/25apr.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/2MayHBLV2.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 7 (9 May)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/9may.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/9mayhblv2.jpg">
 </div>
 </td>
 </tr>

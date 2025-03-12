@@ -100,17 +100,19 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 5 (25 Apr)</p>
+<p>Week 6 (2 May)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/25apr.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/2MayHBLV2.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 7 (9 May)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/9may.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/9mayhblv2.jpg">
 </div>
 </td>
 </tr>

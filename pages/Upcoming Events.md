@@ -170,6 +170,14 @@ variant: tiptap
 <p>Term 4 Starts</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepavali (Public Holiday)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>To view our full calendar of events for 2025, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here</a>

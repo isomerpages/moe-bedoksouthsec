@@ -20,7 +20,7 @@ on the various affordances provided by the PLD.</p>
 <p>HBL@BDS will be scheduled on every ODD Friday. Please click on the following
 dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in with their respective Form Teachers at 7.45am on HBL@BDS days.</strong>
 </p>
-<p>Please click here for the <a href="https://go.gov.sg/bdshbl2025" rel="noopener nofollow" target="_blank">HBL Schedule 2025.</a>
+<p>Please click here for the <a href="https://go.gov.sg/2025bdshblv2" rel="noopener nofollow" target="_blank">HBL Schedule 2025.</a>
 </p>
 <table style="minWidth: 25px">
 <colgroup>

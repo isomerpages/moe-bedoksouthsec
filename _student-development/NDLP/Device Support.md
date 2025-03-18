@@ -26,7 +26,7 @@ the QR code below:</p>
 <li>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/devicesupport2025.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Student Development/devicesupport2025.jpg">
 </div>
 </li>
 </ul>

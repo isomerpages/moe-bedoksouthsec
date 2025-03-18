@@ -19,11 +19,10 @@ as:</p>
 <p>requests for Apps to be whitelisted.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>To request for assistance, simply submit your details through our FormSG
 link &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bdsicthelp</a> or
 the QR code below:</p>
-<p></p>
+<p>Students may also approach the NDLP Helpdesk during school hours:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Student Development/devicesupport2025Pic2.jpg">
 </div>

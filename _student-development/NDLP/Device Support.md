@@ -6,20 +6,32 @@ third_nav_title: NDLP
 variant: tiptap
 ---
 <h1>Device Support</h1>
-<p>Technical support will be provided to students through a form request
-using the following link:</p>
+<p>Assistance is readily available if you have any ICT-related queries such
+as:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click this link <a href="https://go.gov.sg/bds-ict-assistance-and-equipment-service-request" rel="noopener nofollow" target="_blank">BDS iPad Helpline</a>
-</p>
+<p>problems with your iPad/Apple accessories;</p>
 </li>
 <li>
-<p>Scan this QR Code</p>
+<p>issues accessing your student MIMS account;</p>
+</li>
+<li>
+<p>requests for Apps to be whitelisted.</p>
+</li>
+</ul>
+<p>To request for assistance, simply submit your details through our FormSG
+link &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bdsicthelp</a> or
+the QR code below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/NDLP/https___go_gov_sg_bds_ict_assistance_and_equipment_service_request.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/devicesupport2025.jpg">
 </div>
 </li>
 </ul>
+<p>Students may also approach the NDLP Helpdesk during school hours:</p>
+<p>&nbsp;</p>
 <h3>Apple Authorised Service Centre</h3>
 <p>There will be a fortnightly collection of faulty devices that will be
 sent via courier to the apple authorised service centres for repairs. The

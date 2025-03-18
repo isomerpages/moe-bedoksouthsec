@@ -32,6 +32,9 @@ the QR code below:</p>
 </ul>
 <p>Students may also approach the NDLP Helpdesk during school hours:</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/devicesupport2025Pic2.jpg">
+</div>
 <h3>Apple Authorised Service Centre</h3>
 <p>There will be a fortnightly collection of faulty devices that will be
 sent via courier to the apple authorised service centres for repairs. The

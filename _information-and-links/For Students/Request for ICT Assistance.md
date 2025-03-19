@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
-<h1>For Students</h1>
+<h1>Request for ICT Assistance</h1>
 <p>Assistance is readily available if you have any ICT-related queries such
 as:</p>
 <ul data-tight="true" class="tight">
@@ -20,7 +20,7 @@ as:</p>
 </li>
 </ul>
 <p>To request for assistance, simply submit your details through our FormSG
-link &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bdsicthelp</a> or
+link <a href="https://go.gov.sg/bdsicthelp" rel="noopener nofollow" target="_blank">https://go.gov.sg/bdsicthelp</a> or
 the QR code below:</p>
 <p>Students may also approach the NDLP Helpdesk during school hours:</p>
 <div class="isomer-image-wrapper">

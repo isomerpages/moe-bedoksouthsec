@@ -60,10 +60,6 @@ Parents/guardians will receive a letter from the school via Parents Gateway or h
 *   &nbsp;Authorisation to collect PLD
 
   
-
-For parents/guardians&nbsp;<u>with Singpass</u>, [click here to submit the Edusave SO for PLD purchase](https://go.gov.sg/edusaveformsgso) <br>
-For parents/guardians&nbsp;<u>without Singpass</u>, please submit the&nbsp;<b>hardcopy letter to your child’s/ward’s Form Teacher</b>.
-
 ### Further Queries
 
 Should there by any further queries or clarification, please email us at&nbsp;[<b>bsss@moe.edu.sg</b>](mailto:bsss@moe.edu.sg).

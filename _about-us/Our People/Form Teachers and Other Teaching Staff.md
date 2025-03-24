@@ -861,6 +861,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chong Gim Po, Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>101</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_gim_po@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1036,34 +1050,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nadia_ramli@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Ka Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>102</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_ka_team@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chong Gim Po, Vincent</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>101</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chong_gim_po@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

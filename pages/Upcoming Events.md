@@ -20,46 +20,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1 Starts</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA Fair</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Release of GCE O-Level Examination Results</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29 - 30 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year (Public Holiday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 - 23 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1 Holidays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>24 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,6 +32,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Hari Raya Puasa (Public Holiday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 - 17 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Camp</p>
 </td>
 </tr>
 <tr>

@@ -47,7 +47,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Toh Qin Min (OIC)
 <br>Ms Joy Chia Yong Le
-<br>Ms Poh Bee Yong</p>
+<br>Ms Poh Bee Yong
+<br>Ms Li Fei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 – 1800
@@ -66,7 +67,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chia Suat Huang (OIC)</p>
-<p>Ms Wong Wah Jong (Mrs Joan Yang)</p>
+<p>Ms Wong Wah Jong (Mrs Joan Yang)
+<br>Nur Sakinah Bte Abdul Ghani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1515 – 1730

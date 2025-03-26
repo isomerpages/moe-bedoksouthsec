@@ -12,6 +12,7 @@ variant: tiptap
 <h3>Teachers-in-charge</h3>
 <p>Ms Chia Suat Huang (OIC)
 <br>Ms Wong Wah Jong (Mrs Joan Yang)
+<br>Nur Sakinah Bte Abdul Ghani
 <br><strong>And External Instructors</strong>
 </p>
 <h3>Our Vision</h3>

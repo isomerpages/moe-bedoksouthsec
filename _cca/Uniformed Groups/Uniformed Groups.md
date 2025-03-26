@@ -61,7 +61,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kong Kian Keong Steve (OIC)
-<br>Ms Pooja Avichal Ghoghari</p>
+<br>Ms Pooja Avichal Ghoghari
+<br>Mr Goh Yu Kai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30 pm – 5.30 pm

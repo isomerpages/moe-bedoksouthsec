@@ -1152,6 +1152,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>FAJT (Gear-Up)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rokiahati Bte Md Jali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>160</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rokiahati_bt_abdul_jali@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>FAJT (Sports)</p>
 </td>
 <td rowspan="1" colspan="1">

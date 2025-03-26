@@ -1152,34 +1152,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Sim Seng Huat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>104</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sim_seng_huat_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong Hwee Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>157</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wong_hwee_chin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>FAJT (Sports)</p>
 </td>
 <td rowspan="1" colspan="1">

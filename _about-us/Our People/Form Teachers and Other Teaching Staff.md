@@ -590,7 +590,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Sakinah Bte bdul Ghani</p>
+<p>Ms Nur Sakinah Bte Abdul Ghani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>101</p>

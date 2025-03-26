@@ -66,9 +66,9 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Suat Huang (OIC)</p>
-<p>Ms Wong Wah Jong (Mrs Joan Yang)
-<br>Nur Sakinah Bte Abdul Ghani</p>
+<p>Ms Chia Suat Huang (OIC)
+<br>Ms Wong Wah Jong (Mrs Joan Yang)
+<br>Ms Nur Sakinah Bte Abdul Ghani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1515 – 1730

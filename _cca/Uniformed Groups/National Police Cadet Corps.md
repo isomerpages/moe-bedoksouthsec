@@ -12,6 +12,7 @@ variant: tiptap
 <h3>Teachers-in-Charge</h3>
 <p>Mr Kong Kian Keong Steve (OIC)&nbsp;
 <br>Ms Pooja Avichal Ghoghari (DyOC)
+<br>Mr Goh Yu Kai
 <br>And&nbsp;<strong>Volunteer Adult Leaders</strong>
 </p>
 <h3>MISSION of the CCA</h3>

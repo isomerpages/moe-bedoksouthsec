@@ -155,20 +155,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Yu Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>101</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_yu_kai_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,6 +207,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>zhao_xiumin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Yu Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>101</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_yu_kai_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

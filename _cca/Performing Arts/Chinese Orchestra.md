@@ -30,6 +30,7 @@ We inspire students to develop their appreciation and passion for music. We beli
 Ms Toh Qin Min (OIC)<br>
 Ms Poh Bee Yong  <br>
 Ms Joy Chia Yong Le<br>
+Ms Li Fei <br>
 <b>And External Instructors</b>
 
 

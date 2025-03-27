@@ -192,84 +192,13 @@ making them true champions in every aspect of the game.</p>
 <p>First Round</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games (NSG East Zone) B and C Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd runner up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games (NSG East Zone) B Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games (NSG East Zone) B Boys and Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games (NSG East Zone) B and C Boys and Girls, C Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B Girls – 2nd Round (National Top 12)
-<br>B Boys - 2nd Round (3rd in Group Stage – missing semi-finals; National
-Top 12)
-<br>C Girls – 2nd Round (4th in Group Stage; National Top 12)
-<br>B Boys - 2nd Round (3rd in Group Stage – missing semi-finals; National
-Top 12)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games (NSG East Zone) B Boys and Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games (NSG East Zone) C Boys and Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>C Girls – 2nd Round (National Top 8)
-<br>C Boys - 1st Runners-Up (National Finals)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Teachers-in-Charge</h3>
 <p>Mdm Teo Kah Hui Sandra (OIC)
 <br>Ms Foo Su Lian Gerardine
 <br>Mdm Suhaila Bte Mansor
+<br>Ms Zheng Niqi
 <br>And&nbsp;<strong>External Coach</strong>
 </p>
 <h3>Leadership Positions</h3>

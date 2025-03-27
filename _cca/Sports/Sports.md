@@ -76,6 +76,7 @@ variant: tiptap
 <br>Ms Foo Su Lian Gerardine
 <br>Mdm Suhaila Bte Mansor
 <br>Ms Zheng Niqi
+<br>
 <br>and external coach</p>
 </td>
 <td rowspan="1" colspan="1">

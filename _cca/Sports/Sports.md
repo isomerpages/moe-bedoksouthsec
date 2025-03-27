@@ -75,7 +75,7 @@ variant: tiptap
 <p>Mdm Teo Kah Hui Sandra (OIC)
 <br>Ms Foo Su Lian Gerardine
 <br>Mdm Suhaila Bte Mansor
-<br>
+<br>Ms Zheng Niqi
 <br>and external coach</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,7 +130,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>Ms Srividya Nair DO Rajakumaran Nair (OIC)
 <br>Ms Nadia Binte Lamri
-<br>Ms Zheng Niqi
+<br>
 <br>
 <br>and external coach</p>
 </td>

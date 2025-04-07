@@ -959,20 +959,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chong Gim Po, Vincent</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>101</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chong_gim_po@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4D</p>
 </td>
 <td rowspan="1" colspan="1">

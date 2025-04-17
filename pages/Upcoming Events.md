@@ -60,6 +60,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>12 May</p>
 </td>
 <td rowspan="1" colspan="1">

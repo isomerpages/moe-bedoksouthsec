@@ -4,7 +4,7 @@ permalink: /student-development/character-and-citizenship-education/
 description: ""
 variant: markdown
 ---
-Character and Citizenship Education &nbsp;
+[Media Literacy Council](https://www.mlc.sg/)Character and Citizenship Education &nbsp;
 =====================================
 
 ### Introduction

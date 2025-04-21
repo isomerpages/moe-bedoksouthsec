@@ -39,10 +39,10 @@ materials</p>
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1n2DZk_FUa9_gmgsrletQSXQkoq36Qfstn5eTJ5N4vUM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h3>Resources</h3>
-<p>• Browse our curated resources for students <a href="https://go.gov.sg/bdsreading" rel="noopener nofollow" target="_blank">here</a>.(You will need to log in with
-a valid student account to access the resources.)
+<p>• Browse our curated resources for students <a href="https://go.gov.sg/bdsreading" rel="noopener nofollow" target="_blank">here</a>. (You will need to log in
+with a valid student account to access the resources.)
 <br>• Explore <a href="http://go.gov.sg/nlb-childrenandteens" rel="noopener noreferrer nofollow" target="_blank">DiscoveReads</a> by
 NLB (Recommended reading list by NLB)</p>
 <h3>Recommended English Language Resources</h3>
-<p>• <a href="https://go.gov.sg/learnenglishbritishcouncil" rel="noopener noreferrer nofollow" target="_blank">Grammar and Vocabulary Games British Council’s Listen&amp; Watch Activities</a>
+<p>• <a href="https://go.gov.sg/learnenglishbritishcouncil" rel="noopener noreferrer nofollow" target="_blank">Grammar and Vocabulary Games British Council’s Listen&amp; Watch Activitiesr</a>
 </p>

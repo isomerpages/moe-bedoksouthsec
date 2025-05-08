@@ -396,7 +396,7 @@ up to three school preferences.</p>
 </tbody>
 </table>
 <p>For more information about the DSA Exercise, you may:</p>
-<p>o&nbsp; Visit MOE DSA-Sec website at&nbsp; <strong><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
+<p>o&nbsp; Visit MOE DSA-Sec website at&nbsp; <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>o&nbsp; Contact the following staff for further clarification:</p>
 <table style="minWidth: 75px">

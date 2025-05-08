@@ -148,14 +148,14 @@ School are as follows:</p>
 </p>
 <p><strong>d. Netball (Girls)</strong>
 </p>
-<p><strong>e. Swimming  (Boys &amp; Girls)</strong>
+<p><strong>e. Swimming (Boys &amp; Girls)</strong>
 </p>
 <p><strong>f. Outdoor Adventure (Boys &amp; Girls)</strong>
 </p>
 <p>Bedok South Secondary School invites Primary 6 students with <strong><u>any</u></strong> of
 the following attributes and achievements to apply through the DSA-Sec
 exercise:</p>
-<p><strong><u>a)	Via Innovation</u></strong>
+<p><strong><u>a) Via Innovation</u></strong>
 </p>
 <p>(i) Represented the school and achieved accolades in inter-disciplinary
 competitions or led/ served as a member of inter-/ intra-school projects
@@ -164,7 +164,7 @@ solutions to problems and issues.</p>
 <p>(ii) Held leadership position/s in inter-disciplinary clubs or societies
 that require participants to generate innovative solutions to problems
 and issues.</p>
-<p><strong><u>b)	Via Sports and Games</u></strong>
+<p><strong><u>b) Via Sports and Games</u></strong>
 </p>
 <p>(i) Possesses strong aptitude and interest in sports and the outdoors.</p>
 <p>(ii) Represented primary school at the zonal/ national level in a particular
@@ -196,11 +196,11 @@ timings of the selection trials, auditions, and interviews. Fully in-person
 selection will be held at Bedok South Secondary School for all talent areas.
 Selection of candidates will be based on diverse academic and non-academic
 criteria such as the following:</p>
-<p>a)	<strong>Innovation:</strong> Problem-solving skills and clarity of purpose
+<p>a) <strong>Innovation:</strong> Problem-solving skills and clarity of purpose
 and values, as well as evidence of interest in innovation through participation
 in relevant projects and competitions. A situational task may be set during
 the interview with shortlisted candidates.</p>
-<p>b)	<strong>Sports and Games:</strong> Game or outdoor skills, fitness tests,
+<p>b) <strong>Sports and Games:</strong> Game or outdoor skills, fitness tests,
 potential, experience and clarity of purpose and values. Candidates may
 submit existing video footage (of not more than 10 mins) of them in action
 during CCA training, competitions, and National School Games.</p>
@@ -209,13 +209,13 @@ email or post. Successful applicants’ primary schools will follow-up on
 other actions of the DSA exercise. Results of posting will be released
 on the day of the release of the PSLE results.</p>
 <h3>5. Documentation</h3>
-<p>Applicants <strong><u>need not</u></strong> 
+<p>Applicants <strong><u>need not</u></strong>
 </p>
 <p>• Submit any academic and non-academic achievements related to their primary
 school. Information such as their P5 and P6 academic results, CCA, school-based
 activities/ achievements/ awards, NAPFA results, etc. will be shared directly
 with the DSA-Sec secondary schools that they apply to.</p>
-<p>Applicants <strong><u>may need</u> to</strong> 
+<p>Applicants <strong><u>may need</u> to</strong>
 </p>
 <p>• Provide documentary proof of <strong>non-school based</strong> activities
 and achievements. This may include participation/ contribution in external
@@ -226,9 +226,9 @@ and contributions to school and the community, if any.</p>
 <p>Through this exercise, successful applicants via our distinctive programmes
 will gain admission into Bedok South Secondary School for the academic
 year beginning January 2025.</p>
-<p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected from years 1 – 4/ 5. </strong>
+<p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected from years 1 – 4/ 5.</strong>
 </p>
-<h3>7.  The DSA-Sec timeline for 2025 is summarised as follows:</h3>
+<h3>7. The DSA-Sec timeline for 2025 is summarised as follows:</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -330,7 +330,7 @@ up to three school preferences.</p>
 <p>DSA-Sec Main Webpage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>  <s>&nbsp;</s>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a> 
 </p>
 </td>
 </tr>
@@ -340,7 +340,7 @@ up to three school preferences.</p>
 <p>(Mainstream students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>  <s>&nbsp;</s>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a> 
 </p>
 </td>
 </tr>
@@ -350,7 +350,7 @@ up to three school preferences.</p>
 <p>(Non-Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>  <s>&nbsp;</s>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a> 
 </p>
 </td>
 </tr>
@@ -360,7 +360,7 @@ up to three school preferences.</p>
 <p>(Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>  <s>&nbsp;</s>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a> 
 </p>
 </td>
 </tr>
@@ -370,7 +370,7 @@ up to three school preferences.</p>
 <p>(Non-Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>  <s>&nbsp;</s>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a> 
 </p>
 </td>
 </tr>
@@ -379,7 +379,7 @@ up to three school preferences.</p>
 <p>DSA-Sec iFAQs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>  <s>&nbsp;</s>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a> 
 </p>
 </td>
 </tr>

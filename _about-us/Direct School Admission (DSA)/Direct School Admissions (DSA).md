@@ -272,11 +272,15 @@ portal. Visit <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.
 <td rowspan="1" colspan="1">
 <p><strong><u>Selection Phase</u></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School-based interview for
-short-listed applicants</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administration of Trials and
-Performance Task</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School-based interview for short-listed applicants</p>
+</li>
+<li>
+<p>Administration of Trials and Performance Task</p>
+</li>
+</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -285,11 +289,10 @@ Performance Task</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants will receive a reply from the school on the outcome of
-their application informing them if:</p>
-<p>&nbsp;</p>
-<p>(a) They have been given a Confirmed Offer (CO)
-<br>(b) They are placed on the Waiting List (WL)</p>
-<p>(c) The school is unable to offer them a place</p>
+their application informing them if:
+<br>(a) They have been given a Confirmed Offer (CO)
+<br>(b) They are placed on the Waiting List (WL)
+<br>(c) The school is unable to offer them a place</p>
 </td>
 </tr>
 <tr>
@@ -298,8 +301,7 @@ their application informing them if:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>School Preference Submission</u></strong>
-</p>
-<p>Students who receive at least one DSA-Sec offer will receive email and
+<br>Students who receive at least one DSA-Sec offer will receive email and
 SMS notification via <a rel="noopener noreferrer nofollow" target="_blank">Postman.gov.sg</a> on
 the School Preference Submission around mid-Oct 2025. Both parents are
 required to login to the DSA-Sec Portal using their Singpass to submit
@@ -312,8 +314,7 @@ up to three school preferences.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Allocation Results Release</u></strong>
-</p>
-<p>Release of DSA-Sec Results together with PSLE results.</p>
+<br>Release of DSA-Sec Results together with PSLE results.</p>
 </td>
 </tr>
 </tbody>
@@ -330,7 +331,7 @@ up to three school preferences.</p>
 <p>DSA-Sec Main Webpage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a> 
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 </td>
 </tr>
@@ -340,7 +341,7 @@ up to three school preferences.</p>
 <p>(Mainstream students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a> 
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
 </p>
 </td>
 </tr>
@@ -350,7 +351,7 @@ up to three school preferences.</p>
 <p>(Non-Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a> 
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </td>
 </tr>
@@ -360,7 +361,7 @@ up to three school preferences.</p>
 <p>(Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a> 
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
 </td>
 </tr>
@@ -370,7 +371,7 @@ up to three school preferences.</p>
 <p>(Non-Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a> 
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
 </p>
 </td>
 </tr>
@@ -379,7 +380,7 @@ up to three school preferences.</p>
 <p>DSA-Sec iFAQs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a> 
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
 </p>
 </td>
 </tr>

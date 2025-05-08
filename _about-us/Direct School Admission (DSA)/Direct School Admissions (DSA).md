@@ -128,11 +128,15 @@ zonal/ national level.</p>
 </tr>
 </tbody>
 </table>
-<h3>3. DSA-Sec Selection Criteria and Process</h3>
+<h3>3. Application Procedure (7 May 2025, 11 am – 3 June 2025, 3 pm)</h3>
 <hr>
-<p>The selection criteria and process for the talent areas will be updated
-from early-May. For more information on DSA-Sec, please refer to the MOE
-website at <strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a></strong>.</p>
+<p><strong>Bedok South Secondary School: Direct School Admission to 2026 Secondary 1.</strong>
+</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be opened from <strong><u>7 May 2025 at 11:00 am</u></strong> to <strong><u>3 June 2025 at 3:00 pm</u></strong>.</p>
+<p>The Direct School Admission (DSA-Sec) talent areas for Bedok South Secondary
+School are as follows:</p>
+<p></p>
 <p></p>
 <p>
 <br>

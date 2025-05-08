@@ -253,7 +253,7 @@ year beginning January 2025.</p>
 <p><strong><u>Application Phase</u></strong>
 </p>
 <p>Application for DSA opens – to be done online via the centralized DSA-Sec
-portal. Visit <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+portal. Visit <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 </td>
 </tr>
@@ -302,7 +302,7 @@ their application informing them if:
 <td rowspan="1" colspan="1">
 <p><strong><u>School Preference Submission</u></strong>
 <br>Students who receive at least one DSA-Sec offer will receive email and
-SMS notification via <a rel="noopener noreferrer nofollow" target="_blank">Postman.gov.sg</a> on
+SMS notification via <a href="Postman.gov.sg" rel="noopener nofollow" target="_blank">Postman.gov.sg</a> on
 the School Preference Submission around mid-Oct 2025. Both parents are
 required to login to the DSA-Sec Portal using their Singpass to submit
 up to three school preferences.</p>
@@ -331,7 +331,7 @@ up to three school preferences.</p>
 <p>DSA-Sec Main Webpage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 </td>
 </tr>
@@ -341,7 +341,7 @@ up to three school preferences.</p>
 <p>(Mainstream students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+<p><a href="https://go.gov.sg/dsa-sec-application" rel="noopener nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
 </p>
 </td>
 </tr>
@@ -351,7 +351,7 @@ up to three school preferences.</p>
 <p>(Non-Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+<p><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </td>
 </tr>
@@ -361,7 +361,7 @@ up to three school preferences.</p>
 <p>(Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
 </td>
 </tr>
@@ -371,7 +371,7 @@ up to three school preferences.</p>
 <p>(Non-Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
 </p>
 </td>
 </tr>
@@ -380,7 +380,7 @@ up to three school preferences.</p>
 <p>DSA-Sec iFAQs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+<p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
 </p>
 </td>
 </tr>
@@ -389,7 +389,7 @@ up to three school preferences.</p>
 <p>DSA-Sec School Finder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+<p><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
 </td>
 </tr>

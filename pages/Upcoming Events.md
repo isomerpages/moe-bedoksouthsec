@@ -28,46 +28,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Puasa (Public Holiday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 - 17 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Camp</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Good Friday (Public Holiday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Labour Day (Public Holiday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Holiday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>12 May</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,6 +64,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Youth Day Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 - 17 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Oral Examinations &amp; Home-based Learning</p>
 </td>
 </tr>
 <tr>

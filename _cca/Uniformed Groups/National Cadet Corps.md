@@ -76,10 +76,21 @@ Exchange Programmes every year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit Recognition Award (2023)</p>
+<p>Unit Recognition Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding</p>
@@ -189,6 +200,10 @@ Exchange Programmes every year.</p>
 </tbody>
 </table>
 <h3>Photo Gallery</h3>
+<p>NCC Events in 2025</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRW4Dhi_WG_6bYMLJXgknQrdsGBKPL9yhBU2rE3DobQN_UJmZeqHpLUVIWqbEH3Y-9LtUMvRQoXgoP/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>VIA - Appreciation to Security Guards (2024)</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1tAmCd7pd5yFFHokssf2ectZyp7fazl2pAcpBeNyMG-w/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

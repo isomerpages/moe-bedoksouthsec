@@ -165,7 +165,8 @@ Exchange Programmes every year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Sergeant Major</p>
+<p><strong>Assistant Sergeant Major</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -173,7 +174,8 @@ Exchange Programmes every year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Training</p>
+<p><strong>Head of Training</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -183,7 +185,8 @@ Exchange Programmes every year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Administration</p>
+<p><strong>Head of Administration</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -191,7 +194,17 @@ Exchange Programmes every year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Logistics</p>
+<p><strong>Head of Logistics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Company Sergeant Majors</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -163,6 +163,7 @@ and fair play</p>
 <p>Ms Srividya Nair DO Rajakumaran Nair​ (OIC)
 <br>Ms Nadia Binte Lamri
 <br>Ms Zheng Niqi
+<br>Ms Zhang Yu
 <br>And&nbsp;<strong>External Coach</strong>
 </p>
 <h3>Leadership Positions</h3>

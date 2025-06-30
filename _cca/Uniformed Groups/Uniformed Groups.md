@@ -99,8 +99,7 @@ variant: tiptap
 <p>Ms Syafiqah Begum Binte Ismail Rahim (OIC)
 <br>Ms Teo Wei Ling
 <br>Mdm Goh Siew Huang
-<br>
-</p>
+<br>Ms Huang Yin-Chiao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00 pm – 5.30 pm

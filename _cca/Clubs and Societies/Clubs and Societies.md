@@ -94,7 +94,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ng Li Min Joanne (OIC)
 <br>Mdm Ho Lee Ling Caroline
-<br>Ms Halimah Rahmat</p>
+<br>Ms Halimah Rahmat
+<br>Ms Sim Ting Ting Nancy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physics Lab 2</p>

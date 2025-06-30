@@ -242,13 +242,13 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wan Yee Ling Jacquelyn</p>
+<p>Mdm Lee Wee Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Mathematics (Covering)</p>
+<p>HOD / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wan_yee_ling_jacquelyn@moe.edu.sg</p>
+<p>lee_wee_hoon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

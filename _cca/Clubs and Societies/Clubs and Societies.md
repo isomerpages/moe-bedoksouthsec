@@ -72,8 +72,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yap Cheng Cheng Sophia (OIC)
-<br>Ms Kwek Ee Hui Irene</p>
-<p>Mr Chong Fook Weng Adrian</p>
+<br>Mr Chong Fook Weng Adrian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gallery (Hall 2nd Level) / Computer Lab 1</p>
@@ -94,7 +93,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ng Li Min Joanne (OIC)
 <br>Mdm Ho Lee Ling Caroline
-<br>Ms Halimah Rahmat
 <br>Ms Sim Ting Ting Nancy</p>
 </td>
 <td rowspan="1" colspan="1">

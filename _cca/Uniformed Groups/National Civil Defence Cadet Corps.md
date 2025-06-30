@@ -22,6 +22,7 @@ of Civil Defence — fire safety, first aid, and rescue and evacuation.</p>
 <p>Ms Syafiqah Begum Binte Ismail Rahim (OIC)
 <br>Ms Teo Wei Ling
 <br>Mdm Goh Siew Huang
+<br>Ms Huang Yin-Chiao
 <br>And <strong>Volunteer Adult Leaders</strong>
 </p>
 <h3>Objectives</h3>

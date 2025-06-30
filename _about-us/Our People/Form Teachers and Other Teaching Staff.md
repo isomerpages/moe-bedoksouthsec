@@ -1124,6 +1124,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>FAJT (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Huang Yin-Chiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>huang_yin_chiao@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>FAJT (Gear-Up)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1134,6 +1148,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>rokiahati_bt_abdul_jali@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT (POA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Chye Kee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>102</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_chye_kee_terry@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

@@ -99,6 +99,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sim Ting Ting Nancy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>109</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_ting_ting_nancy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -422,20 +436,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Poh Bee Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>108</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>poh_bee_yong@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Zheng Niqi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -699,20 +699,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kwek Ee Hui Irene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>106</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kwek_ee_hui_irene@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Wong Hwee Chin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -927,20 +913,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>suchandra_ghose@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Halimah Rahmat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>115</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>halimah_rahmat@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

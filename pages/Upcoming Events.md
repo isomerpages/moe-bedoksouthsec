@@ -20,38 +20,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Starts</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vesak Day (Public Holiday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cross Country</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 May - 29 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Holidays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>30 Jun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,6 +44,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5 - 19 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4NA and 4NT Preliminary Examinations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>9 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,6 +64,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Aug - 4 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E5N Preliminary Examinations</p>
 </td>
 </tr>
 <tr>

@@ -685,13 +685,13 @@ variant: tiptap
 <p>3 Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Qin Min</p>
+<p>Mr Tan Rongen Joshua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>102</p>
+<p>164</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>toh_qin_min@moe.edu.sg</p>
+<p>tan_rongen_joshua@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -832,20 +832,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_tuan_zheng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Rongen Joshua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>164</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_rongen_joshua@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

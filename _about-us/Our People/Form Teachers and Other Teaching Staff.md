@@ -1124,16 +1124,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT (Gear-Up)</p>
+<p>FAJT (Committee)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rokiahati Bte Md Jali</p>
+<p>Ms Hasanna Bte Kamsan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>160</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rokiahati_bt_abdul_jali@moe.edu.sg</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>

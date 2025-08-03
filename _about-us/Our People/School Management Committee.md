@@ -497,6 +497,20 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Yeo Yee Wan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_yee_wan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Ang Teng Lai</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -508,7 +522,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr K Rajendran</p>

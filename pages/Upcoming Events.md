@@ -36,6 +36,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>26 Sep - 9 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 to 3 End-of-Year Examinations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>6 - 14 Oct</p>
 </td>
 <td rowspan="1" colspan="1">

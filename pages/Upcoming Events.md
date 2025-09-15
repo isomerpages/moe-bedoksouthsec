@@ -20,78 +20,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Starts</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7 July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Youth Day Holiday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 - 17 July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Oral Examinations &amp; Home-based Learning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 - 19 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4NA and 4NT Preliminary Examinations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Holiday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 Aug - 4 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4E5N Preliminary Examinations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers' Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 - 14 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Holidays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>15 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,10 +28,58 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>15 - 29 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE N(A)- and N(T)-Levels Examination (Phase 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Sep - 9 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 to 3 End-of-Year Examinations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 - 14 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE N(A)- and N(T)-Levels Examination (Phase 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Oct - 10 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE O-Levels Examination</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>20 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deepavali (Public Holiday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Promotion Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 - 22 Dec (Tentative)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Results Release for GCE N(A)- and N(T)-Levels Examination (Phase 2)</p>
 </td>
 </tr>
 </tbody>

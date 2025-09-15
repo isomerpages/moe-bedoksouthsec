@@ -60,10 +60,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 - 22 Dec</p>
+<p>18 - 22 Dec (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Results Release for GCE N(A)- and N(T)-Levels Examination (Phase 2)</p>
 </td>
 </tr>
 </tbody>

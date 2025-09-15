@@ -60,6 +60,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>21 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Promotion Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>18 - 22 Dec (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -1144,7 +1144,7 @@ variant: tiptap
 <p>Ms Magdalene Chan May Er</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>magdalene_chan_may_er_a@moe.edu.sg</p>

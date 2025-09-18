@@ -58,6 +58,102 @@ and personal growth among all players.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School C Division Championship League 1- Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 16</p>
+<p>2nd Round</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School C Division Championship League 2- Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School B Division Championship - Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 8</p>
+<p>Quarter Finals</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School B Division Championship - Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 16</p>
+<p>2nd round</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School C Division Championship League 1 - Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 16</p>
+<p>2nd round</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School C Division Championship League 1 - Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 8 Quarter Final</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School B Division Championship - Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 8 Quarter Final</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School B Division Championship - Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 8 Quarter Final</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,50 +246,6 @@ and personal growth among all players.</p>
 <br>Quarter Final Round</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School C Division Championship – Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Second Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School C Division Championship – Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School B Division Championship – Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Second Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School B Division Championship – Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Round</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Teachers-in-Charge</h3>
@@ -205,11 +257,10 @@ and personal growth among all players.</p>
 </p>
 <h3>Leadership Positions</h3>
 <p>1. Captains and Vice Captains for each division
-<br>2. Quartermaster
-<br>3. Welfare Leader</p>
-<p>
-<br>
-</p>
+<br>2. Quartermaster/Logistics
+<br>3. Welfare Head
+<br>4. Publicity Head
+<br>5. Fitness Leader</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/Floorball_Collage_1.PNG">
 </div>

@@ -47,7 +47,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Toh Qin Min (OIC)
 <br>Ms Joy Chia Yong Le
-<br>Ms Poh Bee Yong
 <br>Ms Li Fei</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -13,29 +13,31 @@ variant: tiptap
 <p>The BDS Floorball CCA started in 2008 and has grown in size and strength
 since. There are now close to 90 girls and boys, representing the school
 in the B and C divisions.</p>
-<p>Our players train at least twice a week. They start off by learning the
-basic skills and rules of the sport, and also develop various skills such
-as teamwork and communication, and values such as resilience, discipline
-and leadership.</p>
+<p>Our players train at least two or three times a week. Floorball training
+follows a structured programme comprising warm-ups, stickwork, footwork,
+and match play. Through these sessions, students acquire fundamental skills
+and a sound understanding of the rules, while also cultivating teamwork,
+communication, resilience, discipline, and leadership.”</p>
 <h3>Vision</h3>
-<p>Every floorballer, a skillful player, who plays with sportsmanship, and
-is full of character.
+<p>A team that aims to be disciplined, fit, and focused on excellence to
+achieve our best.
 <br>
-</p>
+<br>We strive to cultivate not only athletic skills, but also strong character
+and a spirit of teamwork, perseverance, and leadership. Through dedicated
+training and collaborative effort, students are encouraged to uphold these
+values both on and off the court, fostering personal growth.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/Floorball_Collage_2.PNG">
 </div>
 <h3>Achievement</h3>
-<p>The 2022 and 2023 National School Games (NSG) seasons post-Covid restrictions
-proved to be challenging but yet fulfilling for BDS Floorball. The C Division
-Boys team emerged 4th in the 2023 National School Games and our C Division
-Girls emerged 1st runner up in the same competition in 2022. Our teams
-all played with a seamless blend of skill, strategy, and unwavering determination.
-Their outstanding teamwork and relentless drive, even in the face of adversity,
-exemplified their resilience. Their passion for the sport truly set them
-apart, with every player displaying an infectious enthusiasm for the game.
-These wins are a testament to their dedication, unity, and unwavering spirit,
-making them true champions in every aspect of the game.</p>
+<p>BDS Floorball has continued to perform commendably in the National School
+Games (NSG) in 2024 and 2025, consistently achieving at least a top-16
+placing. Our teams demonstrate strong fighting spirit and determination
+in every match. While victories are celebrated, the emphasis remains on
+learning valuable lessons from setbacks, fostering resilience, sportsmanship,
+and personal growth among all players.</p>
+<p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -53,6 +55,102 @@ making them true champions in every aspect of the game.</p>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School C Division Championship League 1- Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 16</p>
+<p>2nd Round</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School C Division Championship League 2- Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School B Division Championship - Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 8</p>
+<p>Quarter Finals</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School B Division Championship - Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 16</p>
+<p>2nd round</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School C Division Championship League 1 - Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 16</p>
+<p>2nd round</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School C Division Championship League 1 - Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 8 Quarter Final</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School B Division Championship - Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 8 Quarter Final</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School B Division Championship - Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 8 Quarter Final</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -148,50 +246,6 @@ making them true champions in every aspect of the game.</p>
 <br>Quarter Final Round</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School C Division Championship – Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Second Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School C Division Championship – Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School B Division Championship – Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Second Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School B Division Championship – Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Round</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Teachers-in-Charge</h3>
@@ -203,11 +257,10 @@ making them true champions in every aspect of the game.</p>
 </p>
 <h3>Leadership Positions</h3>
 <p>1. Captains and Vice Captains for each division
-<br>2. Quartermaster
-<br>3. Welfare Leader</p>
-<p>
-<br>
-</p>
+<br>2. Quartermaster/Logistics
+<br>3. Welfare Head
+<br>4. Publicity Head
+<br>5. Fitness Leader</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/Floorball_Collage_1.PNG">
 </div>

@@ -1138,6 +1138,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>FAJT (Gear Up)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Magdalene Chan May Er</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>magdalene_chan_may_er_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>FAJT (POA)</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -52,6 +52,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>13 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marking Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>16 Oct - 10 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,6 +80,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Promotion Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Last Day of School</p>
 </td>
 </tr>
 <tr>

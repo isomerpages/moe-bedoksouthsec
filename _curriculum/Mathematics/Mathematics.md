@@ -55,9 +55,13 @@ Through these learning experiences, our students learn to realise the relevance 
 Through this all, our students see meaningful learning of Mathematics and Problem solving in the real world.
 
 **Learning Journey to URA Centre**
-![](/images/Curriculum/Mathematics/LJ_to_URA_1.jpeg)
+![](/images/Curriculum/Mathematics/2G_LJ.png)
+Our Secondary 3NT students embarked on an enlightening Learning Journey to the Urban Redevelopment Authority (URA) of Singapore, immersing themselves in a lesson enriched with map scales, statistical diagrams, population comparisons, and 3D objects. 
 
-![](/images/Curriculum/Mathematics/LJ_to_URA_2.jpeg)
+Engaging in hands-on activities, they skillfully wielded the 'Measure' app on their iPads and interacted with dynamic displays, unraveling the complexities of map representation and scale manipulation.
+
+Leveraging on the use of Classkick, students instantly verified their answers and received constructive feedback, enhancing their methodological prowess. This immersive educational experience bestows upon them not just mathematical proficiency but also a profound appreciation for the practical applications of Mathematics in the real world.
+
 
 **Learning Experience on Probability**
 ![](/images/Curriculum/Mathematics/Learning_Probability.PNG)

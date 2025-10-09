@@ -43,49 +43,6 @@ The&nbsp;<b>N(T) Mathematics Syllabus</b>&nbsp;aims to enable students who are b
     
 *   Build confidence in using&nbsp;mathematics and appreciate its&nbsp;value in making informed decisions&nbsp;in real life.
 
-### GCE Exam Format
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ky7k{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ky7k"><span style="color:#666">Strands</span></th>
-    <th class="tg-e14l"><span style="color:#666">Paper 1</span></th>
-    <th class="tg-e14l"><span style="color:#666">Paper 2</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">EM</td>
-    <td class="tg-ktyi">There will be about 25 short answer questions. <br> <br>Candidates are required to answer all questions.</td>
-    <td class="tg-ktyi">There will be 10 to 11 questions of varying marks and <br>lengths. <br> <br>Candidates are required to answer all questions.</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">NM</td>
-    <td class="tg-ktyi">There will be about 25 short answer questions. <br> <br>Candidates are required to answer all questions.</td>
-    <td class="tg-ktyi">There will be 2 sections: <br> <br>·  Section A will contain 9 to 10 questions of <br>    varying lengths. Candidates are required to <br>    answer all questions.<br>·  Section B will contain 2 questions of which <br>    candidates will be required to answer only <br>    one.<br> <br>The questions in Section B will be based on the underlined content and there will be one question from the ‘Geometry &amp; Measurement’ strand and one from the ‘Statistics &amp; Probability’ strand. <br> <br>Each question carries the same number of marks, that is, either 7 or 8 marks.</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">TM</td>
-    <td class="tg-ktyi">There will be 11 to 13 short questions carrying 2 to 4 marks, largely free from context, testing more on fundamental concepts and skills, followed by 2 longer questions carrying 6 to 8 marks, developed around a context. <br> <br>Candidates are required to answer all questions which will cover topics from the following strands<br>·         Number and Algebra<br>·         Geometry and Measurement<br>·         Real-world Contexts related to Number and Algebra and Geometry and Measurement</td>
-    <td class="tg-ktyi">There will be 11 to 13 short questions carrying 2 to 4 marks, largely free from context, testing more on fundamental concepts and skills, followed by 2 longer questions carrying 6 to 8 marks, developed around a context. <br> <br>Candidates are required to answer all questions which will cover topics from the following strands<br>·  Number and Algebra<br>·  Geometry and Measurement<br>·  Real-world Contexts related to Number and <br>    Algebra and Geometry and Measurement</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">AM</td>
-    <td class="tg-ktyi">There will be 11 to 13 questions of varying marks and lengths. <br> <br>Candidates are required to answer ALL questions.</td>
-    <td class="tg-ktyi">There will be 9 to 11 questions of varying marks and lengths. <br> <br>Candidates are required to answer ALL questions.</td>
-  </tr>
-</tbody>
-</table>
 
 
 ### Mathematics Learning Journeys &amp; Learning Experiences

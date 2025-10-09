@@ -52,6 +52,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>10 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marking Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>13 Oct</p>
 </td>
 <td rowspan="1" colspan="1">

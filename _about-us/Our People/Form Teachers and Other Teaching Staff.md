@@ -503,20 +503,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Pushparani d/o Purushotman Sarangapani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>102</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>pushparani_purushotman_sarangapani_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">

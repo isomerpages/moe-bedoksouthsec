@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: BDS Open House 2025
           description: 22 Nov 2025 (Saturday)
-          url: ""
+          url: https://moe-bedoksouthsec/editPage/BDS%20Open%20House.md
         - title: Latest Happenings
           description: Check out the latest happenings!
           url: /latest-happenings

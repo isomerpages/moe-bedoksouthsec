@@ -15,4 +15,7 @@ sections:
         - title: Upcoming Events
           description: Check out the upcoming events!
           url: /upcoming-events
+        - title: BDS Open House 2025
+          description: 22 Nov 2025 (Saturday)
+          url: ""
 ---

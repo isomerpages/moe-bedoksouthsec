@@ -4,6 +4,10 @@ permalink: /bds-open-house/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/FLYER_Open_House_2025.jpg">
+</div>
 <p>Bedok South Secondary School warmly invites all parents and guardians
 to our <strong>Open House on Saturday, 22 November, from 9:30am to 1:30pm</strong>.
 <br>

@@ -21,33 +21,31 @@ and students.
 <br>We look forward to welcoming you and partnering together to shape your
 child’s journey of growth and success! <strong>“OneBDS, Many Dreams.”</strong>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Key Events</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Principal &amp; Student Leaders’ Conversations
-<br>(3 Sessions: 10.00am – 10.45am, 11.00am – 11.45am &amp; 12.00 noon – 12.45
-pm)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Tours (from 9.30 am)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCA Performances &amp; Showcases</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<table style="min-width: 25px; border-collapse: collapse;" border="1">
+        <colgroup>
+            <col>
+        </colgroup>
+        <tbody>
+            <tr>
+                <th style="border: 1px solid black; padding: 10px;" rowspan="1" colspan="1">
+                    <p>Key Events</p>
+                </th>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black; padding: 10px;" rowspan="1" colspan="1">
+                    <p>Principal &amp; Student Leaders’ Conversations
+                    <br>(3 Sessions: 10.00am – 10.45am, 11.00am – 11.45am &amp; 12.00 noon – 12.45 pm)</p>
+                </td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black; padding: 10px;" rowspan="1" colspan="1">
+                    <p>School Tours (from 9.30 am)</p>
+                </td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black; padding: 10px;" rowspan="1" colspan="1">
+                    <p>CCA Performances &amp; Showcases</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>

@@ -8,6 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/FLYER_Open_House_2025.jpg">
 </div>
+<p></p>
 <p>Bedok South Secondary School warmly invites all parents and guardians
 to our <strong>Open House on Saturday, 22 November, from 9:30am to 1:30pm</strong>.
 <br>
@@ -20,3 +21,33 @@ and students.
 <br>We look forward to welcoming you and partnering together to shape your
 child’s journey of growth and success! <strong>“OneBDS, Many Dreams.”</strong>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Key Events</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal &amp; Student Leaders’ Conversations
+<br>(3 Sessions: 10.00am – 10.45am, 11.00am – 11.45am &amp; 12.00 noon – 12.45
+pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Tours (from 9.30 am)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Performances &amp; Showcases</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/FLYER_Open_House_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/BDS_Open_House_2025_Pic2.png">
 </div>
 <p></p>
 <p>Bedok South Secondary School warmly invites all parents and guardians
@@ -22,9 +22,6 @@ and students.
 child’s journey of growth and success! <strong>“OneBDS, Many Dreams.”</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/BDS_Open_House_2025_Pic2.png">
-</div>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>

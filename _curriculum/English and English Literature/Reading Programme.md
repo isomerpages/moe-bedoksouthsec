@@ -40,7 +40,9 @@ materials</p>
 </div>
 <h3>Resources</h3>
 <p>• Browse our curated resources for students <a href="https://go.gov.sg/bdsreading" rel="noopener nofollow" target="_blank">here</a>. (You will need to log in
-with a valid student account to access the resources.)
+with a valid student account to access the resources.)</p>
+<p>• Explore School E-Resource Repository (SERR) <a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>
 <br>• Explore <a href="http://go.gov.sg/nlb-childrenandteens" rel="noopener noreferrer nofollow" target="_blank">DiscoveReads</a> by
 NLB (Recommended reading list by NLB)</p>
 <h3>Recommended English Language Resources</h3>

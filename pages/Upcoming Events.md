@@ -20,54 +20,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 4 Starts</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 - 29 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GCE N(A)- and N(T)-Levels Examination (Phase 1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 Sep - 9 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 to 3 End-of-Year Examinations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 - 14 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GCE N(A)- and N(T)-Levels Examination (Phase 2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Marking Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Marking Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>16 Oct - 10 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,34 +28,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deepavali (Public Holiday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Promotion Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Last Day of School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>18 - 22 Dec (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Results Release for GCE N(A)- and N(T)-Levels Examination (Phase 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New Year's Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jan - 13 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 1, 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17, 18 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year</p>
 </td>
 </tr>
 </tbody>

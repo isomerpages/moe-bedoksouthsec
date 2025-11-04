@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Booklist and Purchase of School Uniform &amp; Tie Secondary 2 - 4 2026</strong></h4>
-<p>For booklist 2025, click <a href="https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/booklists/" rel="noopener nofollow" target="_blank">here</a>.
+<p>For booklist 2026, click <a href="https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/booklists/" rel="noopener nofollow" target="_blank">here</a>.
 <br>For purchase of school uniform and tie, click <a href="https://www.bedoksouthsec.moe.edu.sg/information-and-links/For-Students/school-uniform-and-tie/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <h4><strong>Registration Information for School Candidates</strong></h4>

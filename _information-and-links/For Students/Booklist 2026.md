@@ -27,9 +27,12 @@ Students opting for self-collection from the school premises must adhere
 to their chosen appointment date.</p>
 </li>
 </ul>
-<p></p>
+<p>School Self Collection Dates</p>
+<p>Bookshop: Books, Stationeries, OneBDS shirt / PE Attire and Booklist</p>
+<p>Venue: <strong>G1-07</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Information And Links/For Students/bookshopinfo.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_04_133416.png">
 </div>
 <p>We kindly request your understanding that there will be no walk-ins to
 purchase books in school. You may refer to the step-by-step guide on how

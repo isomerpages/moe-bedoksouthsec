@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
-<h4><strong>Purchase of Books, Stationeries / Socks/ OneBDS shirt / PE Attire and Booklist for 2025 (Sec 2 - 4)</strong></h4>
+<h4><strong>Purchase of Books, Stationeries / OneBDS shirt / PE Attire and Booklist for 2026 (Sec 2 - 4)</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>All booklists are available on the school website. Refer to the booklists
@@ -13,7 +13,7 @@ below.</p>
 </li>
 <li>
 <p>Students are strongly encouraged to purchase their school items online
-at <a href="https://go.gov.sg/pacificbookstores" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pacificbookstores</a> from <strong>4 November 2024</strong> onwards.
+at <a href="https://go.gov.sg/pacificbookstores" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pacificbookstores</a> from <strong>6 November 2025</strong> onwards.
 Students can choose between:</p>
 </li>
 </ol>
@@ -23,30 +23,39 @@ Students can choose between:</p>
 </li>
 <li>
 <p>Self-collection at school. Students opting for self-collection from the
-school premises must adhere to their chosen appointment date. The venue
-will be G1-07.</p>
+school premises must adhere to their chosen appointment date.</p>
 </li>
 </ul>
-<p>We kindly request your understanding that there will be no walk-ins to
-purchase books in school. You may refer to the step-by-step guide on how
-to purchase books online. Click <a href="https://go.gov.sg/pacificbookstoresonlinepurchaseguide" rel="noopener nofollow" target="_blank">here</a> for
-the guide.</p>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>The bookshop vendor, Pacific Bookstore, will be selling the OneBDS shirt.
-Students are strongly encouraged to purchase this shirt as it is the school’s
-2<sup>nd</sup> uniform attire.</p>
+<p>Walk-in purchase at the school premises from <strong>2 December 2025</strong> onwards:</p>
 </li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Available on selected days between 9 am to 3 pm. Venue will be <strong>F2-05</strong>.</p>
+</li>
+<li>
+<p>Please refer to the dates for walk-in purchase.</p>
+</li>
+<li>
+<p>We highly recommend arranging an appointment for Books Collection and
+uniform purchase on the same day, where possible.</p>
+</li>
+</ul>
+<p></p>
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p><u>FAS Students </u>
 <br>Students on Financial Assistance Scheme (FAS) will be contacted directly
 by the FAS officer, Ms Tina, regarding their assigned collection date via
-WhatsApp. If you have any concerns or have not received a notification
-from our school, please message our WhatsApp hotline at 8686 6208 for assistance
-between 8.30 am and 5.00 pm on weekdays.</p>
-<p></p>
+WhatsApp. If you have any concerns regarding FAS or have not received a
+notification from our school, please message our WhatsApp hotline at 8686
+6208 for assistance between 8.30 am and 5.00 pm on weekdays.</p>
 </li>
 </ol>
+<p></p>
 <p><strong>Please click the relevant links for the booklists.</strong>
 </p>
 <p><strong><u>Secondary 1</u></strong>

@@ -53,18 +53,18 @@ where possible.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Information And Links/For Students/bookshopinfo2walkin.png">
 </div>
 <p></p>
-<ul data-tight="true" class="tight">
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p>FAS Students:</p>
 </li>
-</ul>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students on Financial Assistance Scheme (FAS) will be contacted directly
 by the FAS officer, Ms Tina, regarding their assigned collection date via
-WhatsApp. If you have any concerns or have not received a notification
-from our school, please message our WhatsApp hotline at 8686 6208 for assistance
-between 8.30 am and 5.00 pm on weekdays.</p>
+WhatsApp. If you have any concerns regarding FAS or have not received a
+notification from our school, please message our WhatsApp hotline at 8686
+6208 for assistance between 8.30 am and 5.00 pm on weekdays.</p>
 </li>
 </ul>
 <p></p>

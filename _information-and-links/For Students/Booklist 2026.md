@@ -27,7 +27,27 @@ school premises must adhere to their chosen appointment date.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Information And Links/For Students/bookshopinfo.png">
+</div>
+<p>We kindly request your understanding that there will be no walk-ins to
+purchase books in school. You may refer to the step-by-step guide on how
+to purchase books online. Click&nbsp;<a href="https://go.gov.sg/pacificbookstoresonlinepurchaseguide" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+the guide.</p>
 <ol start="3" data-tight="true" class="tight">
+<li>
+<p>The bookshop vendor, Pacific Bookstore, will be selling the OneBDS shirt.
+Students are strongly encouraged to purchase this shirt as it is the school’s
+2<sup>nd</sup>&nbsp;uniform attire.</p>
+</li>
+<li>
+<p><u>FAS Students</u>
+<br>Students on Financial Assistance Scheme (FAS) will be contacted directly
+by the FAS officer, Ms Tina, regarding their assigned collection date via
+WhatsApp. If you have any concerns regarding FAS or have not received a
+notification from our school, please message our WhatsApp hotline at 8686
+6208 for assistance between 8.30 am and 5.00 pm on weekdays.</p>
+</li>
 <li>
 <p>Walk-in purchase at the school premises from <strong>2 December 2025</strong> onwards:</p>
 </li>

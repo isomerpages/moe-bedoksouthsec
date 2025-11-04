@@ -22,8 +22,9 @@ Students can choose between:</p>
 <p>Home delivery (fixed delivery charge of $14.90)</p>
 </li>
 <li>
-<p>Self-collection at school. Students opting for self-collection from the
-school premises must adhere to their chosen appointment date.</p>
+<p>Self-collection at school. Please see the self-collection dates in school.
+Students opting for self-collection from the school premises must adhere
+to their chosen appointment date.</p>
 </li>
 </ul>
 <p></p>
@@ -48,34 +49,7 @@ WhatsApp. If you have any concerns regarding FAS or have not received a
 notification from our school, please message our WhatsApp hotline at 8686
 6208 for assistance between 8.30 am and 5.00 pm on weekdays.</p>
 </li>
-<li>
-<p>Walk-in purchase at the school premises from <strong>2 December 2025</strong> onwards:</p>
-</li>
 </ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Available on selected days between 9 am to 3 pm. Venue will be <strong>F2-05</strong>.</p>
-</li>
-<li>
-<p>Please refer to the dates for walk-in purchase.</p>
-</li>
-<li>
-<p>We highly recommend arranging an appointment for Books Collection and
-uniform purchase on the same day, where possible.</p>
-</li>
-</ul>
-<p></p>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p><u>FAS Students </u>
-<br>Students on Financial Assistance Scheme (FAS) will be contacted directly
-by the FAS officer, Ms Tina, regarding their assigned collection date via
-WhatsApp. If you have any concerns regarding FAS or have not received a
-notification from our school, please message our WhatsApp hotline at 8686
-6208 for assistance between 8.30 am and 5.00 pm on weekdays.</p>
-</li>
-</ol>
-<p></p>
 <p><strong>Please click the relevant links for the booklists.</strong>
 </p>
 <p><strong><u>Secondary 1</u></strong>

@@ -50,23 +50,21 @@ between 8.30 am and 5.00 pm on weekdays.</p>
 <p><strong>Please click the relevant links for the booklists.</strong>
 </p>
 <p><strong><u>Secondary 1</u></strong>
-<br><a href="/files/Booklist/BSSS_S1_BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
 </p>
 <p><strong><u>Secondary 2</u></strong> 
-<br><a href="/files/Booklist/BSSS_S2_BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
+<br><a href="https://go.gov.sg/bdssec2booklist" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
 </p>
 <p><strong><u>Secondary 3</u></strong> 
-<br><a href="/files/Booklist/BSSS_S3__EXP__BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener nofollow" target="_blank">3 Express</a>
-<br><a href="/files/Booklist/BSSS_S3__NA__BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener nofollow" target="_blank">3 Normal (Academic)</a>
-<br><a href="/files/Booklist/BSSS_S3__NT__BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener nofollow" target="_blank">3 Normal (Technical)</a>
+<br><a href="https://go.gov.sg/bdssec3booklist" rel="noopener nofollow" target="_blank">Sec 3 Booklist</a>
 </p>
 <p><strong><u>Secondary 4 </u></strong>
-<br><a href="/files/Booklist/BSSS_S4__EXP__BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Express</a>
-<br><a href="/files/Booklist/BSSS_S4__NA__BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Normal (Academic)</a>
-<br><a href="/files/Booklist/BSSS_S4__NT__BOOKLIST_FOR_YEAR_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Normal (Technical)</a>
+<br><a href="https://go.gov.sg/bdssec4expbooklist" rel="noopener nofollow" target="_blank">Sec 4 Express Booklist</a>
+</p>
+<p><a href="https://go.gov.sg/bdssec4nabooklist" rel="noopener nofollow" target="_blank">Sec 4 NA Booklist</a>
+<br><a href="https://go.gov.sg/bdssec4ntbooklist" rel="noopener nofollow" target="_blank">Sec 4 NT Booklist</a>
 </p>
 <p></p>
 <p>Secondary 5
-<br><a href="/files/Booklist/5_NA.pdf" rel="noopener nofollow" target="_blank">5 Normal (Academic)</a>
+<br>
 </p>
 <p></p>

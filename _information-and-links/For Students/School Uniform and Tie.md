@@ -48,11 +48,9 @@ an appointment for Books Collection and uniform purchase on the same day,
 where possible.</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Information And Links/For Students/bookshopinfo2walkin.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/uniform.png">
 </div>
-<p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>FAS Students:</p>

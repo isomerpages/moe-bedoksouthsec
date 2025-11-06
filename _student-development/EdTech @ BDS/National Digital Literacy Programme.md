@@ -8,7 +8,7 @@ variant: markdown
 NDLP
 ====
 
-### National Digital Literacy Programme
+### EdTech @ BDS
 
 
 At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021.

@@ -2,7 +2,7 @@
 title: Device Support
 permalink: /student-development/ndlp/device-support/
 description: ""
-third_nav_title: NDLP
+third_nav_title: EdTech @ BDS
 variant: tiptap
 ---
 <h1>Device Support</h1>

@@ -2,7 +2,7 @@
 title: On Boarding Process
 permalink: /student-development/ndlp/on-boarding-process/
 description: ""
-third_nav_title: NDLP
+third_nav_title: EdTech @ BDS
 variant: markdown
 ---
 On-Boarding Process

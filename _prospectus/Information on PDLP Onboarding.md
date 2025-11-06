@@ -5,55 +5,106 @@ description: ""
 variant: tiptap
 ---
 <h1>Information on PDLP Onboarding</h1>
-<p>Digital technology is becoming increasingly pervasive in jobs, workplaces
-and society. The National Digital Literacy Programme (NDLP) was launched
-in 2020 to make digital learning inclusive by equipping students with the
-digital literacies to be future-ready.</p>
+<p>Technology is an essential part of learning in today’s world. The National
+Digital Literacy Programme (NDLP) was launched in 2020 to make digital
+learning inclusive by equipping students with the digital literacies to
+be future-ready.&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
 <p>Through the NDLP, all secondary school students will own a school-prescribed
 Personal Learning Device (PLD). Singapore Citizen students can use their
 Edusave Account to pay for the PLD. The device will be used to facilitate
-an environment that encourages personalised learning.</p>
-<h3>Implementation @ BDS<br></h3>
-<p>Device: Apple iPad (Delivery of personal learning devices in Semester
-1)</p>
-<ul data-tight="true" class="tight">
+an environment that encourages personalised learning.&nbsp;</p>
+<p>Please indicate your option to purchase on the Parents’ Gateway(PG) form
+by <strong><u>29 December 2025, Monday</u>. </strong>This is to ensure the
+devices arrive on time.&nbsp;&nbsp;</p>
+<h4><strong><u>Implementation @ BDS</u></strong>&nbsp;</h4>
+<p><strong>Device</strong>: Apple iPad 11-inch (A16) with Apple Pencil (USB-C)
+and Logitech Rugged Combo 4&nbsp;</p>
+<ul>
 <li>
-<p>Apple iPad 10.9 10th Gen – Enhanced bundle</p>
+<p>Processor: A16 Bionic chip</p>
 </li>
 <li>
-<p>A14 6-core CPU | 4GB Memory | 64GB Storage</p>
+<p>Memory: 6GB</p>
 </li>
 <li>
-<p>10.9” Display (diagonal), 2360x1640 Touchscreen</p>
+<p>Storage:128GB</p>
 </li>
 <li>
-<p>Weight (KG): 0.477</p>
-</li>
-<li>
-<p>Apple Pencil | SlimFolio Keyboard Case</p>
-</li>
-<li>
-<p>3 year AppleCare+ for schools [Max 2 repairs within 3 years]</p>
-</li>
-<li>
-<p>3 year Insurance [Max 1 replacement within 3 years – applicable only if
-negligence is NOT involved]</p>
+<p>Enhanced Warranty &amp; Insurance: 4 Years Coverage of iPad, Apple Pencil
+and Logitech Rugged Combo&nbsp;</p>
 </li>
 </ul>
-<p></p>
-<p><strong>Storage in school available:</strong> Lockers
-<br><strong>Platforms/tools</strong>: Student Learning Space (SLS) as primary
+<p><strong>Storage in school available</strong>: Lockers&nbsp;</p>
+<p><strong>Delivery and Onboarding:</strong> at Bedok South Secondary School,
+in Semester 1&nbsp;</p>
+<p><strong>Price (inc of GST): </strong>S$829.30&nbsp;&nbsp;</p>
+<p>Payment details can be found in the PG form.&nbsp;&nbsp;</p>
+<p><strong>Platforms/tools</strong>: Student Learning Space (SLS) as primary
 platform, complemented by a host of other apps and tools that the school
-has an overview of (some of which may be subject-specific).</p>
-<h3>Funding Support for Singapore Citizen (SC) Students</h3>
-<p><strong>The cost of the device bundle can be paid using your child’s Edusave account, </strong>after
-setting aside provision for payment of second-tier miscellaneous fees.</p>
-<p>&nbsp;For students on MOE-FAS, subsidies are available even if there is
-insufficient Edusave balance. The cash out-of-pocket will be $0.</p>
-<h3>Funding Support for Non-Singapore Citizen Students</h3>
-<p>Financial assistance is also available for Permanent residents (PR) and
-international students (IS) who need support.</p>
-<h3>Supporting Students in the Responsible Use of the Devices</h3>
-<p>&nbsp;The school has in place some measures <strong>to enable a safe and seamless learning environment for students. </strong>The
+has an overview of (some of which may be subject-specific).&nbsp;</p>
+<p><strong>Funding Support:</strong>&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Students eligible for subsidy</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Income criteria</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>How to apply for subsidy</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students under MOE FAS&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gross Household Income (“<strong>GHI</strong>”) is $3,000 or less, or&nbsp;&nbsp;</p>
+<p>Per Capita Income (“<strong>PCI</strong>”)* is $750 or less&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No action required. Automatically subsidised for the PLD.&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students under School-based FAS&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>GHI</strong> is $4,400 or less, or&nbsp;&nbsp;</p>
+<p><strong>PCI</strong> is $1,100 or less&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Approach the school’s General Office to apply for a subsidy.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students who are currently <u>not</u> under the MOE FAS or School-based
+FAS&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>GHI</strong> is $4,400 or less, or&nbsp;&nbsp;</p>
+<p><strong>PCI</strong> is $1,100 or less&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Approach the school’s General Office to apply for a subsidy.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>* PCI</em></strong><em> refers to the GHI divided by the total number of family members in the household.&nbsp;</em>&nbsp;</p>
+<h4><strong><u>Supporting Students in the Responsible Use of the Devices</u></strong><br></h4>
+<p>The school has in place some measures <strong>to enable a safe and seamless learning environment for students. </strong>The
 role of the parent is also key in partnering the school to support your
-child.</p>
+child.&nbsp;</p>

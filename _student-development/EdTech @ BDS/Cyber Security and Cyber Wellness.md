@@ -2,7 +2,7 @@
 title: Cyber Security and Cyber Wellness
 permalink: /student-development/ndlp/cyber-security-and-cyber-wellness/
 description: ""
-third_nav_title: NDLP
+third_nav_title: EdTech @ BDS
 variant: tiptap
 ---
 <h1>Cyber Security and Cyber Wellness</h1>

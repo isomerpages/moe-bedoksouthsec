@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 permalink: /student-development/ndlp/frequently-asked-questions/
 description: ""
-third_nav_title: NDLP
+third_nav_title: EdTech @ BDS
 variant: markdown
 ---
 Frequently Asked Questions

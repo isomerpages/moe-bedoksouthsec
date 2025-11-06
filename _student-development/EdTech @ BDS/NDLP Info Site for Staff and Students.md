@@ -2,7 +2,7 @@
 title: NDLP Info Site for Staff and Students
 permalink: /student-development/ndlp/NDLP-Info-Site-for-Staff-and-Students/
 description: ""
-third_nav_title: NDLP
+third_nav_title: EdTech @ BDS
 variant: markdown
 ---
 NDLP Info Site for Staff and Students

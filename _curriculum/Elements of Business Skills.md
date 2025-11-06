@@ -42,11 +42,3 @@ It is hoped that every student will embody the Desired Outcomes of Education (DO
 
 Refer to the link below for further information. <br>
 [GCE Normal (Technical) Level: (Syllabus 7066)](/files/7066_y21_sy.pdf)
-
-
-### Assessment Criteria
-
-![](/images/ebs2.jpg)
-
-
-Source:&nbsp;[https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/humanities/2020elementsofbusinessskillsnormaltechnicalsyllabus.ashx?la=en&amp;hash=DF3145382A9A2778E958427EE8B7F7EBFD11D861](/files/2020elementsofbusinessskillsnormaltechnicalsyllabus.pdf)

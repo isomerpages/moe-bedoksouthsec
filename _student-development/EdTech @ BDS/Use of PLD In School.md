@@ -2,7 +2,7 @@
 title: Use of PLD In School
 permalink: /student-development/ndlp/use-of-pld-in-school/
 description: ""
-third_nav_title: NDLP
+third_nav_title: EdTech @ BDS
 variant: markdown
 ---
 Use of PLD In School

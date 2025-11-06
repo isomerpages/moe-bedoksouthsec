@@ -104,7 +104,7 @@ FAS&nbsp;</p>
 </tbody>
 </table>
 <p><strong><em>* PCI</em></strong><em> refers to the GHI divided by the total number of family members in the household.&nbsp;</em>&nbsp;</p>
-<h4><strong><u>Supporting Students in the Responsible Use of the Devices</u></strong>&nbsp;</h4>
+<h4><strong><u>Supporting Students in the Responsible Use of the Devices</u></strong><br></h4>
 <p>The school has in place some measures <strong>to enable a safe and seamless learning environment for students. </strong>The
 role of the parent is also key in partnering the school to support your
 child.&nbsp;</p>

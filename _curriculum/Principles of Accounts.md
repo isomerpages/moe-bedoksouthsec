@@ -20,8 +20,6 @@ The syllabus then aims to help students to become users of accounting informatio
 
 ### Examples of POA Learning Experiences in BDS
 
-**National Accounting Challenge**
-![](/images/Curriculum/Principles%20of%20Accounts/national%20accounting%20challenge.png)
 <br>**FedEx Express/JA International Trade Challenge**
 ![](/images/Curriculum/Principles%20of%20Accounts/fedex%20express%20ja%20international%20trade%20challenge.png)
 <br>**Financial Literacy for Youth Competition**

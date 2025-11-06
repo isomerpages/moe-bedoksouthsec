@@ -14,12 +14,10 @@ be future-ready.&nbsp;&nbsp;</p>
 Personal Learning Device (PLD). Singapore Citizen students can use their
 Edusave Account to pay for the PLD. The device will be used to facilitate
 an environment that encourages personalised learning.&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
 <p>Please indicate your option to purchase on the Parents’ Gateway(PG) form
 by <strong><u>29 December 2025, Monday</u>. </strong>This is to ensure the
 devices arrive on time.&nbsp;&nbsp;</p>
-<p><strong>&nbsp;</strong>&nbsp;</p>
-<p><strong><u>Implementation @ BDS</u></strong>&nbsp;</p>
+<h4><strong><u>Implementation @ BDS</u></strong>&nbsp;</h4>
 <p><strong>Device</strong>: Apple iPad 11-inch (A16) with Apple Pencil (USB-C)
 and Logitech Rugged Combo 4&nbsp;</p>
 <ul>
@@ -106,7 +104,7 @@ FAS&nbsp;</p>
 </tbody>
 </table>
 <p><strong><em>* PCI</em></strong><em> refers to the GHI divided by the total number of family members in the household.&nbsp;</em>&nbsp;</p>
-<p><strong><u>Supporting Students in the Responsible Use of the Devices</u></strong>&nbsp;</p>
+<h4><strong><u>Supporting Students in the Responsible Use of the Devices</u></strong>&nbsp;</h4>
 <p>The school has in place some measures <strong>to enable a safe and seamless learning environment for students. </strong>The
 role of the parent is also key in partnering the school to support your
 child.&nbsp;</p>

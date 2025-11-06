@@ -24,24 +24,6 @@ to this additional resources and kits:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DMA Guide for Parents</strong>
-</p>
-<p>Refer to these guides for the DMA Parent Options and the Option Form for
-After-School DMA Parent Option</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/NDLP/iPad_DMA_Parent_Guide_for_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide Default Option</a>
-</p>
-<p><a href="/files/NDLP/iPad_DMA_Parent_Guide_for_Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
-</p>
-<p><a href="/files/NDLP/iPad_DMA_Parent_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
-</p>
-<p><a href="https://go.gov.sg/613803c7a456b800126b9f7e" rel="noopener nofollow" target="_blank">After-School DMA Parent Option Form</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Raising A Digitally Smart Child</strong>
 </p>
 <p>This MOE parenting kit serves as a guide on how parents can be :</p>

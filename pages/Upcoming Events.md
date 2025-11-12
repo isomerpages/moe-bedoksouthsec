@@ -20,10 +20,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 Oct - 10 Nov</p>
+<p>22 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GCE O-Levels Examination</p>
+<p>Open House</p>
 </td>
 </tr>
 <tr>
@@ -60,5 +60,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>To view our full calendar of events for 2025, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>To view our full calendar of events for 2026, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>

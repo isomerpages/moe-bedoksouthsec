@@ -67,7 +67,7 @@ varied ways</p>
 <p><u>Upper Secondary</u>
 <br>Subject disciplines include
 <br>Pure Chemistry, Pure Physics, Pure Biology
-<br>Combined Science (Chemistry, Physics)</p>
+<br>Combined Science (Chemistry, Physics, Biology)</p>
 <h3>Tips for Parents</h3>
 <p>To enjoy learning Science, it is important for you to encourage your child
 to:</p>

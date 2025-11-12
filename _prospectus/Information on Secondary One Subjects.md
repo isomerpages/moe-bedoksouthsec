@@ -29,11 +29,14 @@ secondary school student will be taking <u>up to 10 examinable subjects (dependi
 <p>G2/G3 History</p>
 </li>
 <li>
+<p>G2/G3 Literature in English</p>
+</li>
+<li>
 <p>G1 Humanities [Social Studies and Humanities Exposure Modules (HEMs)]</p>
 </li>
 </ol>
 <h4><strong>Common Curriculum Subjects:</strong></h4>
-<ol start="8" data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Design &amp; Technology (D&amp;T)</p>
 </li>

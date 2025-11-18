@@ -9,8 +9,8 @@ links:
         url: /curriculum/full-subject-based-banding-fsbb/
       - title: Applied Learning Programme
         url: /curriculum/applied-learning-programme-alp-project-s-h-i-n-e
-      - title: Computer Applications
-        url: /curriculum/computer-applications
+      - title: Computing
+        url: https://www.bedoksouthsec.moe.edu.sg/curriculum/computing/
       - title: Craft & Technology
         url: /curriculum/craft-and-tech/
       - title: Elements of Business Skills
@@ -50,7 +50,5 @@ links:
         url: /student-development/home-based-learning-hbl/
   - title: CCA
     collection: cca
-  - title: Prospectus
-    collection: prospectus
   - title: Important Information
     collection: information-and-links

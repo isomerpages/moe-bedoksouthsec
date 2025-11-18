@@ -94,11 +94,6 @@ Leveraging on the use of Classkick, students instantly verified their answers an
 **Learning Experience on Probability**
 ![](/images/Curriculum/Mathematics/Learning_Probability.PNG)
 
-**Learning Journey to Sports Museum**
-![](/images/Curriculum/Mathematics/Math_Collage_2.PNG)
-
-![](/images/Curriculum/Mathematics/Math_Collage_3.PNG)
-
 **Learning Experience on Pythagoras Theorem using Digital Escape Room**
 ![](/images/Curriculum/Mathematics/Escape_Room_on_Pythagoras_Theorem.PNG)
 

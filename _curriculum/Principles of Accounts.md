@@ -45,7 +45,7 @@ Together, we are building not just financial literacy, but also future-ready, so
 <br><br>**FedEx Express/JA International Trade Challenge**
 ![](/images/Curriculum/Principles%20of%20Accounts/fedex%20express%20ja%20international%20trade%20challenge.png)
 <br>**Learning Journeys**
-![](/images/Curriculum/Principles%20of%20Accounts/learning%20journeys.png)
+![](/images/Curriculum/Principles%20of%20Accounts/LJ_to_Yakult.jpg)<br>Several Principles of Accounts (POA) students of Secondary 3 participated in the Factory Tour on 22 May 2025 at Yakult (Singapore) Pte Ltd. The students were grateful for the unique experiences of applying their knowledge and skills in the subject, such as accounting elements, inventory management, and treatment of non-current assets, through an authentic business environment.
 
 ### Links
 

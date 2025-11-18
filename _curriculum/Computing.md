@@ -9,18 +9,13 @@ Computing
 
 ![](/images/Curriculum/Computing/CPA_Collaborative_Work.png)
 ### Introduction
-
-Computer Applications syllabus aims to prepare students to be technologically adept citizens, and to function and contribute effectively in an increasingly technologically-driven world. The syllabus emphasises fundamental knowledge and skills, and includes the appreciation and use of several software application packages for word processing, computer drawing and image editing, video editing, multimedia presentations and documents, spreadsheet calculations and charts, game design, programming; as well as, applications on the Internet. Selected Sec 2 N(T)  and 3 N(T) students have the chance to submit their lesson-based animations and game designs for inter-school level competitions.
+The rapid advancement of technology and growing capabilities of Artificial Intelligence (AI) will bring about significant changes to the way we learn, work and play. Companies must embrace digital transformations to survive and strive and individuals must learn new digital skills to remain relevant.  Computing subjects provide upstream support for this effort by providing students with opportunities to acquire useful digital competencies and explore the field of Computing.  
 
 ### Student Outcomes
-
-Students will  
-
-1.   acquire skills in using a variety of application software and associated computer hardware to accomplish tasks, communicate, and facilitate activities
-2.   develop an awareness of how computing technology are used in the home, school, workplace and community
-3.   appreciate the role computers play in everyday life
-4.   recognise the impact computers have on society and people
-5.   develop critical thinking and problem-solving skills
+Through the G1 Computing subject, our students  
+• develop basic computational thinking skills along with 21st century competencies,
+<br>• develop digital competencies in using digital tools to create digital artefacts, process information, communicate effectively and solve simple problems, <br>• appreciate the legal, ethical and security issues relating to the use of computers, and 
+<br>• gain understanding of emerging technologies and the impact of technology on society.  
 
 ### Pedagogy Approaches
 

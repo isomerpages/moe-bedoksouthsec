@@ -54,6 +54,23 @@ Learning Journeys and Learning Experiences are designed for students to have the
 Through these learning experiences, our students learn to realise the relevance of their lessons in school and have developed renewed enthusiasm and drive to greater achievement in school.
 Through this all, our students see meaningful learning of Mathematics and Problem solving in the real world.
 
+**Singapore Mathematical Olympiad (SMO) Competition 2025**
+![](/images/Curriculum/Mathematics/Slide1.png)
+We wish to extend our warmest congratulations to all the students who represented our school in the Singapore Mathematical Olympiad (SMO) 2025. This prestigious national competition, organised by the Singapore Mathematical Society (SMS), is designed to challenge the ingenuity and mathematical problem-solving ability of Singapore's most talented students.
+
+Our students’ dedication and intellectual rigor were evident during the competition , and we are incredibly proud of every participant. Special recognition goes to the following students for their outstanding performance:
+
+**Junior Section**
+* Peng Ruoqi (Honourable Mention)
+
+**Senior Section**
+* Yong Zhi Xuan (Bronze Award)
+* Alex Sng (Sun Yaoyang) (Participation)
+* Bong Qi Ern (Participation)
+* Emma Lim Hui Ting (Participation)
+
+Well done to all for pushing the boundaries of their mathematical potential!
+
 **Learning Journey to URA Centre**
 ![](/images/Curriculum/Mathematics/2G_LJ.png)
 Our Secondary 3NT students embarked on an enlightening Learning Journey to the Urban Redevelopment Authority (URA) of Singapore, immersing themselves in a lesson enriched with map scales, statistical diagrams, population comparisons, and 3D objects. 

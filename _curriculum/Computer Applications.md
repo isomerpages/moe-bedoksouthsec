@@ -4,7 +4,7 @@ permalink: /curriculum/computer-applications/
 description: ""
 variant: markdown
 ---
-Computer Applications
+Computing
 =====================
 
 ![](/images/Curriculum/Computer%20Applications/CPA_Collaborative_Work.png)
@@ -60,7 +60,13 @@ The central pedagogical approaches adopted for CPA are the ‘learning through d
 </table>
 
 ### Achievements
-Since 2012, the Animation and Game Making (AGM) competition is an annual event organised by Curriculum Planning and Development Division (CPDD). All Secondary 2 and 3 students taking the subject Computer Applications can participate in this competition. Students are required to use the block-based coding programme to create an animation for the Secondary 2 and a game for the Secondary 3.  
+Bedok South’s CPA team has proudly participated in the annual Animation and Game Making (AGM) competition organised by Curriculum Planning and Development Division (CPDD) for over a decade. All Secondary 3 Computing students can participate in this competition and design a game using the block-based coding programme. 
+
+In 2025, the Secondary 3 category tackled a crucial topic: "Artificial Intelligence (AI) and Us." Students channelled their creativity to design an engaging game that serves as a vital guide, teaching loved ones how to interact with AI safely and secure their digital lives in a world of smart technology.&nbsp;
+
+Let's celebrate Sim Zhao Zhi (3 Gratitude)! Your dedication to this essential theme has earned you a well-deserved Certificate of Participation in the competition!
+
+
 
 For 2024, the Secondary 2 category requires students to create a short animation to raise awareness of the "I Can ACT against Scams" campaign. For the Secondary 3 category, students code to create a game that promotes Intergenerational Harmony that encourages positive interaction between the young and the old.
 
@@ -88,111 +94,14 @@ We are proud of Muhammad Sulaiman from 2 Excellence and Lee Soon Fu from 3G for 
 
 ### Assessment Criteria
 
-<u><b>Paper 1 (Written) - 1 hour 15 minutes</b></u>  <br>
-This paper will assess knowledge, understanding and application of concepts and skills in all the six modules; <br>
-•  Computer Fundamentals (CPF) <br>
-•  Media Elements (MEL) <br>
-•  Document Processing (DOP) <br>
-•  Spreadsheets (SST) <br>
-•  Interactive Multimedia Communication (IMC) <br>
-•  Media Computing (MEC) <br>
+Click the following links to find out more about the curriculum and assessment.
 
-<u><b>Paper 2 (Lab-based) - 1 hour 30 minutes</b></u>
+**Curriculum**
+<br>[7018 Computer Application (last year of exam in 2026)](https://go.gov.sg/2019cpasyllabus)
+<br>[K127 G1 Computing (with effect from 2026)](https://go.gov.sg/2026g1computingsyllabus)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-z5wu{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-z5wu">Module<br></th>
-    <th class="tg-rj1p">Description of Task</th>
-    <th class="tg-rj1p">Weighting</th>
-    <th class="tg-rj1p">Marks</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-y7qa">Media Elements<br>(MEL)</td>
-    <td class="tg-y7qa">Candidates will use computer graphics software to create a given drawing according to specifications given in the question paper; fill the drawing with colours; and submit the drawing. The drawing will be used for the 2nd or 3rd task.</td>
-    <td class="tg-y7qa">30%</td>
-    <td class="tg-y7qa">21</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Document Processing<br>(DOP)</td>
-    <td class="tg-y7qa">Candidates will use word-processing software to format and edit a given document according to specifications given in the question paper. Candidates are expected to demonstrate skills like importing text and images; page layout with columns, tables and/or text boxes; adding headers, footers and footnotes; as well as submit the required work.</td>
-    <td class="tg-y7qa">40%</td>
-    <td class="tg-y7qa">28</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Interactive Multimedia Communication<br>(IMC)</td>
-    <td class="tg-y7qa">Candidates will use presentation software to create a multimedia slide presentation with given media elements and according to specifications described in the question paper; and submit the required work.</td>
-    <td class="tg-y7qa">30%</td>
-    <td class="tg-y7qa">21</td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p" colspan="2">TOTAL</td>
-    <td class="tg-rj1p">100%</td>
-    <td class="tg-rj1p">70</td>
-  </tr>
-</tbody>
-</table>
-
-<u><b>Paper 3 (Lab-based) - 1 hour 30 minutes</b></u>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-z5wu{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-z5wu">Module</th>
-    <th class="tg-rj1p">Description of Task</th>
-    <th class="tg-rj1p">Weighting</th>
-    <th class="tg-rj1p">Marks</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-y7qa">Spreadsheet<br>(SST)</td>
-    <td class="tg-y7qa">Candidates will use spreadsheet software to work on a given data table, by creating and completing columns in the data table and performing specified tasks like:<br>• using operators, formulas and functions for      calculations;<br>•   plotting and labelling charts;<br>•   data validation;<br>•   conditional formatting;<br>•   sorting and manipulating data;<br>as well as submit the required work.</td>
-    <td class="tg-y7qa">40%</td>
-    <td class="tg-y7qa">28</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Media Computing<br>(MEC)</td>
-    <td class="tg-y7qa">Candidates will use programming software to work on a given game scenario to demonstrate skills in selecting suitable pictures for background(s) and characters, creating scripts to animate characters, allowing user interaction through keyboard and/or mouse, as well as submit the required work.</td>
-    <td class="tg-y7qa">40%</td>
-    <td class="tg-y7qa">28</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Media Elements<br>(MEL)</td>
-    <td class="tg-y7qa">Candidates will use video editing software to create a video file with given still images and videos with text, transitions and sounds according to specifications described in the question paper; and submit the exported video.</td>
-    <td class="tg-y7qa">20%</td>
-    <td class="tg-y7qa">14</td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p" colspan="2">TOTAL</td>
-    <td class="tg-rj1p">100%</td>
-    <td class="tg-rj1p">70</td>
-  </tr>
-</tbody>
-</table>
+**Assessment**
+<br>[7018 Computer Applications](https://go.gov.sg/7018cpasyllabus2026)
 
 ### Tips for Parents
 

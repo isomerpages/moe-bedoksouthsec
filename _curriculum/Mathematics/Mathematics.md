@@ -72,14 +72,16 @@ Our students’ dedication and intellectual rigor were evident during the compet
 Well done to all for pushing the boundaries of their mathematical potential!
 
 **Learning Journey to Sports Hub Museum**
-
+![](/images/Curriculum/Mathematics/LJ_to_Sports_Hub_2.jpg)
 Our BDSians had an engaging hands-on learning experience as they applied mathematical concepts to real-world sports scenarios at the Sports Hub Museum. The learning journey began with students measuring their brisk walking times and calculating their speeds, comparing their results to professional athletes by using percentage differences and ratio calculations. This practical approach allowed them to understand how math can be used to measure and evaluate performance in sports.
 
 Next, using a floorball stick, the students participated in an activity to measure the ratio of successful attempts, providing them with a deeper understanding of probability and the significance of repeated trials in sports. By applying these mathematical principles, they not only gained insight into how athletes measure their own performance but also explored the concept of consistency and how it impacts overall success in sports.
+![](/images/Curriculum/Mathematics/LJ_to_Sports_Hub_3.jpg)
 
 The experience didn’t stop there; students also engaged in mathematical investigations where they analysed historical sports data to identify trends and patterns in athletic performance. They examined how various factors, such as training techniques and advancements in equipment, have contributed to improvements in performance over time. By visualising their findings through graphs and charts, they learned how to interpret data in a way that can drive conclusions and inform decision-making in sports science.
 
 This interactive and multi-faceted approach not only made learning math fun but also demonstrated the crucial role mathematics plays in understanding and advancing sports performance. Students saw firsthand how mathematical skills are essential tools in analysing, improving, and optimizing athletic abilities, while also reinforcing teamwork, critical thinking, and data analysis skills.
+
 
 **Learning Journey to URA Centre**
 ![](/images/Curriculum/Mathematics/2G_LJ.png)
@@ -88,7 +90,6 @@ Our Secondary 3NT students embarked on an enlightening Learning Journey to the U
 Engaging in hands-on activities, they skillfully wielded the 'Measure' app on their iPads and interacted with dynamic displays, unraveling the complexities of map representation and scale manipulation.
 
 Leveraging on the use of Classkick, students instantly verified their answers and received constructive feedback, enhancing their methodological prowess. This immersive educational experience bestows upon them not just mathematical proficiency but also a profound appreciation for the practical applications of Mathematics in the real world.
-
 
 **Learning Experience on Probability**
 ![](/images/Curriculum/Mathematics/Learning_Probability.PNG)

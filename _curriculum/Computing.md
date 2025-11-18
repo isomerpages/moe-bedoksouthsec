@@ -103,7 +103,7 @@ animation to raise awareness of the "I Can ACT against Scams" campaign.
 For the Secondary 3 category, students code to create a game that promotes
 Intergenerational Harmony that encourages positive interaction between
 the young and the old.</p>
-<p>We are proud of Muhammad Sulaiman from 2 Excellence and Lee Soon Fu from
+<p>We are proud of Muhammad Sulaiman from 2 Gratitude and Lee Soon Fu from
 3G for attaining the Silver award in the competition. Congratulations!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Computing/Sulaiman___Soon_Fu.png">

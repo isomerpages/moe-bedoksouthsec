@@ -20,10 +20,10 @@ The syllabus then aims to help students to become users of accounting informatio
 
 ### Examples of POA Learning Experiences in BDS
 
+<br>**Financial Literacy for Youth Competition**
+<br>[Click here to view the MOE National Financial Literacy Challenge 2025](https://youtu.be/5bECsU3gbBg?si=AQ2HtVjChOPoE4KL)
 <br>**FedEx Express/JA International Trade Challenge**
 ![](/images/Curriculum/Principles%20of%20Accounts/fedex%20express%20ja%20international%20trade%20challenge.png)
-<br>**Financial Literacy for Youth Competition**
-![](/images/Curriculum/Principles%20of%20Accounts/financial%20literacry%20for%20youth%20competition.png)
 <br>**Learning Journeys**
 ![](/images/Curriculum/Principles%20of%20Accounts/learning%20journeys.png)
 

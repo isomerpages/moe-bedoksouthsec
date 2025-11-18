@@ -7,8 +7,7 @@ variant: markdown
 Computing
 =====================
 
-![](/images/Curriculum/Computer%20Applications/CPA_Collaborative_Work.png)
-
+![](/images/Curriculum/Computing/CPA_Collaborative_Work.png)
 ### Introduction
 
 Computer Applications syllabus aims to prepare students to be technologically adept citizens, and to function and contribute effectively in an increasingly technologically-driven world. The syllabus emphasises fundamental knowledge and skills, and includes the appreciation and use of several software application packages for word processing, computer drawing and image editing, video editing, multimedia presentations and documents, spreadsheet calculations and charts, game design, programming; as well as, applications on the Internet. Selected Sec 2 N(T)  and 3 N(T) students have the chance to submit their lesson-based animations and game designs for inter-school level competitions.
@@ -65,14 +64,14 @@ Bedok South’s CPA team has proudly participated in the annual Animation and Ga
 In 2025, the Secondary 3 category tackled a crucial topic: "Artificial Intelligence (AI) and Us." Students channelled their creativity to design an engaging game that serves as a vital guide, teaching loved ones how to interact with AI safely and secure their digital lives in a world of smart technology.&nbsp;
 
 Let's celebrate Sim Zhao Zhi (3 Gratitude)! Your dedication to this essential theme has earned you a well-deserved Certificate of Participation in the competition!
-
+![](/images/Curriculum/Computing/WhatsApp_Image_2025_11_06_at_10_05_09.jpg)
 
 
 For 2024, the Secondary 2 category requires students to create a short animation to raise awareness of the "I Can ACT against Scams" campaign. For the Secondary 3 category, students code to create a game that promotes Intergenerational Harmony that encourages positive interaction between the young and the old.
 
 We are proud of Muhammad Sulaiman from 2 Excellence and Lee Soon Fu from 3G for attaining the Silver award in the competition. Congratulations!
 
-![](/images/Curriculum/Computer%20Applications/Sulaiman___Soon_Fu.png)
+![](/images/Curriculum/Computing/Sulaiman___Soon_Fu.png)
 
 ### Computing Curriculum Framework
 

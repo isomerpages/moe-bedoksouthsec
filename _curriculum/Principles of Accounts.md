@@ -81,7 +81,7 @@ and treatment of non-current assets, through an authentic business environment.<
 <br><strong>2025 Sec 3Integrity Principles of Accounts (POA) Students: Hearts in Action, Minds on Mission!</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Principles%20of%20Accounts/Hearts_in_Action__Minds_on_Mission.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Curriculum/Principles%20of%20Accounts/Hearts_in_Action__Minds_on_Mission.jpg">
 </div>
 <p>
 <br>On 10 July (Thu), our Sec 3Integrity POA students transformed one corner

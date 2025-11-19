@@ -47,6 +47,20 @@ Together, we are building not just financial literacy, but also future-ready, so
 <br>**Learning Journeys**
 ![](/images/Curriculum/Principles%20of%20Accounts/LJ_to_Yakult.jpg)<br>Several Principles of Accounts (POA) students of Secondary 3 participated in the Factory Tour on 22 May 2025 at Yakult (Singapore) Pte Ltd. The students were grateful for the unique experiences of applying their knowledge and skills in the subject, such as accounting elements, inventory management, and treatment of non-current assets, through an authentic business environment.
 
+<br>**2025 Sec 3Integrity Principles of Accounts (POA) Students: Hearts in Action, Minds on Mission!**
+  
+On 10 July (Thu), our Sec 3Integrity POA students transformed one corner of the school canteen into a pop-up marketplace — but more than that, they turned it into a space filled with purpose, compassion, and community spirit.  
+  
+Driven by a desire to apply their business and accounting knowledge for good, these young changemakers ran a Charity Sales Drive in support of Children’s Cancer Foundation and Jamiyah Home for the Aged. From sweets to DIY bear painting kits, from adorable plushies to pre-loved treasures — every item told a story of kindness, effort, and heart.  
+  
+📚💡 Beyond sales revenue, profit, and sales techniques, they learnt the true bottom line: Making a Meaningful Difference and Embracing the Sense of Possibilities.  
+  
+We are incredibly proud of their initiative, grit, and empathy. And we are deeply thankful to all staff and students who supported the cause — whether by dropping by, making a purchase, offering a word of encouragement, or simply sharing a smile. ❤️  
+  
+This was more than a project. It was a movement — of youth rising up to serve, to give, and to grow.  
+  
+✨ OneBDS Family: Here’s to nurturing values-driven learners in who dare to care and lead with heart.
+
 ### Links
 
 [Syllabus 7087: Singapore-Cambridge GCE O-Level](/files/7087_y22_sy.pdf) <br>

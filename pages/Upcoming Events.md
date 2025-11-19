@@ -58,6 +58,47 @@ variant: tiptap
 <p>Chinese New Year</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Puasa <em>off-in-lieu</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Mar - 29 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Good Friday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Labour Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Haji</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>To view our full calendar of events for 2026, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here</a>

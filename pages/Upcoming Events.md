@@ -31,7 +31,7 @@ variant: tiptap
 <p>18 - 22 Dec (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Results Release for GCE N(A)- and N(T)-Levels Examination (Phase 2)</p>
+<p>Results Release for GCE N(A)- and N(T)-Levels Examination</p>
 </td>
 </tr>
 <tr>
@@ -48,6 +48,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1, 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 - 16 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Results Release for GCE O-Level Examination</p>
 </td>
 </tr>
 <tr>

@@ -8,10 +8,6 @@ variant: tiptap
 <p>For booklist 2026, click <a href="https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/booklists/" rel="noopener nofollow" target="_blank">here</a>.
 <br>For purchase of school uniform and tie, click <a href="https://www.bedoksouthsec.moe.edu.sg/information-and-links/For-Students/school-uniform-and-tie/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
-<h4><strong>Registration Information for School Candidates</strong></h4>
-<p>Please click <a href="https://go.gov.sg/gcentnaolevelregistrationinformation" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-information on 2024 Singapore-Cambridge GCE N(T)-, N(A)- &amp; O-Level
-Examinations.</p>
 <h4><strong>Full Subject-Based Banding (FSBB) @ Bedok South Secondary School</strong></h4>
 <p>Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning
 and develop multiple pathways to cater to the different strengths and interests

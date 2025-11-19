@@ -48,7 +48,7 @@ Together, we are building not just financial literacy, but also future-ready, so
 ![](/images/Curriculum/Principles%20of%20Accounts/LJ_to_Yakult.jpg)<br>Several Principles of Accounts (POA) students of Secondary 3 participated in the Factory Tour on 22 May 2025 at Yakult (Singapore) Pte Ltd. The students were grateful for the unique experiences of applying their knowledge and skills in the subject, such as accounting elements, inventory management, and treatment of non-current assets, through an authentic business environment.
 
 <br>**2025 Sec 3Integrity Principles of Accounts (POA) Students: Hearts in Action, Minds on Mission!**
-  
+![](/images/Curriculum/Principles%20of%20Accounts/Hearts_in_Action__Minds_on_Mission.jpg)  
 On 10 July (Thu), our Sec 3Integrity POA students transformed one corner of the school canteen into a pop-up marketplace — but more than that, they turned it into a space filled with purpose, compassion, and community spirit.  
   
 Driven by a desire to apply their business and accounting knowledge for good, these young changemakers ran a Charity Sales Drive in support of Children’s Cancer Foundation and Jamiyah Home for the Aged. From sweets to DIY bear painting kits, from adorable plushies to pre-loved treasures — every item told a story of kindness, effort, and heart.  

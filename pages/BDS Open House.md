@@ -25,17 +25,11 @@ child’s journey of growth and success! <strong>“OneBDS, Many Dreams.”</str
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Item</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Venue</strong>
-</p>
+<td style="background-color: #D3D3D3;"><strong>Time
+</strong></td><td style="background-color: #D3D3D3;"><strong>Item
+</strong></td><td style="background-color: #D3D3D3;"><strong>Venue
+</strong></td><td rowspan="1" colspan="1">
+
 </td>
 </tr>
 <tr>

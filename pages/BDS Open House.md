@@ -111,17 +111,13 @@ child’s journey of growth and success! <strong>“OneBDS, Many Dreams.”</str
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>1100 – 1145</p>
+
+<td style="background-color: yellow;">1100 – 1145
+</td><td style="background-color: yellow;">Principal &amp; Student Leaders’ Dialogue Session 2
+</td><td style="background-color: yellow;">Library
 </td>
-<td rowspan="1" colspan="1">
-<p>Principal &amp; Student Leaders’ Dialogue Session 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Library</p>
-</td>
-</tr>
-<tr>
+	
+</tr><tr>
 <td rowspan="1" colspan="1">
 <p>1145 – 1150</p>
 </td>
@@ -144,15 +140,12 @@ child’s journey of growth and success! <strong>“OneBDS, Many Dreams.”</str
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>1200 – 1245</p>
+
+<td style="background-color: yellow;">1200 – 1245
+</td><td style="background-color: yellow;">Principal &amp; Student Leaders’ Dialogue Session 3
+</td><td style="background-color: yellow;">Library
 </td>
-<td rowspan="1" colspan="1">
-<p>Principal &amp; Student Leaders’ Dialogue Session 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Library</p>
-</td>
+
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

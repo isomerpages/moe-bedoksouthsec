@@ -4,7 +4,7 @@ permalink: /bds-open-house/
 variant: markdown
 description: ""
 ---
-<h2><strong>Bedok South Secondary School Open House<br>22 November (Saturday), 9:30am to 1:30pm</strong></h2>
+<center><h2><strong>Bedok South Secondary School Open House</strong></h2><h3>22 November (Saturday)<br> 9:30am to 1:30pm</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/BDS_Open_House_2025_Pic2.png">
 </div>
@@ -52,4 +52,4 @@ pm)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p></p></center>

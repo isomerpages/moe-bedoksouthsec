@@ -4,11 +4,11 @@ permalink: /bds-open-house/
 variant: markdown
 description: ""
 ---
-<h2><strong>Bedok South Secondary School Open House</strong></h2>
+<center><h2><strong>Bedok South Secondary School Open House</strong></h2>
 <h3>22 November (Saturday)<br>9:30am to 1:30pm</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/BDS_Open_House_2025_Pic2.png">
-</div>
+</div></center>
 <p>Discover how our caring community, strong values, and enriching programs
 empower every student to explore their passions and pursue their goals
 with confidence. Come experience our vibrant school culture through exciting
@@ -61,14 +61,9 @@ child’s journey of growth and success! <strong>“OneBDS, Many Dreams.”</str
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>1000 – 1045</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Principal &amp; Student Leaders’ Dialogue Session 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Library</p>
+<td style="background-color: yellow;">1000 – 1045
+</td><td style="background-color: yellow;">Principal &amp; Student Leaders’ Dialogue Session 1
+</td><td style="background-color: yellow;">Library
 </td>
 </tr>
 <tr>

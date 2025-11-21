@@ -182,17 +182,6 @@ child’s journey of growth and success! <strong>“OneBDS, Many Dreams.”</str
 <p>Hall</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1255 – 1305</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Malay Dance Performance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hall</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>

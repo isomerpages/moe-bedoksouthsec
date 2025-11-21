@@ -4,7 +4,7 @@ permalink: /bds-open-house/
 variant: markdown
 description: ""
 ---
-<center><h2><strong>Bedok South Secondary School Open House</strong></h2>
+<center><h2><strong>Bedok South Secondary School <br>Open House</strong></h2>
 <h3>22 November (Saturday)<br>9:30am to 1:30pm</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/BDS_Open_House_2025_Pic2.png">
@@ -33,6 +33,16 @@ child’s journey of growth and success! <strong>“OneBDS, Many Dreams.”</str
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>0930 – 0940</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC Precision Drill Squad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quadrangle</p>
+</td>
+</tr><tr>
 <td rowspan="1" colspan="1">
 <p>0940 – 0950</p>
 </td>
@@ -110,8 +120,18 @@ child’s journey of growth and success! <strong>“OneBDS, Many Dreams.”</str
 </td><td style="background-color: yellow;">Principal &amp; Student Leaders’ Dialogue Session 2
 </td><td style="background-color: yellow;">Library
 </td>
-	
 </tr><tr>
+<td rowspan="1" colspan="1">
+<p>1130 – 1140</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC Precision Drill Squad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quadrangle</p>
+</td>
+</tr>	
+<tr>
 <td rowspan="1" colspan="1">
 <p>1145 – 1150</p>
 </td>

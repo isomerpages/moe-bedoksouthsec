@@ -122,6 +122,16 @@ child’s journey of growth and success! <strong>“OneBDS, Many Dreams.”</str
 </strong></td>
 </tr><tr>
 <td rowspan="1" colspan="1">
+<p>1100 – 1105</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Dance Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hall</p>
+</td>
+</tr>	<tr>
+<td rowspan="1" colspan="1">
 <p>1130 – 1140</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,17 +177,6 @@ child’s journey of growth and success! <strong>“OneBDS, Many Dreams.”</str
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Society Performance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hall</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1255 – 1305</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Malay Dance Performance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall</p>

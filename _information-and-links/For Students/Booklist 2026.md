@@ -56,6 +56,7 @@ notification from our school, please message our WhatsApp hotline at 8686
 <p><strong>Please click the relevant links for the booklists.</strong>
 </p>
 <p><strong><u>Secondary 1</u></strong>
+<br><a href="https://go.gov.sg/bdssec1booklist" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
 </p>
 <p><strong><u>Secondary 2</u></strong> 
 <br><a href="https://go.gov.sg/bdssec2booklist" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
@@ -69,8 +70,8 @@ notification from our school, please message our WhatsApp hotline at 8686
 <p><a href="https://go.gov.sg/bdssec4nabooklist" rel="noopener nofollow" target="_blank">Sec 4 NA Booklist</a>
 <br><a href="https://go.gov.sg/bdssec4ntbooklist" rel="noopener nofollow" target="_blank">Sec 4 NT Booklist</a>
 </p>
-<p></p>
 <p>Secondary 5
+<br><a href="https://go.gov.sg/bdssec5booklist" rel="noopener nofollow" target="_blank">Sec 5 Booklist</a>
 <br>
 </p>
 <p></p>

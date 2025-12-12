@@ -20,15 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Open House</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18 - 22 Dec (Tentative)</p>
+<p>18 Dec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Results Release for GCE N(A)- and N(T)-Levels Examination</p>

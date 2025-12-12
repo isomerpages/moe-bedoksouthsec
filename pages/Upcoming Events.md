@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 - 16 Jan</p>
+<p>14 - 16 Jan (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Results Release for GCE O-Level Examination</p>
@@ -101,5 +101,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>To view our full calendar of events for 2026, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>To view our full calendar of events for 2026, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here)</a>
 </p>

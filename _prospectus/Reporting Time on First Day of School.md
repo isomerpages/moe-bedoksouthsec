@@ -4,8 +4,8 @@ permalink: /prospectus/reporting-time-on-first-day-of-school/
 description: ""
 variant: tiptap
 ---
-<h1>Reporting Time on First Day of School</h1>
-<p>Secondary One students’ <strong>reporting/flag-raising time for Day 1 (2 Jan 2025) is 9:00 a.m</strong>.
+<h1>Reporting Time on First Day of School<br>(2 Jan 2026, Friday, 9:00 a.m.)</h1>
+<p>Secondary One students’ <strong>reporting/flag-raising time for Day 1 (2 Jan 2026) is 9:00 a.m</strong>.
 Students are advised to report to school <strong><u>by 8:50 a.m.</u></strong> so
 that they have ample time to make their way to the <strong><u>Indoor Sports Hall (ISH)</u></strong> within
 the school. There will be Student Leaders on standby to chaperone the students
@@ -13,6 +13,22 @@ to the ISH on the first day of school. Please note that there is no scheduled
 programme for parents/guardians on Day 1. Parents/guardians <u>will not be required</u> to
 accompany their child/ward.
 <br>
+</p>
+<p><strong>From Day 2 (Monday, 5 Jan 2026) onwards, Secondary One students will follow the normal reporting/flag-raising time for school which is 7:45 a.m.</strong> Students
+are advised to report to school <strong><u>by 7:30 a.m.</u></strong> so that
+they have time to make their way to the <strong><u>ISH</u></strong>. <u>Students who arrive at ISH after 7:45 a.m. will be considered late for school.</u> 
+</p>
+<p><strong>While waiting for the flag-raising to commence at 7:45 a.m., students are required to bring along a book/approved reading materials for silent reading. </strong>
+</p>
+<p><strong>Note: On all Thursdays, the school operates on a late-reporting schedule. </strong>
+</p>
+<p><strong>Flag-raising will begin at 8:45 a.m., and students are advised to report to school by 8:30 a.m.</strong>
+</p>
+<p><strong><u>For the following week,</u></strong>  <strong>students are to take note of the reporting venues for the different days:</strong>
+</p>
+<p></p>
+<p></p>
+<p>
 <br><strong><u>Items to bring on 2 and 3 January:</u></strong>
 <br>Please bring along writing materials, water bottle, pocket money for recess
 breaks (if applicable), a book for silent reading, and an additional set

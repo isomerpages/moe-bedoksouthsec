@@ -121,3 +121,29 @@ day (based on timetable).</p>
 <p>The dismissal time for each day will be reflected on the timetable. Nevertheless,
 should there be school programmes after dismissal time, parents will be
 informed via Parents Gateway prior to the programmes.</p>
+<p></p>
+<p>Note:</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OneBDS Uniform – OneBDS 2<sup>nd</sup> Uniform Polo T-Shirt &amp; Uniform
+Pants/Skirt</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Full Uniform – BDS Uniform Shirt, with School Badge &amp; Uniform Pants/Skirt</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Half Uniform – BDS PE T-Shirt &amp; Uniform Pants/Skirt</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

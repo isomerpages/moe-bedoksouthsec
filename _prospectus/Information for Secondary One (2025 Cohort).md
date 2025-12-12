@@ -4,7 +4,7 @@ permalink: /prospectus/information-for-sec-1-2025/
 description: ""
 variant: tiptap
 ---
-<h1>Information for Secondary One (2025 Cohort)<br><br>Information for Secondary One (2026 Cohort) will be available by 18 December 2025</h1>
+<h1>Information for Secondary One (2026 Cohort)<br><br>Information for Secondary One (2026 Cohort) will be available by 18 December 2025</h1>
 <p>Congratulations on your posting to Bedok South Secondary School. We are
 happy to welcome you to the OneBDS family to embark on your secondary school
 education.</p>
@@ -12,13 +12,12 @@ education.</p>
 physically report to their posted secondary school on the next working
 day following the release of S1 Posting Results. As such, we will be posting
 all the necessary information applicable to our new Sec 1 on the school
-website to communicate with you and your parents on the details for the
-upcoming school term.</p>
-<p>Please click <a href="https://go.gov.sg/sec1registrationwebinarslides" rel="noopener nofollow" target="_blank">here</a> to
-access the deck of slides for Sec 1 Registration Webinar held on 20 Dec
-2024.</p>
+website and Parents Gateway to communicate with you and your parents on
+the details for the upcoming school term.</p>
 <p>If you do have any other enquiries, please call the General Office at
-64414479, between 9:00 a.m. and 4:00 p.m. Thank you.</p>
+64414479, between 9:00 a.m. and 4:00 p.m.</p>
+<p>Alternatively, you may email us at <a href="mail to:bsss@moe.edu.sg" rel="noopener nofollow" target="_blank">bsss@moe.edu.sg</a>.</p>
+<p>Thank you.</p>
 <h3>Things to Note</h3>
 <p><a href="https://bedoksouthsec.moe.edu.sg/prospectus/reporting-time-on-first-day-of-school/" rel="noopener nofollow" target="_blank">Reporting Time on First Day of School</a>
 <br><a href="https://bedoksouthsec.moe.edu.sg/recommended-sets-of-full-uniform-and-onebds-polo-t-shirt/" rel="noopener nofollow" target="_blank">Recommended Sets of Full Uniform and OneBDS Polo T-shirt (OneBDS 2nd Uniform) to be Purchased</a>

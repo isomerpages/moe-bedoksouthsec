@@ -16,30 +16,15 @@ accompany their child/ward.
 </p>
 <p><strong>From Day 2 (Monday, 5 Jan 2026) onwards, Secondary One students will follow the normal reporting/flag-raising time for school which is 7:45 a.m.</strong> Students
 are advised to report to school <strong><u>by 7:30 a.m.</u></strong> so that
-they have time to make their way to the <strong><u>ISH</u></strong>. <u>Students who arrive at ISH after 7:45 a.m. will be considered late for school.</u> 
-</p>
-<p><strong>While waiting for the flag-raising to commence at 7:45 a.m., students are required to bring along a book/approved reading materials for silent reading. </strong>
-</p>
-<p><strong>Note: On all Thursdays, the school operates on a late-reporting schedule. </strong>
-</p>
-<p><strong>Flag-raising will begin at 8:45 a.m., and students are advised to report to school by 8:30 a.m.</strong>
-</p>
-<p><strong><u>For the following week,</u></strong>  <strong>students are to take note of the reporting venues for the different days:</strong>
-</p>
-<p></p>
-<p></p>
-<p>
-<br><strong><u>Items to bring on 2 and 3 January:</u></strong>
-<br>Please bring along writing materials, water bottle, pocket money for recess
-breaks (if applicable), a book for silent reading, and an additional set
-of PE attire for changing due to hygiene&nbsp;purpose.</p>
-<p><strong>From Day 2 (3 Jan 2025) onwards, Secondary One students will follow the normal reporting/flag-raising time for school which is 7:45 a.m.</strong> Students
-are advised to report to school <strong><u>by 7:30 a.m.</u></strong> so that
 they have time to make their way to the <strong><u>ISH</u></strong>. <u>Students who arrive at ISH after 7:45 a.m. will be considered late for school.</u>
 </p>
 <p><strong>While waiting for the flag-raising to commence at 7:45 a.m., students are required to bring along a book/approved reading materials for silent reading.</strong>
 </p>
-<p><strong><u>For the following week</u>, students are to take note of the reporting venues for the different days:</strong>
+<p><strong>Note: On all Thursdays, the school operates on a late-reporting schedule.</strong>
+</p>
+<p><strong>Flag-raising will begin at 8:45 a.m., and students are advised to report to school by 8:30 a.m.</strong>
+</p>
+<p><strong><u>For the following week,</u></strong>  <strong>students are to take note of the reporting venues for the different days:</strong>
 </p>
 <p></p>
 <table style="minWidth: 75px">
@@ -62,11 +47,11 @@ they have time to make their way to the <strong><u>ISH</u></strong>. <u>Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Jan 25
-<br>Monday</p>
+<p>6 Jan 26
+<br>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indoor Sports Hall</p>
+<p>School Hall</p>
 </td>
 <td rowspan="5" colspan="1">
 <p></p>
@@ -77,16 +62,17 @@ they have time to make their way to the <strong><u>ISH</u></strong>. <u>Students
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Half-School Uniform/Full School Uniform
-<br>
+<p>OneBDS 2<sup>nd</sup> Uniform / Full School Uniform / Half-School Uniform*
 <br>
 </p>
 <p><strong>If there is PE lesson,</strong> students are required to change
 into their PE attire for the PE Lesson. They will then change back to their
-Half-School Uniform/Full School Uniform for hygiene reasons.</p>
-<p>*** All mobile phones will be collected and stored in the class-based
-Handphone Hotel at the start of the day. The mobile phones will only be
-returned to students at the end of the school day (based on timetable).</p>
+Half-School Uniform/ OneBDS 2<sup>nd</sup> Uniform / Full School Uniform
+for hygiene reasons.</p>
+<p>
+<br><strong>All mobile phones will be collected and stored in the class-based Handphone Hotel at the start of the day.</strong> The
+mobile phones will only be returned to students at the end of the school
+day (based on timetable).</p>
 </td>
 </tr>
 </tbody>
@@ -96,16 +82,7 @@ returned to students at the end of the school day (based on timetable).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 Jan 25
-<br>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Hall</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 Jan 25
+<p>7 Jan 26
 <br>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,8 +91,17 @@ returned to students at the end of the school day (based on timetable).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 Jan 25
+<p>8 Jan 26
 <br>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Jan 25
+<br>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sports Hall</p>

@@ -4,7 +4,7 @@ permalink: /prospectus/purchase-of-books-stationeries-socks-pe-attire-and-bookli
 description: ""
 variant: tiptap
 ---
-<h1>Purchase of Books/ Stationeries &amp; OneBDS 2<sup>nd</sup> Uniform/  PE Attire for 2026</h1>
+<h1>Purchase of Books/ Stationeries &amp; OneBDS 2<sup>nd</sup> Uniform/ PE Attire for 2026</h1>
 <p><strong><u>Recommended Sets of Full Uniform and (OneBDS 2<sup>nd</sup> Uniform) to be Purchased</u></strong>
 <br>
 <br>It is advised for students to purchase one set of full uniform (school
@@ -21,13 +21,7 @@ the school at external events.
 <br><em>Please be informed that the OneBDS 2<sup>nd</sup> Uniform Polo T-shirt is </em><strong><em><u>not allowed</u></em></strong><em> to be used as a PE attire as they serve different functionality and purpose.</em>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/Uni1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/Uni2.jpg">
-</div>
 <p><strong>Note: All students are required to wear all-white shoes with BDS socks/ all-white socks together with the above school attires.</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; All booklists are available on the school website.
@@ -124,6 +118,9 @@ the step-by-step guide on how to purchase books online.</p>
 <p>Self-Collection date &amp; time can be selected when you make your online
 purchase (Subject to slot availability)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/uniform.png">
+</div>
 <p>LUNCH TIME: 12PM TO 1PM (BOOKSHOP CLOSED)</p>
 </td>
 </tr>

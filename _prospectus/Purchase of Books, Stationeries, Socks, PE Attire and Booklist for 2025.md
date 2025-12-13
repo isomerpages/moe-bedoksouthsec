@@ -4,13 +4,38 @@ permalink: /prospectus/purchase-of-books-stationeries-socks-pe-attire-and-bookli
 description: ""
 variant: tiptap
 ---
-<h1>Purchase of Books/Stationeries/Socks/OneBDS Polo T-shirt (OneBDS 2nd Uniform)/PE Attire and Booklist for 2025</h1>
+<h1>Purchase of Books/ Stationeries &amp; OneBDS 2<sup>nd</sup> Uniform/  PE Attire for 2026</h1>
+<p><strong><u>Recommended Sets of Full Uniform and (OneBDS 2<sup>nd</sup> Uniform) to be Purchased</u></strong>
+<br>
+<br>It is advised for students to purchase one set of full uniform (school
+uniform blouse/shirt, tie, school pants/skirt), two school pants/skirts,
+and two OneBDS 2<sup>nd </sup>Uniform Polo T-shirts.</p>
+<p>Students are strongly encouraged to purchase two OneBDS 2<sup>nd</sup> Uniform
+Polo T-shirts as it is the school’s 2<sup>nd</sup> uniform attire, and students
+would usually prefer to wear the Polo T-shirt instead of the full uniform
+due to the warm weather. Students may also choose to wear the full school
+uniform (excluding the school tie) if they prefer. The full uniform is
+typically worn during formal occasions, such as Speech Day or when representing
+the school at external events.
+<br>
+<br><em>Please be informed that the OneBDS 2<sup>nd</sup> Uniform Polo T-shirt is </em><strong><em><u>not allowed</u></em></strong><em> to be used as a PE attire as they serve different functionality and purpose.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/Uni1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/Uni2.jpg">
+</div>
+<p><strong>Note: All students are required to wear all-white shoes with BDS socks/ all-white socks together with the above school attires.</strong>
+</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; All booklists are available on the school website.
 The link for the Secondary 1 booklist is also appended for your reference:
 <br><a href="https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/booklists/" rel="noopener nofollow" target="_blank">https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/booklists/</a>
 </p>
-<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp; Students are strongly encouraged to purchase
-their school items online via <a href="https://go.gov.sg/pacificbookstores" rel="noopener nofollow" target="_blank">https://go.gov.sg/pacificbookstores </a>from <strong>18 December 2024 </strong>onwards.
+<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp; Students must purchase their school items
+online via <a href="https://go.gov.sg/pacificbookstores" rel="noopener nofollow" target="_blank">https://go.gov.sg/pacificbookstores </a>from <strong>15 December 2024 </strong>onwards.
 Students can choose between:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -28,20 +53,16 @@ for more information and the step-by-step guide on purchasing books online.</p>
 </ul>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; The bookshop vendor, <strong>Pacific Bookstore</strong>,
 will be selling the <strong>OneBDS 2<sup>nd</sup> Uniform Polo T-shirt</strong>.
-Students are strongly encouraged to purchase two OneBDS 2<sup>nd</sup> Uniform
-Polo T-shirt as it is the school’s 2<sup>nd</sup> uniform attire, and students
-would usually prefer to wear the Polo T-shirt instead of the full uniform
-due to the warm weather.
 <br>
 <br>4.&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>FAS Students</u></strong>
 <br>Students with MOE Financial Assistance Scheme (FAS) approved by the primary
-school/other school will need to message the FAS officer, Ms Tina via <strong>WhatsApp </strong>at<strong> 8686 6208 </strong>(8.30
-am and 5.00 pm on weekdays).</p>
-<p>Please provide the student's full name and FAS approval letter in your
-message. We will then liaise with you regarding FAS benefits and booklist
-via WhatsApp. The FAS collection date will be on <strong>30 December 2024, Monday</strong>.</p>
+school/other school will need to message the FAS officer, Ms Fatina via <strong>WhatsApp </strong>at<strong> 8686 6208 </strong>(8.30
+am and 5.00 pm on weekdays) to inform of your FAS status. Please provide
+the student's full name and FAS approval letter in your message. We will
+then liaise with you regarding FAS benefits and booklist via WhatsApp.
+The FAS collection date will be on <strong>Monday, 29 December 2025 (9:00 a.m. to 3.00 p.m)</strong>.</p>
 <p></p>
-<h1>Purchase of Books/Stationeries/Socks/OneBDS Polo T-shirt (OneBDS 2nd Uniform)/PE Attire</h1>
+<h1>Purchase of Books/Stationeries/Socks/OneBDS Polo T-shirt / PE Attire 2026</h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -72,7 +93,7 @@ the step-by-step guide on how to purchase books online.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>18<sup>th</sup> December 2024 </strong>(Sec 1 only)</p>
+<p><strong>15<sup>th</sup> December 2025 </strong>(Sec 1 only)</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +102,7 @@ the step-by-step guide on how to purchase books online.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>24<sup>th</sup> December 2024</strong> (Sec 1 only)
+<p><strong>24<sup>th</sup> December 2025</strong> (Sec 1 only)
 <br>(Subject to slot availability)</p>
 </td>
 </tr>
@@ -102,6 +123,8 @@ the step-by-step guide on how to purchase books online.</p>
 <td rowspan="1" colspan="1">
 <p>Self-Collection date &amp; time can be selected when you make your online
 purchase (Subject to slot availability)</p>
+<p></p>
+<p>LUNCH TIME: 12PM TO 1PM (BOOKSHOP CLOSED)</p>
 </td>
 </tr>
 <tr>

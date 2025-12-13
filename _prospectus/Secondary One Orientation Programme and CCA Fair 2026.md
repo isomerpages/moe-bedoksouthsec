@@ -4,7 +4,7 @@ permalink: /prospectus/secondary-one-orientation-programme-and-cca-fair-2026/
 description: ""
 variant: tiptap
 ---
-<h1>Orientation Programme and CCA Fair 2026</h1>
+<h1>2026 Secondary One Orientation Programme and CCA Fair</h1>
 <h3>Secondary One Orientation</h3>
 <p>The purpose of the Secondary One Orientation is to help our new students
 transition smoothly into their secondary school journey by building a sense
@@ -94,68 +94,208 @@ following:</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<h3>Secondary One CCA Fair</h3>
+<h3>Secondary One CCA Fair &amp; Parents Engagement</h3>
 <p><strong>Objectives of the CCA Fair:</strong>
-<br>To provide a platform for students to explore the different CCAs before
-they decide which CCA they would be interested to join.
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Help students and parents appreciate CCA as a key part of holistic education
+and student development.</p>
+</li>
+<li>
+<p>Build understanding of the LEAPS 2.0 framework and how it recognises students’
+attainment and learning in the co-curriculum.</p>
+</li>
+<li>
+<p>Provide students with opportunities to explore CCAs and make informed
+choices.
 <br>
-<br><strong>Date</strong>:
-<br>Thursday, 9 January 2025
+</p>
+<p><strong>Date</strong>:
+<br><strong>Friday, 9 January 2026 (2:15 p.m. - 5:30 p.m.) </strong>
 <br>
-<br><strong>Attire:</strong>
-<br>Students will <strong><u>change to PE attire after lunch</u></strong> for
-comfort and ease. Students are strongly advised to bring along a water
-bottle for hydration purposes.</p>
-<p>&nbsp;</p>
-<table style="minWidth: 25px">
+</p>
+<p><strong>Programme:</strong>
+</p>
+<p></p>
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Details of CCA Fair</strong>
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Item</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Understanding CCA &amp; Assessment (LEAPS 2.0) by HOD PE &amp; CCA/SH
-CCA &amp; Co-Curriculum&nbsp;</p>
+<p>2:15 p.m. – 2:30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents arrival and ushered to Sec 1 Form Classrooms
+<br>
+<br>Sec 1 students to accompany their parents.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Form Classrooms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em><u>For students</u></em>
-<br>CCA Fair</p>
-<p><em><u>For parents</u></em>
-<br>School Engagement Session with Parents</p>
+<p>2:30 p.m. – 2:50 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FT engagement with Parents
+<br>
+<br>Sec 1 students to accompany their parents.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Form Classrooms</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2:50 p.m. – 3:00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents to proceed to the Hall
+<br>
+</p>
+<p>Students to proceed to the ISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hall
+<br>
+<br>
+<br>ISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3:00 p.m. – 4:00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal's address &amp; CCA briefing for parents</p>
+<p></p>
+<p>CCA briefing for students (including LEAPS &amp; CCA selection)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hall
+<br>
+<br>
+</p>
+<p>&nbsp;</p>
+<p>ISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4:00 p.m. – 4:15 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG Talk for parents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students to start CCA tour after CCA briefing at ISH</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4:15 p.m. – 4:45 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A for parents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents who do not have questions can start the CCA tour</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4:45 p.m. – 5:30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 students &amp; parents to tour CCA booths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Various booths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5:30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End of CCA Fair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Parents are welcomed to join the CCA Fair. Please be seated at the school
-hall for the informative talk on CCA &amp; Assessment (LEAPS 2.0).&nbsp;
-<br>
-<br><strong>Selection Trials and CCA Experience</strong>
-<br>Selected CCAs will be conducting <strong>selection trials</strong> as well
-as <strong>CCA experience</strong> to allow the students to find out more
-about the CCA they may be interested in. The trials and CCA experience
-will be held on the <strong>6, 8, and 13 January 2025</strong>. The <strong>details of the trials and CCA experience</strong> will
-be announced on the <strong>first week of school and posted on the CCA noticeboard </strong>(outside
-the HOD room). Those who sign up for the trials will be given priority
-during the Secondary 1 CCA selection (<strong>subject to vacancies available</strong>).
-<br>
-<br>Students who are admitted by DSA need not sign up for the trials as their
-names are already in the respective CCA lists.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/CCA6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/Az5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/Az6.jpg">
-</div>
+<p></p>
+</li>
+</ul>
+<p><strong>Attire:</strong>
+</p>
+<p>Students should change into PE attire after lunch for comfort and ease
+of movement.
+<br>Please bring along a water bottle to stay hydrated.</p>
+<p><strong>CCA Experience and Selection Trials:</strong>
+<br>CCA Experience sessions and Selection Trials will be organised for students.
+<br>Details will be shared during the first week of school.
+<br>
+<br>Students who attend the trials will be given priority in their preferred
+CCA during allocation.
+<br>
+<br><strong>Students admitted via Direct School Admission (DSA–CCA) need not sign up for trials, as they will be automatically allocated to their respective CCA.</strong>
+</p>
+<p></p>
+<p></p>
 <p></p>

@@ -31,7 +31,7 @@ The link for the Secondary 1 booklist is also appended for your reference:
 <br><a href="https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/booklists/" rel="noopener nofollow" target="_blank">https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/booklists/</a>
 </p>
 <p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp; Students must purchase their school items
-online via <a href="https://go.gov.sg/pacificbookstores" rel="noopener nofollow" target="_blank">https://go.gov.sg/pacificbookstores </a>from <strong>15 December 2024 </strong>onwards.
+online via <a href="https://go.gov.sg/pacificbookstores" rel="noopener nofollow" target="_blank">https://go.gov.sg/pacificbookstores </a>from <strong>15 December 2025 </strong>onwards.
 Students can choose between:</p>
 <ul data-tight="true" class="tight">
 <li>

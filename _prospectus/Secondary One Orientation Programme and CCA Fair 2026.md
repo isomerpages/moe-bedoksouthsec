@@ -4,7 +4,7 @@ permalink: /prospectus/secondary-one-orientation-programme-and-cca-fair-2026/
 description: ""
 variant: tiptap
 ---
-<h1>Orientation Programme and CCA Fair 2025</h1>
+<h1>Orientation Programme and CCA Fair 2026</h1>
 <h3>Secondary One Orientation</h3>
 <p>The purpose of the Secondary One Orientation is to help our new students
 transition smoothly into their secondary school journey by building a sense
@@ -22,10 +22,12 @@ and open mindset.
 following:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Orientation Programme: 2 January 2025 (Thursday) and 3 January 2025 (Friday)</p>
+<p>Orientation Programme: <strong>2 January 2026 (Friday) and 5 January 2026 (Monday)</strong>
+</p>
 </li>
 <li>
-<p>CCA Fair and Secondary One Parent Engagement: 9 January 2025 (Thursday)</p>
+<p>CCA Fair and Secondary One Parent Engagement: <strong>9 January 2026 (Friday)</strong>
+</p>
 </li>
 </ol>
 <p></p>
@@ -57,35 +59,35 @@ following:</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>2025</p>
+<p>2026</p>
 <p>Sec 1 Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu,</p>
-<p>2 Jan 2025</p>
+<p>Fri</p>
+<p>2 Jan 2026</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5:30 p.m.</p>
+<p>12:30 p.m.</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Bedok South Secondary School Half-Uniform (To bring along PE Attire to
-change for hygiene reasons)</p>
+<p><strong>Bedok South Secondary School Half-Uniform (To bring along PE Attire to change for hygiene reasons)</strong>
+</p>
 <p><em>- Students who have not purchased the uniform may come in primary school attire.</em>
 </p>
-<p><em>- Students who are pending to transfer out, may be in their primary school uniform.</em>
+<p><em>- Students who are pending to transfer out may be in their primary school uniform.</em>
 </p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri,</p>
-<p>3 Jan 2025</p>
+<p>Mon,</p>
+<p>5 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12:30 p.m.</p>
+<p>5:00 p.m.</p>
 </td>
 </tr>
 </tbody>

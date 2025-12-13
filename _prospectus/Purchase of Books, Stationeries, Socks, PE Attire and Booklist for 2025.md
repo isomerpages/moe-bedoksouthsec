@@ -22,7 +22,7 @@ the school at external events.
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/Uni12.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Prospectus/Uni13.jpg">
 </div>
 <p><strong>Note: All students are required to wear all-white shoes with BDS socks/ all-white socks together with the above school attires.</strong>
 </p>

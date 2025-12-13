@@ -21,7 +21,9 @@ the school at external events.
 <br><em>Please be informed that the OneBDS 2<sup>nd</sup> Uniform Polo T-shirt is </em><strong><em><u>not allowed</u></em></strong><em> to be used as a PE attire as they serve different functionality and purpose.</em>
 </p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/Uni12.jpg">
+</div>
 <p><strong>Note: All students are required to wear all-white shoes with BDS socks/ all-white socks together with the above school attires.</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; All booklists are available on the school website.

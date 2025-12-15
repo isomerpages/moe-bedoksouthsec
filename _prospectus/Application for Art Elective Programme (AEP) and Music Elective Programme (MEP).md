@@ -229,11 +229,10 @@ you cannot take D&amp;T and NFS at Upper Secondary level)</p>
 <p>If you would like to have more information on AEP and MEP, you can visit
 the web links provided below.</p>
 <p><strong>Art: </strong>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg</a>
-<a href="https://moe.gov.sg/aep" rel="noopener noreferrer nofollow" target="_blank">/aep</a>
+<br><a href="https://moe.gov.sg/aep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/aep</a>
 </p>
 <p><strong>Music: </strong>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/mep</a>
+<br><a href="https://moe.gov.sg/mep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/mep</a>
 </p>
 <p></p>
 <h3>INTERESTED TO APPLY FOR AEP/MEP?</h3>
@@ -247,8 +246,7 @@ the web links provided below.</p>
 </li>
 <li>
 <p>In the application you will need to fill in o fill in Ms Khoo Su-Lin's
-email address:</p>
-<p><a href="mailto:khoo_su-lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_su-lin@schools.gov.sg</a> 
+email address: <a href="mailto:khoo_su-lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_su-lin@schools.gov.sg</a>
 </p>
 </li>
 <li>

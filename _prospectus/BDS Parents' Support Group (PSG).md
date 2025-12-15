@@ -81,7 +81,7 @@ Day activities, Teachers’ Day activities</p>
 </tr>
 </tbody>
 </table>
-<p>Follow us on instagram at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bds-psg</a>
+<p>Follow us on instagram at <a href="https://go.gov.sg/bds-psg" rel="noopener nofollow" target="_blank">https://go.gov.sg/bds-psg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">

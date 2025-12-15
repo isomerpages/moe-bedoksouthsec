@@ -4,7 +4,7 @@ permalink: /2026-secondary-one-administrative-and-financial-matters/
 variant: tiptap
 description: ""
 ---
-<h3><strong><u>1.&nbsp;  Online Consent for School Health and Dental Screening</u></strong><br></h3>
+<h3><strong><u>1.&nbsp; Online Consent for School Health and Dental Screening</u></strong><br></h3>
 <p>The Health Promotion Board (HPB) will be conducting annual health and
 dental screening at your child’s school. Parents must complete the health
 and dental consent for your child via the Child Consent Portal. This is
@@ -14,8 +14,7 @@ checks and dental screening. The following steps are:</p>
 <li>
 <p>Visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hpb-ccp</a> to
 access the Child Consent Portal and login using your SingPass. If you do
-not have SingPass, you may register for SingPass via <a rel="noopener noreferrer nofollow" target="_blank">https://www.singpass.gov.sg</a>
-<a href="https://www.singpass.gov.sg." rel="noopener noreferrer nofollow" target="_blank">.</a>
+not have SingPass, you may register for SingPass via <a rel="noopener noreferrer nofollow" target="_blank">https://www.singpass.gov.sg</a><a href="https://www.singpass.gov.sg." rel="noopener noreferrer nofollow" target="_blank">.</a>
 </p>
 </li>
 <li>
@@ -31,7 +30,7 @@ school, please write to <a rel="noopener noreferrer nofollow" target="_blank">Co
 <p>Thank you for your partnership with HPB in giving our children a healthier
 start in life.</p>
 <p></p>
-<h3><u>2.  </u><strong><u>Information on School Smart Card</u></strong></h3>
+<h3><u>2. </u><strong><u>Information on School Smart Card</u></strong></h3>
 <p><strong><br>(Student Identification Pass/ Concessionary Pass/Concessionary Travel School Smart Card (SSC))</strong>
 <br>
 <br>1.&nbsp;&nbsp;&nbsp; Secondary One students can continue to use their

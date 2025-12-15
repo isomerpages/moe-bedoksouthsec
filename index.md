@@ -17,5 +17,5 @@ sections:
           url: /upcoming-events
         - title: SECONDARY ONE information
           description: Key Highlight description
-          url: ""
+          url: /prospectus/information-for-sec-1-2026/
 ---

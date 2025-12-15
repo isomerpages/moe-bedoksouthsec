@@ -39,7 +39,7 @@ secondary school student will be taking <u>up to 10 examinable subjects (dependi
 <ol start="9" data-tight="true" class="tight">
 <li>
 <p>Design &amp; Technology (D&amp;T) / Food and Consumer Education (FCE)
-(rotated semeterally)</p>
+(rotated semestrally)</p>
 </li>
 <li>
 <p>Art</p>

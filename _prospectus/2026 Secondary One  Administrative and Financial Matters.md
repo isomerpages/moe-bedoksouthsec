@@ -12,9 +12,10 @@ to allow your child to receive any necessary vaccinations, undergo health
 checks and dental screening. The following steps are:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hpb-ccp</a> to
+<p>Visit <a href="https://go.gov.sg/hpb-ccp" rel="noopener nofollow" target="_blank">https://go.gov.sg/hpb-ccp</a> to
 access the Child Consent Portal and login using your SingPass. If you do
-not have SingPass, you may register for SingPass via <a rel="noopener noreferrer nofollow" target="_blank">https://www.singpass.gov.sg</a><a href="https://www.singpass.gov.sg." rel="noopener noreferrer nofollow" target="_blank">.</a>
+not have SingPass, you may register for SingPass via <a href="https://www.singpass.gov.sg" rel="noopener nofollow" target="_blank">https://www.singpass.gov.sg</a>
+<a href="https://www.singpass.gov.sg." rel="noopener noreferrer nofollow" target="_blank">.</a>
 </p>
 </li>
 <li>
@@ -25,7 +26,7 @@ not have SingPass, you may register for SingPass via <a rel="noopener noreferrer
 </li>
 </ol>
 <p>If you do not wish for your child to undergo HPB’s health screening in
-school, please write to <a rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a>
+school, please write to <a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a>
 </p>
 <p>Thank you for your partnership with HPB in giving our children a healthier
 start in life.</p>
@@ -159,7 +160,7 @@ digital learning programme.</p>
 </li>
 </ul>
 <p>To use your child's Edusave funds, please submit the online Standing Order
-Form via this link&nbsp; <strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a></strong> with
+Form via this link&nbsp; <a href="https://go.gov.sg/edusaveformsgso" rel="noopener nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a> with
 either parent's SingPass login. If you have any issues relating to Edusave,
 please contact the General Office at 6441 4479.
 <br>

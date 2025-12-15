@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - BDS Parents' Support Group (PSG).md
       - 2026 Secondary One  Administrative and Financial Matters.md
       - Information for Secondary One (2026 Cohort).md
       - Reporting Time on First Day of School.md

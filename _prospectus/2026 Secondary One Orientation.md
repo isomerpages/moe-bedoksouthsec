@@ -24,7 +24,6 @@ following:
 <br><strong>2)&nbsp;&nbsp;&nbsp; </strong>CCA Fair and Secondary One Parent
 Engagement: <strong>9 January 2026 (Friday)</strong>
 </p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -79,6 +78,20 @@ Engagement: <strong>9 January 2026 (Friday)</strong>
 </td>
 <td rowspan="1" colspan="1">
 <p>5:00 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

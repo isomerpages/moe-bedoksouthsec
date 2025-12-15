@@ -2,6 +2,7 @@ collections:
   prospectus:
     output: true
     order:
+      - 2026 Secondary One Orientation.md
       - Reporting Time on First Day of School.md
       - Purchase of Books, Stationeries, Socks, PE Attire and Booklist for
         2026.md

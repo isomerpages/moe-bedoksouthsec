@@ -316,10 +316,5 @@ school only indicates an interest to take a third language; it does not
 guarantee the offer of a third language at Secondary school. MOE will inform
 the outcome of application <u>via school’s Parents’ Gateway (PG) </u>by <strong>late December 2025/ early January 2026.</strong>
 </p>
-<p>
-<br>
-</p>
-<p><strong><br></strong>
-</p>
 <p><strong>&nbsp;</strong>
 </p>

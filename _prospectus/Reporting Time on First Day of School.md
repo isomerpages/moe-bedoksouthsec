@@ -53,7 +53,7 @@ they have time to make their way to the <strong><u>ISH</u></strong>. <u>Students
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -100,16 +100,7 @@ day (based on timetable).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 Jan 25
-<br>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10 Jan 25
+<p>9 Jan 26
 <br>Friday</p>
 </td>
 <td rowspan="1" colspan="1">

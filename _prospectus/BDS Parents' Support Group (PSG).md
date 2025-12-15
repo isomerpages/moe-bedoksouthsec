@@ -85,7 +85,7 @@ Day activities, Teachers’ Day activities</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/psg2026.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Prospectus/psg2026.jpg">
 </div>
 <p><strong>&nbsp;</strong>We welcome all parents to join us in the PSG. If
 you are interested in serving and supporting the school and students, please

@@ -60,12 +60,8 @@ Engagement: <strong>9 January 2026 (Friday)</strong>
 <p>Sec 1 Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>Fri,</p>
 <p>2 Jan 2026</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12:30 p.m.</p>
@@ -77,7 +73,6 @@ Engagement: <strong>9 January 2026 (Friday)</strong>
 </p>
 <p><em>- Students who are pending to transfer out may be in their primary school uniform.</em>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -91,13 +86,6 @@ Engagement: <strong>9 January 2026 (Friday)</strong>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>&nbsp;</strong>
 </p>

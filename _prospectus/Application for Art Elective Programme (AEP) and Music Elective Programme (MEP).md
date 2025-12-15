@@ -34,10 +34,11 @@ for the arts</p>
 students to pursue in-depth study into art/music</p>
 </li>
 </ul>
-<h2><strong>Application for Art Elective Programme (AEP) (2 – 15 Jan 2025)</strong></h2>
+<h2><strong>Application for Art Elective Programme (AEP) (2 – 15 January 2026)</strong></h2>
 <p>AEP is a <strong>4-year</strong> art programme offered at <strong>AEP Centre @ NJC</strong> which
-prepares students for <strong>GCE O-Level Higher Art.</strong>
-</p>
+prepares students for <strong>GCE O-Level Higher Art. </strong>Students
+will travel to NJC for their weekly lessons throughout the four-year secondary
+level programme.</p>
 <p>Students will have opportunities to</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -66,7 +67,7 @@ a short paragraph to explain what art making and enrolling in AEP means
 to you.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Phase 2 (21 - 28 February) – For Shortlisted Phase 1 Applicants</strong>
+<p><strong>Phase 2 (20 - 27 February) – For Shortlisted Phase 1 Applicants</strong>
 </p>
 </li>
 </ul>
@@ -76,12 +77,13 @@ art task during the interview.</p>
 <p><strong>The decision of the Selection Panel is final.</strong>
 </p>
 <p></p>
-<h2><strong>Application for Music Elective Programme (MEP) (2 – 15 Jan 2025)</strong></h2>
+<h2><strong>Application for Music Elective Programme (MEP) (2 – 15 January 2026)</strong></h2>
 <h3>Music Elective Programme (MEP)</h3>
 <p>MEP is a <strong>4-year</strong> music programme offered at MEP centres
 @ Anglo-Chinese School (Independent) and Dunman High School which prepares
-students for <strong>GCE O-Level Higher Music.</strong>
-</p>
+students for <strong>GCE O-Level Higher Music. </strong>Students will travel
+to ACS (Independent) or DHS for their weekly lessons throughout the four-year
+secondary level programme.</p>
 <p>Students will have opportunities to</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -106,13 +108,15 @@ a <strong>5 minute</strong> video-recording consisting of <strong>two </strong>c
 solo pieces.</p>
 </li>
 <li>
-<p><strong>Phase 1B: (3 February)</strong> - Attend an e-Listening Test. Listen
+<p><strong>Phase 1B: (2 February)</strong> - Attend an e-Listening Test. Listen
 to 8 – 10 short musical extracts, taken from a range of musical traditions,
 and respond to 25 MCQ questions.</p>
 </li>
 <li>
-<p><strong>Phase 2: (21-28 February) - For Shortlisted Phase 1 Applicants</strong> -
-Share musical aspirations and interests with a panel of music teachers. <strong>The decision of the Selection Panel is final.</strong>
+<p><strong>Phase 2: (20 - 27 February) - For Shortlisted Phase 1 Applicants</strong> -
+Share musical aspirations and interests with a panel of music teachers.
+<br>
+<br><strong>The decision of the Selection Panel is final.</strong>
 </p>
 </li>
 </ul>
@@ -213,23 +217,23 @@ activities, and cope with extended lessons, projects and assignments for&nbsp;<s
 <h5><strong>Subject Choices</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Will&nbsp;<strong>need to offer</strong>&nbsp;Higher Art/ Music at GCE
-O Levels (This is considered a R1/R3 in the computation of L1R5 for JC/MI
-entrance)</p>
+<p>Will <strong>sit for G3 Higher Art or G3 Higher Music</strong> at the end
+of the 4-year programme.</p>
 </li>
 <li>
 <p>Will&nbsp;<strong>not be offered</strong>&nbsp;Design and Technology (D&amp;T)
 and Food and Consumer Education (FCE) at the Lower Secondary Level (Therefore,
-students cannot take D&amp;T and F&amp;N at Upper Secondary level)</p>
+you cannot take D&amp;T and NFS at Upper Secondary level)</p>
 </li>
 </ul>
 <p>If you would like to have more information on AEP and MEP, you can visit
 the web links provided below.</p>
 <p><strong>Art: </strong>
-<br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg</a>
+<a href="https://moe.gov.sg/aep" rel="noopener noreferrer nofollow" target="_blank">/aep</a>
 </p>
 <p><strong>Music: </strong>
-<br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/mep</a>
 </p>
 <p></p>
 <h3>INTERESTED TO APPLY FOR AEP/MEP?</h3>
@@ -238,15 +242,17 @@ the web links provided below.</p>
 <p>Visit the MOE websites to find out more &amp; submit your application</p>
 </li>
 <li>
-<p>If you have any questions, approach Ms Sheena Seng (SH Aesthetics)</p>
+<p>If you have any questions, approach Ms Khoo Su-Lin or Ms Soh Geok Lan
+(HOD Craft &amp; Tech)</p>
 </li>
 <li>
-<p>In the application you will need to fill in Ms Sheena Seng’s email address:
-<a href="mailto:seng_mei_hui_sheena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seng_mei_hui_sheena@schools.gov.sg</a>
+<p>In the application you will need to fill in o fill in Ms Khoo Su-Lin's
+email address:</p>
+<p><a href="mailto:khoo_su-lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_su-lin@schools.gov.sg</a> 
 </p>
 </li>
 <li>
-<p>Submit your application by <strong><u>15 January 2025</u></strong>.</p>
+<p>Submit your application by <strong><u>15 January 2026</u></strong>.</p>
 </li>
 </ol>
 <p></p>

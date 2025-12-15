@@ -84,9 +84,10 @@ Day activities, Teachers’ Day activities</p>
 <p>Follow us on instagram at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bds-psg</a>
 </p>
 <p></p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>We welcome all parents to join us in the PSG. If you are interested in
-serving and supporting the school and students, please scan the QR code
-or click on the following link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026bdspsg</a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus/psg2026.jpg">
+</div>
+<p><strong>&nbsp;</strong>We welcome all parents to join us in the PSG. If
+you are interested in serving and supporting the school and students, please
+scan the QR code or click on the following link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026bdspsg</a>
 </p>

@@ -8,9 +8,9 @@ variant: tiptap
 <p>Technology is an essential part of learning in today’s world. The National
 Digital Literacy Programme (NDLP) was launched in 2020 to make digital
 learning inclusive by equipping students with the digital literacies to
-be future-ready.&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
-<p>Through the NDLP, all secondary school students will own a school-prescribed
+be future-ready.&nbsp;&nbsp;
+<br>
+<br>Through the NDLP, all secondary school students will own a school-prescribed
 Personal Learning Device (PLD). Singapore Citizen students can use their
 Edusave Account to pay for the PLD. The device will be used to facilitate
 an environment that encourages personalised learning.&nbsp;</p>
@@ -38,8 +38,8 @@ and Logitech Rugged Combo&nbsp;</p>
 <p><strong>Storage in school available</strong>: Lockers&nbsp;</p>
 <p><strong>Delivery and Onboarding:</strong> at Bedok South Secondary School,
 in Semester 1&nbsp;</p>
-<p><strong>Price (inc of GST): </strong>S$829.30&nbsp;&nbsp;</p>
-<p>Payment details can be found in the PG form.&nbsp;&nbsp;</p>
+<p><strong>Price (inc of GST): </strong>S$829.30
+<br>Payment details can be found in the PG form in a separate PG message.&nbsp;&nbsp;</p>
 <p><strong>Platforms/tools</strong>: Student Learning Space (SLS) as primary
 platform, complemented by a host of other apps and tools that the school
 has an overview of (some of which may be subject-specific).&nbsp;</p>
@@ -104,7 +104,8 @@ FAS&nbsp;</p>
 </tbody>
 </table>
 <p><strong><em>* PCI</em></strong><em> refers to the GHI divided by the total number of family members in the household.&nbsp;</em>&nbsp;</p>
-<h4><strong><u>Supporting Students in the Responsible Use of the Devices</u></strong><br></h4>
+<h4><strong><u>Supporting Students in the Responsible Use of the Devices</u></strong></h4>
 <p>The school has in place some measures <strong>to enable a safe and seamless learning environment for students. </strong>The
 role of the parent is also key in partnering the school to support your
 child.&nbsp;</p>
+<p></p>

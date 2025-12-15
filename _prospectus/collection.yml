@@ -2,13 +2,13 @@ collections:
   prospectus:
     output: true
     order:
+      - Information for Secondary One (2026 Cohort).md
       - Reporting Time on First Day of School.md
       - Purchase of Books, Stationeries, Socks, PE Attire and Booklist for
         2026.md
       - 2026 Secondary One Orientation.md
       - Secondary One Orientation Programme and CCA Fair 2026.md
       - 2026 Secondary One  Administrative and Financial Matters.md
-      - Information for Secondary One (2026 Cohort).md
       - Application for Art Elective Programme (AEP) and Music Elective
         Programme (MEP).md
       - Information on PDLP Onboarding.md

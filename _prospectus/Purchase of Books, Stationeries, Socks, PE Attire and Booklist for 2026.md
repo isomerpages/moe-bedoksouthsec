@@ -4,7 +4,7 @@ permalink: /prospectus/purchase-of-books-stationeries-socks-pe-attire-and-bookli
 description: ""
 variant: tiptap
 ---
-<h1>Purchase of Books/ Stationeries &amp; OneBDS 2<sup>nd</sup> Uniform/ PE Attire for 2026</h1>
+<h4>Purchase of Books/ Stationeries &amp; OneBDS 2<sup>nd</sup> Uniform/ PE Attire for 2026</h4>
 <p><strong><u>Recommended Sets of Full Uniform and (OneBDS 2<sup>nd</sup> Uniform) to be Purchased</u></strong>
 <br>
 <br>It is advised for students to purchase one set of full uniform (school
@@ -28,7 +28,7 @@ the school at external events.
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; All booklists are available on the school website.
 The link for the Secondary 1 booklist is also appended for your reference:
-<br><a href="https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/booklists/" rel="noopener nofollow" target="_blank">https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/booklists/</a>
+<br><a href="https://go.gov.sg/bdssec1booklist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bdssec1booklist</a>
 </p>
 <p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp; Students must purchase their school items
 online via <a href="https://go.gov.sg/pacificbookstores" rel="noopener nofollow" target="_blank">https://go.gov.sg/pacificbookstores </a>from <strong>15 December 2025 </strong>onwards.
@@ -58,7 +58,7 @@ the student's full name and FAS approval letter in your message. We will
 then liaise with you regarding FAS benefits and booklist via WhatsApp.
 The FAS collection date will be on <strong>Monday, 29 December 2025 (9:00 a.m. to 3.00 p.m)</strong>.</p>
 <p></p>
-<h1>Purchase of Books/Stationeries/Socks/OneBDS Polo T-shirt / PE Attire 2026</h1>
+<h4>Purchase of Books/Stationeries/Socks/OneBDS Polo T-shirt / PE Attire 2026</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

@@ -24,10 +24,7 @@ following:
 <br><strong>2)&nbsp;&nbsp;&nbsp; </strong>CCA Fair and Secondary One Parent
 Engagement: <strong>9 January 2026 (Friday)</strong>
 </p>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

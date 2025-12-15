@@ -51,7 +51,7 @@ the various subjects.
 <br>
 <br>
 </p>
-<h4><strong><u>Information on Full </u><a href="#SBB" rel="noopener noreferrer nofollow" target="_blank">Subject-Based Banding</a> (FSBB)</strong></h4>
+<h4><strong><u>Information on Full Subject-Based Banding (FSBB)</u></strong></h4>
 <p>FSBB is part of MOE's ongoing efforts to nurture the joy of learning and
 develop multiple pathways to cater to the different strengths and interests
 of our students. FSBB provides students with the flexibility to offer subjects
@@ -62,17 +62,16 @@ their educational journey.
 like?
 <br>
 <br><strong>1)&nbsp;&nbsp;&nbsp; Mixed form classes at lower secondary</strong>
-<br>Secondary 1 <a rel="noopener noreferrer nofollow" target="_blank">students</a> will
-be grouped into mixed form classes, with each form class comprising students
-taking subjects at different levels. Mixed form classes present more opportunities
-for students to interact with other students of different backgrounds,
-<a rel="noopener noreferrer nofollow" target="_blank">strengths</a>and interests.
+<br>Secondary 1 students will be grouped into mixed form classes, with each
+form class comprising students taking subjects at different levels. Mixed
+form classes present more opportunities for students to interact with other
+students of different backgrounds, strengths and interests.
 <br><strong>2)&nbsp;&nbsp;&nbsp; Common Curriculum Subjects</strong>
 <br>In their mixed form classes, students will take a set of subjects at a
 common level, amounting to about one-third of curriculum time. This would
 allow students in mixed form classes to spend curriculum time together
-in these subjects. Secondary One <a rel="noopener noreferrer nofollow" target="_blank">students</a> from
-all courses will take <u>six</u> common curriculum subjects.
+in these subjects. Secondary One students from all courses will take <u>six</u> common
+curriculum subjects.
 <br>
 <br>These subjects are:</p>
 <ul data-tight="true" class="tight">
@@ -179,9 +178,22 @@ PSLE Achievement Level (AL) for each subject.</p>
 <p>G2</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>If students qualify to offer a subject at more demanding level, the school
 will post the Letter of Offers through Parents Gateway. Parents may also
 wish to obtain the hardcopy form at the General Office. Students and parents
@@ -280,10 +292,22 @@ in English</p>
 or more Humanities subjects at a more demanding level)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong><u>Information on Mother-Tongue Languages</u></strong>
 <br><strong>Higher Mother Tongue Language (HMTL)</strong>
 <br>Students who obtained an AL 1/AL 2 in MTL or at least a merit in HMTL

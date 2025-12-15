@@ -284,6 +284,41 @@ or more Humanities subjects at a more demanding level)</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
+<p><strong><u>Information on Mother-Tongue Languages</u></strong>
+<br><strong>Higher Mother Tongue Language (HMTL)</strong>
+<br>Students who obtained an AL 1/AL 2 in MTL or at least a merit in HMTL
+at PSLE, would be eligible to study HMTL at secondary school.
+<br>
+<br>Students who have met the criteria would receive an invitation letter
+to study HMTL at secondary school. The school will also be contacting you
+via Parents Gateway (PG) by <strong><u>30 December 2025</u> </strong>to
+liaise with you personally on the procedure on accepting the invitation.
+<br>
+<br>Students taking Higher Chinese Language will attend lessons at Bedok South
+Secondary School during curriculum time.
+<br>
+<br>Students who are eligible for Higher Malay Language or Higher Tamil Language
+will have to travel to one of the <a href="https://www.moe.gov.sg/secondary/schools-offering-full-sbb/school-specific-opportunities/language" rel="noopener noreferrer nofollow" target="_blank">designated centres</a> for
+their HMTL lesson.
+<br>
+<br><strong>Tamil Language</strong>
+</p>
+<p>Bedok South Secondary does not offer Tamil Language. Students who are
+taking Tamil Language will attend lessons at Bedok View Secondary School.
+Registration details will be made known to students through Form Teachers
+in the first week when school reopens.
+<br>
+<br><strong>Third Languages</strong>
+</p>
+<p>Please note that third languages courses provided at external centers
+are over-subscribed every year. Submission of the application form at primary
+school only indicates an interest to take a third language; it does not
+guarantee the offer of a third language at Secondary school. MOE will inform
+the outcome of application <u>via school’s Parents’ Gateway (PG) </u>by <strong>late December 2025/ early January 2026.</strong>
+</p>
+<p>
+<br>
+</p>
 <p><strong><br></strong>
 </p>
 <p><strong>&nbsp;</strong>

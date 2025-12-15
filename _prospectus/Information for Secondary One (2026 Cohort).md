@@ -4,7 +4,7 @@ permalink: /prospectus/information-for-sec-1-2025/
 description: ""
 variant: tiptap
 ---
-<h1>Information for Secondary One (2026 Cohort)<br></h1>
+<h4>Information for Secondary One (2026 Cohort)<br></h4>
 <p>Congratulations on your posting to Bedok South Secondary School. We are
 happy to welcome you to the OneBDS family to embark on your secondary school
 education.</p>

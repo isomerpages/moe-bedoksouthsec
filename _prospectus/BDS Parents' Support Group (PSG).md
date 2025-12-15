@@ -89,5 +89,5 @@ Day activities, Teachers’ Day activities</p>
 </div>
 <p><strong>&nbsp;</strong>We welcome all parents to join us in the PSG. If
 you are interested in serving and supporting the school and students, please
-scan the QR code or click on the following link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026bdspsg</a>
+scan the QR code or click on the following link: <a href="https://go.gov.sg/2026bdspsg" rel="noopener nofollow" target="_blank">https://go.gov.sg/2026bdspsg</a>
 </p>

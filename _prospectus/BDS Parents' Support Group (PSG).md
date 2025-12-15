@@ -39,8 +39,7 @@ tips</p>
 <p>Administration</p>
 </li>
 </ul>
-<h2>&nbsp;</h2>
-<h2>Activities</h2>
+<h2>&nbsp;Activities</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

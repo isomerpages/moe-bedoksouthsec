@@ -36,16 +36,14 @@ secondary school student will be taking <u>up to 10 examinable subjects (dependi
 </li>
 </ol>
 <h4><strong>Common Curriculum Subjects:</strong></h4>
-<ol data-tight="true" class="tight">
+<ol start="9" data-tight="true" class="tight">
 <li>
-<p>Design &amp; Technology (D&amp;T)</p>
-</li>
-<li>
-<p>Food and Consumer Education (FCE)</p>
+<p>Design &amp; Technology (D&amp;T) / Food and Consumer Education (FCE)
+(rotated semeterally)</p>
 </li>
 <li>
 <p>Art</p>
 </li>
 </ol>
-<p>Students may explore the school website to gain an understanding of the
-various subjects.</p>
+<p>Students could explore the school website to gain an understanding of
+the various subjects.</p>

@@ -245,8 +245,8 @@ the web links provided below.</p>
 (HOD Craft &amp; Tech)</p>
 </li>
 <li>
-<p>In the application you will need to fill in o fill in Ms Khoo Su-Lin's
-email address: <a href="mailto:khoo_su-lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_su-lin@schools.gov.sg</a>
+<p>In the application you will need to fill in Ms Khoo Su-Lin's email address:
+<a href="mailto:khoo_su-lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_su-lin@schools.gov.sg</a>
 </p>
 </li>
 <li>

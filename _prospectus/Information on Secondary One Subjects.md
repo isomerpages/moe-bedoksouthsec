@@ -102,7 +102,7 @@ all courses will take <u>six</u> common curriculum subjects.
 </li>
 </ul>
 <p>Teachers will adopt a range of teaching approaches to meet the different
-learning needs and pace of their students in the same <a rel="noopener noreferrer nofollow" target="_blank">form</a> class.</p>
+learning needs and pace of their students in the same form class.</p>
 <p>
 <br><strong>3)&nbsp;&nbsp;&nbsp; Offering subjects at a more demanding level at the start of Secondary One</strong>
 <br>Eligible students can offer <strong>English Language, Mother Tongue Languages, Mathematics and Science</strong>&nbsp;at

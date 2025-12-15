@@ -2,6 +2,8 @@ collections:
   prospectus:
     output: true
     order:
+      - Sec 1 School Transfer Appeal to Enter Bedok South Secondary School for
+        2026.md
       - Information for Secondary One (2026 Cohort).md
       - Reporting Time on First Day of School.md
       - Purchase of Books, Stationeries, Socks, PE Attire and Booklist for

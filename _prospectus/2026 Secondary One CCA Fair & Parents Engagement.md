@@ -57,7 +57,8 @@ choices.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2:15 p.m. – 2:30 p.m.</p>
+<p>2:15 p.m. –
+<br>2:30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents arrival and ushered to Sec 1 Form Classrooms
@@ -73,7 +74,8 @@ choices.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2:30 p.m. – 2:50 p.m.</p>
+<p>2:30 p.m. –
+<br>2:50 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FT engagement with Parents
@@ -90,7 +92,8 @@ choices.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2:50 p.m. – 3:00 p.m.</p>
+<p>2:50 p.m. –
+<br>3:00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents to proceed to the Hall
@@ -110,7 +113,8 @@ choices.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3:00 p.m. – 4:00 p.m.</p>
+<p>3:00 p.m. –
+<br>4:00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal's address &amp; CCA briefing for parents</p>
@@ -131,7 +135,8 @@ choices.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4:00 p.m. – 4:15 p.m.</p>
+<p>4:00 p.m. –
+<br>4:15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PSG Talk for parents</p>
@@ -146,7 +151,8 @@ choices.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4:15 p.m. – 4:45 p.m.</p>
+<p>4:15 p.m. –
+<br>4:45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Q&amp;A for parents</p>
@@ -161,7 +167,8 @@ choices.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4:45 p.m. – 5:30 p.m.</p>
+<p>4:45 p.m. –
+<br>5:30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 students &amp; parents to tour CCA booths</p>

@@ -54,17 +54,7 @@ they have time to make their way to the <strong><u>ISH</u></strong>. <u>Students
 <p>School Hall</p>
 </td>
 <td rowspan="4" colspan="1">
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OneBDS 2<sup>nd</sup> Uniform / Full School Uniform / Half-School Uniform*
-<br>
-</p>
+<p>OneBDS 2<sup>nd</sup> Uniform / Full School Uniform / Half-School Uniform*</p>
 <p><strong>If there is PE lesson,</strong> students are required to change
 into their PE attire for the PE Lesson. They will then change back to their
 Half-School Uniform/ OneBDS 2<sup>nd</sup> Uniform / Full School Uniform
@@ -73,11 +63,6 @@ for hygiene reasons.</p>
 <br><strong>All mobile phones will be collected and stored in the class-based Handphone Hotel at the start of the day.</strong> The
 mobile phones will only be returned to students at the end of the school
 day (based on timetable).</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 </td>
 </tr>
 <tr>

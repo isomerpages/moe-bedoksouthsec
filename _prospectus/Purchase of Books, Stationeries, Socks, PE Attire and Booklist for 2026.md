@@ -1,6 +1,6 @@
 ---
 title: Purchase of Books, Stationeries, Socks, PE Attire and Booklist for 2026
-permalink: /prospectus/purchase-of-books-stationeries-socks-pe-attire-and-booklist-for-2024/
+permalink: /prospectus/purchase-of-books-stationeries-socks-pe-attire-and-booklist-for-2026/
 description: ""
 variant: tiptap
 ---

@@ -20,8 +20,8 @@ and open mindset.
 <br>To assist the students in making this transition, we have organised the
 following:
 <br>
-<br><strong>1)&nbsp;&nbsp;&nbsp; </strong>Orientation Programme: <strong>2 January 202 (Friday) and 5 January 2026 (Monday)</strong>
-<br><strong>2)&nbsp;&nbsp;&nbsp; </strong>CCA Fair and Secondary One Parent
+<br><strong>1)&nbsp;&nbsp;&nbsp; </strong>Orientation Programme: <strong>2 January 2026 (Friday) and 5 January 2026 (Monday)</strong>
+<br><strong>2)&nbsp;&nbsp;&nbsp; </strong>CCA Fair and Secondary One Parents
 Engagement: <strong>9 January 2026 (Friday)</strong>
 </p>
 <table style="minWidth: 100px">

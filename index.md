@@ -15,7 +15,7 @@ sections:
         - title: Upcoming Events
           description: Check out the upcoming events!
           url: /upcoming-events
-        - title: SECONDARY ONE information
-          description: Key Highlight description
+        - title: 2026 SECONDARY ONE information
+          description: Check out for more details.
           url: /prospectus/information-for-sec-1-2026/
 ---

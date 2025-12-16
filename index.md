@@ -16,6 +16,6 @@ sections:
           description: Check out the upcoming events!
           url: /upcoming-events
         - title: SECONDARY ONE information
-          description: Key Highlight description
+          description: Click to find out more!
           url: /prospectus/information-for-sec-1-2026/
 ---

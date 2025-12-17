@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: GCE "N" Level Results Release 2025
           description: Check out for more details.
-          url: /importantinformation/forstudents/gce-n-level-results-release-2025/
+          url: /gce-n-level-results-release-2025/
         - title: 2026 SECONDARY ONE information
           description: Check out for more details.
           url: /prospectus/information-for-sec-1-2026/

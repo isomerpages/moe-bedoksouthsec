@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Banner_gif.gif
       key_highlights:
-        - title: GCE "N" Level Results Release 2025
+        - title: GCE N Level Results Release 2025
           description: Check out for more details.
           url: /gce-n-level-results-release-2025/
         - title: 2026 SECONDARY ONE information

@@ -22,4 +22,17 @@ or accessories).
 forward.
 <br>
 <br>Warm regards,
-<br>Bedok South Secondary School</p>
+<br>Bedok South Secondary School
+<br>
+<br><strong><u>Important Information for Students &amp; Parents after ‘N’ Level Results Release:</u></strong>
+</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Admin Slide Deck) 2025 For Students &amp; Parents Reference_Post-Secondary Applications &amp; Deadlines (as at 18 Dec25)</strong>
+<br><strong><a href="https://go.gov.sg/2025postsecondaryapplnanddeadlines" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025postsecondaryapplnanddeadlines</a></strong>
+<br>
+<br><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Information Sheet for Parents (N-Level)</strong>
+<br><strong><a href="https://go.gov.sg/infosheetforparentsnlvl" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/infosheetforparentsnlvl</a></strong>
+<br>
+<br><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parenting for Wellness - Toolkit for Parents</strong>
+<br><strong><a href="https://go.gov.sg/parentingforwellness2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/parentingforwellness2025</a></strong>
+<br>
+</p>

@@ -28,5 +28,5 @@ the details for the upcoming school term.</p>
 <br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/aep-and-mep/" rel="noopener nofollow" target="_blank">Information on Art and Music Elective Programmes (AEP/MEP) </a>
 <br><a href="https://bedoksouthsec.moe.edu.sg/prospectus/information-on-pdlp-onboarding/" rel="noopener nofollow" target="_blank">Information on PDLP Onboarding </a>
 <br><a href="https://bedoksouthsec.moe.edu.sg/bds-parents-support-group-psg/" rel="noopener nofollow" target="_blank">BDS Parents’ Support Group (PSG)</a>
-<br>Sec 1 School Transfer Appeal to Enter Bedok South Secondary School for
-2026</p>
+<br><a href="https://bedoksouthsec.moe.edu.sg/sec-1-school-transfer-appeal-to-enter-bedok-south-secondary-school-for-2026/" rel="noopener nofollow" target="_blank">Sec 1 School Transfer Appeal to Enter Bedok South Secondary School for 2026</a>
+</p>

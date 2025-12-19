@@ -2,12 +2,11 @@ collections:
   information-and-links:
     output: true
     order:
-      - 2026 Secondary 1 Information.md
       - For Parents/.keep
       - For Parents/BDS Parents’ Support Group (PSG).md
       - For Parents/Financial Assistance Scheme (FAS).md
-      - For Students/GCE N Level Results Release 2025.md
       - For Students/.keep
+      - For Students/GCE N Level Results Release 2025.md
       - For Students/Request for ICT Assistance.md
       - For Students/Approved Dictionaries and Calculators.md
       - For Students/Booklist 2026.md
@@ -16,3 +15,4 @@ collections:
       - For Students/Rules and Regulations.md
       - For Students/Student Learning Space (SLS).md
       - For Teachers.md
+      - 2026 Secondary 1 Information.md

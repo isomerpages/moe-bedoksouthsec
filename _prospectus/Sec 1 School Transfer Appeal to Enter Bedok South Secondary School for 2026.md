@@ -39,7 +39,8 @@ reasons. <strong>For appeals based on medical reasons (e.g., serious medical con
 <li>
 <p>Students should still report to the posted secondary school on 2 January
 2026, unless notified otherwise.
-<br>&nbsp;</p>
+<br>
+</p>
 </li>
 <li>
 <p>The application is deemed to be unsuccessful if you do not hear from the

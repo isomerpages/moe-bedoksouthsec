@@ -2,6 +2,7 @@ collections:
   information-and-links:
     output: true
     order:
+      - 2026 Secondary 1 Information.md
       - For Parents/.keep
       - For Parents/BDS Parents’ Support Group (PSG).md
       - For Parents/Financial Assistance Scheme (FAS).md

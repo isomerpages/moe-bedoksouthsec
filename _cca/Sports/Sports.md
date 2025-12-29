@@ -75,7 +75,7 @@ variant: tiptap
 <p>Mdm Suhaila Bte Mansor (OIC)
 <br>Ms Foo Su Lian Gerardine
 <br>Ms Zheng Niqi
-<br>Ms Yeo Zi Han
+<br>Mr Yeo Zi Han
 <br>
 <br>and external coach</p>
 </td>

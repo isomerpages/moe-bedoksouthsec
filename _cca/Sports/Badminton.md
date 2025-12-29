@@ -192,11 +192,12 @@ C Girls</p>
 </tbody>
 </table>
 <h3>Teachers-in-Charge</h3>
-<p>Mr Yip Kim San (OIC)
-<br>Mrs Mah-Pow Lai Gim
+<p>Ms Tan Wan Chin (OIC)
 <br>Mr Lim Tuan Zheng Joseph
+<br>Ms Hannah Lum
 <br>Mr Roskhaider B Mohamed Saat (FAJT)
 <br>And&nbsp;<strong>External Coach</strong>
 </p>
+<p></p>
 <h3>Leadership Positions</h3>
 <p>Captains, Vice-Captains</p>

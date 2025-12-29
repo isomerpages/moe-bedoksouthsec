@@ -36,8 +36,9 @@ The CCA aims to mold them into confident musicians who are respectful to
 one another, and establish strong unity within the group.</p>
 <h3>Teachers-in-Charge</h3>
 <p>Ms Toh Qin Min (OIC)
-<br>Ms Joy Chia Yong Le
 <br>Ms Li Fei
+<br>Mr Sean Goh
+<br>Mr Loo Ruijie (Term 2 onwards)
 <br><strong>And External Instructors</strong>
 </p>
 <h3>Key Events</h3>

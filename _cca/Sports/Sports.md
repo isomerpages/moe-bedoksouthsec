@@ -102,7 +102,7 @@ variant: tiptap
 </td>
 <td rowspan="2" colspan="1">
 <p>Mr Mohammed Imran Bin Mawardi (OIC)
-<br>Mr Loi Chun Mun
+<br>Mr Loi Churn Mun
 <br>Mr Rayson
 <br>
 <br>and external coach</p>

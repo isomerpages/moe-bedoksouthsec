@@ -156,39 +156,6 @@ C Girls</p>
 <p>First Round</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games East Zone - B Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quarter Finals</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games East Zone - B Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games East Zone - B Boys, B Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Round – COVID suspension</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Teachers-in-Charge</h3>

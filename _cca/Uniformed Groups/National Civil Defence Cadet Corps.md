@@ -20,9 +20,9 @@ in the crest. The equilateral blue triangle symbolizes the three main areas
 of Civil Defence — fire safety, first aid, and rescue and evacuation.</p>
 <h3>Teachers-in-charge</h3>
 <p>Ms Syafiqah Begum Binte Ismail Rahim (OIC)
-<br>Ms Teo Wei Ling
-<br>Mdm Goh Siew Huang
-<br>Ms Huang Yin-Chiao
+<br>Ms Eva Koh (Mrs Eva Seah) (Semester 2 onwards)
+<br>Mr Keith Teo
+<br>Mr Ernest Sim(Term 2 onwards)
 <br>And <strong>Volunteer Adult Leaders</strong>
 </p>
 <h3>Objectives</h3>
@@ -154,87 +154,6 @@ amongst them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WO Manav Kontu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Best Cadet (2019)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>WO Leong Hao Yi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCDF-NCDCC Pinnacle Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>WO Jerome Keong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCDF-NCDCC Pinnacle Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>WO Suriani Zaini Abdullah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 </tbody>

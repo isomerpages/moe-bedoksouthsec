@@ -138,9 +138,9 @@ football in an enjoyable and
 </tbody>
 </table>
 <h3>Teachers-in-Charge</h3>
-<p>Mr Nordin B Hassan (OIC)
-<br>Mr Loi Churn Mun
-<br>Mr Mohammed Imran Bin Mawardi
+<p>Mr Mohammed Imran Bin Mawardi (OIC)
+<br>Mr Loi Chun Mun
+<br>Mr Rayson
 <br>And&nbsp;<strong>External Coach</strong>
 </p>
 <h3>Leadership Positions</h3>

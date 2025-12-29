@@ -18,7 +18,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Sec 1 </h3>
+<h3>Sec 1</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

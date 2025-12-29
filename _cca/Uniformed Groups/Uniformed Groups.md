@@ -113,10 +113,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Girl Guides (G)
-<br>(No more intake from 2024)</p>
+<br>(until end of Semester 1, 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Eva Koh (Mrs Eva Seah) (covering OIC)
+<br>Ms Goh Siew Huang
+<br>Ms Rohana
 <br>
 </p>
 </td>

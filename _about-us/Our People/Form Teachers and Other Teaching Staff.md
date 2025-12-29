@@ -46,13 +46,13 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Fook Weng Adrian</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>110</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chong_fook_weng_adrian@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -60,13 +60,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suhaila Bte Mansor</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>116</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>suhaila_mansor@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -102,13 +102,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Huimin Jillian</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>111</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_huimin_jillian@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -144,13 +144,13 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sharifah Hana Bte H A Alhaddad</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>108</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sharifah_hana_h_alhaddad@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -186,13 +186,13 @@ variant: tiptap
 <p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Raudhah Md Khirruden</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>116</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>raudhah_binte_mohd_khirruden@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -200,13 +200,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Huay Meen Elizabeth (Mrs Elizabeth Ng)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>114</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_huay_meen@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -256,13 +256,13 @@ variant: tiptap
 <p>1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Wei Ling</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>113</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_wei_ling_a@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -270,13 +270,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nordin B Hassan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>162</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nordin_b_hassan@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -338,13 +338,13 @@ variant: tiptap
 <p>2 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zalehah Bte Mohd Noor</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>101</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zalehah_mohd_noor@moe.edu.sg</p>
+<p>oe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -464,13 +464,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Siew Huang</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>103</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_siew_huang@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1261,30 +1261,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2-EX</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Raudhah Md Khirruden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>116</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>raudhah_binte_mohd_khirruden@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1292,13 +1278,27 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Huay Meen Elizabeth (Mrs Elizabeth Ng)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>114</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_huay_meen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-GR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Wei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>113</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_wei_ling_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1306,13 +1306,27 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Nordin B Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>162</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nordin_b_hassan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chong Fook Weng Adrian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>110</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_fook_weng_adrian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1320,13 +1334,69 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Suhaila Bte Mansor</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>116</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>suhaila_mansor@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-RE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Huimin Jillian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>111</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chen_huimin_jillian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Zalehah Bte Mohd Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>101</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zalehah_mohd_noor@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-RL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sharifah Hana Bte H A Alhaddad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>108</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sharifah_hana_h_alhaddad@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Siew Huang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>103</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_siew_huang@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

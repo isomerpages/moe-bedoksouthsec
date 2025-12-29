@@ -47,7 +47,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>Ms Tan Wan Chin (OIC)
 <br>Mr Lim Tuan Zheng Joseph
-<br>Ms Hannah Lum
+<br>Ms Lum Wan Ling Hannah
 <br>Mr Roskhaider B Mohamed Saat (FAJT)
 <br>
 <br>and external coach</p>

@@ -28,7 +28,7 @@ platforms such as SYF Dance Presentation, Chingay, Suria Mediacorp, National
 Day Dinner @ Siglap CC &amp; VIA @ ‘My First School’!</p>
 <h3>Teachers-in-charge</h3>
 <p>Mdm Zalehah Bte Mohd Noor (OIC)&nbsp;
-<br>Ms Raudhah Md Khirruden</p>
+<br>Mdm Wong Hwee Chin</p>
 <h3>Participation</h3>
 <p>1. Colours of BDS at Methodist Girls AGAPE Hall</p>
 <p>2. SG50 Youth Dance Presentation at Singapore Indoor Stadium</p>

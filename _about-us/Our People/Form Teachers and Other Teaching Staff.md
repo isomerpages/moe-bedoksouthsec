@@ -380,13 +380,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Kah Hui Sandra</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>113</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_kah_hui_sandra@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -464,13 +464,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gan Chun Seng</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>110</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gan_chun_seng@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -898,7 +898,7 @@ variant: tiptap
 <p>107</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_mei_foong@moe.edu.sg</p>
+<p>edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1043,6 +1043,116 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>Sec 1 (2026)</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-AC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mahtani Hoori Vikram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>113</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mahtani_hoori_vikram@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Kah Hui Sandra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>113</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_kah_hui_sandra@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gan Chun Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>110</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>gan_chun_seng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Low Mei Foong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>107</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>low_mei_foong@moe.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Other Teaching Staffs</h3>
 <table style="minWidth: 100px">
 <colgroup>

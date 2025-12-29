@@ -47,7 +47,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>Ms Tan Wan Chin (OIC)
 <br>Mr Lim Tuan Zheng Joseph
-<br>Ms Hannah Lum
+<br>Ms Lum Wan Ling Hannah
 <br>Mr Roskhaider B Mohamed Saat (FAJT)
 <br>
 <br>and external coach</p>
@@ -75,7 +75,7 @@ variant: tiptap
 <p>Mdm Suhaila Bte Mansor (OIC)
 <br>Ms Foo Su Lian Gerardine
 <br>Ms Zheng Niqi
-<br>Ms Yeo Zi Han
+<br>Mr Yeo Zi Han
 <br>
 <br>and external coach</p>
 </td>
@@ -102,7 +102,7 @@ variant: tiptap
 </td>
 <td rowspan="2" colspan="1">
 <p>Mr Mohammed Imran Bin Mawardi (OIC)
-<br>Mr Loi Chun Mun
+<br>Mr Loi Churn Mun
 <br>Mr Rayson
 <br>
 <br>and external coach</p>
@@ -131,7 +131,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>Mdm Teo Kah Hui Sandra (OIC)
 <br>Ms Nadia Binte Lamri
-<br>Mr Leonard Mah
+<br>Mr Mah Choong Jie Leonard
 <br>
 <br>and external coach</p>
 </td>

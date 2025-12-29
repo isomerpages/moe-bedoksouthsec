@@ -161,7 +161,7 @@ C Girls</p>
 <h3>Teachers-in-Charge</h3>
 <p>Ms Tan Wan Chin (OIC)
 <br>Mr Lim Tuan Zheng Joseph
-<br>Ms Hannah Lum
+<br>Ms Lum Wan Ling Hannah
 <br>Mr Roskhaider B Mohamed Saat (FAJT)
 <br>And&nbsp;<strong>External Coach</strong>
 </p>

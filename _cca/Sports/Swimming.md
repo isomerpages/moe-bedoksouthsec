@@ -431,8 +431,8 @@ on various water safety measures.&nbsp;</p>
 </tbody>
 </table>
 <h3>Teacher-in-charge</h3>
-<p>Mr Loy Pei Phoong (OIC)
-<br>Ms Tan Huay Meen Elizabeth
+<p>Ms Tan Huay Meen Elizabeth (Mrs Elizabeth Ng)(OIC)
+<br>Ms Teo Wei Ling
 <br>and&nbsp;<strong>External Coach</strong>
 </p>
 <h3>Leadership Positions</h3>

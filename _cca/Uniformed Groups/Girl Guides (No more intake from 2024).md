@@ -21,6 +21,8 @@ of Guiding coincide with the 21st century competencies and desired outcomes
 for students from the Ministry of Education.</p>
 <h3>Teachers-in-Charge</h3>
 <p>Ms Eva Koh (Mrs Eva Seah) (OIC)
+<br>Ms Goh Siew Huang
+<br>Ms Rohana
 <br>And&nbsp;<strong>Volunteer Adult Leaders</strong>
 </p>
 <h3>Mission</h3>

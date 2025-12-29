@@ -249,10 +249,10 @@ and personal growth among all players.</p>
 </tbody>
 </table>
 <h3>Teachers-in-Charge</h3>
-<p>Mdm Teo Kah Hui Sandra (OIC)
+<p>Mdm Suhaila Bte Mansor (OIC)
 <br>Ms Foo Su Lian Gerardine
-<br>Mdm Suhaila Bte Mansor
 <br>Ms Zheng Niqi
+<br>Ms Yeo Zi Han
 <br>And&nbsp;<strong>External Coach</strong>
 </p>
 <h3>Leadership Positions</h3>

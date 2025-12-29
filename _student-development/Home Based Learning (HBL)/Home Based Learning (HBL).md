@@ -22,6 +22,8 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </p>
 <p>Please click here for the <a href="https://go.gov.sg/2025bdshblv2" rel="noopener nofollow" target="_blank">HBL Schedule 2025.</a>
 </p>
+<p>Please click here for the <a href="https://go.gov.sg/hblschedule2026" rel="noopener nofollow" target="_blank">HBL Schedule 2026</a>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -35,17 +37,19 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 3 (24 Jan)</p>
+<p>Week 2 (16 Jan)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/24Jan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/16_Jan.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 4 (31 Jan) *In Lieu of Week 1 HBL</p>
+<p>Week 4 (30 Jan) *In Lieu of Week 1 HBL</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/31jan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/30_Jan.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home%20Based%20Learning/26Jan.JPG">
@@ -54,26 +58,17 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 5 (7 Feb)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/7feb.png">
-</div>
+<p>Week 6 (13 Feb)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 7 (21 Feb)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/21feb.png">
-</div>
+<p>Week 8 (27 Feb)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 9 (7 Mar)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/7mar.png">
-</div>
+<p>Week 10 (13 Mar)</p>
 </td>
 </tr>
 <tr>
@@ -84,52 +79,23 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 1 (28 Mar)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/28mar.png">
-</div>
+<p>Week 7 (8 May) *In Lieu of Week 4 HBL</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 3 (11 Apr)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/11apr.png">
-</div>
+<p>Week 8 (15 May)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 6 (2 May)</p>
+<p>Week 10 (28 May) * PTM</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/2MayHBLV2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Week 7 (9 May)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/9mayhblv2.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 10 (29 May) *PTM</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/29may.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Week 10 (30 May) *PTM</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/30may.png">
-</div>
 </td>
 </tr>
 <tr>
@@ -140,26 +106,27 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Week 3 (13 Jul) *National Oral Exams</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Week 3 (14 Jul) *National Oral Exams</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Week 3 (15 Jul) *National Oral Exams</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/5jul.png">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 3 (16 Jul) *National Oral Exams</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/16jul.png">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 3 (17 Jul) *National Oral Exams</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/17jul.png">
-</div>
 </td>
 </tr>
 </tbody>

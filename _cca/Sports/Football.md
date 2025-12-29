@@ -139,7 +139,7 @@ football in an enjoyable and
 </table>
 <h3>Teachers-in-Charge</h3>
 <p>Mr Mohammed Imran Bin Mawardi (OIC)
-<br>Mr Loi Chun Mun
+<br>Mr Loi Churn Mun
 <br>Mr Rayson
 <br>And&nbsp;<strong>External Coach</strong>
 </p>

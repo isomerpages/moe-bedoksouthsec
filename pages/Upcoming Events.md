@@ -52,10 +52,50 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>16 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-Based Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-Based Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-Based Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>17, 18 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese New Year</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-Based Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-Based Learning</p>
 </td>
 </tr>
 <tr>
@@ -93,10 +133,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>8 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-Based Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-Based Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>27 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hari Raya Haji</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-Based Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-Based Learning</p>
 </td>
 </tr>
 </tbody>

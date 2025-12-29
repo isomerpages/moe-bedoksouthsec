@@ -17,10 +17,8 @@ Secondary 1 to 3 students are also equipped with a Personal Learning Device
 (PLD) under the National Digital Literacy Programme (NDLP) and can tap
 on the various affordances provided by the PLD.</p>
 <h3>HBL@BDS (every ODD Friday)</h3>
-<p>HBL@BDS will be scheduled on every ODD Friday. Please click on the following
+<p>HBL@BDS will be scheduled on every EVEN Friday. Please click on the following
 dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in with their respective Form Teachers at 7.45am on HBL@BDS days.</strong>
-</p>
-<p>Please click here for the <a href="https://go.gov.sg/2025bdshblv2" rel="noopener nofollow" target="_blank">HBL Schedule 2025.</a>
 </p>
 <p>Please click here for the <a href="https://go.gov.sg/hblschedule2026" rel="noopener nofollow" target="_blank">HBL Schedule 2026</a>
 </p>
@@ -38,7 +36,6 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 2 (16 Jan)</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/16_Jan.png">
 </div>
@@ -47,7 +44,6 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 4 (30 Jan) *In Lieu of Week 1 HBL</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/30_Jan.png">
 </div>
@@ -59,16 +55,25 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 6 (13 Feb)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/13_Feb.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 8 (27 Feb)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/27_Feb.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 10 (13 Mar)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/13_Mar.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -80,22 +85,33 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 7 (8 May) *In Lieu of Week 4 HBL</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/8_May.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 8 (15 May)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/15_May.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 10 (28 May) * PTM</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/28_May.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 10 (29 May) *PTM</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/29_May.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -107,26 +123,42 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 3 (13 Jul) *National Oral Exams</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/13_Jul.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 3 (14 Jul) *National Oral Exams</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/14_Jul.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 3 (15 Jul) *National Oral Exams</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/15_Jul.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 3 (16 Jul) *National Oral Exams</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/16_Jul.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Week 3 (17 Jul) *National Oral Exams</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/17_Jul.png">
+</div>
 </td>
 </tr>
 </tbody>

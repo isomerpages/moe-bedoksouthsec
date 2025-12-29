@@ -45,9 +45,9 @@ variant: tiptap
 <p>Badminton</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Mr Yip Kim San (OIC)
-<br>Mrs Mah-Pow Lai Ghim
+<p>Ms Tan Wan Chin (OIC)
 <br>Mr Lim Tuan Zheng Joseph
+<br>Ms Hannah Lum
 <br>Mr Roskhaider B Mohamed Saat (FAJT)
 <br>
 <br>and external coach</p>
@@ -72,10 +72,10 @@ variant: tiptap
 <p>Floorball</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Mdm Teo Kah Hui Sandra (OIC)
+<p>Mdm Suhaila Bte Mansor (OIC)
 <br>Ms Foo Su Lian Gerardine
-<br>Mdm Suhaila Bte Mansor
 <br>Ms Zheng Niqi
+<br>Ms Yeo Zi Han
 <br>
 <br>and external coach</p>
 </td>
@@ -101,9 +101,9 @@ variant: tiptap
 <p>Football</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Mr Nordin B Hassan (OIC)
+<p>Mr Mohammed Imran Bin Mawardi (OIC)
 <br>Mr Loi Chun Mun
-<br>Mr Mohammed Imran Bin Mawardi
+<br>Mr Rayson
 <br>
 <br>and external coach</p>
 </td>
@@ -129,9 +129,9 @@ variant: tiptap
 <p>Netball</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Ms Srividya Nair DO Rajakumaran Nair (OIC)
+<p>Mdm Teo Kah Hui Sandra (OIC)
 <br>Ms Nadia Binte Lamri
-<br>Ms Zhang Yu
+<br>Mr Leonard Mah
 <br>
 <br>and external coach</p>
 </td>
@@ -157,8 +157,8 @@ variant: tiptap
 <p>Swimming</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Mr Loy Pei Phoong (OIC)
-<br>Ms Tan Huay Meen Elizabeth</p>
+<p>Ms Tan Huay Meen Elizabeth (OIC)
+<br>Ms Teo Wei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday</p>
@@ -179,11 +179,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Support And Intervention</p>
+<p>GEAR-UP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nadia Bte Ramli</p>
-<p>Ms Chua Hui Qi</p>
+<p>Mr Loy Pei Phoong
+<br>Mdm Adimah
+<br>Mdm Magdalene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

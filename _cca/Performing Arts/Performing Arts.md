@@ -46,8 +46,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Toh Qin Min (OIC)
-<br>Ms Joy Chia Yong Le
-<br>Ms Li Fei</p>
+<br>Ms Li Fei
+<br>Mr Sean Goh
+<br>Mr Loo Ruijie (Term 2 onwards)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 – 1800
@@ -87,7 +88,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>Ms Low Mei Foong (OIC)
 <br>Mdm Zhao Xiumin
-<br>Ms Tan Wan Ning</p>
+<br>Mr Nordin B Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 – 1700
@@ -119,7 +120,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zalehah Bte Mohd Noor (OIC)
-<br>Ms Raudhah Md Khirruden</p>
+<br>Mdm Wong Hwee Chin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 – 1700
@@ -138,7 +139,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Fatimah Bte Muhammad Tahir (OIC)
-<br>Ms Tan Xinyi Cherlyn
 <br>Ms Khoo Su-Lin (Mrs Teo)
 <br>Ms Chen Huimin Jillian</p>
 </td>

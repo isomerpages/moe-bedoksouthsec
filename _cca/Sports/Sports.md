@@ -179,11 +179,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Support And Intervention</p>
+<p>GEAR-UP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nadia Bte Ramli</p>
-<p>Ms Chua Hui Qi</p>
+<p>Mr Loy Pei Phoong
+<br>Mdm Adimah
+<br>Mdm Magdalene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

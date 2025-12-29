@@ -163,4 +163,5 @@ WEI JIE (3D) FOO CHUAN YEE (3C), and FONG KENG XIN (3D)</p>
 <h3>Teachers-In-Charge</h3>
 <p>Ms Ng Li Min Joanne (OIC)
 <br>Mdm Ho Lee Ling Caroline
-<br>Ms Sim Ting Ting Nancy</p>
+<br>Ms Sim Ting Ting Nancy
+<br>Ms Liyana Athirah</p>

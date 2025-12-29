@@ -138,7 +138,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Fatimah Bte Muhammad Tahir (OIC)
-<br>Ms Tan Xinyi Cherlyn
 <br>Ms Khoo Su-Lin (Mrs Teo)
 <br>Ms Chen Huimin Jillian</p>
 </td>

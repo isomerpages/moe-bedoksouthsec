@@ -97,9 +97,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Syafiqah Begum Binte Ismail Rahim (OIC)
-<br>Ms Teo Wei Ling
-<br>Mdm Goh Siew Huang
-<br>Ms Huang Yin-Chiao</p>
+<br>Ms Eva Koh (Mrs Eva Seah)(Semester 2 onwards)
+<br>Keith Teo (Term 1)
+<br>Ernest Sim (Term 2 onwards)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00 pm – 5.30 pm
@@ -117,7 +117,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Eva Koh (Mrs Eva Seah) (covering OIC)
-<br>Ms Goh Siew Huang
+<br>Mdm Goh Siew Huang
 <br>Ms Rohana
 <br>
 </p>

@@ -146,24 +146,12 @@ and fair play</p>
 <p>Particpiation</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA Fair</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Teachers-in-Charge</h3>
-<p>Ms Srividya Nair DO Rajakumaran Nair​ (OIC)
+<p>Mdm Teo Kah Hui Sandra​ (OIC)
 <br>Ms Nadia Binte Lamri
-<br>Ms Zheng Niqi
-<br>Ms Zhang Yu
+<br>Mr Leonard Mah
 <br>And&nbsp;<strong>External Coach</strong>
 </p>
 <h3>Leadership Positions</h3>

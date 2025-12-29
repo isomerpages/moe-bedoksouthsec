@@ -22,6 +22,8 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 </p>
 <p>Please click here for the <a href="https://go.gov.sg/2025bdshblv2" rel="noopener nofollow" target="_blank">HBL Schedule 2025.</a>
 </p>
+<p>Please click here for the <a href="https://go.gov.sg/hblschedule2026" rel="noopener nofollow" target="_blank">HBL Schedule 2026</a>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>

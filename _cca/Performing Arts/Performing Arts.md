@@ -87,7 +87,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>Ms Low Mei Foong (OIC)
 <br>Mdm Zhao Xiumin
-<br>Ms Tan Wan Ning</p>
+<br>Mr Nordin B Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 – 1700
@@ -119,7 +119,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zalehah Bte Mohd Noor (OIC)
-<br>Ms Raudhah Md Khirruden</p>
+<br>Mdm Wong Hwee Chin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1500 – 1700

@@ -72,9 +72,9 @@ Day concert)
 <br>SYF 2021 – Certificate of Accomplishment (Team B)</p>
 <h3>Teachers-in-Charge</h3>
 <p>Ms Siti Fatimah Bte Muhammad Tahir (OIC)
-<br>Ms Tan Xinyi Cherlyn
 <br>Ms Khoo Su-Lin (Mrs Teo)
 <br>Ms Chen Huimin Jillian
+<br>Mr Keith Teo (Term 2 onwards)
 <br><strong>And External Instructors</strong>
 </p>
 <h3>Leadership</h3>

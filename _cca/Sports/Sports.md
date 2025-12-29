@@ -131,7 +131,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>Mdm Teo Kah Hui Sandra (OIC)
 <br>Ms Nadia Binte Lamri
-<br>Mr Leonard Mah
+<br>Mr Mah Choong Jie Leonard
 <br>
 <br>and external coach</p>
 </td>

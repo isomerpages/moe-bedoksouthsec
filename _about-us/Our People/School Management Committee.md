@@ -97,13 +97,13 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sng Kuo Wai Simon</p>
+<p>Mr Lim Chern Cheung Webster</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 1 Lower Sec)</p>
+<p>Assistant Year Head (Sec 1 Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sng_kuo_wai_simon@moe.edu.sg</p>
+<p>lim_chern_cheung_webster@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -111,13 +111,13 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Miaw Charn (Mrs Adeline Yee)</p>
+<p>Ms Nadia Bte Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Sec 2 Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_miaw_charn@moe.edu.sg</p>
+<p>nadia_ramli@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -125,13 +125,13 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Zubaidah Mohd Sharif</p>
+<p>Ms Wong Miaw Charn (Mrs Adeline Yee)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Sec 3 Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_zubaidah_mohd_sharif@moe.edu.sg</p>
+<p>wong_miaw_charn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -139,13 +139,13 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Chern Cheung Webster</p>
+<p>Mr Mr Sng Kuo Wai Simon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 4 &amp; 5 Upper Sec)</p>
+<p>Year Head (Sec 4 &amp; 5 Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_chern_cheung_webster@moe.edu.sg</p>
+<p>sng_kuo_wai_simon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

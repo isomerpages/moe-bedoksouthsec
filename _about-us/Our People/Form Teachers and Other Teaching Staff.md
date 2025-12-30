@@ -265,7 +265,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-AC</p>
+<p>2 Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Keith Teo Cheng Han</p>
@@ -293,7 +293,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-CA</p>
+<p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Loi Churn Mun</p>
@@ -321,7 +321,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-CO</p>
+<p>2 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chia Suat Huang</p>
@@ -349,7 +349,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-EM</p>
+<p>2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Faruzah Bte Osman</p>
@@ -363,7 +363,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-EX</p>
+<p>2 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Huay Meen Elizabeth (Mrs Elizabeth Ng)</p>
@@ -391,7 +391,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-GR</p>
+<p>2 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nordin B Hassan</p>
@@ -419,7 +419,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-IN</p>
+<p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chong Fook Weng Adrian</p>
@@ -447,7 +447,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-RE</p>
+<p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chen Huimin Jillian</p>
@@ -475,7 +475,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-RL</p>
+<p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Siew Huang</p>
@@ -721,7 +721,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Accountabilty</p>
+<p>4 Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Mah-Pow Lai Gim</p>

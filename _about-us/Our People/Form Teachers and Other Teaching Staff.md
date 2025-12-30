@@ -721,7 +721,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-AC</p>
+<p>4 Accountabilty</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Mah-Pow Lai Gim</p>
@@ -749,7 +749,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-CA</p>
+<p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Jing Teng</p>
@@ -777,7 +777,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-CO</p>
+<p>4 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Choo Chee Mian Eric</p>
@@ -805,7 +805,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-EX</p>
+<p>4 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Ching Yang Adrian</p>
@@ -833,7 +833,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-GR</p>
+<p>4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Tuan Zheng Joseph</p>
@@ -875,7 +875,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-IN</p>
+<p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Eva Koh (Mrs Eva Seah)</p>
@@ -903,7 +903,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-RE</p>
+<p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joy Chia Yong Le</p>

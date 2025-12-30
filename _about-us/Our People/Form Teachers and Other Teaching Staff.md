@@ -514,7 +514,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-AC</p>
+<p>3 Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suchandra Ghose</p>
@@ -542,7 +542,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-CA</p>
+<p>3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Azleen Binte Khamis</p>
@@ -570,7 +570,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-CO</p>
+<p>3 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Foo Su Lian Gerardine</p>
@@ -598,7 +598,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-EX</p>
+<p>3 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Pooja Avichal Ghoghari</p>
@@ -626,7 +626,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-GR</p>
+<p>3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ernest Sim Ke Zhang</p>
@@ -654,7 +654,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-IN</p>
+<p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Song Wei Chiek Hubert</p>
@@ -682,7 +682,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-RE</p>
+<p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Shong Heng Sean</p>

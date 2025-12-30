@@ -931,7 +931,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5A</p>
+<p>5 Aspire</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Azman Bin Mohd Selamat</p>
@@ -1036,20 +1036,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>magdalene_chan_may_er_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT (POA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Chye Kee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>102</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_chye_kee_terry@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

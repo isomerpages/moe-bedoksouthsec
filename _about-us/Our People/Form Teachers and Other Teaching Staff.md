@@ -29,7 +29,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-AC</p>
+<p>1 Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Mahtani Hoori Vikram</p>
@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-CA</p>
+<p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gan Chun Seng</p>
@@ -85,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-CO</p>
+<p>1 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Khoo Su-Lin (Mrs Teo)</p>
@@ -113,7 +113,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-EX</p>
+<p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Srividya Nair DO Rajakumaran Nair</p>
@@ -127,7 +127,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-GR</p>
+<p>1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Lee Ling Caroline</p>
@@ -169,7 +169,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-IN</p>
+<p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cheng Wan Li</p>
@@ -197,7 +197,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-RE</p>
+<p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lum Wan Ling Hannah</p>
@@ -226,7 +226,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-RL</p>
+<p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Ming Ming (Mrs Cher-Lim Ming Ming)</p>
@@ -265,7 +265,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-AC</p>
+<p>2 Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Keith Teo Cheng Han</p>
@@ -293,7 +293,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-CA</p>
+<p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Loi Churn Mun</p>
@@ -321,7 +321,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-CO</p>
+<p>2 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chia Suat Huang</p>
@@ -349,7 +349,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-EM</p>
+<p>2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Faruzah Bte Osman</p>
@@ -363,7 +363,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-EX</p>
+<p>2 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Huay Meen Elizabeth (Mrs Elizabeth Ng)</p>
@@ -391,7 +391,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-GR</p>
+<p>2 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nordin B Hassan</p>
@@ -419,7 +419,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-IN</p>
+<p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chong Fook Weng Adrian</p>
@@ -447,7 +447,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-RE</p>
+<p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chen Huimin Jillian</p>
@@ -475,7 +475,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2-RL</p>
+<p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Siew Huang</p>
@@ -514,7 +514,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-AC</p>
+<p>3 Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suchandra Ghose</p>
@@ -542,7 +542,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-CA</p>
+<p>3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Azleen Binte Khamis</p>
@@ -570,7 +570,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-CO</p>
+<p>3 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Foo Su Lian Gerardine</p>
@@ -598,7 +598,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-EX</p>
+<p>3 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Pooja Avichal Ghoghari</p>
@@ -626,7 +626,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-GR</p>
+<p>3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ernest Sim Ke Zhang</p>
@@ -654,7 +654,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-IN</p>
+<p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Song Wei Chiek Hubert</p>
@@ -682,7 +682,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-RE</p>
+<p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Shong Heng Sean</p>
@@ -721,7 +721,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-AC</p>
+<p>4 Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Mah-Pow Lai Gim</p>
@@ -749,7 +749,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-CA</p>
+<p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Jing Teng</p>
@@ -777,7 +777,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-CO</p>
+<p>4 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Choo Chee Mian Eric</p>
@@ -805,7 +805,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-EX</p>
+<p>4 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Ching Yang Adrian</p>
@@ -833,7 +833,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-GR</p>
+<p>4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Tuan Zheng Joseph</p>
@@ -875,7 +875,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-IN</p>
+<p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Eva Koh (Mrs Eva Seah)</p>
@@ -903,7 +903,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-RE</p>
+<p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joy Chia Yong Le</p>
@@ -931,7 +931,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5A</p>
+<p>5 Aspire</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Azman Bin Mohd Selamat</p>
@@ -1036,20 +1036,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>magdalene_chan_may_er_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT (POA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Chye Kee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>102</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_chye_kee_terry@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

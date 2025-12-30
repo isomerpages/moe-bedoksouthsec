@@ -84,8 +84,7 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_ain_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_ain_ramli@schools.gov.sg</a>
-</p>
+<p>nurul_ain_ramli@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

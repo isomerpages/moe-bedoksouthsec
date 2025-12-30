@@ -29,7 +29,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-AC</p>
+<p>1 Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Mahtani Hoori Vikram</p>
@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-CA</p>
+<p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gan Chun Seng</p>
@@ -85,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-CO</p>
+<p>1 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Khoo Su-Lin (Mrs Teo)</p>
@@ -113,7 +113,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-EX</p>
+<p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Srividya Nair DO Rajakumaran Nair</p>
@@ -127,7 +127,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-GR</p>
+<p>1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Lee Ling Caroline</p>
@@ -169,7 +169,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-IN</p>
+<p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cheng Wan Li</p>
@@ -197,7 +197,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-RE</p>
+<p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lum Wan Ling Hannah</p>
@@ -226,7 +226,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-RL</p>
+<p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Ming Ming (Mrs Cher-Lim Ming Ming)</p>

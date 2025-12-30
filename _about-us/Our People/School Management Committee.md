@@ -64,20 +64,6 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Azlinda Bte Samsudin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>azlinda_samsudin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Alvin Chen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,6 +71,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chen_jingyuan_alvin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Ain Ramli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurul_ain_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_ain_ramli@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

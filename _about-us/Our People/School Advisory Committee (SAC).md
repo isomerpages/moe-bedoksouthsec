@@ -68,6 +68,22 @@ variant: tiptap
 <p>Member</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Jeffrey Cheong Hwee Han</strong> 
+</p>
+<p></p>
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Tan Thiam Lye Ivan</strong>
+</p>
+<p></p>
+<p>Member</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

@@ -128,7 +128,7 @@ variant: tiptap
 <p>Ms Wong Miaw Charn (Mrs Adeline Yee)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 3 Upper Sec)</p>
+<p>Assistant Year Head (Sec 3 Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_miaw_charn@moe.edu.sg</p>

@@ -100,7 +100,7 @@ variant: tiptap
 <p>Mr Lim Chern Cheung Webster</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 1 Lower Sec)</p>
+<p>Assistant Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_chern_cheung_webster@moe.edu.sg</p>

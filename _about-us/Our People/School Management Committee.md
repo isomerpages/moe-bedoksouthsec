@@ -114,7 +114,7 @@ variant: tiptap
 <p>Ms Nadia Bte Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 2 Lower Sec)</p>
+<p>Assistant Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nadia_ramli@moe.edu.sg</p>

@@ -699,10 +699,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Zi Han</p>
+<p>Ms Yeo Zi Han Emmeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>114</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_zi_han@moe.edu.sg</p>

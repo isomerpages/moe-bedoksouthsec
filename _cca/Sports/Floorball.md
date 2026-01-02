@@ -252,7 +252,7 @@ and personal growth among all players.</p>
 <p>Mdm Suhaila Bte Mansor (OIC)
 <br>Ms Foo Su Lian Gerardine
 <br>Ms Zheng Niqi
-<br>Mr Yeo Zi Han
+<br>Mr Mah Choong Jie Leonard
 <br>And&nbsp;<strong>External Coach</strong>
 </p>
 <h3>Leadership Positions</h3>

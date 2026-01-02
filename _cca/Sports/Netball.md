@@ -151,7 +151,8 @@ and fair play</p>
 <h3>Teachers-in-Charge</h3>
 <p>Mdm Teo Kah Hui Sandra​ (OIC)
 <br>Ms Nadia Binte Lamri
-<br>Mr Mah Choong Jie Leonard
+<br>Ms Yeo Zi Han Emmeline
+<br>
 <br>And&nbsp;<strong>External Coach</strong>
 </p>
 <h3>Leadership Positions</h3>

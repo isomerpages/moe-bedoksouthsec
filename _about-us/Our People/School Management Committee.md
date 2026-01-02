@@ -214,6 +214,20 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Nuraishah Bte Mohd Isa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nuraishah_mohd_isa@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Pearl Lee Ying Yan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,7 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tania Chong</p>
@@ -239,7 +253,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Wee Hoon</p>
@@ -253,7 +267,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Teck Joo</p>
@@ -267,7 +281,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Ming Zhi Denise</p>
@@ -281,7 +295,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kow Yoke Ling (Kwang Yoke Ling)</p>
@@ -295,7 +309,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hani Alsagoff</p>

@@ -114,7 +114,7 @@ variant: tiptap
 <p>Ms Nadia Bte Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 2)</p>
+<p>Assistant Year Head, Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nadia_ramli@moe.edu.sg</p>
@@ -128,7 +128,7 @@ variant: tiptap
 <p>Ms Wong Miaw Charn (Mrs Adeline Yee)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 3)</p>
+<p>Assistant Year Head, Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_miaw_charn@moe.edu.sg</p>

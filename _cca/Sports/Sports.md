@@ -75,7 +75,7 @@ variant: tiptap
 <p>Mdm Suhaila Bte Mansor (OIC)
 <br>Ms Foo Su Lian Gerardine
 <br>Ms Zheng Niqi
-<br>Mr Yeo Zi Han
+<br>Mr Mah Choong Jie Leonard
 <br>
 <br>and external coach</p>
 </td>
@@ -131,7 +131,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>Mdm Teo Kah Hui Sandra (OIC)
 <br>Ms Nadia Binte Lamri
-<br>Mr Mah Choong Jie Leonard
+<br>Ms Yeo Zi Han Emmeline
 <br>
 <br>and external coach</p>
 </td>

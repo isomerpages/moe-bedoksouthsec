@@ -331,20 +331,6 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Seng Mei Hui Sheena</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>seng_mei_hui_sheena@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Mohamed Azman Bin Mohamed Selamat</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -356,7 +342,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Jing Teng</p>
@@ -370,7 +356,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Kian Boon</p>
@@ -384,7 +370,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Rongen Joshua</p>
@@ -398,7 +384,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Shong Heng Sean</p>
@@ -412,7 +398,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Wan Chin</p>
@@ -426,7 +412,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Jiaqi Arthur</p>

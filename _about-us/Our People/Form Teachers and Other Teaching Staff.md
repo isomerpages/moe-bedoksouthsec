@@ -998,20 +998,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Huang Yin-Chiao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>107</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>huang_yin_chiao@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>FAJT (Committee)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1026,13 +1012,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>FAJT (English)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mahtani Hoori Vikram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>113</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mathani_hoori_vikram@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT (English)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rohana Mohamed Salleh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>102</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rohana_mohamed_salleh_b@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>FAJT (Gear Up)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Magdalene Chan May Er</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N.A.</p>
+<p>157</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>magdalene_chan_may_er_a@moe.edu.sg</p>
@@ -1040,7 +1054,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT (Sports)</p>
+<p>FAJT (Physical Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rayson Soh Li Sen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>163</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rayson_soh_li_sen_d@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAJT (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Roskhaider Bin Mohamed Saat</p>

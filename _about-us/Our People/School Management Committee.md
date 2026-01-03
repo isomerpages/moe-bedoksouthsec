@@ -345,6 +345,34 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Lee Wan Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_wan_xin_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cherlyn Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinyi_cherlyn_tan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Goh Jing Teng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -356,7 +384,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Kian Boon</p>
@@ -370,7 +398,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Rongen Joshua</p>
@@ -380,34 +408,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_rongen_joshua@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Shong Heng Sean</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_shong_heng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Wan Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Mother Tongue (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_wan_chin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

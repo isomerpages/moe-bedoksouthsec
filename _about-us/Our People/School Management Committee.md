@@ -114,7 +114,7 @@ variant: tiptap
 <p>Ms Nadia Bte Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 2)</p>
+<p>Assistant Year Head, Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nadia_ramli@moe.edu.sg</p>
@@ -128,7 +128,7 @@ variant: tiptap
 <p>Ms Wong Miaw Charn (Mrs Adeline Yee)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 3)</p>
+<p>Assistant Year Head, Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_miaw_charn@moe.edu.sg</p>
@@ -331,20 +331,6 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Seng Mei Hui Sheena</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>seng_mei_hui_sheena@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Mohamed Azman Bin Mohamed Selamat</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -356,7 +342,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Wan Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_wan_xin_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cherlyn Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinyi_cherlyn_tan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Jing Teng</p>
@@ -370,7 +384,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Kian Boon</p>
@@ -384,7 +398,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Rongen Joshua</p>
@@ -398,35 +412,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Shong Heng Sean</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_shong_heng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Wan Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Mother Tongue (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_wan_chin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Jiaqi Arthur</p>

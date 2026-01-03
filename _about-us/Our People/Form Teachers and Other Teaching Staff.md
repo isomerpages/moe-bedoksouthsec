@@ -998,20 +998,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT (Committee)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hasanna Bte Kamsan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nur_hasanna_kamsan_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>FAJT (English)</p>
 </td>
 <td rowspan="1" colspan="1">

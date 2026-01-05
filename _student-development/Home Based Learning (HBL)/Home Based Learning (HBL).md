@@ -20,7 +20,7 @@ on the various affordances provided by the PLD.</p>
 <p>HBL@BDS will be scheduled on every EVEN Friday. Please click on the following
 dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in with their respective Form Teachers at 7.45am on HBL@BDS days.</strong>
 </p>
-<p>Please click here for the <a href="https://go.gov.sg/hbl2026briefing" rel="noopener nofollow" target="_blank">HBL 2026 Briefing </a>
+<p>Please click here for the <a href="https://go.gov.sg/hbl2026briefing" rel="noopener nofollow" target="_blank">HBL 2026 Briefing</a>
 </p>
 <table style="minWidth: 25px">
 <colgroup>

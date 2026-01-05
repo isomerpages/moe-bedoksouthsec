@@ -115,6 +115,10 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 <p>Week 10 (28 May) * PTM</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/May28.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/28_May.png">
 </div>
 </td>

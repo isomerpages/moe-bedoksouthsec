@@ -1,6 +1,6 @@
 ---
 title: FAQs for PLD
-permalink: /student-development/ndlp/faqsforpld/
+permalink: /student-development/edtech-at-bds/faqs-for-pld/
 description: ""
 third_nav_title: EdTech @ BDS
 variant: tiptap

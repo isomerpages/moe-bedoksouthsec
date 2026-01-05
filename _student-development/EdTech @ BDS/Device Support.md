@@ -1,6 +1,6 @@
 ---
 title: Device Support
-permalink: /student-development/ndlp/device-support/
+permalink: /student-development/edtech-at-bds/device-support/
 description: ""
 third_nav_title: EdTech @ BDS
 variant: tiptap

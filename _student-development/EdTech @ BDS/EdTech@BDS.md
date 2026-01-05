@@ -1,6 +1,6 @@
 ---
 title: EdTech@BDS
-permalink: /student-development/edtechbds/
+permalink: /student-development/edtech-at-bds/
 description: ""
 third_nav_title: EdTech @ BDS
 variant: tiptap

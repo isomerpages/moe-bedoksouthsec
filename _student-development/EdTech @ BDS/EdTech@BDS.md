@@ -5,7 +5,7 @@ description: ""
 third_nav_title: EdTech @ BDS
 variant: tiptap
 ---
-<h2>EdTech@BDS</h2>
+<h1>EdTech@BDS</h1>
 <p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
 Digital Literacy Programme (NDLP) for our schools and Institutes of Higher
 Learning to help students strengthen their digital literacy. One of the

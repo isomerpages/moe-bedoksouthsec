@@ -139,7 +139,7 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mr Sng Kuo Wai Simon</p>
+<p>Mr Sng Kuo Wai Simon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Upper Sec), Sec 4</p>

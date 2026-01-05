@@ -140,19 +140,6 @@ Exchange Programmes every year.</p>
 <p>Muhammad Hakim Bin Ismadie, 4F</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Recognition Award (2021)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outstanding</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>

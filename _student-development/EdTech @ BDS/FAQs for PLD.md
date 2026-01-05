@@ -5,7 +5,7 @@ description: ""
 third_nav_title: EdTech @ BDS
 variant: tiptap
 ---
-<h1>Resources for Parents</h1>
+<h1>FAQs for PLD</h1>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRpa52A1XH1GG3TnDN70iPZRLu6CAjNiafoOAjIrqge9g3w_vY9bZlo9Ek2AaxvzYH0wleYA1YBbSl7/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>

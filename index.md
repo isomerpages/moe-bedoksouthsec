@@ -18,4 +18,7 @@ sections:
         - title: Upcoming Events
           description: Check out the upcoming events!
           url: /upcoming-events
+        - title: GCE O-Level Result Release
+          description: Jan 14
+          url: ""
 ---

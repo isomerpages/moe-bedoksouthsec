@@ -2,7 +2,6 @@
 title: School Uniform and Tie
 permalink: /information-and-links/For-Students/school-uniform-and-tie/
 description: ""
-third_nav_title: For Students
 variant: tiptap
 ---
 <h1>School Uniform and Tie</h1>

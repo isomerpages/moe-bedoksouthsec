@@ -18,7 +18,7 @@ the PLD for your child/ward as well as the accompanying applications that
 the school will be rolling out as part of the NDLP.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJDjFJpIZlQaxgq7-omuitdzDubOfJOXC_nJ08MTAqvbLmw5Dy2amuO0BfbdjIghia3UqH9xfc58Fs/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJDjFJpIZlQaxgq7-omuitdzDubOfJOXC_nJ08MTAqvbLmw5Dy2amuO0BfbdjIghia3UqH9xfc58Fs/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
 <h3>Further Queries</h3>

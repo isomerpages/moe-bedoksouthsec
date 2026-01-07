@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 - 16 Jan (Tentative)</p>
+<p>14 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Results Release for GCE O-Level Examination</p>

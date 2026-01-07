@@ -119,7 +119,10 @@ to the following links:
 <br><a href="https://go.gov.sg/examinationtimetable" rel="noopener noreferrer nofollow" target="_blank">Examination Timetable</a>
 </p>
 <h3>Approved Dictionary List</h3>
-<p>Click the approved dictionary list for the respective examination levels. <strong><a href="https://go.gov.sg/approvedmtldictionaries2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/approvedmtldictionaries2026</a></strong>
+<p>Click the approved dictionary list for the respective examination levels.
+<br><a href="https://go.gov.sg/seab-approveddictionaries" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/seab-approveddictionaries</a>
+<br>
+<br>
 </p>
 <h3>Parents' Corner</h3>
 <p><strong>Supporting your child in learning and loving his/her MTL, is as easy as A, B, C.</strong>

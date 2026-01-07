@@ -20,22 +20,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Results Release for GCE N(A)- and N(T)-Levels Examination</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>New Year's Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2 Jan - 13 Mar</p>
 </td>
 <td rowspan="1" colspan="1">

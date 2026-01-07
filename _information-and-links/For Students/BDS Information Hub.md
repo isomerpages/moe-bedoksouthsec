@@ -6,8 +6,7 @@ description: ""
 third_nav_title: For Students
 ---
 <h3>BDS Information Hub</h3>
-<p>Access all BDS-relevant information here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/BDS-InfoHub</a> (MIMS
-login needed)
+<p>Access all BDS-relevant information <a href="https://go.gov.sg/BDS-InfoHub" rel="noopener nofollow" target="_blank">here</a>. (MIMS login needed)
 <br>
 </p>
 <ol data-tight="true" class="tight">

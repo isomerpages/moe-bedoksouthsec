@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1>FAQs for PLD</h1>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRpa52A1XH1GG3TnDN70iPZRLu6CAjNiafoOAjIrqge9g3w_vY9bZlo9Ek2AaxvzYH0wleYA1YBbSl7/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRpa52A1XH1GG3TnDN70iPZRLu6CAjNiafoOAjIrqge9g3w_vY9bZlo9Ek2AaxvzYH0wleYA1YBbSl7/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p>To support you in keeping your child / ward safe online, you may refer

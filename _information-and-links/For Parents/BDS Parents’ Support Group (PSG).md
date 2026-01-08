@@ -91,7 +91,7 @@ serving and supporting the school and students, please click on this
 <a href="https://go.gov.sg/2025psgform" rel="noopener nofollow" target="_blank">link</a>or scan the QR code.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Information And Links/For Parents/psg2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Information And Links/For Parents/PSG2026.jpg">
 </div>
 <h3>Photos of Various Programmes</h3>
 <h5><strong>Parent-Child Bonding Over Bowling</strong></h5>

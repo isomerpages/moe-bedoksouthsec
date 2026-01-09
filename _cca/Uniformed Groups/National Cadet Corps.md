@@ -146,6 +146,9 @@ Exchange Programmes every year.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc13.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/FYY.jpg">
+</div>
 <h3>Leadership Positions</h3>
 <table style="minWidth: 50px">
 <colgroup>

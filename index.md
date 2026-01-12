@@ -20,5 +20,5 @@ sections:
           url: /upcoming-events
         - title: 2026 GCE O-Level Result Release
           description: January 14 2026
-          url: /2026 GCE O LEVEL RELEASE
+          url: /gce-o-level-result-release/
 ---

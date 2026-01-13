@@ -37,7 +37,7 @@ dates for the HBL@BDS timetable.&nbsp;<strong>All students will need to check-in
 <td rowspan="1" colspan="1">
 <p>Week 2 (16 Jan)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Based Learning/Jan16.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Home_Based_Learning/HBL16JanV3.png">
 </div>
 </td>
 </tr>

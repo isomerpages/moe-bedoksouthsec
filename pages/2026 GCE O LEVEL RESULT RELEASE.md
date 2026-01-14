@@ -19,5 +19,20 @@ receive GCE ‘O’ Level results in the School Hall.</p>
 <p>All students and parents are to be <strong>seated in the School Hall by 1:50 p.m.</strong> promptly.</p>
 <p>Thank you, and we wish you all the very best as you take your next steps
 forward.</p>
-<p>&nbsp;Warm regards,
-<br>Bedok South Secondary School</p>
+<p>Warm regards,
+<br>Bedok South Secondary School
+<br>
+<br>Important Information for Students &amp; Parents after ‘O’ Level Results
+Release:</p>
+<p><a href="https://go.gov.sg/adminslidedeckolvlpostsecappln" rel="noopener nofollow" target="_blank">1. (Admin Slide Deck) For Students &amp; Parents Reference on O Level Post Secondary Applications</a>
+<br><a href="https://go.gov.sg/2026jaeinfosheet" rel="noopener nofollow" target="_blank">2. 2026 JAE Information Sheet</a>
+<br><a href="https://go.gov.sg/olvlparentinfosheet" rel="noopener nofollow" target="_blank">3. 2025 O-Level Parent Information Sheet</a>
+<br><a href="https://go.gov.sg/selecgresourcesforstudents" rel="noopener nofollow" target="_blank">4. SEL &amp; ECG Resources For Students</a>
+<br><a href="https://go.gov.sg/bdsolvlecgcounsellingappbooking2026" rel="noopener nofollow" target="_blank">5. BDS O-Level ECG Counselling Appointment Booking 2026</a>
+<br><a href="https://go.gov.sg/itecourseadvising" rel="noopener nofollow" target="_blank">6. ITE Course Advising</a>
+<br><a href="https://go.gov.sg/2026openhouse" rel="noopener nofollow" target="_blank">7. 2026 Open House</a>
+<br>
+</p>
+<p>
+<br>
+</p>

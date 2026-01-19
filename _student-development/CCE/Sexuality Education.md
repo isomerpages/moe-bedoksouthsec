@@ -73,7 +73,7 @@ be a turbulent period for adolescents. The gap between physical and emotional/co
 maturity may result in a tendency to act on impulse, experiment with various
 activities (including sexual activities), sometimes without understanding
 the unpleasant consequences that may arise from such experimentation. The
-need for peer acceptance can be overwhelmingly strong, and hinder one’s
+need for peer acceptance can be overwhelmingly strong and hinder one’s
 ability to act responsibly. Given the pressures faced by the middle adolescent
 from within themselves and from peers, it is important to build a strong
 sense of self-worth, personal conviction and an understanding of the possible
@@ -87,24 +87,28 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
 <h4>At Bedok South Secondary School, the following lessons from Sexuality Education will be taught in 2026:</h4>
-<p><a href="https://go.gov.sg/bdssexualitylessons2026" rel="noopener nofollow" target="_blank">Sexuality Education Lessons in CCE 2026</a>
+<p><a href="https://go.gov.sg/bdssexualityeducationlessonscce2026" rel="noopener nofollow" target="_blank">Sexuality Education Lessons in CCE 2026</a>
 </p>
-<h3>eTeens Programme:</h3>
+<h3><em>eTeens</em> Programme:</h3>
 <ol start="8">
 <li>
 <p><em>eTeens</em> is a programme developed by Health Promotion Board, in
 collaboration with the Ministry of Education, to provide Secondary 3 students
 with accurate information on STIs, HIV and protection from a health perspective.
-eTeens is conducted in two segments – a mass talk segment and a classroom-based
-programme.</p>
+With the formation of the Communicable Diseases Agency (CDA) on 1 April
+2025, the programme would now be managed by CDA’s Training and Education
+Division instead of HPB. <em>eTeens</em> is conducted in two segments – a
+mass talk segment and a classroom-based programme. The desired outcome
+of the <em>eTeens</em> programme is that students are empowered to make wise,
+informed and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
 </li>
 <li>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
-family. Abstinence and upholding family values are the key messages. The
-desired outcome of the <em>eTeens</em> programme is that students are empowered
-to make wise, informed and sensible decisions.</p>
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
 <h4>At Bedok South Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</h4>
@@ -123,25 +127,32 @@ to make wise, informed and sensible decisions.</p>
 <p>Programme Learning Objectives</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time Period</p>
+<p>Time Period
+<br>(e.g. Term 3 Week 9)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pre-recorded video</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Raise awareness and provide knowledge on:
 <br>(a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
 to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).
-<br>(b) Managing relationships and risky situations in a healthy way.
+and consistent condom use), consequences and impact
+<br>
+</p>
+<p>(b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say 'no' to peer pressure)
+<br>
+<br>(c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2
-<br>Week 7</p>
+<br>Week 4</p>
 </td>
 </tr>
 <tr>
@@ -154,33 +165,11 @@ of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>Term 2 Week 9</p>
+<br>Term 2 Week 6</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>INFORMATION FOR PARENTS</h3>
-<ol start="10">
-<li>
-<p>Parents may opt their children out of the <strong>Sexuality Education lessons</strong>, <em>eTeens</em> and/or
-supplementary sexuality education programmes by MOE-approved external providers.</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="https://go.gov.sg/optoutformannexa" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 05/02/2025.</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong><em>eTeens</em></strong>  <strong>programme</strong> need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="https://go.gov.sg/optoutformannexb" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 05/02/2025.</p>
-</li>
-<li>
-<p>Parents can contact the school at 6441 4479 for discussion with your child's
-Form Teachers or Mrs Elizabeth Ng, Subject Head Character Development to
-seek clarification about the school's Sexuality Education Programme.</p>
-</li>
-</ol>
+<p></p>
+<p></p>
 <p></p>

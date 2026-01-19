@@ -87,8 +87,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
 <h4>At Bedok South Secondary School, the following lessons from Sexuality Education will be taught in 2026:</h4>
-<p></p>
-<p><a href="https://go.gov.sg/bdssedschedule2025" rel="noopener nofollow" target="_blank">Sexuality Education Lessons in CCE 2025</a>
+<p><a href="https://go.gov.sg/bdssexualitylessons2026" rel="noopener nofollow" target="_blank">Sexuality Education Lessons in CCE 2026</a>
 </p>
 <h3>eTeens Programme:</h3>
 <ol start="8">

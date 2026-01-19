@@ -166,28 +166,9 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
-<h3>INFORMATION FOR PARENTS</h3>
 <ol start="10">
 <li>
-<p>Parents may opt their children out of the <strong>Sexuality Education lessons</strong>, <em>eTeens</em> and/or
-supplementary sexuality education programmes by MOE-approved external providers.</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="https://go.gov.sg/optoutformannexa" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 05/02/2025.</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong><em>eTeens</em></strong>  <strong>programme</strong> need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="https://go.gov.sg/optoutformannexb" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 05/02/2025.</p>
-</li>
-<li>
-<p>Parents can contact the school at 6441 4479 for discussion with your child's
-Form Teachers or Mrs Elizabeth Ng, Subject Head Character Development to
-seek clarification about the school's Sexuality Education Programme.</p>
+<p></p>
 </li>
 </ol>
 <p></p>

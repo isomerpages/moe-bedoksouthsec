@@ -46,7 +46,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h3>OVERVIEW OF BEDOK SOUTH SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h3>
+<h3>OVERVIEW OF BEDOK SOUTH SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</h3>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -86,7 +86,7 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<h4>At Bedok South Secondary School, the following lessons from Sexuality Education will be taught in 2025:</h4>
+<h4>At Bedok South Secondary School, the following lessons from Sexuality Education will be taught in 2026:</h4>
 <p></p>
 <p><a href="https://go.gov.sg/bdssedschedule2025" rel="noopener nofollow" target="_blank">Sexuality Education Lessons in CCE 2025</a>
 </p>
@@ -108,7 +108,7 @@ desired outcome of the <em>eTeens</em> programme is that students are empowered
 to make wise, informed and sensible decisions.</p>
 </li>
 </ol>
-<h4>At Bedok South Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</h4>
+<h4>At Bedok South Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

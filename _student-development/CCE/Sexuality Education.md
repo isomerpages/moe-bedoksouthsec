@@ -89,7 +89,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <h4>At Bedok South Secondary School, the following lessons from Sexuality Education will be taught in 2026:</h4>
 <p><a href="https://go.gov.sg/bdssexualityeducationlessonscce2026" rel="noopener nofollow" target="_blank">Sexuality Education Lessons in CCE 2026</a>
 </p>
-<h3>eTeens Programme:</h3>
+<h3><em>eTeens</em> Programme:</h3>
 <ol start="8">
 <li>
 <p><em>eTeens</em> is a programme developed by Health Promotion Board, in

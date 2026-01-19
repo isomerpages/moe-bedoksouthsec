@@ -127,7 +127,8 @@ Abstinence and upholding family values are the key messages.</p>
 <p>Programme Learning Objectives</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time Period</p>
+<p>Time Period
+<br>(e.g. Term 3 Week 9)</p>
 </th>
 </tr>
 <tr>
@@ -138,9 +139,12 @@ Abstinence and upholding family values are the key messages.</p>
 <p>- Raise awareness and provide knowledge on:
 <br>(a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
 to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use), consequences and impact</p>
+and consistent condom use), consequences and impact
+<br>
+</p>
 <p>(b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
 negotiation to say 'no' to peer pressure)
+<br>
 <br>(c) Managing relationships and risky situations in a healthy way, including
 avenues for help-seeking.
 <br>
@@ -166,9 +170,6 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
-<ol start="10">
-<li>
 <p></p>
-</li>
-</ol>
+<p></p>
 <p></p>

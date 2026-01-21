@@ -80,19 +80,20 @@ variant: tiptap
 <br>and external coach</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday &amp; Tuesday</p>
+<p>Monday &amp; Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00 pm – 6.00 pm
-<br>(<em>ISH</em>)</p>
+<br>(<em>ISH/Hall</em>)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Friday
+<br>(during NSG period)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm – 6.00 pm
+<p>1.30 pm – 5.00 pm
 <br>(<em>Hall</em>)</p>
 </td>
 </tr>

@@ -998,6 +998,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Qin Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>102</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>toh_qin_min@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>FAJT (English)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1007,7 +1021,7 @@ variant: tiptap
 <p>113</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mathani_hoori_vikram@moe.edu.sg</p>
+<p>mathani_hoori_vikram_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

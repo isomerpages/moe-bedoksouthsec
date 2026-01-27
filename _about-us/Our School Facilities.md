@@ -17,16 +17,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Indoor Sports Hall" src="/images/Indoor%20Sports%20Hall%201.jpg">
 </div>
 <p>
-<br>
+<br><strong>Art Room</strong>
 </p>
-<h5><strong>Eco Garden</strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Eco Garden" src="/images/Eco%20Garden.jpeg">
-</div>
-<p>
-<br>
-</p>
-<h5><strong>Art Room</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Art Room" src="/images/Art%20Room.png">
 </div>

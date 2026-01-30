@@ -189,7 +189,7 @@ variant: tiptap
 <p>Mr Mah Choong Jie Leonard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>T04</p>
+<p>104</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mah_choong_jie_leonard@moe.edu.sg</p>

@@ -987,20 +987,6 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nadia Bte Ramli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>157</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nadia_ramli@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Toh Qin Min</p>
 </td>
 <td rowspan="1" colspan="1">

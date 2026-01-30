@@ -271,7 +271,7 @@ variant: tiptap
 <p>Mr Keith Teo Cheng Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>107</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>keith_teo_cheng_han@moe.edu.sg</p>

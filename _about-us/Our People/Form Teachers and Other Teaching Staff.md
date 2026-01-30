@@ -189,7 +189,7 @@ variant: tiptap
 <p>Mr Mah Choong Jie Leonard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>T04</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mah_choong_jie_leonard@moe.edu.sg</p>
@@ -204,7 +204,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>115</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lum_wan_ling_hannah@moe.edu.sg</p>

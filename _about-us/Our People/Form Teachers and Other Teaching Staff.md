@@ -189,7 +189,7 @@ variant: tiptap
 <p>Mr Mah Choong Jie Leonard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>104</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mah_choong_jie_leonard@moe.edu.sg</p>
@@ -204,7 +204,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>115</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lum_wan_ling_hannah@moe.edu.sg</p>
@@ -271,7 +271,7 @@ variant: tiptap
 <p>Mr Keith Teo Cheng Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>107</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>keith_teo_cheng_han@moe.edu.sg</p>
@@ -632,7 +632,7 @@ variant: tiptap
 <p>Mr Ernest Sim Ke Zhang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>101</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ernest_sim_ke_zhang@moe.edu.sg</p>

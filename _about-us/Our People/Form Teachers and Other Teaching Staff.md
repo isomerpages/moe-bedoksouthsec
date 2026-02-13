@@ -663,7 +663,7 @@ variant: tiptap
 <p>105</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>song_wei_chiek_hubert@moe.edu.s</p>
+<p>song_wei_chiek_hubert@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

@@ -28,38 +28,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Results Release for GCE O-Level Examination</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home-Based Learning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home-Based Learning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home-Based Learning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>17, 18 Feb</p>
 </td>
 <td rowspan="1" colspan="1">

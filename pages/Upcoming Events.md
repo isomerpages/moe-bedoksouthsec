@@ -28,14 +28,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17, 18 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>27 Feb</p>
 </td>
 <td rowspan="1" colspan="1">

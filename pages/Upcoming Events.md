@@ -28,14 +28,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home-Based Learning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>13 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,10 +53,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>31 Mar - 2 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Home-Based Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 April</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Good Friday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speech Day</p>
 </td>
 </tr>
 <tr>

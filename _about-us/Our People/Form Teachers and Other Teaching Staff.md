@@ -708,6 +708,20 @@ variant: tiptap
 <p>yeo_zi_han@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Leow Choon New</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>_</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>leow_choon_new_a@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Sec 4 and 5</h3>

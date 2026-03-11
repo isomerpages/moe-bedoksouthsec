@@ -79,6 +79,17 @@ Exchange Programmes every year.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Unit Recognition Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Outstanding Cadet Award</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,19 +224,19 @@ Exchange Programmes every year.</p>
 <h3>Photo Gallery</h3>
 <p>NCC Events in 2025</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRW4Dhi_WG_6bYMLJXgknQrdsGBKPL9yhBU2rE3DobQN_UJmZeqHpLUVIWqbEH3Y-9LtUMvRQoXgoP/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRW4Dhi_WG_6bYMLJXgknQrdsGBKPL9yhBU2rE3DobQN_UJmZeqHpLUVIWqbEH3Y-9LtUMvRQoXgoP/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>VIA - Appreciation to Security Guards (2024)</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1tAmCd7pd5yFFHokssf2ectZyp7fazl2pAcpBeNyMG-w/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1tAmCd7pd5yFFHokssf2ectZyp7fazl2pAcpBeNyMG-w/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Sports Carnival with NCC cadets from Bedok Green Secondary School and
 Victoria School 2024</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSX2mrArfcsl4_33LiHIIMgXC_cfYUWVpRqwQeEpxMuE8Duk0GkRKb6WBMZUOw6wxjK8ZKl0DwFU3SK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSX2mrArfcsl4_33LiHIIMgXC_cfYUWVpRqwQeEpxMuE8Duk0GkRKb6WBMZUOw6wxjK8ZKl0DwFU3SK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Precision Drill Squard (PDS) Preliminary Competition (East Zone) 2024</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1fwR7Gvzc6LJvx_r-vdaeehl68bM1THyzReFUZAGT46mJmLWscft_StMQw2wd_X59wtgaYEU61EYP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1fwR7Gvzc6LJvx_r-vdaeehl68bM1THyzReFUZAGT46mJmLWscft_StMQw2wd_X59wtgaYEU61EYP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>

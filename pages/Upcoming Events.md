@@ -36,6 +36,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>14-22 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 1 Holidays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>23 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,6 +137,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Home-Based Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 May - Jun 28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Holidays</p>
 </td>
 </tr>
 </tbody>

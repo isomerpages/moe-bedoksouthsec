@@ -131,6 +131,62 @@ variant: tiptap
 <p>Term 2 Holidays</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Jun - 4 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 - 13 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Holidays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>To view our full calendar of events for 2026, please click <a href="/about-us/our-calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">here)</a>

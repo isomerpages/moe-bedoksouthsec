@@ -20,23 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan - 13 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1, 2026</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home-Based Learning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14-22 Mar</p>
+<p>14 - 22 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Holidays</p>

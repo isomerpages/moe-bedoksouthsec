@@ -20,23 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan - 13 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1, 2026</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home-Based Learning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14-22 Mar</p>
+<p>14 - 22 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Holidays</p>
@@ -145,6 +129,86 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Holidays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Jun - 4 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Youth Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers' Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 - 13 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Holidays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepavali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Holiday</p>
 </td>
 </tr>
 </tbody>

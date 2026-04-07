@@ -20,51 +20,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 - 22 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1 Holidays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Puasa <em>off-in-lieu</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>23 Mar - 29 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 Mar - 2 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Camp</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Home-Based Learning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Good Friday</p>
 </td>
 </tr>
 <tr>

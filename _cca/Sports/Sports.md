@@ -45,7 +45,7 @@ variant: tiptap
 <p>Badminton</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Ms Tan Wan Chin (OIC)
+<p>Mr Sean Goh Shong Heng (OIC)
 <br>Mr Lim Tuan Zheng Joseph
 <br>Ms Lum Wan Ling Hannah
 <br>Mr Roskhaider B Mohamed Saat (FAJT)

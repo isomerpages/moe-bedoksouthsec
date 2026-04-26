@@ -58,11 +58,14 @@ confident in communication and able to work in teams or independently.</p>
 <p>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Workshops and Learning Journeys for Sec 1 &amp; 2 centered on Design
-Thinking
+<p>1) Workshops and Learning Journeys for Sec 1 &amp; 2 centered on applying
+Design Thinking mindsets, learning maker skills and engaging with innovators/social
+entrepreneurs to Connect, Create, Contribute towards Planet and People-driven
+solutions
 <br>2) Makerspace activities for selected Sec 1 &amp; 2 students
 <br>3) MOE Innovation Programme (Secondary) and Tan Kah Kee Young Inventors'
 Award for selected students in Secondary 3 students</p>
+<p>4) Overseas ALP/LLP Trip for selected Sec 2 &amp; 3 students</p>
 </td>
 </tr>
 </tbody>

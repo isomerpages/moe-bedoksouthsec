@@ -400,6 +400,17 @@ variant: tiptap
 <p>sharifah_hana_h_alhaddad@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loo Ruijie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loo_ruijie@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Sec 3</h3>

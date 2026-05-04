@@ -5,14 +5,14 @@ description: ""
 third_nav_title: Direct School Admission (DSA)
 variant: tiptap
 ---
-<h1>Direct School Admissions (DSA) (2026 Secondary 1 Intake)</h1>
+<h1>Direct School Admissions (DSA) (2027 Secondary 1 Intake)</h1>
 <h3>1. Direct School Admission (DSA)</h3>
 <hr>
 <p>Direct School Admission for secondary schools (DSA-Sec) allows students
 to apply to some schools before taking the Primary School Leaving Examination
 (PSLE). Students may apply based on their talent in sports, CCAs and specific
 academic areas.</p>
-<p>For 2026, Bedok South Secondary School will offer Secondary One places
+<p>For 2027, Bedok South Secondary School will offer Secondary One places
 to aspiring students with the desire to be developed under our key distinctive
 programmes via the DSA-Sec Exercise. We are looking for students who are
 passionate about these areas and are willing to contribute to the school
@@ -59,11 +59,14 @@ confident in communication and able to work in teams or independently.</p>
 <p>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Workshops and Learning Journeys for Sec 1 &amp; 2 centered on Design
-Thinking
+<p>1) Workshops and Learning Journeys for Sec 1 &amp; 2 centered on applying
+Design Thinking mindsets, learning maker skills and engaging with innovators/
+social entrepreneurs to Connect, Create, Contribute towards Planet and
+People-driven solutions
 <br>2) Makerspace activities for selected Sec 1 &amp; 2 students
 <br>3) MOE Innovation Programme (Secondary) and Tan Kah Kee Young Inventors'
-Award for selected students in Secondary 3 students</p>
+Award for selected students in Secondary 3 students
+<br>4) Overseas ALP/LLP trip for selected Sec 2 &amp; 3 students</p>
 </td>
 </tr>
 </tbody>
@@ -117,7 +120,7 @@ zonal/ national level.</p>
 <td rowspan="1" colspan="1">
 <p>1) Immediate enrolment in one of the Uniformed Groups.
 <br>2) Experience in the following activities:
-<br>a. Expedition-based activities: hiking and cycling.
+<br>a. Expedition-based activities such as hiking and cycling.
 <br>b. Water activities such as kayaking, dragon boating, and stand-up paddling.
 <br>c. Height activities such as climbing and abseiling.
 <br>3) Courses in outdoor or adventure-based skills:
@@ -128,12 +131,12 @@ zonal/ national level.</p>
 </tr>
 </tbody>
 </table>
-<h3>3. Application Procedure (7 May 2025, 11 am – 3 June 2025, 3 pm)</h3>
+<h3>3. Application Procedure (6 May 2026, 11 am – 2 June 2026, 3 pm)</h3>
 <hr>
-<p><strong>Bedok South Secondary School: Direct School Admission to 2026 Secondary 1.</strong>
+<p><strong>Bedok South Secondary School: Direct School Admission to 2027 Secondary 1.</strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be opened from <strong><u>7 May 2025 at 11:00 am</u></strong> to <strong><u>3 June 2025 at 3:00 pm</u></strong>.</p>
+The application is free-of-charge and will be opened from <strong><u>6 May 2026 at 11:00 am</u></strong> to <strong><u>2 June 2026 at 3:00 pm</u></strong>.</p>
 <p>The Direct School Admission (DSA-Sec) talent areas for Bedok South Secondary
 School are as follows:</p>
 <p><strong>i) Innovation</strong>
@@ -177,7 +180,7 @@ assessing the potential of the applicants.</p>
 <p>Please note that <strong><u>meeting all the criteria does not guarantee</u></strong> that
 the student will be shortlisted/ given an offer.</p>
 <p>Only short-listed applicants would be invited to attend an interview by
-the Selection Panel from <strong><u>30 June to 4 September 2025.</u></strong>
+the Selection Panel from <strong><u>29 June to 28 August 2026.</u></strong>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
@@ -190,7 +193,7 @@ the area of talent.</p>
 for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please
 refer to MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
 <p></p>
-<h3>4. Selection Phase (30 June - 4 September)</h3>
+<h3>4. Selection Phase (29 June - 28 August)</h3>
 <p>Shortlisted candidates will be contacted and notified of the dates and
 timings of the selection trials, auditions, and interviews. Fully in-person
 selection will be held at Bedok South Secondary School for all talent areas.
@@ -204,7 +207,7 @@ the interview with shortlisted candidates.</p>
 potential, experience and clarity of purpose and values. Candidates may
 submit existing video footage (of not more than 10 mins) of them in action
 during CCA training, competitions, and National School Games.</p>
-<p>All applicants will be informed of the outcome of their application by <strong><u>4 September 2025</u></strong> via
+<p>All applicants will be informed of the outcome of their application by <strong><u>28 August 2026</u></strong> via
 email or post. Successful applicants’ primary schools will follow-up on
 other actions of the DSA exercise. Results of posting will be released
 on the day of the release of the PSLE results.</p>
@@ -222,13 +225,13 @@ and achievements. This may include participation/ contribution in external
 competitions/ events, Values-in-Action programmes, other special talents,
 and contributions to school and the community, if any.</p>
 <p></p>
-<h3>6. DSA Allocation Results (November 2025)</h3>
+<h3>6. DSA Allocation Results (November 2026)</h3>
 <p>Through this exercise, successful applicants via our distinctive programmes
 will gain admission into Bedok South Secondary School for the academic
-year beginning January 2025.</p>
+year beginning January 2026.</p>
 <p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected from years 1 – 4/ 5.</strong>
 </p>
-<h3>7. The DSA-Sec timeline for 2025 is summarised as follows:</h3>
+<h3>7. The DSA-Sec timeline for 2026 is summarised as follows:</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -247,13 +250,13 @@ year beginning January 2025.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025, 11am – 3 June 2025, 3 pm</p>
+<p>6 May 2026, 11am – 2 June 2026, 3 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Application Phase</u></strong>
 </p>
 <p>Application for DSA opens – to be done online via the centralized DSA-Sec
-portal. Visit <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+portal. Visit <a href="" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 </td>
 </tr>
@@ -267,7 +270,7 @@ portal. Visit <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 June to 4 September 2025</p>
+<p>29 June to 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Selection Phase</u></strong>
@@ -280,12 +283,11 @@ portal. Visit <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_
 <p>Administration of Trials and Performance Task</p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 4 September 2025</p>
+<p>By 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants will receive a reply from the school on the outcome of
@@ -297,20 +299,20 @@ their application informing them if:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 Oct 2025, 9am - 25 Oct 2025, 3pm</p>
+<p>19 Oct 2026, 9am - 23 Oct 2026, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>School Preference Submission</u></strong>
 <br>Students who receive at least one DSA-Sec offer will receive email and
 SMS notification via <a href="Postman.gov.sg" rel="noopener nofollow" target="_blank">Postman.gov.sg</a> on
-the School Preference Submission around mid-Oct 2025. Both parents are
+the School Preference Submission around mid-Oct 2026. Both parents are
 required to login to the DSA-Sec Portal using their Singpass to submit
 up to three school preferences.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>November 2025</p>
+<p>November 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Allocation Results Release</u></strong>
@@ -396,7 +398,7 @@ up to three school preferences.</p>
 </tbody>
 </table>
 <p>For more information about the DSA Exercise, you may:</p>
-<p>o&nbsp; Visit MOE DSA-Sec website at&nbsp; <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+<p>o&nbsp; Visit MOE DSA-Sec website at&nbsp; <a href="" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>o&nbsp; Contact the following staff for further clarification:</p>
 <table style="minWidth: 75px">

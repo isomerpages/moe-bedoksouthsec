@@ -120,7 +120,7 @@ zonal/ national level.</p>
 <td rowspan="1" colspan="1">
 <p>1) Immediate enrolment in one of the Uniformed Groups.
 <br>2) Experience in the following activities:
-<br>a. Expedition-based activities: hiking and cycling.
+<br>a. Expedition-based activities such as hiking and cycling.
 <br>b. Water activities such as kayaking, dragon boating, and stand-up paddling.
 <br>c. Height activities such as climbing and abseiling.
 <br>3) Courses in outdoor or adventure-based skills:
@@ -131,12 +131,12 @@ zonal/ national level.</p>
 </tr>
 </tbody>
 </table>
-<h3>3. Application Procedure (7 May 2025, 11 am – 3 June 2025, 3 pm)</h3>
+<h3>3. Application Procedure (6 May 2026, 11 am – 2 June 2026, 3 pm)</h3>
 <hr>
-<p><strong>Bedok South Secondary School: Direct School Admission to 2026 Secondary 1.</strong>
+<p><strong>Bedok South Secondary School: Direct School Admission to 2027 Secondary 1.</strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be opened from <strong><u>7 May 2025 at 11:00 am</u></strong> to <strong><u>3 June 2025 at 3:00 pm</u></strong>.</p>
+The application is free-of-charge and will be opened from <strong><u>6 May 2026 at 11:00 am</u></strong> to <strong><u>2 June 2026 at 3:00 pm</u></strong>.</p>
 <p>The Direct School Admission (DSA-Sec) talent areas for Bedok South Secondary
 School are as follows:</p>
 <p><strong>i) Innovation</strong>
@@ -180,7 +180,7 @@ assessing the potential of the applicants.</p>
 <p>Please note that <strong><u>meeting all the criteria does not guarantee</u></strong> that
 the student will be shortlisted/ given an offer.</p>
 <p>Only short-listed applicants would be invited to attend an interview by
-the Selection Panel from <strong><u>30 June to 4 September 2025.</u></strong>
+the Selection Panel from <strong><u>29 June to 28 August 2026.</u></strong>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
@@ -193,7 +193,7 @@ the area of talent.</p>
 for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please
 refer to MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
 <p></p>
-<h3>4. Selection Phase (30 June - 4 September)</h3>
+<h3>4. Selection Phase (29 June - 28 August)</h3>
 <p>Shortlisted candidates will be contacted and notified of the dates and
 timings of the selection trials, auditions, and interviews. Fully in-person
 selection will be held at Bedok South Secondary School for all talent areas.
@@ -207,7 +207,7 @@ the interview with shortlisted candidates.</p>
 potential, experience and clarity of purpose and values. Candidates may
 submit existing video footage (of not more than 10 mins) of them in action
 during CCA training, competitions, and National School Games.</p>
-<p>All applicants will be informed of the outcome of their application by <strong><u>4 September 2025</u></strong> via
+<p>All applicants will be informed of the outcome of their application by <strong><u>28 August 2026</u></strong> via
 email or post. Successful applicants’ primary schools will follow-up on
 other actions of the DSA exercise. Results of posting will be released
 on the day of the release of the PSLE results.</p>
@@ -225,7 +225,7 @@ and achievements. This may include participation/ contribution in external
 competitions/ events, Values-in-Action programmes, other special talents,
 and contributions to school and the community, if any.</p>
 <p></p>
-<h3>6. DSA Allocation Results (November 2025)</h3>
+<h3>6. DSA Allocation Results (November 2026)</h3>
 <p>Through this exercise, successful applicants via our distinctive programmes
 will gain admission into Bedok South Secondary School for the academic
 year beginning January 2025.</p>

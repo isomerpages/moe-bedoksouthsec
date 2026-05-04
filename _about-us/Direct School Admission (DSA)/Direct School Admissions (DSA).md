@@ -228,10 +228,10 @@ and contributions to school and the community, if any.</p>
 <h3>6. DSA Allocation Results (November 2026)</h3>
 <p>Through this exercise, successful applicants via our distinctive programmes
 will gain admission into Bedok South Secondary School for the academic
-year beginning January 2025.</p>
+year beginning January 2026.</p>
 <p><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected from years 1 – 4/ 5.</strong>
 </p>
-<h3>7. The DSA-Sec timeline for 2025 is summarised as follows:</h3>
+<h3>7. The DSA-Sec timeline for 2026 is summarised as follows:</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -250,7 +250,7 @@ year beginning January 2025.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025, 11am – 3 June 2025, 3 pm</p>
+<p>6 May 2026, 11am – 2 June 2026, 3 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Application Phase</u></strong>
@@ -270,7 +270,7 @@ portal. Visit <a href="" rel="noopener nofollow" target="_blank">www.moe.gov.sg/
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 June to 4 September 2025</p>
+<p>29 June to 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Selection Phase</u></strong>
@@ -283,12 +283,11 @@ portal. Visit <a href="" rel="noopener nofollow" target="_blank">www.moe.gov.sg/
 <p>Administration of Trials and Performance Task</p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 4 September 2025</p>
+<p>By 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants will receive a reply from the school on the outcome of
@@ -300,20 +299,20 @@ their application informing them if:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 Oct 2025, 9am - 25 Oct 2025, 3pm</p>
+<p>19 Oct 2026, 9am - 23 Oct 2026, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>School Preference Submission</u></strong>
 <br>Students who receive at least one DSA-Sec offer will receive email and
 SMS notification via <a href="Postman.gov.sg" rel="noopener nofollow" target="_blank">Postman.gov.sg</a> on
-the School Preference Submission around mid-Oct 2025. Both parents are
+the School Preference Submission around mid-Oct 2026. Both parents are
 required to login to the DSA-Sec Portal using their Singpass to submit
 up to three school preferences.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>November 2025</p>
+<p>November 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Allocation Results Release</u></strong>

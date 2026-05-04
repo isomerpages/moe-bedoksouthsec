@@ -5,14 +5,14 @@ description: ""
 third_nav_title: Direct School Admission (DSA)
 variant: tiptap
 ---
-<h1>Direct School Admissions (DSA) (2026 Secondary 1 Intake)</h1>
+<h1>Direct School Admissions (DSA) (2027 Secondary 1 Intake)</h1>
 <h3>1. Direct School Admission (DSA)</h3>
 <hr>
 <p>Direct School Admission for secondary schools (DSA-Sec) allows students
 to apply to some schools before taking the Primary School Leaving Examination
 (PSLE). Students may apply based on their talent in sports, CCAs and specific
 academic areas.</p>
-<p>For 2026, Bedok South Secondary School will offer Secondary One places
+<p>For 2027, Bedok South Secondary School will offer Secondary One places
 to aspiring students with the desire to be developed under our key distinctive
 programmes via the DSA-Sec Exercise. We are looking for students who are
 passionate about these areas and are willing to contribute to the school
@@ -59,11 +59,14 @@ confident in communication and able to work in teams or independently.</p>
 <p>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Workshops and Learning Journeys for Sec 1 &amp; 2 centered on Design
-Thinking
+<p>1) Workshops and Learning Journeys for Sec 1 &amp; 2 centered on applying
+Design Thinking mindsets, learning maker skills and engaging with innovators/
+social entrepreneurs to Connect, Create, Contribute towards Planet and
+People-driven solutions
 <br>2) Makerspace activities for selected Sec 1 &amp; 2 students
 <br>3) MOE Innovation Programme (Secondary) and Tan Kah Kee Young Inventors'
-Award for selected students in Secondary 3 students</p>
+Award for selected students in Secondary 3 students
+<br>4) Overseas ALP/LLP trip for selected Sec 2 &amp; 3 students</p>
 </td>
 </tr>
 </tbody>
@@ -253,7 +256,7 @@ year beginning January 2025.</p>
 <p><strong><u>Application Phase</u></strong>
 </p>
 <p>Application for DSA opens – to be done online via the centralized DSA-Sec
-portal. Visit <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+portal. Visit <a href="" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 </td>
 </tr>
@@ -396,7 +399,7 @@ up to three school preferences.</p>
 </tbody>
 </table>
 <p>For more information about the DSA Exercise, you may:</p>
-<p>o&nbsp; Visit MOE DSA-Sec website at&nbsp; <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+<p>o&nbsp; Visit MOE DSA-Sec website at&nbsp; <a href="" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>o&nbsp; Contact the following staff for further clarification:</p>
 <table style="minWidth: 75px">

@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Banner_gif.gif
       key_highlights:
-        - title: 2026 GCE O-Level Result Release
-          description: January 14 2026
-          url: /gce-o-level-result-release
+        - title: Direct School Admission (2027 SECONDARY ONE INTAKE)
+          description: Check out for more details.
+          url: /about-us/admissions/
         - title: 2026 SECONDARY ONE information
           description: Check out for more details.
           url: /prospectus/information-for-sec-1-2026/

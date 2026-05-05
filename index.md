@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Direct School Admission (2027 SECONDARY ONE INTAKE)
           description: Check out for more details.
-          url: /gce-o-level-result-release
+          url: /about-us/admissions/
         - title: 2026 SECONDARY ONE information
           description: Check out for more details.
           url: /prospectus/information-for-sec-1-2026/

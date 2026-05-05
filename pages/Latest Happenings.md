@@ -4,7 +4,16 @@ permalink: /latest-happenings/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Booklist and Purchase of School Uniform &amp; Tie Secondary 2 - 4 2026</strong></h4>
+<h4><strong>Succes Stories</strong></h4>
+<p>Check out our success story of Dylan Koh Mo-Chan from the batch of 2022!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/Dylan2022.png">
+</div>
+<p>
+<br>
+<br><strong>Booklist and Purchase of School Uniform &amp; Tie Secondary 2 - 4 2026</strong>
+</p>
 <p>For booklist 2026, click <a href="https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/booklists/" rel="noopener nofollow" target="_blank">here</a>.
 <br>For purchase of school uniform and tie, click <a href="https://www.bedoksouthsec.moe.edu.sg/information-and-links/For-Students/school-uniform-and-tie/" rel="noopener nofollow" target="_blank">here.</a>
 </p>

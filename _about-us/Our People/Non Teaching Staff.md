@@ -49,6 +49,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Yee Wan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,7 +99,7 @@ variant: tiptap
 <p>Mdm Rogayah Bte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -104,13 +115,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Latizah Bte Mohammad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Puay Yi
+<br>(From 1 July 2026)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jessica Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (Science Lab)</p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +155,7 @@ variant: tiptap
 <p>Mr Tang Hai Tiew, Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (Science Lab)</p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +166,7 @@ variant: tiptap
 <p>Mr Ahmadi Bin Sajat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (D&amp;T Workshop)</p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -159,10 +193,43 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Pouzey Bun Hussin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Saridah Bte Kitang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Kok Yong Kelvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Kwee Huay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -187,7 +254,7 @@ variant: tiptap
 <p>Ms Mardhiah Binti Mustaffa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Executive (Office)</p>
+<p>Admin Executive</p>
 </td>
 </tr>
 <tr>

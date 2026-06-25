@@ -82,17 +82,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lelawati Bte Mohamad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">

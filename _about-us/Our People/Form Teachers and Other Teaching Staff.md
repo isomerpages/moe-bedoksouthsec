@@ -437,10 +437,10 @@ variant: tiptap
 <p>3 Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suchandra Ghose</p>
+<p>Mr Tan Kian Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>suchandra_ghose@moe.edu.sg</p>
+<p>tan_kian_boon_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -448,10 +448,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kian Boon</p>
+<p>Ms Lu Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_kian_boon_a@moe.edu.sg</p>
+<p>lu_yang_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -580,7 +580,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Leow Choon New</p>
+<p>Mdm Kelly Leow Choon New</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>leow_choon_new_a@moe.edu.sg</p>
@@ -742,17 +742,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>4 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Joy Chia Yong Le</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>joy_chia_yong_le@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Jiaqi, Arthur</p>

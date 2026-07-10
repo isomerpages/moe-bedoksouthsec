@@ -36,6 +36,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>21 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Racial Harmony Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>9 Aug</p>
 </td>
 <td rowspan="1" colspan="1">

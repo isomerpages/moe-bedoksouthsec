@@ -7,12 +7,9 @@ variant: tiptap
 ---
 <h1>National Cadet Corp (Land)</h1>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc11.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC2026.jpg">
 </div>
 <p>The National Cadet Corps is a CCA which nurtures responsible, resilient
 and resourceful cadets to become successful citizens. It takes a structured

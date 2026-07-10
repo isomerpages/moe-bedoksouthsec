@@ -20,22 +20,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 May - Jun 28</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Holidays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13 - 17 July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Oral Examination / Home-Based Learning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>29 Jun - 4 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -44,18 +28,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Jul</p>
+<p>13 - 17 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Youth Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Jul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Holiday</p>
+<p>National Oral Examination / Home-Based Learning</p>
 </td>
 </tr>
 <tr>

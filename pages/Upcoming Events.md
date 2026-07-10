@@ -76,6 +76,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>14 Sep - 20 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Last Day of School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>8 Nov</p>
 </td>
 <td rowspan="1" colspan="1">

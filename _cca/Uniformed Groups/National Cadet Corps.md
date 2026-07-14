@@ -79,7 +79,7 @@ Exchange Programmes every year.</p>
 <p>Outstanding Cadet Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gabriel Lai HGong An, 4-RE
+<p>Gabriel Lai Hong An, 4-RE
 <br>Lee Jie Jun, Jovan, 4-RE</p>
 </td>
 </tr>

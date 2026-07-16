@@ -12,12 +12,8 @@ variant: tiptap
 </div>
 <p>
 <br>
-<br><strong>Booklist and Purchase of School Uniform &amp; Tie Secondary 2 - 4 2026</strong>
+<br><strong>Full Subject-Based Banding (FSBB) @ Bedok South Secondary School</strong>
 </p>
-<p>For booklist 2026, click <a href="https://www.bedoksouthsec.moe.edu.sg/information-and-links/for-students/booklists/" rel="noopener nofollow" target="_blank">here</a>.
-<br>For purchase of school uniform and tie, click <a href="https://www.bedoksouthsec.moe.edu.sg/information-and-links/For-Students/school-uniform-and-tie/" rel="noopener nofollow" target="_blank">here.</a>
-</p>
-<h4><strong>Full Subject-Based Banding (FSBB) @ Bedok South Secondary School</strong></h4>
 <p>Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning
 and develop multiple pathways to cater to the different strengths and interests
 of our students.&nbsp;Click&nbsp;<a href="https://www.bedoksouthsec.moe.edu.sg/curriculum/full-subject-based-banding-fsbb/" rel="noopener noreferrer nofollow" target="_blank">here</a> to

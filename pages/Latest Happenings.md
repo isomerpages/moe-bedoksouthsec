@@ -4,7 +4,7 @@ permalink: /latest-happenings/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Succes Stories</strong></h4>
+<h4><strong>Success Stories</strong></h4>
 <p>Check out our success story of Dylan Koh Mo-Chan from the batch of 2022!</p>
 <p></p>
 <div class="isomer-image-wrapper">

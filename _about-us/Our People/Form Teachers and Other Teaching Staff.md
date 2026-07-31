@@ -763,7 +763,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Other Teaching Staffs</h3>
+<h3>Other Teaching Staff</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

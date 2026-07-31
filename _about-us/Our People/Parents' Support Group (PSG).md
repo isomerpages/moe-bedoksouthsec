@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h1>BDS Parents' Support Group (PSG)</h1>
+<h1>Parents' Support Group (PSG)</h1>
 <p>The BDS Parent Support Group (PSG) comprises like-minded parents from
 diverse backgrounds but all sharing a common goal to support and advocate
 the school’s mission, vision and values through the school’s programmes

@@ -10,7 +10,7 @@ sections:
       background: /images/Banner_gif.gif
       key_highlights:
         - title: Direct School Admission (2027 SECONDARY ONE INTAKE)
-          description: Check out for more details.
+          description: Check for more details.
           url: /about-us/admissions/
         - title: Latest Happenings
           description: Check out the latest happenings!

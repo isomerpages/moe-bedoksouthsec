@@ -189,7 +189,7 @@ variant: tiptap
 <p>Mr Jason Ng Chieh Shing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_chieh_shing_a@moe.edusg</p>
+<p>ng_chieh_shing_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

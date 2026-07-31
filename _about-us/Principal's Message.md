@@ -12,7 +12,7 @@ variant: tiptap
 vision and mission have been re-imagined and minted as:</p>
 <p><strong>Vision</strong>: Grateful, Gracious, and Growth-minded BDSians</p>
 <p><strong>Mission</strong>: As OneBDS, we believe in the potential of every
-BDSians, develop leaders of tomorrow, and serve with conviction.</p>
+BDSian, develop leaders of tomorrow, and serve with conviction.</p>
 <p>At BDS, we believe in taking a Positive Education approach to learning.
 It emphasises individual strengths, talents, and personal motivation to
 promote learning. Fundamentally, we must believe that every BDSian has

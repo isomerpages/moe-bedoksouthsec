@@ -35,7 +35,7 @@ outcomes are as follows:</p>
 that develops <strong>I</strong>nnovation and <strong>N</strong>urtures <strong>E</strong>mpathy)</p>
 <p><strong>Key Objective:</strong> To develop in our students’ <strong>life-long values, skills</strong> and <strong>competencies</strong> to
 lead themselves and others as:</p>
-<p>(i) <strong>Emphathetic, creative and critical thinkers</strong> who approach
+<p>(i) <strong>Empathetic, creative and critical thinkers</strong> who approach
 problems and issues with an <strong>innovative mindset</strong>;
 <br>(ii) <strong>Effective communicators and collaborators</strong> who are
 confident in communication and able to work in teams or independently.</p>

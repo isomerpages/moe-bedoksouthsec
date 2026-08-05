@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
-<h4><strong>Purchase of Books, Stationeries / OneBDS shirt / PE Attire and Booklist for 2026 (Sec 2 - 4)</strong></h4>
+<h4><strong>Purchase of Books, Stationery / OneBDS shirt / PE Attire and Booklist for 2026 (Sec 2 - 4)</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>All booklists are available on the school website. Refer to the booklists
